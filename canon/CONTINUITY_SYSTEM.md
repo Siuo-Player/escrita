@@ -75,6 +75,20 @@ Depois de construir um episódio futuro:
 
 A ideia é semelhante à backpropagation de IA apenas como metáfora operacional: o resultado futuro ajuda-nos a ajustar decisões anteriores, mas não altera acontecimentos passados dentro da história.
 
+## 6A. Causalidade imediata
+
+Um estado narrativo novo deve possuir uma explicação temporalmente suficiente.
+
+Exemplo: uma doença comum deve ter exposição, contágio ou outra causa compatível antes dos primeiros sintomas, salvo salto temporal que cubra o intervalo plausível de incubação.
+
+Não usar pequenos eventos anteriores como falsas causas apenas para justificar algo que já estava decidido.
+
+O mesmo vale para objetos perdidos, descobertas, mudanças de hábito e gravidez: quando forem relevantes, a cronologia deve permitir reconstruir quando a causa ocorreu.
+
+Para acontecimentos críticos manteremos:
+
+CAUSA → INTERVALO PLAUSÍVEL → PRIMEIRO SINAL → CONFIRMAÇÃO → CONSEQUÊNCIA.
+
 ## 7. Teste de continuidade
 
 ### Tempo
