@@ -5,17 +5,17 @@ Este documento será respondido gradualmente. Uma resposta desbloqueia perguntas
 ## Bloco A — protagonista
 
 ### A1. Parentesco
-**Hipótese atual:** filho biológico de Phil e Claire, colocado entre Haley e Alex.
+**Decisão:** não pertence à família Dunphy. É introduzido como colega, conhecido, vizinho e/ou amigo.
 
-Estado: a confirmar.
+Estado: DECIDIDO.
 
 ### A2. Sexo e género
-**Hipótese atual:** rapaz.
+**Decisão:** rapaz.
 
-Estado: a confirmar.
+Estado: DECIDIDO.
 
 ### A3. Data de nascimento
-Ainda não fixar. Primeiro precisamos da idade e do ano escolar no Pilot.
+**Decisão:** 13 anos no início da história. A data de nascimento será calculada a partir da cronologia escolar e de outros factos.
 
 ### A4. Nome
 Ainda não fixar. O nome deve funcionar dentro da família Dunphy sem parecer escolhido apenas para a fanfic.
@@ -35,38 +35,31 @@ Ainda falta separar falhas centrais, inseguranças e simples preferências.
 ## Bloco B — relação com o canon
 
 ### B1. Quando começa a divergência?
-Hipótese atual: no nascimento do protagonista, porque ele já existe antes do Pilot.
+**Decisão:** o protagonista existe no mundo desde o nascimento, mas a história começa quando ele entra no contexto em que descobre que Modern Family é real.
 
 ### B2. O protagonista sabe que é uma personagem de uma série?
 Não dentro do mundo. Ele vive a realidade como realidade.
 
 ### B3. Como surgem as memórias?
-Ainda por decidir.
+**Decisão:** nasce já neste mundo com memória completa da série.
 
-Opções:
-- nasce com as memórias do programa;
-- as memórias aparecem ou tornam-se acessíveis mais tarde;
-- outro mecanismo coerente a definir.
+A reencarnação deixou poucas memórias pessoais utilizáveis da vida anterior, mas as memórias de Modern Family são completas.
 
 ### B4. O que significa memória perfeita?
-Precisamos definir se ele:
-- lembra diálogos literalmente;
-- lembra nomes e datas;
-- lembra episódios por ordem;
-- reconhece pessoas secundárias imediatamente;
-- distingue o que foi mostrado pela câmara do que apenas pode inferir.
+**Decisão de trabalho:** recorda acontecimentos, personagens, relações, diálogos e detalhes da série que efetivamente viu. Ainda vamos definir o grau de literalidade da memória e os limites de atenção humana.
+
+Ele não ganha automaticamente conhecimento sobre o que nunca foi mostrado, nem sobre pensamentos de personagens.
 
 ## Bloco C — objetivo da história
 
-### C1. O protagonista quer mudar o futuro?
-Ainda não assumimos.
+### C1. O que o protagonista quer?
+**Decisão atual:** três motores coexistem desde cedo:
 
-Possibilidades:
-- inicialmente quer apenas ter uma vida normal;
-- quer proteger pessoas próximas;
-- quer evitar erros que conhece;
-- quer aproveitar o conhecimento para melhorar a sua vida;
-- começa sem objetivo extraordinário.
+1. aproximar-se de Alex e explorar a possibilidade de romance;
+2. participar da comédia e das situações que conhece da série;
+3. ajudar pessoas que considera vulneráveis ou prestes a tomar decisões ruins.
+
+Ele não começa com uma missão formal de salvar o futuro.
 
 ### C2. Ele conta a alguém que sabe o futuro?
 Ainda não. Esta decisão afeta fortemente a tensão e deve ser tomada depois da personalidade.
@@ -82,13 +75,17 @@ Hipótese: nenhuma alteração gigantesca sem um gatilho proporcional.
 ### D3. Personagens originais
 Podem surgir através de relações normais: escola, vizinhança, trabalho, atividades e outros contextos do mundo.
 
-## Perguntas prioritárias
+O protagonista é a principal personagem original inicial.
 
-1. Confirmar o parentesco.
-2. Definir idade aproximada no Pilot.
-3. Só depois escolher a data de nascimento.
-4. Definir o mecanismo das memórias.
-5. Escolher 2 ou 3 falhas centrais.
-6. Definir o objetivo inicial do protagonista.
+## Perguntas prioritárias restantes
 
-**Regra:** não avançar para grandes arcos antes destas decisões estarem suficientemente estáveis.
+1. Data de nascimento exata.
+2. Nome.
+3. Estrutura concreta da família e residência do protagonista.
+4. Escola e circunstância do primeiro contacto.
+5. Limites exatos da memória da série.
+6. Quando ele percebe que está no mundo de Modern Family.
+7. Quando e como o interesse romântico com Alex começa a ser recíproco.
+8. Horizonte final e duração total.
+
+**Nota:** as grandes fases globais já podem ser planeadas com estas decisões ainda abertas.
