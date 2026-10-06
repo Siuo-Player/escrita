@@ -1,203 +1,341 @@
 # Esqueleto global da trama
 
-> **Estado: WORKING. Não é canon.**
+> **Estado: WORKING. Esta é uma direção de teste, não um plano fechado.**
 
-Este ficheiro descreve o caminho macro que estamos a testar. A história episódica será construída depois sobre estes nós.
+## Mudança estrutural
 
-## Premissa
+A história **não começa no Pilot**.
 
-Um rapaz de 13 anos, reencarnado e nascido neste mundo com memórias completas de Modern Family, descobre ao entrar na escola que a série que conhece é a realidade onde vive.
+Começa alguns dias ou semanas antes, quando o protagonista se muda com a família para a zona de Los Angeles e entra como aluno transferido numa nova escola. O Pilot torna-se apenas um acontecimento importante que ocorre dentro da primeira fase da nossa própria história.
 
-Ele não pertence à família. É um colega/conhecido/vizinho que gradualmente se aproxima de Alex, Haley e outros membros da família.
+Isso permite que o protagonista já tenha pequenas relações e observações antes de as tramas televisivas começarem a ocupar espaço.
 
-Ele quer simultaneamente:
+## Escala temporal
 
-1. aproximar-se romanticamente de Alex;
-2. viver e desfrutar das situações cómicas que conhece;
-3. ajudar pessoas que conhece através da série quando percebe que pode fazer diferença.
+Cada temporada da fanfic corresponde a **um ano de vida do protagonista**, contado de aniversário a aniversário.
 
-## Fase 0 — Vida antes da descoberta
+Modelo pretendido:
 
-Função: estabelecer o protagonista sem transformar esta parte numa longa exposição.
+`T01 = 13 → 14`
+`T02 = 14 → 15`
+`T03 = 15 → 16`
+`...`
+
+Esta divisão não coincide necessariamente com nenhuma temporada de Modern Family.
+
+Cada ano contém, sempre que compatível com a cronologia:
+
+- Halloween;
+- Thanksgiving;
+- Christmas;
+- New Year;
+- Valentine's Day;
+- Easter ou outro marcador de primavera;
+- Fourth of July;
+- férias de verão;
+- aniversários relevantes.
+
+O calendário diegético será controlado por `canon/CANON_DATE_LEDGER.md`.
+
+## Ambiente de arranque
+
+A hipótese mais forte neste momento é:
+
+- família do protagonista muda-se para a região de Los Angeles por uma razão familiar/profissional normal;
+- protagonista tem 13 anos;
+- mudança e aniversário coincidem;
+- transferência ocorre depois do primeiro dia de instrução, mas ainda no início do ano escolar;
+- ele não perde amizades importantes porque a sua vida social anterior é limitada e os contactos relevantes são poucos;
+- ele era conhecido na escola anterior por ser excelente aluno e capitão da equipa de soccer/futebol;
+- no novo contexto é apenas mais um aluno transferido.
+
+A razão concreta da mudança ainda será decidida.
+
+## Entrada no mundo
+
+O reconhecimento de Modern Family deve acontecer através de evidência crescente.
+
+Possíveis níveis:
+
+1. nome da escola ou local parece familiar;
+2. algum nome de família chama atenção;
+3. detalhe do bairro/casa parece familiar;
+4. ele vê uma pessoa que reconhece da série;
+5. uma combinação de detalhes torna a conclusão praticamente inevitável.
+
+Não precisamos de revelar tudo num único momento.
+
+## Primeiro contacto
+
+Depois de entrar na escola, ele está distraído entre aulas e pensa em:
+
+- horários;
+- adaptação;
+- voltar a treinar;
+- procurar a equipa/club de soccer;
+- plano académico;
+- o estranho sentimento de já conhecer aquele lugar.
+
+Ao sair de uma sala pode esbarrar em alguém ou reparar à distância numa pessoa que reconhece.
+
+A primeira aproximação com Alex deve ser natural. Haley pode surgir logo ou pouco depois, mas o protagonista não precisa de falar com ela imediatamente.
+
+## Situação escolar de Alex
+
+Alex está na middle school e conclui o 8.º ano em 2011. A cronologia exata entre 2009 e 2011 tem alguma ambiguidade no canon; até a fecharmos, o plano deve permitir que o protagonista frequente a mesma escola sem assumir que ambos têm necessariamente todas as aulas em comum.
+
+Uma hipótese particularmente útil é que o protagonista esteja um ano letivo à frente de Alex mas partilhe pelo menos uma atividade, disciplina avançada ou espaço social.
+
+Isso preserva plausibilidade e ainda permite contacto recorrente.
+
+## Fase 0 — antes do reconhecimento
+
+Objetivo: mostrar quem o protagonista é sem transformar o prólogo numa biografia.
 
 Elementos:
 - reencarnação;
-- memórias incompletas da vida anterior;
-- memórias completas de Modern Family;
-- consciência acima da média para a idade;
-- plano de estudo e desenvolvimento pessoal;
-- perfeccionismo;
-- falhas sociais já presentes.
+- memória pessoal anterior limitada;
+- memória completa de Modern Family;
+- maturidade aparente;
+- inteligência e disciplina;
+- plano pessoal de estudo e desenvolvimento;
+- futebol/soccer como competência concreta;
+- timidez, overthinking e baixa iniciativa social.
 
-**Ponto de saída:** ele entra no contexto escolar que coloca a família Dunphy no seu caminho.
+## Fase 1 — descoberta e aproximação
 
-## Fase 1 — Descoberta
+Ele percebe que está no mundo da série.
 
-Ele percebe que está no mundo de Modern Family.
+Mas inicialmente reage como alguém que encontrou um lugar conhecido, não como alguém que recebeu uma missão.
 
-Primeiras reações:
-- Alex parece demasiado estranha de abordar por ser mais nova;
-- Haley parece intimidante por ser mais velha, bonita e popular;
-- ele evita ambas;
-- o acaso força uma interação.
+Objetivos paralelos:
+- confirmar se aquilo é realmente o mundo que conhece;
+- aproximar-se de Alex;
+- conhecer outras personagens naturalmente;
+- experimentar participar de situações engraçadas;
+- observar o quanto o mundo real coincide com as memórias.
 
-Objetivo narrativo: transformar personagens conhecidas à distância em pessoas reais.
+### K1 — primeira relação real
+O protagonista deixa de ser observador e passa a fazer parte da vida de uma personagem.
 
-### Primeiro acontecimento-chave
-**K1 — primeiro contacto significativo com a família.**
+## Fase 2 — participação
 
-Consequência: o protagonista deixa de ser apenas espectador e passa a ter presença dentro do mundo.
+Ele começa a aparecer regularmente nas tramas, mas sem substituir personagens canónicas.
 
-## Fase 2 — Aproximação e participação
+As primeiras diferenças vêm principalmente de conversas e pequenas decisões.
 
-Ele começa a aparecer naturalmente nas vidas das personagens.
+Exemplo geral:
 
-Storylines recorrentes:
-- amizade com Alex;
-- situações cómicas causadas pelo contraste entre saber demasiado e ter de agir normalmente;
-- pequenas ajudas a membros da família;
-- primeiras oportunidades românticas e sociais;
-- outras pessoas por quem Alex ou o protagonista podem interessar-se.
+`ele diz algo → alguém muda de opinião → uma pessoa deixa de falar com outra → um acontecimento posterior ocorre de maneira ligeiramente diferente`.
 
-Regra: as primeiras intervenções devem ser pequenas.
+Não devemos saltar diretamente de uma intervenção para uma grande alteração.
 
-### K2 — primeira intervenção deliberada
-Ele usa conhecimento da série para ajudar alguém.
+### K2 — primeira intervenção
+Ele usa uma memória da série para ajudar alguém.
 
-Pode funcionar.
-Pode também produzir uma pequena consequência inesperada.
+## Fase 3 — divergência pequena mas visível
 
-## Fase 3 — A história começa a divergir
+Uma situação conhecida acontece de forma diferente.
 
-Depois de várias interações, um acontecimento que o protagonista conhecia começa a acontecer de maneira diferente.
+Ele ainda consegue pensar:
+
+`sei aproximadamente o que devia acontecer`.
+
+Mas começa a observar:
+
+`isto não aconteceu exactamente assim`.
 
 ### K3 — primeira divergência verificável
 
-Este é um ponto fundamental da história.
+Este ponto marca a passagem de espectador informado para participante de uma história própria.
 
-Ele ainda consegue aproveitar conhecimento do canon, mas já não pode tratá-lo como roteiro.
+## Fase 4 — crescimento de confiança
 
-Surge uma nova pergunta:
+O sucesso das primeiras interações produz uma melhoria real.
 
-**Até que ponto o futuro que ele recorda continua a existir?**
+Ele:
+- fala mais;
+- participa mais;
+- arrisca pequenas intervenções;
+- aproxima-se de Alex;
+- deixa de procurar desculpas tão frequentemente.
 
-## Fase 4 — Midpoint: perda da certeza
+Esta fase deve ser agradável e recompensadora antes de ficar difícil.
 
-Uma intervenção maior ou uma cadeia de pequenas intervenções produz uma consequência relevante.
+## Fase 5 — múltiplas divergências acumuladas
 
-### K4 — evento que prova que uma previsão importante falhou
+A existência do protagonista começa a alterar pequenas cadeias de causalidade.
 
-O protagonista percebe que não está apenas a assistir a uma variante da série. Está a criar uma história nova.
+Não necessariamente por ele querer mudar o canon.
 
-Este é o verdadeiro ponto de viragem epistemológico.
+Às vezes basta:
 
-Consequência emocional:
-- começa a confiar menos na memória como garantia;
-- confia mais nas pessoas que conhece agora;
-- mas pode também reagir tentando controlar ainda mais as situações.
+`A não fala com B`
+`B não encontra C`
+`C toma outra decisão`
+`D nunca recebe determinada informação`
 
-## Fase 5 — Custo de tentar ajudar
+e uma trama futura nasce de uma diferença minúscula.
 
-O protagonista começa a interferir em problemas maiores.
+### K4 — cadeia de segunda ordem
 
-Possíveis linhas:
-- uma decisão evitada cria outro problema;
-- alguém percebe que os seus conselhos são estranhamente específicos;
-- Alex começa a notar que existe alguma coisa diferente nele;
-- o relacionamento pode sofrer com a tendência dele para planear e evitar conflitos;
-- ele pode começar a tratar as pessoas como problemas que consegue resolver.
+Uma decisão ou acaso inicialmente pequeno produz uma consequência vários episódios depois.
 
-### K5 — consequência de segunda ordem
+## Fase 6 — midpoint maior
 
-Uma intervenção feita com boa intenção causa um problema que ele não previu.
+O midpoint não é uma única estrutura obrigatória. Haverá vários pontos de viragem importantes ao longo da história.
 
-É importante que isto não seja uma punição arbitrária. A consequência deve resultar da informação incompleta e das decisões concretas do protagonista.
+Um deles será uma divergência suficientemente grande para mostrar que um acontecimento que o protagonista conhecia deixou de ser garantido.
 
-## Fase 6 — Ruptura / crise
+Um candidato temático é uma situação relacionada com Haley e Dylan: não precisamos de copiar o romance original, mas uma mudança ligeira na relação pode impedir uma conversa, decisão ou intervenção que o protagonista esperava.
 
-O conflito deixa de ser apenas:
+Um efeito posterior, por exemplo um conselho ou discurso que deixa de acontecer da mesma maneira, pode evitar um problema ou criar outro. O valor narrativo está na cadeia causal, não na cópia do acontecimento.
 
-`como conseguir o que quero?`
+### K5 — perda de uma previsão importante
 
-e passa a ser:
+O protagonista percebe que memória e realidade já não são equivalentes.
 
-`que tipo de pessoa quero ser neste mundo?`
+## Fase 7 — confiança excessiva
 
-### K6 — perda ou crise de confiança
+Em vez de se tornar controlador extremo, ele simplesmente passa a confiar mais nas próprias leituras.
 
-Alex ou outra pessoa importante percebe uma inconsistência, uma mentira, uma interferência ou simplesmente conclui que o protagonista está a agir de forma controladora.
+Como as primeiras mudanças correram bem, ele começa a acreditar que compreende suficientemente bem as pessoas para antecipar consequências.
 
-O protagonista precisa de escolher entre:
+Isso é diferente de manipulação deliberada.
 
-- continuar a manipular acontecimentos;
-- contar uma verdade parcial ou total;
-- aceitar não conseguir salvar toda a gente;
-- respeitar a autonomia das pessoas.
+O problema é mais subtil:
 
-## Fase 7 — Escolha
+`eu consigo lidar com isto`.
 
-### K7 — decisão central
+## Fase 8 — quebra de previsibilidade
 
-O protagonista deixa de tentar reconstruir Modern Family.
+Várias mudanças anteriores, algumas criadas por ele e outras por decisões independentes das personagens, fazem com que mais acontecimentos previstos deixem de ocorrer.
 
-Em vez disso, aceita que está a viver com pessoas reais e que o futuro deve ser construído com elas.
+### K6 — falha em cascata
 
-Isto não significa abandonar o conhecimento que possui. Significa mudar a forma como o usa.
+Uma decisão futura não pode ser alcançada porque vários pré-requisitos já foram alterados.
 
-Conhecimento passa de:
+O protagonista sofre um baque porque percebe que perdeu a ferramenta que lhe dava confiança.
+
+Não queremos depressão prolongada nem sofrimento gratuito. O foco é desorientação, prudência e crescimento.
+
+## Fase 9 — reorientação
+
+Alex pode ajudá-lo, afastar-se por algum tempo ou simplesmente continuar a ser uma presença importante; isto dependerá de eventos concretos e não será decidido antecipadamente como sofrimento obrigatório.
+
+O protagonista começa a abandonar a necessidade de agir para um grande resultado futuro.
+
+Passa a:
+- ajudar porque a pessoa precisa agora;
+- conversar porque quer conversar;
+- participar porque quer participar;
+- fazer escolhas locais sem tentar optimizar anos futuros.
+
+## Fase 10 — nova relação com o conhecimento
+
+O conhecimento da série passa de:
+
 `roteiro`
+
 para:
-`contexto`.
 
-## Fase 8 — Clímax
+`contexto privilegiado e incompleto`.
 
-Um acontecimento grande, preparado por vários episódios, força o protagonista a agir sem poder confiar numa previsão exata.
+Ele continua a lembrar gostos, hábitos, padrões e eventos da série, mas cada previsão futura recebe confiança adequada.
 
-### K8 — ação sem garantia
+## Fase 11 — vida construída no novo mundo
 
-Ele escolhe uma ação porque acredita nela, não porque sabe que a série original faria aquilo.
+A divergência deixa de ser o assunto principal de cada episódio.
 
-Este deve ser o equivalente narrativo à resolução das falhas centrais:
-- menos medo de incomodar;
-- menos fuga a conflito;
-- mais iniciativa;
-- ainda consciente do próprio perfeccionismo, mas capaz de tolerar erro.
+A história passa a mostrar que as personagens cresceram numa realidade própria.
 
-## Fase 9 — Novo mundo
+Novos objetivos tornam-se importantes:
+- escola e carreira;
+- amizades;
+- relações;
+- escolhas familiares;
+- casas e mudanças;
+- projetos pessoais.
 
-O final deve ser completamente diferente do final de Modern Family.
+## Fase 12 — clímax
 
-Não queremos simplesmente impedir os acontecimentos finais da série e copiar o seu efeito emocional.
+O clímax deverá exigir uma decisão importante sem permitir uma previsão segura.
 
-Queremos chegar a um novo estado que só poderia existir porque:
+O protagonista age porque acredita que é a decisão certa naquele momento.
 
-- o protagonista conheceu estas pessoas;
-- elas o conheceram;
-- houve divergências acumuladas;
-- relações mudaram;
-- decisões diferentes produziram novas consequências.
+Não porque viu a resposta num episódio.
 
-### K9 — novo futuro
+## Fase 13 — final
 
-O mundo já não pode ser reduzido a uma previsão da série.
+Destino atual desejado:
 
-### K10 — resolução
+- protagonista conclui a formação relevante para a sua vida;
+- encontra trabalho;
+- ele e Alex constroem uma relação duradoura;
+- formam uma família;
+- vivem numa casa construída ao lado/na proximidade da família;
+- o episódio final mostra os principais núcleos num estado satisfatório e coerente;
+- a última revelação é Alex grávida do primeiro filho do casal.
 
-O protagonista e Alex, independentemente de terminarem juntos ou não, devem chegar a um ponto que represente claramente a mudança construída ao longo da história.
+Esta é uma **imagem de destino**, não uma cadeia de eventos já decidida.
 
-O romance não deve ser apenas recompensa. Deve também mostrar a evolução dos dois.
+O caminho até ela será construído depois.
 
-## O que ainda não definimos
+## Regra dos finais dos anos
 
-- data exata do primeiro episódio;
-- circunstância concreta do primeiro contacto;
-- motivo pelo qual o protagonista se muda/entra naquela escola;
-- natureza da família/vizinhança do protagonista;
-- primeiro acontecimento em que interfere;
-- mecanismo exato de degradação das previsões;
-- qual será a grande crise;
-- se termina antes, durante ou depois do período da Season 11;
-- estado final da relação com Alex;
-- final completo.
+Como cada temporada é um ano, o final anual deve produzir alguma sensação de passagem:
 
-Esses pontos serão definidos quando tivermos uma estrutura suficiente para garantir que cada escolha serve o arco global.
+- mudança de escola;
+- aniversário;
+- relação iniciada ou terminada;
+- decisão académica;
+- viagem;
+- nova responsabilidade;
+- conquista;
+- perda menor;
+- promessa para o ano seguinte.
+
+Não é necessário que todos sejam grandes cliffhangers.
+
+## Regra das festividades
+
+Cada ano deve conter um episódio ou bloco narrativo centrado em eventos sazonais quando houver espaço:
+
+```
+Halloween
+Thanksgiving
+Christmas
+New Year
+Valentine's Day
+Easter / spring event
+Fourth of July
+summer vacation
+birthday(s)
+```
+
+Estas datas não são apenas decoração. Servem para:
+
+- medir passagem do tempo;
+- mudar combinações de personagens;
+- criar episódios de ensemble;
+- introduzir costumes locais;
+- plantar objetos e decisões que voltam mais tarde.
+
+## Regra dos episódios sem grande avanço
+
+Um episódio pode ter pequeno avanço na trama principal.
+
+Nesse caso, deve cumprir pelo menos uma função duradoura:
+
+- desenvolvimento de personagem;
+- relação;
+- informação contextual;
+- estabelecimento de hábito;
+- objeto futuro;
+- pista;
+- preparação de evento;
+- callback;
+- consequência de algo anterior;
+- falsa pista legítima.
+
+Depois do planeamento global, o backpropagation será usado para reforçar esses episódios.
