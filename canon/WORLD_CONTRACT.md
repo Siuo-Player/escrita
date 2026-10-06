@@ -2,7 +2,7 @@
 
 ## Estado
 
-**WORKING — sujeito a confirmação.**
+**WORKING — mundo-base estável; detalhes do protagonista ainda em construção.**
 
 ## Universo-base
 
@@ -16,13 +16,11 @@ A série original não é uma profecia dentro do mundo. É o conhecimento extrao
 
 Hipótese atual:
 
-Existe uma personagem original masculina, filho biológico de Phil e Claire, colocada entre Haley e Alex na ordem de nascimento.
+Existe uma personagem original masculina que **não pertence à família Dunphy**. Ele tem 13 anos no início da história e conhece as irmãs Dunphy por contexto social normal: escola, vizinhança e/ou amizades.
 
-A ordem de trabalho fica:
+A relação com Alex pode tornar-se romântica gradualmente, mas começa por proximidade social e interesse do protagonista.
 
-Haley → protagonista → Alex → Luke
-
-Isto ainda é uma hipótese de trabalho até fixarmos idade, data de nascimento e condições familiares.
+A ideia anterior de o colocar como filho de Phil e Claire foi descartada.
 
 ## Efeito de borboleta
 
@@ -38,8 +36,11 @@ Só depois desse processo o estado alternativo diverge do canon.
 
 O protagonista:
 
-- viu Modern Family;
-- tem memória perfeita do que viu;
+- reencarnou neste mundo;
+- nasceu já com as memórias completas de Modern Family;
+- não conserva muitas memórias da vida anterior;
+- tem 13 anos no início da história;
+- viu Modern Family antes da reencarnação e consegue recordar o conteúdo da série com precisão;
 - conhece o conteúdo dos episódios até ao ponto em que a série o mostrou;
 - não possui conhecimento externo mágico;
 - não sabe automaticamente o que aconteceu fora de cenas exibidas;
