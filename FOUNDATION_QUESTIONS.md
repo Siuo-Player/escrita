@@ -15,7 +15,11 @@ Estado: DECIDIDO.
 Estado: DECIDIDO.
 
 ### A3. Data de nascimento
-**Decisão:** 13 anos no início da história. A data de nascimento será calculada a partir da cronologia escolar e de outros factos.
+**Candidato forte:** 14/09/1996.
+
+Razão: o protagonista faria 13 anos no dia em que a família se muda, 14/09/2009, uma segunda-feira, poucos dias depois do início do ano letivo LAUSD em 09/09/2009.
+
+Estado: CANDIDATE — ainda não canonizar até validarmos toda a cronologia escolar.
 
 ### A4. Nome
 Ainda não fixar. O nome deve funcionar dentro da família Dunphy sem parecer escolhido apenas para a fanfic.
@@ -30,7 +34,7 @@ Hipóteses vindas da ideia inicial:
 - academicamente muito forte;
 - socialmente mais competente do que a timidez inicial sugere.
 
-Ainda falta separar falhas centrais, inseguranças e simples preferências.
+As falhas centrais estão decididas como medo de incomodar, evitar conflito e dificuldade em iniciar interações. Timidez e overthinking são manifestações do mesmo sistema; perfeccionismo é uma força que também pode produzir problemas.
 
 ## Bloco B — relação com o canon
 
@@ -67,10 +71,12 @@ Ainda não. Esta decisão afeta fortemente a tensão e deve ser tomada depois da
 ## Bloco D — escala da divergência
 
 ### D1. Distância inicial do canon
-Hipótese: permanecer muito próximo do canon no início.
+A história começa antes do Pilot. O protagonista inicialmente não sabe sequer se está no mundo de Modern Family.
+
+Depois da descoberta, a história permanece relativamente próxima do canon no início.
 
 ### D2. Distância máxima por episódio
-Hipótese: nenhuma alteração gigantesca sem um gatilho proporcional.
+Não haverá limite numérico fixo. Alterações maiores exigem cadeia causal proporcional e serão distribuídas por múltiplos episódios quando necessário.
 
 ### D3. Personagens originais
 Podem surgir através de relações normais: escola, vizinhança, trabalho, atividades e outros contextos do mundo.
