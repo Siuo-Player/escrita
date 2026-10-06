@@ -8,7 +8,7 @@
 
 O mundo de base é o universo televisivo de Modern Family.
 
-A história parte do estado apresentado no Pilot e mantém como referência as relações, locais e personagens estabelecidos pela série, salvo divergências causadas pelo protagonista ou por consequências posteriores.
+A história começa alguns dias ou semanas antes do Pilot. Quando o Pilot ocorrer, será um acontecimento dentro de uma trama já em andamento. Mantemos como referência as relações, locais e personagens estabelecidos pela série, salvo divergências causadas pelo protagonista ou por consequências posteriores.
 
 A série original não é uma profecia dentro do mundo. É o conhecimento extraordinário que o protagonista possui.
 
@@ -32,6 +32,10 @@ presença do protagonista → interação concreta → decisão de alguém → c
 
 Só depois desse processo o estado alternativo diverge do canon.
 
+## Ponto de entrada temporal
+
+Candidato atual: **14/09/2009**, aniversário de 13 anos e primeiro dia do protagonista na nova escola após a mudança da família. O Pilot será colocado posteriormente com uma data diegética própria, mesmo que a data de emissão seja 23/09/2009.
+
 ## Conhecimento do protagonista
 
 O protagonista:
@@ -51,7 +55,7 @@ Saber que X acontece no episódio Y não significa saber todas as causas de X.
 
 ## Ponto de vista
 
-A prosa será centrada principalmente no protagonista, mas o leitor não terá automaticamente acesso a tudo o que ele sabe.
+A prosa será principalmente centrada no protagonista, mas poderá mudar fluidamente para outras personagens. Usaremos terceira pessoa omnisciente móvel com focalização variável e discurso indireto livre. Não haverá etiquetas explícitas de POV.
 
 Vamos distinguir:
 
