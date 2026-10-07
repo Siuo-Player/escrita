@@ -6,12 +6,17 @@ Updated: 2026-10-08
 ## Identity
 
 **Name:** Nathan Pierce
-**Age at entry:** 13
-**Starting point:** late September 2009, shortly before the *Modern Family* pilot period. The working
-calendar places Nathan's transfer to his new school on **Tuesday, 29 September 2009**, with his
-thirteenth birthday on **Monday, 28 September 2009**. The broadcast date of the pilot remains
-**23 September 2009**; the story may treat the pilot's events as occurring on a nearby in-universe
-date rather than forcing broadcast day = story day.
+**Age at entry:** 12, turning 13 during the opening arc.
+**Starting point:** September 2009, shortly before the *Modern Family* pilot. The working calendar uses
+the real LAUSD school-year opening of **Wednesday, 9 September 2009** and places Nathan's transfer
+one week later on **Wednesday, 16 September 2009**. Nathan's birthday is **Monday, 21 September 2009**.
+The pilot's broadcast date is **23 September 2009**, and its story events are kept on that real date
+unless a scene or continuity reason requires otherwise.
+
+The short gap is deliberate: Nathan arrives in the Dunphys' broader neighborhood before starting school,
+meets several members of the family through ordinary local life, then meets Alex at school before the
+pilot. By the pilot, at least four members of the family already know who he is, even though Nathan is
+not inserted into the family's central reunion scene unless the plot naturally calls for him.
 **School position:** one school year above Alex Dunphy.
 **Sex/gender:** male.
 
@@ -269,7 +274,7 @@ Nathan has no reliable memories of his own future in this new life.
 
 ## First contact with Alex
 
-Nathan recognizes Alex at school.
+Nathan recognizes Alex at school on his first days there.
 
 Because he already knows who she is, his first instinct is to speak to her. He then finds a reason
 not to.
@@ -285,8 +290,10 @@ This is the first important break between what Nathan planned and what actually 
 
 The family's move makes Nathan a neighbor in the same broad area as the Dunphys.
 
-His later encounters with Claire, Phil, Haley, Luke and the wider Pritchett/Tucker circle happen through
-ordinary life:
+His first encounters with the wider family happen unusually early because he has arrived in the same
+broad neighborhood before school. Claire, Phil, Alex, Haley and at least one additional family member
+already have a first impression of him by the pilot, while later encounters with Luke, the Pritchett/
+Tucker side and others continue through ordinary life:
 - school;
 - neighborhood;
 - football;
@@ -357,12 +364,13 @@ The original show's plot is therefore an optional intersection, not the chapter 
 
 ## Parallel canon
 
-Nathan does not need to participate in the *Modern Family* pilot simply because it happens at the
-same time.
+Nathan does not need to participate in the pilot's family reunion scene simply because it happens at
+the same time. His presence should be limited to scenes where his existing life naturally intersects
+the episode, such as neighborhood or sports locations outside the main family gathering.
 
-The pilot and Nathan's first weeks can unfold in parallel.
+The pilot and Nathan's first weeks can therefore overlap without becoming a retelling of the episode.
 
-The story may reference the pilot or its aftermath naturally through:
+The story may reference or intersect with the pilot naturally through:
 - Nathan's thoughts;
 - conversations;
 - another character mentioning something;
