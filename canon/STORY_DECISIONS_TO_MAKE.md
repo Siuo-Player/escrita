@@ -31,8 +31,10 @@ are recorded so they are not asked again.
    They are useful as directional hints rather than perfect prediction.
 6. **First family connection:** Nathan recognizes Alex at school and wants to speak to her but initially
    avoids it because of shyness and attraction. Alex initiates the first interaction after noticing that
-   he has the right book/resource for an advanced class. The move also makes Nathan a neighbor and gives
-   him earlier natural contact with Claire, Phil, Haley and other family members.
+   he has the right book/resource for an advanced class. Because Nathan arrives in the neighborhood before
+   the pilot, he can also meet several family members through ordinary local life. The working goal is
+   that at least four family members already know him by the pilot, while Nathan still does not enter the
+   family's main reunion scene unless the episode gives him a natural reason.
 7. **Independent life engine:** technology/computing, pursued through early programming, study, projects
    and eventual AI research.
 8. **Long-term academic objective:** become an AI researcher and ultimately complete a credible AI-focused
@@ -127,14 +129,20 @@ with one or two additional family members entering through naturally occurring a
 establish first impressions of several of them without turning Nathan into a participant in the central
 family-reunion sequence.
 
-### 10. Canon changes
+### 10. Opening-week canon intersection
+**Working:** use ordinary neighborhood/school/activity encounters to establish first impressions before
+the pilot. Candidate first contacts are Alex at school, Claire and Phil as nearby adults, and Luke or
+another family member through sport/neighborhood life. At least four family members should know Nathan by
+the pilot without making him artificially central to the episode.
+
+### 11. Canon changes
 Which tragedies/bad decisions are specifically priorities for Nathan to prevent in the first year?
 Which canon outcomes are protected unless the butterfly effect makes them untenable?
 
-### 11. Episode length
+### 12. Episode length
 Pick a normal range once we begin drafting.
 
-### 12. Exact tone balance
+### 13. Exact tone balance
 Current target: comedy + warmth/family + slice-of-life + growth, with drama/romance appearing naturally.
 
 ## C. Decisions that can stay WORKING for now
@@ -151,6 +159,9 @@ Before Episode 1 is drafted in full, we only need:
 2. first recurring outside-friend(s);
 3. Alex relationship pacing for the first year;
 4. first-year tragedy/intervention priorities.
+
+The opening calendar, personality profile, pilot-intersection rule and first mobile game are now recorded
+in the canon.
 
 The calendar, personality weaknesses and first technology project are now sufficiently established to
 write around.
