@@ -390,3 +390,83 @@ For our project, a useful recurring rhythm is:
 - aftermath lane: the protagonist must live with the new consequence.
 
 The lanes can occupy different proportions in different episodes. No fixed percentage is required.
+
+## 15. Archive of Our Own: a different signal from WebNovel
+
+AO3 examples are useful as a counterweight because engagement is measured differently.
+
+### MoFy Foundation
+
+A Modern Family series by Kowalskiology101 includes short canon-adjacent/pre-canon pieces focused on
+specific relationships and family history. One indexed work has 8 comments, 93 kudos, 10 bookmarks,
+and 1,421 hits; another has 12 comments and 47 kudos. The works show that a small, sharply defined
+piece about family dynamics can earn meaningful reader response without needing a giant AU premise.
+
+Source:
+https://archiveofourown.org/series/3930352
+
+Lesson:
+Not every episode needs to advance the protagonist's entire life. A focused relationship story can
+be valuable when it reveals something that lasts.
+
+### A current OC example
+
+An indexed 2025 Modern Family WIP follows an original male character through a broken childhood and
+foster-home recovery, with a Haley relationship eventually involved. The indexed snapshot has 14 kudos,
+6 bookmarks, 5 comments and 640 hits.
+
+Source:
+https://archiveofourown.org/users/Kowalskiology101/pseuds/Kowalskiology101
+
+Lesson:
+Readers can accept a substantial original-character interior arc when it is emotionally legible and
+properly connected to the canon cast.
+
+### Diaries of Time Travelers
+
+A 2026 seven-chapter completed Modern Family time-travel/fix-it work uses changing circumstances,
+protectiveness, rescue, family relationships and temporal consequences. The indexed snapshot has
+9 kudos, 2 comments and 161 hits.
+
+Source:
+https://archiveofourown.org/works/89620021/chapters/247448726
+
+Lesson:
+Time-travel knowledge can generate story, but the interesting part is the resulting choices,
+relationships and consequences rather than the knowledge dump itself.
+
+### Bruises We Shared
+
+A completed 2026 ten-chapter work uses mystery, hurt/comfort and multiple family viewpoints. It has
+28 kudos, 4 comments and 768 hits.
+
+Source:
+https://archiveofourown.org/works/77028341/chapters/203115061
+
+Lesson:
+A secondary mystery or emotional problem can temporarily become the centre of an arc while still
+using the ensemble cast.
+
+## Updated synthesis
+
+Across WebNovel and AO3, the safer design target is a **hybrid episodic story**:
+
+1. The protagonist has an independent life engine.
+2. The Modern Family cast supplies a persistent social/world engine.
+3. Individual episodes may temporarily foreground one relationship, mystery, hobby, career, school
+   problem, family issue, or other theme.
+4. The episode still changes durable state.
+5. The next episode inherits that consequence instead of resetting to canon.
+
+The protagonist therefore should not be measured by "how often he appears with the Dunphys."
+Measure him by whether he has a life whose choices can collide with theirs.
+
+A useful sanity test:
+**Could I remove the Modern Family cast from this episode and still understand what the protagonist
+wanted?**
+If no, he is probably becoming a camera attached to canon.
+Then ask:
+**Could I remove the protagonist and have the episode happen essentially unchanged?**
+If yes, he is probably being inserted as decoration rather than as a causal character.
+
+Both failures should be corrected over the arc, not necessarily in every individual scene.
