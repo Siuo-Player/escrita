@@ -26,6 +26,15 @@ O foco do projeto não é escrever tudo de uma vez. Primeiro construímos o **mo
 - `episodes/` — unidade principal da história; cada episódio contém acontecimentos e pastas dos personagens envolvidos.
 - `templates/` — estruturas repetíveis para episódios, acontecimentos e personagens.
 
+### Pesquisa narrativa atual
+
+- `research/narrative/README.md` — evidência e modelos de estrutura narrativa.
+- `research/narrative/STRUCTURE_MATRIX.md` — comparação de lentes estruturais.
+- `research/narrative/MODERN_FAMILY_FANFIC_CASE_STUDIES.md` — estudo de receção e falhas recorrentes
+  em fanfics de *Modern Family*.
+- `canon/STORY_SCOPE_AND_PROTAGONIST_DESIGN.md` — regras de trabalho para manter uma vida
+  independente do protagonista, uso limitado de conhecimento futuro e equilíbrio com a série.
+
 ## Estado atual
 
 **Fase 0 — Fundação.**
