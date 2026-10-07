@@ -14,7 +14,8 @@ are recorded so they are not asked again.
    training in strength, speed, flexibility, football and martial arts; shy, embarrassed by initiating
    interactions, perfectionist and emotionally sensitive; afraid of seeming arrogant; strongly afraid of
    rejection; strongly self-undervaluing; and reluctant to seek new friendships.
-2. **Entry:** direct reincarnation into a new life at age 13, with previous-life memories.
+2. **Entry:** direct reincarnation into a new life at age 12, only days before his thirteenth birthday,
+   with previous-life memories.
 3. **Starting point and calendar:** LAUSD's 2009–10 school year begins on **Wednesday, 9 September 2009**.
    Nathan transfers one week later on **Wednesday, 16 September 2009**. He turns 13 on **Monday,
    21 September 2009**. The *Modern Family* pilot aired on **Wednesday, 23 September 2009**, and its
@@ -44,9 +45,10 @@ are recorded so they are not asked again.
    episode's plot focus, while characters from the show may occupy much more of the episode. Original
    material can center on Nathan/Alex, Nathan/Haley, school, football, technology, friends, parents or
    other themes.
-10. **Season structure:** each story season represents roughly one year of Nathan's life. Season 1 starts
-    at 13; the long story runs through adolescence, university and early professional life, ending in
-    Nathan's early-to-mid twenties.
+10. **Season structure:** each story season represents roughly one year of Nathan's life. A brief opening
+    prologue covers 16–20 September 2009; the formal Season 1 begins on Nathan's thirteenth birthday,
+    **21 September 2009**, and then runs through the rest of that year of his life. The long story runs
+    through adolescence, university and early professional life, ending in Nathan's early-to-mid twenties.
 11. **Ending:** after Nathan and Alex are adults and established in education/work, the final scene is
     Alex telling Nathan that she is pregnant.
 12. **Backpropagation:** later events must leave earlier traces. Pregnancy in particular needs a believable
