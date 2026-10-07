@@ -274,3 +274,119 @@ create new relationships/themes, and generate consequences that can later inters
 
 Do not copy prose, dialogue, or scenes from any referenced work. We are using structural and reader-
 response lessons only.
+
+## 10. Modern Family: New Life — WebNovel
+
+Snapshot:
+- 141 reviews
+- 4.81/5
+
+Reader signals:
+- Readers praise substantial character development and the sense that the protagonist genuinely grows up.
+- Positive feedback specifically values keeping Modern Family involved instead of gradually abandoning the
+  original series.
+- One reader suggested a crossover with another TV series and immediately identified the central risk:
+  it would be interesting only if introduced without feeling forced.
+- Another review praises the narrative and character development for avoiding absurd escalation.
+
+Lesson:
+An outside interest, setting, or crossover is valuable when it grows from the protagonist's life or the
+story's causal needs. It should not appear as a detachable second fanfic.
+
+Source:
+https://www.webnovel.com/book/31396005008055105/reviews
+
+## 11. Modern Family: The Singer — WebNovel
+
+Snapshot:
+- 42 reviews
+- 4.54/5
+
+Reader signals:
+- Positive readers specifically ask for the family slice-of-life material to remain.
+- Critical readers object when a canon character's personality is altered so radically for a new career
+  that the character stops feeling like that character.
+- Another review criticises a rushed structure built from time-skips and summaries.
+
+Lesson:
+Outside domains such as music can enrich the world, but the emotional/family texture needs to survive
+and major canon personalities need recognizable internal logic.
+
+Source:
+https://www.webnovel.com/book/34808294208714005/reviews
+
+## 12. Redoing My Life (Hollywood x Modern Family) — WebNovel
+
+Snapshot:
+- 68 reviews
+- 4.79/5
+
+Reader signals:
+- Strong praise for mundane-world / entertainment material, long-form character development, and the
+  feeling of reading a continuing life rather than a sequence of canon rewrites.
+- A strong negative counter-example says that after a later arc the Modern Family connection was stripped
+  away and the story became a generic Hollywood self-insert.
+
+Lesson:
+A protagonist's external career can become a durable secondary engine. The problem is not "too much
+outside life"; the problem is losing the original story's identity and causal bridge.
+
+Source:
+https://www.webnovel.com/book/28414867608804105/reviews
+
+## 13. Modern Family: Checkmate & Chill — WebNovel
+
+Snapshot:
+- 17 reviews
+- 4.62/5
+
+Reader signals:
+- Praise for immersive emotional presentation.
+- A substantial criticism says too many different story templates were introduced at once, producing the
+  feeling of several fics compressed together.
+
+Lesson:
+We should not combine every attractive structure at the beginning. Let the protagonist's life establish
+one coherent lane first; add new themes/domains only when they grow naturally from what already exists.
+
+Source:
+https://www.webnovel.com/book/32995625408568005/reviews
+
+## 14. Modern Family: The Boy Who Reincarnated — WebNovel
+
+Snapshot:
+- 20 reviews
+- 3.81/5
+
+Critical signals:
+- One reader complains about weak English/conversations and an over-engineered "genius" protagonist.
+- Several comments ask for updates, while another explicitly labels the story abandoned.
+
+Lesson:
+The protagonist's competence must remain believable. Future knowledge should not become a shortcut to make
+the protagonist unrealistically exceptional.
+
+Source:
+https://www.webnovel.com/book/23348775505998905/reviews
+
+## Expanded synthesis
+
+The strongest recurring pattern across the higher-engagement/high-rated examples is not "copy the TV
+show" and not "escape the TV show." It is **integration**:
+
+protagonist life
++ recognizable Modern Family relationships
++ independent goals
++ selective future knowledge
++ consequences that cross the boundary
+
+The best external-domain examples still make the reader care about the family. The best
+character-centred examples allow an episode to matter even when no famous canon event occurs.
+
+For our project, a useful recurring rhythm is:
+- life lane: the protagonist does something because he wants it;
+- connection lane: that choice naturally touches one or more Modern Family characters;
+- divergence lane: the interaction changes an expected outcome;
+- aftermath lane: the protagonist must live with the new consequence.
+
+The lanes can occupy different proportions in different episodes. No fixed percentage is required.
