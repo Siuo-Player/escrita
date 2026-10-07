@@ -497,7 +497,8 @@ The game establishes several recurring aspects of Nathan:
 
 - his competence is real rather than magical;
 - his future memory is useful but incomplete;
-- his first breakthrough comes from solving a real problem, not from remembering a finished answer;
+- his first major breakthrough comes from recognizing and applying something he genuinely studied, not
+  from remembering a finished answer;
 - his perfectionism is especially visible in optimization;
 - he knows enough to use existing tools instead of rebuilding everything;
 - he delegates art because he knows it is not his strength;
