@@ -26,8 +26,8 @@ being written as implausibly wealthy.
 
 ## Reincarnation and current life
 
-Nathan's previous life ends and he is reincarnated directly into his thirteen-year-old life in the
-*Modern Family* world.
+Nathan's previous life ends and he is reincarnated directly into his twelve-year-old life in the
+*Modern Family* world, only days before his thirteenth birthday.
 
 He is not replacing a canon child. He is the biological son of his own parents in this world and has
 a normal childhood history, relationships and memories from that life. His previous-life memories
@@ -412,8 +412,10 @@ The divergence should accumulate rather than reset at the start of every episode
 
 Each story season represents approximately **one year of Nathan's life**.
 
-Season 1 begins with Nathan at 13, at the pre-pilot starting point.
-The story follows:
+The story uses a brief opening/prologue from **16–20 September 2009** to establish Nathan's transfer,
+first family contacts and first interaction with Alex. The formal Season 1 starting point is his
+**thirteenth birthday on Monday, 21 September 2009**, after which the season continues through the pilot
+and the rest of the year. The story follows:
 - school;
 - football;
 - training;
