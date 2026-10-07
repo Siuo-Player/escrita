@@ -389,12 +389,46 @@ There are several reasons:
 - the mobile market is crowded enough that a technically clever small title can remain niche.
 
 A technically minded player or developer can notice the unusually large number of enemies and ask how he
-is doing it.
+is doing it, but that is different from the wider public noticing or understanding the implementation.
 
-The wider recognition should come later. The important claim is not that nobody in 2009 knew the idea;
-specialists could know it. The believable claim is that a thirteen-year-old's tiny mobile game is not
-automatically treated as an academic or industry breakthrough. The project becomes interesting when a
-developer actually inspects the implementation or Nathan later explains it.
+The key distinction is:
+
+**the technique is not unknown; Nathan is unusual.**
+
+In 2009, a specialist who inspected the project could recognize that flow-field-style navigation was a
+real, established idea. What is exceptional is that a thirteen-year-old independently reconstructed the
+concept from a practical problem, implemented it correctly in a mobile game, connected it to a separate
+lightweight player-prediction system, and then optimized the whole arrangement for constrained hardware.
+
+Therefore the story should not give Nathan an implausible immediate reputation as the "inventor" of a
+new AI technique.
+
+The first people who look closely may react more like:
+- "You wrote this yourself?"
+- "How old are you?"
+- "Why did you use a shared field here?"
+- "How are you updating this without killing the frame rate?"
+
+The deeper recognition can happen much later, through deliberate inspection or disclosure.
+
+One especially plausible route is Nathan's later university application.
+
+When he is applying to strong computer-science/AI programmes, Nathan describes the project in an
+application essay, portfolio, research statement, or supplementary technical material. He can explain
+that at thirteen he built a complete mobile game, implemented shared field-based navigation, added a
+separate lightweight behaviour model, and spent significant time optimizing it for 2009-era hardware.
+
+At that point, the game has a very different context. Admissions readers or a professor interested in
+game AI can recognize that the interesting accomplishment is not "he invented flow fields" but that a
+very young student independently understood and applied a nontrivial technique, designed an efficient
+architecture around it, and demonstrated the discipline to profile and optimize a real program.
+
+Another possible route is a developer discovering the implementation because Nathan publishes a short
+technical explanation or source excerpt. This can create modest technical attention years before the
+university application without making him famous.
+
+Recognition should therefore be **conditional on someone looking under the hood**. The code and design,
+not the game's download count, are what make the project noteworthy.
 
 A plausible route is that Nathan eventually posts a technical explanation or a small source fragment after
 someone asks about the game's performance. A programmer recognizes the idea as an interesting solution to
