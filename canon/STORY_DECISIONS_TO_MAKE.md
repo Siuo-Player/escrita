@@ -2,21 +2,27 @@
 
 Status: WORKING
 Purpose: decisions needed before building the first durable episode/arc.
-Updated: 2026-10-07
+Updated: 2026-10-08
 
 The list is ordered by dependency. We do not need to decide every detail immediately. Resolved items
 are recorded so they are not asked again.
 
 ## A. Resolved foundation
 
-1. **Protagonist:** Nathan Pierce, male, 13 at entry; American; affluent technology-oriented family;
-   A-level student; football/soccer captain; long-term physical training in strength, speed, flexibility,
-   football and martial arts; shy, embarrassed by initiating interactions, perfectionist and emotionally
-   sensitive; additional previously established similar flaws remain part of canon.
+1. **Protagonist:** Nathan Pierce, male, 12 at the opening and turning 13 during the first arc; American;
+   affluent technology-oriented family; A-level student; football/soccer captain; long-term physical
+   training in strength, speed, flexibility, football and martial arts; shy, embarrassed by initiating
+   interactions, perfectionist and emotionally sensitive; afraid of seeming arrogant; strongly afraid of
+   rejection; strongly self-undervaluing; and reluctant to seek new friendships.
 2. **Entry:** direct reincarnation into a new life at age 13, with previous-life memories.
-3. **Starting point:** approximately two weeks after the school semester begins, before the
-   *Modern Family* pilot. Nathan moves to the same broad area and attends Alex Dunphy's school one year
-   above her.
+3. **Starting point and calendar:** LAUSD's 2009–10 school year begins on **Wednesday, 9 September 2009**.
+   Nathan transfers one week later on **Wednesday, 16 September 2009**. He turns 13 on **Monday,
+   21 September 2009**. The *Modern Family* pilot aired on **Wednesday, 23 September 2009**, and its
+   in-universe events are kept on that date unless continuity requires otherwise. Nathan has already
+   met at least four members of the family before/during the pilot through natural neighborhood,
+   school and activity encounters, but should not be inserted into the family's main reunion scene
+   unless the episode's existing action genuinely creates a place for him. He is one school year above
+   Alex.
 4. **Modern Family memory:** eidetic memory of everything actually shown in the series, including tiny
    details and dialogue, but memories must be actively retrieved. He has rewatched the series many times,
    so he has unusually deep familiarity with character behavior and can initially predict reactions with
@@ -24,8 +30,9 @@ are recorded so they are not asked again.
 5. **Future knowledge:** additional future-world memories are fragmented, non-personal and secondary.
    They are useful as directional hints rather than perfect prediction.
 6. **First family connection:** Nathan recognizes Alex at school and wants to speak to her but initially
-   avoids it because of shyness and attraction. Alex initiates the first interaction. The move also makes
-   Nathan a neighbor and creates natural later encounters with the wider family.
+   avoids it because of shyness and attraction. Alex initiates the first interaction after noticing that
+   he has the right book/resource for an advanced class. The move also makes Nathan a neighbor and gives
+   him earlier natural contact with Claire, Phil, Haley and other family members.
 7. **Independent life engine:** technology/computing, pursued through early programming, study, projects
    and eventual AI research.
 8. **Long-term academic objective:** become an AI researcher and ultimately complete a credible AI-focused
@@ -70,11 +77,15 @@ Detailed protagonist record: canon/characters/NATHAN_PIERCE.md.
 ## B. Still to decide — useful for the first arc
 
 ### 1. Nathan's exact birth date and starting calendar date
-We know the relative placement before the pilot. An exact date will lock school, holidays and birthday
-continuity.
+**Resolved:** birthday is **21 September 1996 (Monday)**. Nathan transfers to school on **16 September
+2009 (Wednesday)**, one week after the LAUSD year opening on 9 September. The pilot's broadcast date is
+23 September 2009 and can also serve as its in-universe date.
 
-### 2. The remaining three previously established personality flaws
-These should be recovered from the earlier planning rather than newly invented.
+### 2. Nathan's personality weaknesses
+**Resolved:** the selected weaknesses are fear of seeming arrogant, strong fear of rejection, strong
+self-undervaluation (including appearance, intelligence, competence and romantic desirability), and
+reluctance to seek new friendships. The broader self-undervaluation is a recurring engine of the
+Nathan/Alex slow burn.
 
 ### 3. Parents' final occupations and family history
 A working proposal exists: father as technology executive/co-founder and mother in a demanding professional
@@ -82,7 +93,13 @@ career. Decide whether to keep this exactly or refine it. Once locked, these det
 the plot but will prevent later contradictions.
 
 ### 4. Nathan's first concrete technology project
-Not a futuristic invention. Just what a thirteen-year-old Nathan actually starts building/studying.
+**Resolved in design:** a small 2D mobile game for conservative 2009 hardware. Nathan builds the important
+game logic himself in C++, but may use period-appropriate public/commercial frameworks and libraries and
+purchased/commissioned art. The game's defining feature is advanced enemy movement and prediction:
+a reusable grid-based flow field handles shared navigation efficiently, while a separate lightweight
+player-behaviour memory creates a prediction/influence field that changes where enemies search or
+intercept. The first implementation begins conventionally and becomes progressively more unusual as
+Nathan optimizes it.
 
 ### 5. University destination
 Eventually choose a plausible university/research environment and whether Nathan follows computer science,
@@ -105,8 +122,10 @@ from Alex. The timing, cause and consequences should be decided only when the re
 planned. It must not function as consequence-free wish fulfillment.
 
 ### 9. Canon-character priority
-We should choose an initial hierarchy rather than trying to give every canon character equal attention.
-Alex is automatically important; decide who else should be consistently present early.
+**Working early hierarchy:** Alex first, then the immediate Dunphy household (Claire, Phil, Haley, Luke),
+with one or two additional family members entering through naturally occurring activities. The pilot can
+establish first impressions of several of them without turning Nathan into a participant in the central
+family-reunion sequence.
 
 ### 10. Canon changes
 Which tragedies/bad decisions are specifically priorities for Nathan to prevent in the first year?
@@ -128,12 +147,12 @@ We should not lock these prematurely. They can be created when the causal narrat
 ## First-arc minimum
 
 Before Episode 1 is drafted in full, we only need:
-1. exact starting date;
-2. remaining established personality flaws;
-3. parents' final baseline details;
-4. first technology project;
-5. first recurring outside-friend(s);
-6. Alex relationship pacing for the first year;
-7. first-year tragedy/intervention priorities.
+1. parents' final baseline details;
+2. first recurring outside-friend(s);
+3. Alex relationship pacing for the first year;
+4. first-year tragedy/intervention priorities.
+
+The calendar, personality weaknesses and first technology project are now sufficiently established to
+write around.
 
 Everything else can remain provisional and evolve through the story.
