@@ -181,8 +181,9 @@ A 2013 chapter of *Game AI Pro* later described flow-field tiles specifically fo
 steering in mobile games, using *Fieldrunners 2* as the case study. The chapter notes that the game's
 flow fields and steering behaviors supported thousands of units on mobile hardware, and it also lists
 a 2006 book chapter on flow fields as prior art. *Fieldrunners 2* itself first released on iOS in July
-2012. Thus Nathan is not inventing the underlying method; he is applying a known but comparatively
-specialized idea on a tiny scale, years before that particular mobile-game example becomes public. citeturn754349view1turn800115search39turn800115search11
+2012. This makes the historical position much cleaner: Nathan is not inventing flow fields; he is
+bringing a known specialist technique into a small 2009 mobile stealth game and combining it with a
+player-behaviour influence system and severe workload reduction. citeturn754349view1turn800115search39turn800115search11
 
 ## Enemy prediction: separate from navigation
 
@@ -390,7 +391,10 @@ There are several reasons:
 A technically minded player or developer can notice the unusually large number of enemies and ask how he
 is doing it.
 
-The wider recognition should come later.
+The wider recognition should come later. The important claim is not that nobody in 2009 knew the idea;
+specialists could know it. The believable claim is that a thirteen-year-old's tiny mobile game is not
+automatically treated as an academic or industry breakthrough. The project becomes interesting when a
+developer actually inspects the implementation or Nathan later explains it.
 
 A plausible route is that Nathan eventually posts a technical explanation or a small source fragment after
 someone asks about the game's performance. A programmer recognizes the idea as an interesting solution to
