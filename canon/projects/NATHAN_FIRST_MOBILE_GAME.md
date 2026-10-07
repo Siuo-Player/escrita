@@ -10,7 +10,15 @@ It is intentionally small enough for one talented thirteen-year-old to finish, b
 enough to establish the beginning of his long-term relationship with game AI.
 
 The game is not supposed to make Nathan famous immediately. The important result is that he creates a
-credible example of a young programmer applying a strong idea to a very constrained platform.
+credible example of a young programmer applying several strong ideas to a very constrained platform.
+
+Important historical correction: flow fields themselves are not a post-2009 invention. Bob Alexander
+published "Flow Fields for Movement and Obstacle Avoidance" in *AI Game Programming Wisdom 3* in 2006,
+and Treuille, Cooper and Popović published *Continuum Crowds* in 2006 using dynamic potential fields for
+large-crowd navigation. Nathan therefore must not be portrayed as inventing flow-field navigation.
+His future-memory advantage is subtler: he remembers later games where related field-based or collective
+movement ideas became much more practical and visible, and he reconstructs a small, unusually effective
+mobile-game implementation by combining what he remembers with ordinary 2009 knowledge. citeturn580221search2turn873536search2
 
 ## Period and target hardware
 
@@ -169,14 +177,12 @@ The technique is far more interesting in Nathan's story than its implementation 
 The underlying idea is simple once explained. The unusual part is seeing that it can replace many
 repeated searches in a mobile game.
 
-A 2013 chapter of *Game AI Pro* later presented flow-field tiles specifically for crowd pathfinding and
-steering, including the problem of moving many agents without the CPU burden of repeatedly rebuilding
-individual paths. A separate chapter in the same book discussed efficient crowd simulation for mobile
-games and described the use of flow fields with steering in *Fieldrunners 2*.
-
-That later publication does not mean Nathan secretly invented a nonexistent branch of computer science.
-It means his 2009 implementation can be a believable early, small-scale application of an idea that would
-later become much more visible and documented in game-AI practice.
+A 2013 chapter of *Game AI Pro* later described flow-field tiles specifically for crowd pathfinding and
+steering in mobile games, using *Fieldrunners 2* as the case study. The chapter notes that the game's
+flow fields and steering behaviors supported thousands of units on mobile hardware, and it also lists
+a 2006 book chapter on flow fields as prior art. *Fieldrunners 2* itself first released on iOS in July
+2012. Thus Nathan is not inventing the underlying method; he is applying a known but comparatively
+specialized idea on a tiny scale, years before that particular mobile-game example becomes public. citeturn754349view1turn800115search39turn800115search11
 
 ## Enemy prediction: separate from navigation
 
@@ -310,7 +316,7 @@ A small set of compact navigation/influence values across this grid is tiny by m
 Even with several maps and extra state, the AI data remains in the order of tens or hundreds of kilobytes,
 not tens of megabytes.
 
-A plausible complete first release can be kept approximately in this range:
+A plausible first playable build can be kept approximately in this range:
 - executable and engine/framework pieces: around 1–2 MB;
 - sprites, tiles and UI art: around 0.5–1.5 MB;
 - compressed audio: around 0.5–1.5 MB;
