@@ -1,14 +1,17 @@
 # Protagonist — Nathan Pierce
 
 Status: WORKING / established from project decisions
-Updated: 2026-10-07
+Updated: 2026-10-08
 
 ## Identity
 
 **Name:** Nathan Pierce
 **Age at entry:** 13
-**Starting point:** approximately two weeks after the beginning of the school semester, before the
-*Modern Family* pilot.
+**Starting point:** late September 2009, shortly before the *Modern Family* pilot period. The working
+calendar places Nathan's transfer to his new school on **Tuesday, 29 September 2009**, with his
+thirteenth birthday on **Monday, 28 September 2009**. The broadcast date of the pilot remains
+**23 September 2009**; the story may treat the pilot's events as occurring on a nearby in-universe
+date rather than forcing broadcast day = story day.
 **School position:** one school year above Alex Dunphy.
 **Sex/gender:** male.
 
@@ -75,12 +78,37 @@ Explicitly established traits:
 - shy;
 - embarrassed/uncomfortable initiating interactions;
 - perfectionist;
-- sensitive to emotional/social situations;
+- emotionally/socially sensitive;
 - prone to overthinking before acting;
-- cautious about exposing himself to rejection.
+- cautious about exposing himself to rejection;
+- afraid of seeming arrogant;
+- strong fear of rejection;
+- strongly underestimates his own value and the positive attention he receives;
+- avoids actively seeking new friendships.
 
-The remaining previously established related flaws should be recovered from the earlier planning
-rather than invented anew.
+His self-underestimation is broader than romantic insecurity. Nathan routinely searches for less flattering
+explanations for positive evidence: someone may simply be polite, pity him, need his help, or be friendly
+with everyone. He underestimates his appearance, intelligence, competence and effect on other people.
+His humility is genuine, but the extreme version is partly defensive: believing he is "less than" others
+feels safer than discovering that someone valued him and being rejected.
+
+He is socially functional rather than socially withdrawn. Once another person starts a conversation,
+Nathan can be open, friendly and quite sociable. As football captain he speaks to teammates naturally,
+jokes about training and participates in ordinary team talk, but usually does not convert those
+relationships into deeper friendships on his own.
+
+The same distinction applies to adults. Nathan often finds conversations with adults easier than
+initiating conversations with teenagers because his previous-life experience reduces some of the
+status pressure and self-consciousness. He can empathize with adults more easily than he expects, but
+this does not make him exceptionally perceptive or emotionally wise.
+
+### Compensating strengths
+
+Nathan's baseline strengths are broad: he is humble, disciplined, curious, persistent, reliable,
+physically trained, mathematically and technically strong, a capable practical leader, a good listener
+once engaged, creative in technical problem-solving, and able to learn independently. He is not,
+however, especially strong at reading other people's feelings, staying calm during crises, or adapting
+quickly when circumstances change. Those abilities are around normal rather than defining strengths.
 
 His previous-life memories create more maturity in planning and long-term thinking, but puberty still
 matters:
@@ -419,6 +447,14 @@ Backpropagation also applies beyond pregnancy:
 - later technology achievements should grow from earlier learning and experiments.
 
 ## Core narrative test
+
+The first game's initial release should attract modest attention rather than instant industry fame.
+The unusual enemy behaviour is visible to players, but a small mobile title gives most readers no reason
+to identify the underlying algorithm. A programmer or developer can notice the performance and ask how
+Nathan is moving so many agents, but wider technical recognition can reasonably happen later, especially
+if he eventually publishes a short technical note or source fragment. The story should treat this as
+"ahead of its context and quietly noticed," not as Nathan secretly reinventing an entire field without
+anyone capable of recognizing it.
 
 Nathan should be interesting even when no *Modern Family* character is present.
 
