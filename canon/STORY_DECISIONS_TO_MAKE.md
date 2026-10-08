@@ -85,7 +85,7 @@ are recorded so they are not asked again.
     football training Tuesday/Thursday, a Saturday match, and lighter planning/programming on Sunday.
     Classroom scenes should reveal intelligence and personality through teacher interactions rather than
     repeated praise. The 16–20 September opening includes Nathan's distant observations of Alex, a practical
-    first interaction initiated by Alex on 18 September, a birthday on 21 September, and a pilot-parallel
+    first interaction initiated by Alex on 18 September, a birthday on 7 September, and a pilot-parallel
     programming scene on 23 September. Full reusable schedule: `canon/timeline/SEASON_1_CONTINUITY.md`.
 
 Detailed protagonist record: canon/characters/NATHAN_PIERCE.md.
@@ -93,7 +93,7 @@ Detailed protagonist record: canon/characters/NATHAN_PIERCE.md.
 ## B. Still to decide — useful for the first arc
 
 ### 1. Nathan's exact birth date and starting calendar date
-**Resolved:** birthday is **21 September 1996 (Monday)**. Nathan transfers to school on **16 September
+**Resolved:** birthday is **7 September 1996 (Saturday; he turns 13 on Monday, 7 September 2009)**. Nathan transfers to school on **16 September
 2009 (Wednesday)**, one week after the LAUSD year opening on 9 September. The pilot's broadcast date is
 23 September 2009 and can also serve as its in-universe date.
 
