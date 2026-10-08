@@ -4,8 +4,14 @@ Status: WORKING
 Purpose: decisions needed before building the first durable episode/arc.
 Updated: 2026-10-08
 
-The list is ordered by dependency. We do not need to decide every detail immediately. Resolved items
-are recorded so they are not asked again.
+The list is ordered by dependency. We do not need to decide every detail immediately.
+
+**Historical-context rule:** the repository was initially incomplete. Decisions previously discussed and explicitly
+accepted outside Git are preserved in `canon/ACCEPTED_STORY_FOUNDATION.md`. They are working canon and should
+not be reopened as though they were new proposals.
+
+Newer decisions already present on `main` are the current repository context. Material introduced after that
+state must not be treated as established canon until reconciled with the user's prior decisions.
 
 ## A. Resolved foundation
 
@@ -147,11 +153,11 @@ These can be friends, teammates, classmates, mentors or another person who gives
 outside the Dunphys.
 
 ### 7. Alex relationship pacing
-The intended final pairing is fixed as **Nathan + Alex**, but decide:
-- when mutual attraction becomes explicit;
-- when they first date;
-- how long the early slow-burn lasts;
-- which normal misunderstandings or disagreements create pauses.
+The final pairing and the slow-burn structure are already accepted.
+
+Nathan likes Alex first. The early dynamic can remain a long period where both suspect the other may like them,
+but neither is certain enough to risk definite rejection. Do not predetermine a dating episode; let dating emerge
+from the accumulated progression of the episodes.
 
 ### 8. Haley complication
 A later adult-only physical relationship between Nathan and Haley is permitted during a real separation
@@ -214,10 +220,10 @@ Before Episode 1 is drafted in full, we only need:
 3. Alex relationship pacing for the first year;
 4. first-year tragedy/intervention priorities.
 
-The opening calendar, personality profile, pilot-intersection rule and first mobile game are now recorded
-in the canon.
+The opening calendar, personality profile, reincarnation model, Modern Family memory model, future-knowledge
+model, Alex endgame, canon proportion, season structure and backpropagation principles are established.
 
-The calendar, personality weaknesses and first technology project are now sufficiently established to
-write around.
+Those foundations should not be reset merely because they were first agreed before they were persisted in Git.
 
-Everything else can remain provisional and evolve through the story.
+The genuinely open items are local details, later pacing choices, and decisions that still require narrative
+development.
