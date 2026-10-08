@@ -130,10 +130,13 @@ self-undervaluation (including appearance, intelligence, competence and romantic
 reluctance to seek new friendships. The broader self-undervaluation is a recurring engine of the
 Nathan/Alex slow burn.
 
-### 3. Parents' final occupations and family history
-A working proposal exists: father as technology executive/co-founder and mother in a demanding professional
-career. Decide whether to keep this exactly or refine it. Once locked, these details should rarely drive
-the plot but will prevent later contradictions.
+### 3. Parents' baseline occupations and family history
+**Resolved at baseline level:** David is a technology executive and early co-founder of a successful private
+software company. Melissa has a demanding professional career outside core software engineering.
+
+The exact sector/title of Melissa's work may remain a local background detail until the narrative needs it.
+The family is affluent but not billionaire-level wealthy; money creates opportunity rather than competence or
+plot immunity.
 
 ### 4. Nathan's first concrete technology project
 **Resolved in design:** a small 2D mobile game for conservative 2009 hardware. Nathan builds the important
@@ -171,13 +174,20 @@ establish first impressions of several of them without turning Nathan into a par
 family-reunion sequence.
 
 ### 10. Opening-week canon intersection
-**Working, now detailed:** before the pilot, Nathan should have four distinct contact lines:
-**Alex** through several school interactions; **Claire** through a school pickup-area encounter on
-16 September; **Phil** through a football/community-field encounter on 17 September; and **Haley** through
-a very small weekend local encounter on 19 September. They do not all need equal emotional weight.
-Nathan should still remain outside the pilot's central family reunion.
+**Resolved:** before the Pilot, Nathan has four distinct contact lines with the Dunphy orbit:
 
-Detailed first-episode contact plan:
+- **Claire — 16 Sep:** brief school pickup-area encounter.
+- **Phil — 17 Sep:** brief football/community-field conversation.
+- **Haley — 19 Sep:** very small weekend local encounter.
+- **Alex — 16–22 Sep:** several school contacts, with the first substantial conversation on 18 Sep.
+
+The dates are fixed for continuity, but exact micro-blocking remains flexible and can be improved in prose
+and backpropagation. Nathan is still outside the Pilot's central reunion.
+
+Important correction: Nathan does **not** play cello. Alex's cello practice is an independent part of her
+schedule and may create a natural corridor/transition sighting on 17 Sep, but it is not a shared activity.
+
+Detailed plan:
 episodes/season-1/EP01_PREPILOT_CONTACT_THREADS.md.
 
 ### 11. Canon changes
@@ -227,3 +237,34 @@ Those foundations should not be reset merely because they were first agreed befo
 
 The genuinely open items are local details, later pacing choices, and decisions that still require narrative
 development.
+
+
+## D. Narrative method decisions — established
+
+The following are now part of the working methodology rather than open choices:
+
+1. **Character lives first:** create detailed character schedules, private goals, actions and likely overlaps
+   before selecting visible scenes.
+2. **Scene assembly:** the final prose shows only a fraction of the underlying world. The writer's final job
+   is to edit the richest internal reality into the strongest narrative sequence.
+3. **Natural intersections:** approximately 90% of recurring interactions should arise from routines, prior
+   decisions, geography, obligations or believable chains of cause and effect. Coincidences remain part of
+   life, but should not be overused.
+4. **Causal foreshadowing:** ordinary details may be deliberately shown because they later matter. This includes
+   purchases, meals, routes, schedules and objects with believable provenance.
+5. **Strong backpropagation:** when a later scene needs stronger causal support, revise backward through prior
+   scenes and, if necessary, unseen history. Add an explanatory scene only when it improves the reader's
+   understanding.
+6. **Reader-visible butterfly chains:** small decisions may be shown from other characters' perspectives so
+   the reader can see consequences accumulating before Nathan does.
+7. **Dialogue first pass:** prioritize natural conversation; revise later for repetition, technical exposition
+   and unnecessary explanation.
+8. **Multiple cameras:** Nathan is the protagonist, not the permanent camera. Ensemble, character-centered and
+   canon-parallel scenes are valid when they have independent narrative value.
+9. **Canon independence:** canonical plots may be shown substantially without Nathan and should not be forced
+   into his storyline.
+10. **Revision order:** causal correctness → character motivation → relationship progression →
+    timeline/provenance → scene order → pacing → repetition/exposition → sentence-level style.
+
+Full method:
+canon/narrative/NARRATIVE_METHODOLOGY.md.
