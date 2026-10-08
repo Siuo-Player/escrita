@@ -264,20 +264,20 @@ He creates a rational excuse:
 
 This is the first visible manifestation of his self-undervaluation.
 
-### 17 September — second sight / cello
+### 17 September — second sight / school transition
 
-Nathan notices Alex again in an academic context.
+Nathan notices Alex again in an ordinary school transition, not because Nathan plays cello.
 
-A useful background detail is her cello case or music-room transition.
+A natural version is a corridor or transition near the music wing: Alex is carrying her cello case on the way
+to or from practice while Nathan is moving between his own scheduled activities.
 
-Nathan already knows that Alex plays cello from his previous-life knowledge.
+Nathan already knows from his previous-life memory that Alex plays cello, so the instrument is a recognition
+detail for him, not a reason for the encounter.
 
-He consciously avoids staring.
+He consciously avoids staring and does not approach.
 
-No conversation is required.
-
-The scene should show that he is learning her real-world rhythm rather than merely recalling the show:
-school → academic work → music practice → family.
+The useful new information is the rhythm of her real life: what she is actually doing at this school, what
+routes she takes, and how different that feels from simply remembering a television character.
 
 ### 18 September — first real interaction
 
