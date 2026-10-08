@@ -17,8 +17,8 @@ published "Flow Fields for Movement and Obstacle Avoidance" in *AI Game Programm
 and Treuille, Cooper and Popović published *Continuum Crowds* in 2006 using dynamic potential fields for
 large-crowd navigation. Nathan therefore must not be portrayed as inventing flow-field navigation.
 His future-memory advantage is subtler: he remembers later games where related field-based or collective
-movement ideas became much more practical and visible, and he reconstructs a small, unusually effective
-mobile-game implementation by combining what he remembers with ordinary 2009 knowledge. citeturn580221search2turn873536search2
+movement ideas became much more practical and visible, and he adapts a known flow-field approach into a
+small, unusually effective mobile-game implementation by combining what he remembers with ordinary 2009 knowledge. citeturn580221search2turn873536search2
 
 ## Period and target hardware
 
@@ -150,9 +150,11 @@ He realizes that when many agents share a destination, the useful thing is not a
 It is a map that says, for every cell, which direction generally leads toward the destination at the
 lowest accumulated cost.
 
-He initially thinks about it as a set of arrows spread over the map.
+He initially thinks about it as the same kind of set of arrows he remembers reading about: a shared map
+of useful directions rather than a separate path for every guard.
 
-Only after testing it does he recognize that this is effectively a reusable flow field.
+The key step is adapting that known technique to his particular map representation, update strategy and
+mobile constraints.
 
 The important narrative moment is not a magical memory that hands Nathan a finished implementation.
 He has genuinely read about flow fields before; the important moment is recognizing that the technique
