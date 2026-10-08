@@ -16,7 +16,7 @@ reason.
 - Nathan's story begins on **Monday, 7 September 2009**, while he is still living in the Seattle area and
   attending his previous school.
 - Nathan transfers to his new Southern California school on **Wednesday, 16 September 2009**.
-- Nathan turns 13 on **Monday, 21 September 2009**.
+- Nathan turns 13 on **Monday, 7 September 2009**.
 - The *Modern Family* pilot remains on **Wednesday, 23 September 2009**.
 - Nathan is one school year above Alex.
 - For the opening school year, Nathan is therefore in **8th grade** and Alex in **7th grade**. They share
@@ -61,7 +61,7 @@ The second movement, roughly **16–23 September**, covers Nathan's first week i
 - Nathan repeatedly deciding not to approach her;
 - the first practical interaction initiated by Alex;
 - first football/social contacts in the new environment where useful;
-- Nathan's birthday on **21 September**;
+- Nathan's birthday on **7 September**;
 - the Pilot running in parallel on **23 September**.
 
 The Pilot should not interrupt Nathan's own plot. A scene can move from an ordinary school/family moment to
