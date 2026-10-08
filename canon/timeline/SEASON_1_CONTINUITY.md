@@ -113,7 +113,7 @@ The main arc is the final development push on the game Nathan began on 7 Septemb
 - small bugs and balance issues are fixed;
 - school, football and family scenes continue in parallel;
 - somebody outside Nathan's immediate circle can begin to notice that the enemies behave unusually well;
-- the finished game is packaged and reaches a real playable release around **15 October**.
+- the finished game is packaged and reaches its established playable release on **15 October**.
 
 The game's release date is fixed by the continuity: **15 October 2009**. Its position within the prose is determined by scene pacing, not by a fixed chapter word count.
 
