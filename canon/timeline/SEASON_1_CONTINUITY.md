@@ -13,8 +13,8 @@ reason.
 ## Calendar foundation
 
 - LAUSD school year opens Wednesday, **9 September 2009**.
-- Nathan's story begins on **Monday, 7 September 2009**, while he is still living in the Seattle area and
-  attending his previous school.
+- Nathan's story begins on **Monday, 7 September 2009**, his thirteenth birthday, while he is still living
+  in the Seattle area and attending his previous school.
 - Nathan transfers to his new Southern California school on **Wednesday, 16 September 2009**.
 - Nathan turns 13 on **Monday, 7 September 2009**.
 - The *Modern Family* pilot remains on **Wednesday, 23 September 2009**.
@@ -46,11 +46,13 @@ The first movement, roughly **7–14 September**, establishes:
   starts talking to him;
 - his identity as a football captain and his ordinary interactions with teammates;
 - the beginning of the mobile game;
-- the sudden news that his father has been promoted into a California-based role;
+- the sudden-to-Nathan news that his father has been promoted into a California-based role;
 - the family's compressed preparation and move south.
 
-The move is not treated as a long logistics sequence. A few strong scenes and time-compressed transitions
-carry Nathan from his old routine to the new house.
+The move is not treated as a long logistics sequence. The promotion had been quietly negotiated for part of
+August, so David and Melissa already know the relocation is possible even though Nathan does not. Once the
+promotion is confirmed, the company activates relocation support and arranges a temporary rental, movers and
+travel. A few strong scenes and time-compressed transitions carry Nathan from his old routine to the new house.
 
 **15 September** is mainly an arrival/setup day.
 
