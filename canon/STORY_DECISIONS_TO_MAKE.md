@@ -222,21 +222,35 @@ career details, exact university thesis topic, crossover policy, and most late-s
 
 We should not lock these prematurely. They can be created when the causal narrative needs them.
 
-## First-arc minimum
+## Current planning priorities
 
-Before Episode 1 is drafted in full, we only need:
-1. parents' final baseline details;
-2. first recurring outside-friend(s);
-3. Alex relationship pacing for the first year;
-4. first-year tragedy/intervention priorities.
+The project has moved beyond the "decide the foundation before writing" stage.
 
-The opening calendar, personality profile, reincarnation model, Modern Family memory model, future-knowledge
-model, Alex endgame, canon proportion, season structure and backpropagation principles are established.
+The next priorities are now:
 
-Those foundations should not be reset merely because they were first agreed before they were persisted in Git.
+1. finish causal/backpropagation passes over Episodes 1–2;
+2. develop Episodes 3–4 enough to establish the first normal-life and first-major-divergence patterns;
+3. build the Season 1 master architecture while keeping individual episode boundaries flexible;
+4. only then expand the series macro-arc to the level necessary to protect long-range continuity;
+5. draft prose and use external analysis tools after enough prose exists to make their feedback meaningful.
 
-The genuinely open items are local details, later pacing choices, and decisions that still require narrative
-development.
+The following are already established and should not be repeatedly reopened:
+- Nathan's core personality and self-undervaluation;
+- reincarnation model;
+- Modern Family memory model;
+- fragmented future knowledge;
+- Alex as final partner;
+- canon proportion/parallelism;
+- season-as-year structure;
+- backpropagation;
+- character-grid workflow;
+- causal foreshadowing/provenance method;
+- multi-character camera/ensemble scenes;
+- fixed pre-Pilot contact dates.
+
+Open decisions remain local or future-facing: recurring friend identities, exact intervention priorities,
+later academic opportunities, permanent-house timing, precise long-range technical projects and details of
+late-series arcs.
 
 
 ## D. Narrative method decisions — established
