@@ -7,7 +7,7 @@ Updated: 2026-10-08
 
 **7–30 September 2009**
 
-Target finished length: **10,000–14,000+ words**.
+Length: **long-form; no fixed word-count target**.
 
 The episode should feel broad rather than rushed. It covers almost a month, but routine days are compressed.
 The reader should experience several complete "windows" into Nathan's life and understand what happens
@@ -72,14 +72,18 @@ Open quietly with action rather than explaining reincarnation.
 
 Nathan is thirteen today.
 
-He is working on the game. The machine is already configured for C++ development. The game currently has:
-- a basic tile/grid map;
-- player movement;
-- one enemy archetype;
-- simple patrol behavior;
-- the first version of pathfinding.
+He is working on the game. The machine is already configured for C++ development, but the **game itself begins here**. There is no
+assumption that meaningful development happened before the opening scene.
 
-He is using A* because it is the sensible baseline, not because he lacks better ideas.
+He starts with:
+- a basic project/window;
+- a minimal tile/grid representation;
+- player movement;
+- one deliberately simple enemy;
+- the first navigation experiment.
+
+He is not trying to invent an unusual algorithm immediately. He starts with the conventional solution and lets
+measurement expose the problem.
 
 Character beats:
 - he notices a small inefficiency before anyone else would care;
@@ -1297,3 +1301,27 @@ During the first prose pass:
 - a stronger causal connection discovered while writing can be backpropagated into the grid.
 
 The revision pass should then repair continuity rather than forcing the first outline to survive unchanged.
+
+## Game calendar — fixed opening milestones
+
+The game-development dates are part of the established Episode 1–2 continuity:
+
+| Date | Development state |
+|---|---|
+| **7 Sep** | Project begins during the opening episode scene. Basic project, map/movement and first enemy experiment. |
+| **8–9 Sep** | Playable prototype and first conventional navigation work. |
+| **10–13 Sep** | A* baseline, increasing enemy count, profiling and visible repeated pathfinding cost. |
+| **14–15 Sep** | Relocation interrupts the normal development rhythm; small work fragments are possible. |
+| **16–23 Sep** | Nathan returns to the problem, adapts the flow-field technique he already studied, then separates shared navigation from local steering. |
+| **24–30 Sep** | Flow-field system stabilizes; player prediction/influence experiments begin. |
+| **1–7 Oct** | Prediction/influence layer becomes reliable and integrates with navigation. |
+| **8–12 Oct** | Optimization, caching/update-frequency work, balancing and constrained-device testing. |
+| **13–15 Oct** | Final playtests, cleanup, packaging, final correction and release. **15 Oct is the current release date.** |
+
+This is the same project continuously carried from Episode 1 into Episode 2. It is not a new technical project
+introduced in Episode 2.
+
+The technical progression is:
+
+**start → baseline → measurement → bottleneck → known technique adapted → integration → prediction problem →
+testing under constraints → release.**
