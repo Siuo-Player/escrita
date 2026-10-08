@@ -9,7 +9,7 @@ are recorded so they are not asked again.
 
 ## A. Resolved foundation
 
-1. **Protagonist:** Nathan Pierce, male, 12 at the opening and turning 13 during the first arc; American;
+1. **Protagonist:** Nathan Pierce, male, 13 at the story opening (having turned 13 that day); American;
    affluent technology-oriented family; A-level student; football/soccer captain; long-term physical
    training in strength, speed, flexibility, football and martial arts; shy, embarrassed by initiating
    interactions, perfectionist and emotionally sensitive; afraid of seeming arrogant; strongly afraid of
@@ -85,9 +85,9 @@ are recorded so they are not asked again.
     Alex's later middle-school graduation. The default rhythm is programming on Monday/Wednesday/Friday,
     football training Tuesday/Thursday, a Saturday match, and lighter planning/programming on Sunday.
     Classroom scenes should reveal intelligence and personality through teacher interactions rather than
-    repeated praise. The 16–20 September opening includes Nathan's distant observations of Alex, a practical
-    first interaction initiated by Alex on 18 September, a birthday on 7 September, and a pilot-parallel
-    programming scene on 23 September. Full reusable schedule: `canon/timeline/SEASON_1_CONTINUITY.md`.
+    repeated praise. The opening period includes Nathan's birthday on 7 September, his distant observations of Alex after the
+    16 September school transfer, a practical first interaction initiated by Alex on 18 September, and a
+    pilot-parallel programming scene on 23 September. Full reusable schedule: `canon/timeline/SEASON_1_CONTINUITY.md`.
 
 20. **Parallel-plot rule:** every episode should contain several simultaneously existing threads rather than
     a single plot plus filler. The normal mix is Nathan's immediate POV/life, family life and/or a *Modern
