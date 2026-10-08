@@ -569,3 +569,73 @@ When a newer decision exists:
 
 This rule exists specifically to prevent an incomplete repository from causing accidental retcons.
 
+
+
+---
+
+## 18. Narrative construction method accepted after reconciliation
+
+The project now explicitly uses a layered narrative-construction method.
+
+### World before scenes
+
+The internal universe is intentionally richer than the visible manuscript. Characters have schedules,
+private goals, obligations, habits, purchases and events even when the reader never sees them.
+
+The workflow is:
+
+**character lives/schedules → episode window → independent threads → causal chains → natural overlaps →
+beats → first prose → backpropagation → continuity repair → narrative editing.**
+
+### Causal foreshadowing
+
+The desired effect is not traditional "mystery clue" foreshadowing.
+
+Instead, the reader is deliberately allowed to see ordinary causes before ordinary consequences:
+a purchase before a meal, a changed plan before a meeting, a small decision before a later butterfly effect.
+
+The author may intentionally show these links even when they look unimportant at first.
+
+### Backpropagation
+
+Later facts may require revisions farther back than the immediately previous scene.
+
+Backpropagation can reach earlier episodes or unseen childhood/background history when that is the most
+plausible causal explanation.
+
+### Coincidence
+
+Coincidence remains part of normal life, but roughly 90% of meaningful recurring interactions should be
+grounded in routine, choices, obligations, geography or prior causal chains.
+
+### Multiple viewpoints
+
+Nathan remains the protagonist, but the story may frequently show other characters' actions/thoughts or use
+ensemble-style canon scenes. Strict single-POV narration is not required.
+
+The Pilot is an explicit model: much of it can be told through the ensemble, with occasional cuts to relevant
+characters, while Nathan's story runs in parallel.
+
+### Reader knowledge versus Nathan
+
+The reader may know more than Nathan.
+
+Small butterfly-effect causes can be shown from another character's perspective so the audience understands
+the beginning of a chain Nathan only recognizes later.
+
+### Natural dialogue and revision
+
+The first prose pass should favor believable human conversation over efficient exposition. Repetition,
+technical over-explanation and unnecessary beats are corrected later.
+
+### Props and ordinary logistics
+
+Important recurring objects and household resources have internal provenance. The prose only explains that
+provenance when it improves the scene.
+
+### Final editorial principle
+
+The authorial role is analogous to directing/editing reality:
+
+> Build the richer world first. Then select and arrange the scenes that make the strongest story.
+
