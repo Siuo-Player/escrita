@@ -16,10 +16,11 @@ are recorded so they are not asked again.
    rejection; strongly self-undervaluing; and reluctant to seek new friendships.
 2. **Entry:** direct reincarnation into a new life at age 12, only days before his thirteenth birthday,
    with previous-life memories.
-3. **Starting point and calendar:** LAUSD's 2009–10 school year begins on **Wednesday, 9 September 2009**.
-   Nathan transfers one week later on **Wednesday, 16 September 2009**. He turns 13 on **Monday,
-   21 September 2009**. The *Modern Family* pilot aired on **Wednesday, 23 September 2009**, and its
-   in-universe events are kept on that date unless continuity requires otherwise. Nathan has already
+3. **Starting point and calendar:** Season 1 begins on **Monday, 7 September 2009**, which is also Nathan's
+   thirteenth birthday. LAUSD's 2009–10 school year begins on **Wednesday, 9 September 2009**. Nathan
+   transfers one week later on **Wednesday, 16 September 2009**. The *Modern Family* pilot aired on
+   **Wednesday, 23 September 2009**, and its in-universe events are kept on that date unless continuity
+   requires otherwise. Nathan has already
    met at least four members of the family before/during the pilot through natural neighborhood,
    school and activity encounters, but should not be inserted into the family's main reunion scene
    unless the episode's existing action genuinely creates a place for him. He is one school year above
@@ -87,6 +88,23 @@ are recorded so they are not asked again.
     repeated praise. The 16–20 September opening includes Nathan's distant observations of Alex, a practical
     first interaction initiated by Alex on 18 September, a birthday on 7 September, and a pilot-parallel
     programming scene on 23 September. Full reusable schedule: `canon/timeline/SEASON_1_CONTINUITY.md`.
+
+20. **Parallel-plot rule:** every episode should contain several simultaneously existing threads rather than
+    a single plot plus filler. The normal mix is Nathan's immediate POV/life, family life and/or a *Modern
+    Family* AU canon thread, relationship development, school/football or another recurring life thread, and
+    one or more background threads carried by other characters. Threads may intersect, but they do not have
+    to. Some should only appear briefly because the world continues when Nathan is not present.
+21. **Persistent world / prop continuity:** recurring objects, household purchases, school materials, sports
+    equipment and other visible details should have a believable origin. A later-used object can first appear
+    being bought, delivered, unpacked, gifted or already owned and mentioned earlier. This applies to ordinary
+    household details as well as recognizable props such as Nerf blasters. The goal is not to explain every
+    object, but to avoid materializing important recurring things exactly when a scene needs them.
+22. **Episode 2 subplot set:** the game remains the primary technical thread, but Episode 2 also carries a
+    meaningful Nathan/Alex relationship progression, Nathan settling into the new school's academic/social
+    environment, football/team integration, and the Pierce family's adjustment to California. On the
+    *Modern Family* side, **Come Fly with Me** (7 October) and **The Incident** (14 October) provide canon
+    AU material; they should intersect Nathan only when his existing life naturally touches them. The episode
+    does not need an invented replacement canon episode.
 
 Detailed protagonist record: canon/characters/NATHAN_PIERCE.md.
 
