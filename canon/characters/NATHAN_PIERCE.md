@@ -6,12 +6,12 @@ Updated: 2026-10-08
 ## Identity
 
 **Name:** Nathan Pierce
-**Age at entry:** 12, turning 13 during the opening arc.
+**Age at story opening:** 13. He was 12 immediately before the opening birthday.
 **Starting point:** Monday, **7 September 2009**, shortly before the *Modern Family* pilot. The real
 LAUSD school year opens on **Wednesday, 9 September 2009**. Nathan is still living in the Seattle area
 when the story begins; his father's sudden promotion creates the need for the family to relocate, and
 Nathan transfers to his new Southern California school on **Wednesday, 16 September 2009**. Nathan's
-birthday is **Monday, 21 September 2009**. The pilot's broadcast date is **23 September 2009**, and its
+birthday is **Monday, 7 September 2009**. The pilot's broadcast date is **23 September 2009**, and its
 story events are kept on that real date unless a scene or continuity reason requires otherwise.
 
 The opening deliberately begins before the move. The reader first sees Nathan as an advanced young
