@@ -68,7 +68,8 @@ The Pilot should not interrupt Nathan's own plot. A scene can move from an ordin
 Nathan programming that same evening, with the canon event occurring elsewhere.
 
 The final movement, roughly **24–30 September**, gives the reader a full week of consequences after the
-Pilot:
+Pilot. On **30 September**, *The Bicycle Thief* can run as the final canon anchor of the episode, again
+mostly in parallel with Nathan's own day:
 
 - Alex and Nathan have a second and third ordinary interaction;
 - Nathan starts becoming a recognizable person in her day rather than a new classmate;
