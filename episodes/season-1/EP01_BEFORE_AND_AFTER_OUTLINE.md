@@ -995,3 +995,305 @@ Use dates heavily in the underlying timeline, but let prose jump:
 "Three days later..."
 
 The reader should feel time passing without reading a diary.
+
+
+---
+
+# Expanded scene architecture — causal / narrative pass
+
+Status: WORKING ADDENDUM
+Updated: 2026-10-08
+
+This layer is deliberately richer than the final prose. It records the causal chain behind visible scenes so the
+episode can later be edited into a fluid narrative rather than written as a calendar.
+
+## Narrative camera
+
+Nathan remains the default centre of the episode, but the camera may leave him when another character's
+actions create a consequence Nathan cannot see.
+
+Useful modes:
+
+- Nathan-centered scene: objective action + Nathan's interpretation.
+- Family cutaway: a short self-contained scene showing what the Dunphys/Pritchetts/Pierces are doing
+  independently.
+- Consequence cutaway: show a small decision by another character before its effect reaches Nathan.
+- Canon parallel: show a canonical family thread because it is interesting in itself, not because Nathan
+  needs to be present.
+
+The reader is therefore allowed to know more than Nathan.
+
+## Causal spine
+
+### 7 September — birthday without school
+
+1. Labor Day removes the normal school routine.
+2. That gives Nathan a longer uninterrupted morning.
+3. He spends more time with the prototype.
+4. The extra test exposes the repeated-path cost earlier.
+5. David's work call happens in the middle of an otherwise normal birthday.
+6. Nathan notices the call but cannot yet connect it to a concrete change.
+7. The evening benchmark becomes the first technical and narrative pressure point.
+
+The birthday is therefore not decorative: the unusual day gives the opening more space and plants the work
+problem immediately.
+
+### 8–13 September — established life before displacement
+
+Nathan's old school, football team and coding routine are shown in different scenes rather than one exposition
+dump.
+
+The important causal relationship is:
+
+**existing competence → existing social trust → move removes the context in which that competence is already
+recognized.**
+
+This is why the first new-school scenes should deliberately feel less comfortable even though Nathan has
+not changed.
+
+The competitive teammate introduced at the old school should have one concrete unresolved need (for example,
+more playing time or a tactical role). Nathan handles it practically and the teammate begins to trust him.
+The later farewell therefore has a specific relationship to lose.
+
+### 10–11 September — promotion becomes a real event
+
+The promotion should not appear as information created for the episode at the moment Nathan is told.
+
+Backstory already exists:
+
+- negotiations were happening before 7 September;
+- David knew California was a possibility;
+- Melissa knew enough to discuss logistics;
+- the company had a relocation provider;
+- the final confirmation came later.
+
+This makes the family's rapid move believable.
+
+A small scene from David's perspective can occur before Nathan learns anything.
+
+The reader can therefore realize that Nathan's old life is already becoming temporary before Nathan knows it.
+
+### 12–15 September — departure
+
+The final football match should pay off the old teammate thread.
+
+Nathan's self-undervaluation appears here in a non-romantic form:
+when someone says they will miss him, he assumes politeness before accepting that the feeling may be real.
+
+The move then removes familiar social reinforcement.
+
+At the temporary rental, use a restrained "first night" sequence:
+the house is physically functional but psychologically unfinished.
+
+Nathan chooses one room corner for the computer because he needs something familiar.
+
+That choice later lets the same physical place feel gradually transformed by Episode 2.
+
+## 16–22 September — building a social map
+
+### 16 September
+
+The first day should not contain every possible "new kid" beat.
+
+Suggested sequence:
+
+**arrival → one academic test → lunch/transition → football → pickup/Claire → evening coding**
+
+The Alex sighting works best when it occurs during a transition rather than as an isolated romance scene.
+
+Nathan recognizes her.
+
+He does not approach.
+
+Later, Claire recognizes that he is new.
+
+These two events occur in the same day but have completely different emotional weight for Nathan.
+
+### 17 September — revised Alex beat
+
+Nathan does **not** interact with Alex because he plays cello.
+
+Alex's cello remains part of her independent life, but Nathan's second sight should arise from a
+normal school transition such as:
+
+- moving between an academic classroom and the music wing;
+- seeing Alex carrying the cello case while Nathan is on the way to his own activity;
+- passing the music-room corridor after being sent to another classroom;
+- briefly waiting in a shared corridor while Alex comes out of practice.
+
+The point is not the instrument.
+
+The point is that Nathan learns a second real-world detail about her that memory alone cannot provide:
+what her actual school-day rhythm looks like.
+
+No conversation is required.
+
+### 18 September — first real Alex interaction
+
+The book/resource exchange remains the anchor.
+
+The hidden causal rule is:
+
+**Nathan already owns the useful material because he genuinely studies that subject → Alex happens to need that
+material → the existing possession creates the interaction.**
+
+It must not feel like Nathan carrying a prop because the author needs Alex to speak to him.
+
+After the scene, Nathan's interpretation should remain more negative than the reader's.
+
+### 19 September — Haley
+
+The weekend meeting should arise from the shared geography established by the temporary rental and
+Nathan's football routine.
+
+The exact micro-event can be selected during prose drafting according to the physical blocking of the
+scene. It should not be fixed so tightly that it reads manufactured.
+
+### 21–22 September — repetition rather than escalation
+
+The key change is not "romance increases."
+
+The key change is:
+
+**first contact → recognition → remembered interaction → easier second interaction → voluntary third
+interaction.**
+
+Nathan speaking one small sentence first on 22 September is enough to show movement.
+
+Alex does not need to think, "I like him."
+
+She only needs to choose to keep talking.
+
+## 23 September — Pilot without Nathan insertion
+
+The Pilot should be allowed to breathe as its own ensemble story.
+
+The camera may spend meaningful time away from Nathan.
+
+A useful structural rhythm is:
+
+**Nathan school routine → Dunphy/Pritchett canon thread → Nathan game → another canon beat → Alex/family
+material → Nathan night scene**
+
+Nathan's prior knowledge can create irony, but he should not narrate the episode to the reader.
+
+Where remembered canon predicts a reaction, the story may deliberately show the real reaction from another
+character's perspective.
+
+## 24–30 September — consequences become more visible
+
+The important development is the beginning of the butterfly effect.
+
+Nathan should not immediately cause a giant divergence.
+
+Instead, use small changes:
+
+1. one timing difference;
+2. one person now knows Nathan exists;
+3. one ordinary conversation happens;
+4. that person makes a slightly different decision;
+5. another character encounters the result later.
+
+A cutaway can show steps 3–4 before Nathan ever notices step 5.
+
+### Example causal style
+
+Claire's day changes a minor errand.
+
+Nathan's day independently creates another errand.
+
+The two schedules overlap.
+
+The resulting meeting is technically a coincidence, but the reader can reconstruct why both people were
+there.
+
+That is the preferred model for later encounters.
+
+## 24–30 September — game causality
+
+The technical thread should visibly build from earlier measurements.
+
+### Baseline
+
+A* solved the immediate navigation problem but repeated the same computation too often.
+
+### Adaptation
+
+Nathan reviews the field-based method he already studied.
+
+### Integration
+
+The shared field handles broad navigation.
+
+Local steering handles collision and movement differences.
+
+### New problem
+
+Navigation is not destination selection.
+
+The player can still make choices that invalidate a purely reactive system.
+
+### First prediction/influence layer
+
+Nathan therefore experiments with:
+
+- last-known position;
+- recent direction;
+- likely exits;
+- weighted future positions;
+- decay of stale information.
+
+Each step is an engineering response to an observed failure, not a sudden "genius idea."
+
+## 30 September — episode closing state
+
+The episode should close on **partial arrival**, not completion.
+
+Nathan now has:
+
+- a local routine;
+- several people who recognize him;
+- an actual repeated connection with Alex;
+- a football foothold;
+- a functioning technical direction;
+- a temporary house that no longer feels completely temporary.
+
+But he still does not have:
+
+- the finished game;
+- deep friendships;
+- certainty about Alex;
+- certainty that his remembered future will remain usable.
+
+That tension carries directly into Episode 2.
+
+## Backpropagation ledger for later use
+
+| Seed in Episodes 1–2 | Later possible payoff |
+|---|---|
+| Nathan credits teammates rather than himself | Later leadership and self-worth conflict |
+| Nathan keeps useful books/resources | Future school/research opportunities |
+| Nathan's rental computer corner becomes his stable workspace | University/research habit later |
+| David's relocation process uses professional support | Future family moves/career realism |
+| Phil first knows Nathan through football | Future realtor/house purchase bridge |
+| Claire first remembers Nathan as a polite new student | Later parent-level familiarity |
+| Alex remembers the book conversation | Relationship begins from accumulated small memories |
+| Nathan studies field navigation before implementing it | Later technical achievements retain causal history |
+| Teammate wants more playing time | Future friendship, competition, trust |
+| Nathan over-explains then self-corrects | Recurring perfectionism/social restraint |
+| Nathan assumes praise is politeness | Long-running self-undervaluation |
+| Temporary rental is deliberately temporary | Later permanent-neighbor decision has room to be earned |
+
+## First-draft freedom
+
+These are continuity constraints, not prose constraints.
+
+During the first prose pass:
+
+- dialogue can discover itself;
+- exact micro-blocking can change;
+- two short beats can become one scene;
+- one planned beat can disappear;
+- a stronger causal connection discovered while writing can be backpropagated into the grid.
+
+The revision pass should then repair continuity rather than forcing the first outline to survive unchanged.
