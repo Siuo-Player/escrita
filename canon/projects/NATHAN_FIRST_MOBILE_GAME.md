@@ -468,43 +468,66 @@ This keeps his advantage from becoming a cheat sheet.
 
 ## Development calendar and school-night workload
 
-The game is developed over roughly **7–8 calendar weeks**, with about **6 weeks of substantial technical
-development** and the final week or two devoted mainly to playtesting, packaging and release preparation.
+The complete development now runs from **7 September to approximately 15 October 2009**: about **39 days
+(5½ weeks)**.
 
-A strong narrative calendar is:
+This is deliberately faster than the earlier 7–8 week plan because Nathan already knows what he wants to
+build, has strong C++ skills, uses an existing 2D framework, and has no major failure besides the A* →
+flow-field redesign.
 
-- **17–23 Aug:** concept, map grid, input/rendering and one enemy prototype.
-- **24–30 Aug:** conventional A* baseline working with several enemies.
-- **31 Aug–6 Sep:** stress testing and profiling reveal that repeated pathfinding is the major cost.
-- **7–13 Sep:** Nathan reviews flow-field material and builds the first shared cost/direction field.
-- **14–20 Sep:** flow field stabilizes; local steering is added; the family moves and Nathan enters school.
-- **21–27 Sep:** player prediction/influence map, integration and update-frequency tuning.
-- **28 Sep–4 Oct:** device testing, balancing and optimization.
-- **5–11 Oct:** final playtesting and release preparation.
+A useful narrative target is roughly **60–85 focused development hours**.
 
-Because Nathan already knows the general shape of the project, has strong C++ skills and does not waste time
-on dead ends apart from the A* → flow-field redesign, a believable total is roughly **70–100 focused
-development hours**.
+### Compressed development phases
 
-During school weeks he usually has only about **10–14 focused programming hours**, concentrated on Monday,
-Wednesday, Friday, Saturday and Sunday. Tuesday and Thursday are normally football nights. This prevents
-the game from consuming every part of his life while still allowing unusually rapid progress for a
-thirteen-year-old who is already highly prepared.
+- **7–9 Sep:** concept locked; grid, input/rendering and one enemy prototype.
+- **10–13 Sep:** conventional A* baseline; several enemies; first small playable map.
+- **14–15 Sep:** move interrupts work; technical work continues only in fragments.
+- **16–23 Sep:** stress test exposes repeated pathfinding cost; Nathan reviews material he has already
+  studied and adapts the shared flow field.
+- **24–30 Sep:** flow field stabilizes; local steering and shared navigation integrate; first prediction
+  experiments.
+- **1–7 Oct:** player prediction/influence field becomes reliable and connects to goal selection.
+- **8–12 Oct:** profiling, caching, update-frequency reduction, device tests and balancing.
+- **13–15 Oct:** final playtest, cleanup, packaging and release.
 
-The scope is what makes the schedule credible:
+### Why the shorter schedule is credible
 
-- one small game;
+Nathan is not learning programming or game development from zero.
+
+He already has:
+
+- strong C++ ability;
+- substantial self-study in computer science and game AI;
+- a clear design target;
+- experience with the tools he is using;
+- a narrow game scope;
+- purchased/commissioned assets instead of creating all art himself.
+
+The work is accelerated by the absence of large side systems:
+
 - few enemy archetypes;
 - compact maps;
 - simple assets;
-- no network system;
-- no large physics system;
 - no custom engine;
-- the technical ambition is concentrated in AI, navigation and optimization.
+- no network system;
+- no large physics simulation;
+- no major debugging disaster.
 
-The important milestone for the story is therefore not simply "Nathan finishes a game." It is that a very
-small game reaches a polished vertical slice unusually quickly because Nathan understands the problem,
-measures his implementation and spends his effort on the part that actually matters.
+The one important architectural detour is **A* → flow field**. Once Nathan recognizes that the expensive
+part of his prototype is repeated global navigation for agents sharing destinations, progress becomes much
+faster.
+
+During school periods, the default workload is roughly **10–14 focused programming hours per week**,
+with somewhat denser work possible before/around the move and during weekends. The move itself is treated
+as a temporary interruption rather than a reason to pretend he can code normally every day.
+
+The story should therefore present the achievement as:
+
+**a small game completed unusually quickly by a highly prepared thirteen-year-old who knows what he is
+doing, measures his work, and keeps the scope under control.**
+
+The technical achievement is the quality of the architecture and the optimization discipline, not the
+quantity of content.
 
 ## Novel presentation rules
 
