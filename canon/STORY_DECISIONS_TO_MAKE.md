@@ -4,8 +4,14 @@ Status: WORKING
 Purpose: decisions needed before building the first durable episode/arc.
 Updated: 2026-10-08
 
-The list is ordered by dependency. We do not need to decide every detail immediately. Resolved items
-are recorded so they are not asked again.
+The list is ordered by dependency. We do not need to decide every detail immediately.
+
+**Historical-context rule:** the repository was initially incomplete. Decisions previously discussed and explicitly
+accepted outside Git are preserved in `canon/ACCEPTED_STORY_FOUNDATION.md`. They are working canon and should
+not be reopened as though they were new proposals.
+
+Newer decisions already present on `main` are the current repository context. Material introduced after that
+state must not be treated as established canon until reconciled with the user's prior decisions.
 
 ## A. Resolved foundation
 
@@ -85,8 +91,8 @@ are recorded so they are not asked again.
     Alex's later middle-school graduation. The default rhythm is programming on Monday/Wednesday/Friday,
     football training Tuesday/Thursday, a Saturday match, and lighter planning/programming on Sunday.
     Classroom scenes should reveal intelligence and personality through teacher interactions rather than
-    repeated praise. The opening period includes Nathan's birthday on 7 September, his distant observations of Alex after the
-    16 September school transfer, a practical first interaction initiated by Alex on 18 September, and a
+    repeated praise. The opening period includes Nathan's birthday on 7 September, the 16 September
+    school transfer, multiple small pre-Pilot contacts with Alex/Claire/Phil/Haley, and a
     pilot-parallel programming scene on 23 September. Full reusable schedule: `canon/timeline/SEASON_1_CONTINUITY.md`.
 
 20. **Parallel-plot rule:** every episode should contain several simultaneously existing threads rather than
@@ -111,9 +117,12 @@ Detailed protagonist record: canon/characters/NATHAN_PIERCE.md.
 ## B. Still to decide — useful for the first arc
 
 ### 1. Nathan's exact birth date and starting calendar date
-**Resolved:** birthday is **7 September 1996 (Saturday; he turns 13 on Monday, 7 September 2009)**. Nathan transfers to school on **16 September
-2009 (Wednesday)**, one week after the LAUSD year opening on 9 September. The pilot's broadcast date is
-23 September 2009 and can also serve as its in-universe date.
+**Resolved:** birthday is **7 September 1996**. He turns 13 on **Monday, 7 September 2009**. Nathan transfers
+to school on **Wednesday, 16 September 2009**, one week after the LAUSD year opening on 9 September. The
+pilot's broadcast date is **23 September 2009** and can also serve as its in-universe date.
+
+Labor Day is the first Monday of September, so 7 September 2009 being Labor Day is simply part of this
+season's calendar; the birthday is not moved to avoid that coincidence.
 
 ### 2. Nathan's personality weaknesses
 **Resolved:** the selected weaknesses are fear of seeming arrogant, strong fear of rejection, strong
@@ -121,10 +130,13 @@ self-undervaluation (including appearance, intelligence, competence and romantic
 reluctance to seek new friendships. The broader self-undervaluation is a recurring engine of the
 Nathan/Alex slow burn.
 
-### 3. Parents' final occupations and family history
-A working proposal exists: father as technology executive/co-founder and mother in a demanding professional
-career. Decide whether to keep this exactly or refine it. Once locked, these details should rarely drive
-the plot but will prevent later contradictions.
+### 3. Parents' baseline occupations and family history
+**Resolved at baseline level:** David is a technology executive and early co-founder of a successful private
+software company. Melissa has a demanding professional career outside core software engineering.
+
+The exact sector/title of Melissa's work may remain a local background detail until the narrative needs it.
+The family is affluent but not billionaire-level wealthy; money creates opportunity rather than competence or
+plot immunity.
 
 ### 4. Nathan's first concrete technology project
 **Resolved in design:** a small 2D mobile game for conservative 2009 hardware. Nathan builds the important
@@ -144,11 +156,11 @@ These can be friends, teammates, classmates, mentors or another person who gives
 outside the Dunphys.
 
 ### 7. Alex relationship pacing
-The intended final pairing is fixed as **Nathan + Alex**, but decide:
-- when mutual attraction becomes explicit;
-- when they first date;
-- how long the early slow-burn lasts;
-- which normal misunderstandings or disagreements create pauses.
+The final pairing and the slow-burn structure are already accepted.
+
+Nathan likes Alex first. The early dynamic can remain a long period where both suspect the other may like them,
+but neither is certain enough to risk definite rejection. Do not predetermine a dating episode; let dating emerge
+from the accumulated progression of the episodes.
 
 ### 8. Haley complication
 A later adult-only physical relationship between Nathan and Haley is permitted during a real separation
@@ -162,10 +174,21 @@ establish first impressions of several of them without turning Nathan into a par
 family-reunion sequence.
 
 ### 10. Opening-week canon intersection
-**Working:** use ordinary neighborhood/school/activity encounters to establish first impressions before
-the pilot. Candidate first contacts are Alex at school, Claire and Phil as nearby adults, and Luke or
-another family member through sport/neighborhood life. At least four family members should know Nathan by
-the pilot without making him artificially central to the episode.
+**Resolved:** before the Pilot, Nathan has four distinct contact lines with the Dunphy orbit:
+
+- **Claire — 16 Sep:** brief school pickup-area encounter.
+- **Phil — 17 Sep:** brief football/community-field conversation.
+- **Haley — 19 Sep:** very small weekend local encounter.
+- **Alex — 16–22 Sep:** several school contacts, with the first substantial conversation on 18 Sep.
+
+The dates are fixed for continuity, but exact micro-blocking remains flexible and can be improved in prose
+and backpropagation. Nathan is still outside the Pilot's central reunion.
+
+Important correction: Nathan does **not** play cello. Alex's cello practice is an independent part of her
+schedule and may create a natural corridor/transition sighting on 17 Sep, but it is not a shared activity.
+
+Detailed plan:
+episodes/season-1/EP01_PREPILOT_CONTACT_THREADS.md.
 
 ### 11. Canon changes
 Which tragedies/bad decisions are specifically priorities for Nathan to prevent in the first year?
@@ -177,6 +200,21 @@ Pick a normal range once we begin drafting.
 ### 13. Exact tone balance
 Current target: comedy + warmth/family + slice-of-life + growth, with drama/romance appearing naturally.
 
+### 14. Episode character-grid workflow
+**Resolved as process:** before scene writing, create an episode-level schedule/state grid for the recurring
+cast. The grid records where characters plausibly are, what they are doing, their private thread, and likely
+overlap windows. Scenes are selected from those overlaps afterward. The final prose may use only a fraction of
+the grid.
+
+Operational document:
+canon/timeline/SEASON_1_CHARACTER_EPISODE_GRIDS.md.
+
+### 15. Future permanent-neighbor setup
+**Working:** the September house is temporary. A permanent home purchase occurs only after the family has
+spent meaningful time in California and knows the area. The eventual house should place the Pierces directly
+next to or immediately beside the Dunphys. This later change increases natural interactions and can also give
+Phil a credible role in the purchase because of his real-estate profession.
+
 ## C. Decisions that can stay WORKING for now
 
 Geographic micro-details, exact house layout, detailed finances, minor character biographies, long-term
@@ -184,18 +222,63 @@ career details, exact university thesis topic, crossover policy, and most late-s
 
 We should not lock these prematurely. They can be created when the causal narrative needs them.
 
-## First-arc minimum
+## Current planning priorities
 
-Before Episode 1 is drafted in full, we only need:
-1. parents' final baseline details;
-2. first recurring outside-friend(s);
-3. Alex relationship pacing for the first year;
-4. first-year tragedy/intervention priorities.
+The project has moved beyond the "decide the foundation before writing" stage.
 
-The opening calendar, personality profile, pilot-intersection rule and first mobile game are now recorded
-in the canon.
+The next priorities are now:
 
-The calendar, personality weaknesses and first technology project are now sufficiently established to
-write around.
+1. finish causal/backpropagation passes over Episodes 1–2;
+2. develop Episodes 3–4 enough to establish the first normal-life and first-major-divergence patterns;
+3. build the Season 1 master architecture while keeping individual episode boundaries flexible;
+4. only then expand the series macro-arc to the level necessary to protect long-range continuity;
+5. draft prose and use external analysis tools after enough prose exists to make their feedback meaningful.
 
-Everything else can remain provisional and evolve through the story.
+The following are already established and should not be repeatedly reopened:
+- Nathan's core personality and self-undervaluation;
+- reincarnation model;
+- Modern Family memory model;
+- fragmented future knowledge;
+- Alex as final partner;
+- canon proportion/parallelism;
+- season-as-year structure;
+- backpropagation;
+- character-grid workflow;
+- causal foreshadowing/provenance method;
+- multi-character camera/ensemble scenes;
+- fixed pre-Pilot contact dates.
+
+Open decisions remain local or future-facing: recurring friend identities, exact intervention priorities,
+later academic opportunities, permanent-house timing, precise long-range technical projects and details of
+late-series arcs.
+
+
+## D. Narrative method decisions — established
+
+The following are now part of the working methodology rather than open choices:
+
+1. **Character lives first:** create detailed character schedules, private goals, actions and likely overlaps
+   before selecting visible scenes.
+2. **Scene assembly:** the final prose shows only a fraction of the underlying world. The writer's final job
+   is to edit the richest internal reality into the strongest narrative sequence.
+3. **Natural intersections:** approximately 90% of recurring interactions should arise from routines, prior
+   decisions, geography, obligations or believable chains of cause and effect. Coincidences remain part of
+   life, but should not be overused.
+4. **Causal foreshadowing:** ordinary details may be deliberately shown because they later matter. This includes
+   purchases, meals, routes, schedules and objects with believable provenance.
+5. **Strong backpropagation:** when a later scene needs stronger causal support, revise backward through prior
+   scenes and, if necessary, unseen history. Add an explanatory scene only when it improves the reader's
+   understanding.
+6. **Reader-visible butterfly chains:** small decisions may be shown from other characters' perspectives so
+   the reader can see consequences accumulating before Nathan does.
+7. **Dialogue first pass:** prioritize natural conversation; revise later for repetition, technical exposition
+   and unnecessary explanation.
+8. **Multiple cameras:** Nathan is the protagonist, not the permanent camera. Ensemble, character-centered and
+   canon-parallel scenes are valid when they have independent narrative value.
+9. **Canon independence:** canonical plots may be shown substantially without Nathan and should not be forced
+   into his storyline.
+10. **Revision order:** causal correctness → character motivation → relationship progression →
+    timeline/provenance → scene order → pacing → repetition/exposition → sentence-level style.
+
+Full method:
+canon/narrative/NARRATIVE_METHODOLOGY.md.

@@ -16,6 +16,11 @@ California in 2009. When a detail is directly supported by *Modern Family* canon
 The purpose is to make encounters happen because people actually share geography and time, rather than because
 the outline needs them to meet.
 
+For Episode 1, the detailed pre-Pilot contact sequence is:
+16 Sep Claire → 17 Sep Phil → 19 Sep Haley, while Nathan/Alex accumulate contacts from 16–22 Sep.
+The temporary rental is local but not directly next door to the Dunphys. The eventual permanent house can
+change that much later.
+
 ## School structure
 
 ### Nathan — old Seattle-area school
@@ -263,3 +268,15 @@ When planning a scene, check three things:
 
 Only then decide whether the meeting is worth showing.
 
+
+
+## Episode-level schedule grid
+
+Detailed day-by-day character states and scene-ready overlaps are kept in
+canon/timeline/SEASON_1_CHARACTER_EPISODE_GRIDS.md.
+
+Use that grid after the recurring weekly rhythm is understood. The workflow is:
+**character lives → episode plot threads → possible overlaps → selected scenes → prose**.
+
+This prevents a common continuity failure in which a character leaves one scene and appears in another
+location without enough time, motivation or transit to justify the change.

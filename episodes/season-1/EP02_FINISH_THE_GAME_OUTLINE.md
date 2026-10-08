@@ -691,3 +691,407 @@ A week can be represented by:
 - or a time jump.
 
 The underlying timeline is deliberately richer than the visible story.
+
+
+---
+
+# Expanded scene architecture — causal / narrative pass
+
+Status: WORKING ADDENDUM
+Updated: 2026-10-08
+
+Episode 2 should feel less like "the next set of introductions" and more like a life that has started running
+on its own.
+
+## Narrative camera
+
+The episode can cut away from Nathan more often than Episode 1 because the reader now understands the local
+world.
+
+Good reasons to leave Nathan:
+
+- show what another character is deciding;
+- establish a canon thread in its natural form;
+- show the next link in a butterfly chain;
+- let Alex/Haley/Claire/Phil have a scene whose value does not depend on Nathan;
+- show a domestic action whose consequence will matter later.
+
+Do not cut away simply to tick a character off a schedule.
+
+## 1–6 October — routine becomes infrastructure
+
+The most important change from September is invisible.
+
+People now remember Nathan.
+
+That means:
+
+- teachers address him by name;
+- teammates include him in plans;
+- Alex can start talking without explanation;
+- Claire/Phil can recognize him in public;
+- Nathan no longer has to mentally map every room before acting.
+
+### 1 October — first "ordinary" Alex conversation
+
+The conversation should begin without an academic excuse.
+
+Possible natural triggers:
+
+- Alex comments on something from class;
+- Nathan mentions a book/project nearby;
+- they walk the same corridor;
+- Alex asks a trivial question she could answer herself but wants to ask him anyway.
+
+The important thing is that neither character needs to justify why they are talking.
+
+Nathan almost uses the first reasonable exit.
+
+He doesn't.
+
+That is a larger relationship milestone than flirtation.
+
+### 2–3 October — reputation forms
+
+The teacher harder-exercise scene and the football-team scene should mirror each other.
+
+Academic side:
+someone now expects Nathan to handle difficult work.
+
+Football side:
+someone now expects Nathan to help solve a tactical problem.
+
+Nathan treats both expectations as normal because he is still underestimating his own significance.
+
+The world is beginning to disagree with his self-image.
+
+### Family routine
+
+The Pierce rental should also move from "boxes everywhere" to:
+
+- one preferred breakfast routine;
+- known grocery items;
+- established laundry/household patterns;
+- predictable David work hours;
+- Melissa's work rhythm;
+- Nathan's fixed desk/coding hours.
+
+These details should emerge in scenes, not become a household-management report.
+
+## 4 October — world texture
+
+The Sunday parallel scenes are an opportunity to establish the larger ensemble without Nathan.
+
+Suggested principle:
+
+**one action, one character, one consequence.**
+
+Examples:
+
+- Claire changes a household plan;
+- Phil confirms a client appointment;
+- Alex practices cello and puts away a book;
+- Haley changes weekend plans;
+- David moves a work commitment;
+- Melissa schedules a family task.
+
+Most of these do not need immediate payoff.
+
+Their function is to make later coincidences causal rather than authorial.
+
+## 5–6 October — Nathan/Alex without excuses
+
+The relationship should cross an invisible threshold here.
+
+Before:
+"we talk because something gives us a reason."
+
+Now:
+"we talk because we are comfortable enough to talk."
+
+The reader should notice the change before either character defines it.
+
+Alex also starts to notice Nathan's reaction to praise.
+
+This is useful because she observes something about him that Nathan's remembered canon cannot provide.
+
+That reinforces the central arc:
+Nathan knows Alex as a fictional person, but the real Alex is becoming someone he has to learn directly.
+
+## Game progression: 1–9 October
+
+The technical work should be shown as a sequence of problems and measured solutions.
+
+### Stage 1 — prediction instability
+
+The model overcommits when it has too much recent information.
+
+Nathan introduces uncertainty.
+
+### Stage 2 — decay
+
+Old observations become less trustworthy.
+
+The influence field therefore changes over time instead of becoming a permanent route oracle.
+
+### Stage 3 — integration
+
+Prediction selects a plausible destination.
+
+The navigation field moves agents toward it.
+
+Steering keeps the local motion believable.
+
+The systems have distinct responsibilities.
+
+### Stage 4 — adversarial testing
+
+Nathan deliberately tries to break the system:
+
+- repeat the same escape route;
+- reverse direction;
+- create multiple possible exits;
+- increase enemy count;
+- force congestion;
+- run on weaker hardware.
+
+The important character beat is not that he succeeds.
+
+It is that he expects the system to fail and gets annoyed when it does.
+
+That is perfectionism expressed technically.
+
+## 7 October — Come Fly with Me
+
+Do not make the episode a Nathan recap of the canon.
+
+The canon thread can occupy a substantial portion of the episode's ensemble story because it is already part of
+the world.
+
+Nathan's role is primarily parallel.
+
+Potential structure:
+
+- a canon family scene;
+- Nathan's ordinary school scene;
+- canon continuation;
+- Nathan's evening technical breakthrough;
+- Alex/family scene;
+- a short consequence that does not require Nathan.
+
+This preserves the source episode's identity while allowing the AU's own plot to grow beside it.
+
+## 8–9 October — technical confidence / social uncertainty
+
+Nathan's game is now working well enough that he can become confident in the code.
+
+At the same time he remains uncertain socially.
+
+That contrast should be visible.
+
+A useful scene pair:
+
+**coding:** Nathan changes architecture decisively.
+
+**Alex:** Nathan spends several seconds deciding whether to say goodbye before finally saying it.
+
+This difference keeps him from becoming uniformly "confident."
+
+## 10 October — football + device test
+
+The Saturday match should serve three purposes at once:
+
+1. continue the football relationship;
+2. give Nathan a social invitation or ordinary interaction;
+3. provide a real-world context for testing the game on hardware.
+
+The third element must have believable provenance.
+
+Nathan should already own, borrow or have access to the device through an established route.
+
+Do not make a new device appear exactly because the outline needs a test.
+
+A small imperfection on real hardware is useful:
+the game works, but performance reveals something the development machine hid.
+
+That gives Nathan one final optimization problem.
+
+## 11 October — domestic stability
+
+This is where the temporary rental can quietly cross from "temporary accommodation" to "our house for now."
+
+Do not announce the transition.
+
+Show it:
+
+- someone has a preferred mug;
+- groceries are bought from the same shop;
+- David knows where his keys are;
+- Nathan leaves the computer running because the desk is now his;
+- Melissa changes something in a room because it is easier than living out of boxes.
+
+Later, this makes the eventual permanent-house move emotionally meaningful.
+
+## 12–13 October — perfectionism costs time
+
+The game is almost finished.
+
+Nathan keeps finding small things to fix.
+
+His technical choices should now create a non-technical cost:
+
+- less sleep;
+- less free time;
+- missed opportunity;
+- arriving tired;
+- declining a social activity.
+
+Alex notices the tiredness.
+
+Nathan interprets her concern as politeness.
+
+She does not necessarily accept that explanation herself.
+
+This creates a tiny divergence between what Nathan thinks and what the reader can infer.
+
+## 14 October — The Incident as a butterfly marker
+
+The canonical episode should still function as its own story.
+
+Nathan should not secretly "cause" the entire canon incident.
+
+Instead, use the event to test the limits of his memory.
+
+A good structure is:
+
+1. show enough canon that the reader understands the family conflict;
+2. cut to Nathan doing something unrelated;
+3. later let him encounter an outcome or changed timing;
+4. Nathan recognizes that the remembered sequence is no longer exact;
+5. he initially rationalizes the discrepancy;
+6. the reader has already seen the small preceding causes.
+
+This is the first important demonstration that his knowledge of canon is becoming a probability model rather
+than a script.
+
+## 15 October — release
+
+The release should remain deliberately modest.
+
+Nathan finishes because he decides that "good enough to release" is more valuable than infinite polishing.
+
+That decision is character development.
+
+Possible final sequence:
+
+1. final playtest;
+2. build/package;
+3. test on the actual target hardware;
+4. send the build to a very small group;
+5. receive one technically useful response;
+6. make one last correction;
+7. send the final build;
+8. close the profiler.
+
+The external recognition should be small but real.
+
+Someone noticing that the enemies "move differently" is enough.
+
+The story does not need instant popularity.
+
+## Alex state at the end
+
+The relationship should end the episode one step ahead of where it began, not five steps.
+
+By 15 October:
+
+- they seek each other out sometimes;
+- academic excuses are no longer necessary;
+- silence is becoming comfortable;
+- Alex knows Nathan is unusually hard on himself;
+- Nathan knows Alex likes talking to him;
+- Nathan still does not confidently conclude that she likes him romantically.
+
+That last uncertainty is useful.
+
+## Episode 2 causal chains
+
+### Chain A — teacher recognition
+
+1. strong answer in Episode 1;
+2. teacher remembers;
+3. harder exercise in Episode 2;
+4. teacher learns Nathan's outside interests;
+5. future academic opportunity becomes plausible.
+
+### Chain B — football friendship
+
+1. old teammate conflict establishes Nathan's leadership style;
+2. new-team competitive teammate needs help;
+3. Nathan gives practical assistance;
+4. teammate gets more playing time;
+5. trust forms;
+6. social invitations become believable.
+
+### Chain C — Alex
+
+1. book conversation;
+2. repeated school contact;
+3. Alex initiates;
+4. Nathan stays;
+5. she notices his insecurity;
+6. he starts treating conversation as ordinary;
+7. romantic possibility becomes visible without being declared.
+
+### Chain D — technical work
+
+1. A* bottleneck;
+2. flow-field adaptation;
+3. navigation/steering separation;
+4. influence/prediction layer;
+5. uncertainty/decay;
+6. adversarial testing;
+7. device test;
+8. release.
+
+### Chain E — household
+
+1. temporary rental;
+2. unpacking;
+3. recurring grocery route;
+4. preferred spaces;
+5. stable work/school routine;
+6. rental feels like home;
+7. future house purchase can therefore be motivated by practical quality-of-life concerns rather than
+only plot convenience.
+
+## Backpropagation opportunities beyond Episode 2
+
+These are author-side possibilities, not requirements to reveal them now.
+
+| Current seed | Later reinterpretation |
+|---|---|
+| Alex notices Nathan hates praise | She later becomes one of the people who challenges his self-image |
+| Nathan closes profiler "for tonight" | Adult perfectionism can later be linked to healthier stopping rules |
+| Hardware test exposes hidden performance issue | Future research style: test theory under real constraints |
+| Phil remembers Nathan as a football player | Later house-search relationship has social history |
+| Claire remembers Nathan from pickup | Later family familiarity can grow without a single "meet the parents" scene |
+| Nathan declines/hesitates over social activity | Later seasons can show how initiation anxiety changes rather than disappears |
+| The rental becomes home | Future house move can contain mixed feelings rather than pure excitement |
+| Canon prediction fails | Future butterfly effects become increasingly difficult to forecast |
+| Small objects have known provenance | Later payoff can occur when the object matters years afterward |
+| Alex's cello practice remains independent | Her character is not reduced to the romance with Nathan |
+
+## Revision test
+
+After the first prose pass, ask:
+
+- Is every important meeting caused by something?
+- Does every recurring object have a plausible origin?
+- Can the reader infer consequences before Nathan does?
+- Are the non-Nathan scenes interesting without becoming exposition?
+- Has Alex's relationship advanced through accumulated contact rather than authorial declarations?
+- Has the game advanced because Nathan solved observed problems rather than because the outline says it must?
+- Does the episode still feel like an ensemble *Modern Family* world rather than a Nathan-only universe?
+
+If a scene fails one of these, repair the causal layer before cutting the scene.

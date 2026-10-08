@@ -1,159 +1,190 @@
-# OpenWrite Codex Seed — Season 1 Foundation
+# OpenWrite Codex Specification — Modern Family AU / Nathan Pierce
 
-Status: WORKING / data-entry specification
+Status: WORKING / aligned with current OpenWrite implementation
 Updated: 2026-10-08
 
-This is the first seed set for the OpenWrite Codex. It describes what should exist as reusable entities
-when the series project is populated.
+## OpenWrite is the Codex
 
-## Project
+OpenWrite is the intended structured Codex/manuscript environment for this project.
 
-**Title:** Modern Family AU — Nathan Pierce
-**Type:** series
+The separate `escrita` repository remains the versioned planning/canon source.
 
-Core metadata:
-- period: 2009 onward;
-- primary setting: Southern California;
-- secondary opening setting: Seattle-area;
-- protagonist: Nathan Pierce;
-- canon baseline: Modern Family;
-- narrative model: episodic parallel plots;
-- Season 1 anchor date: 7 September 2009;
-- final intended age range: early-to-mid twenties.
+The OpenWrite project's role is to hold the same universe in connected entities so drafting can query:
 
-## Season 1 work
+- characters;
+- locations;
+- lore/rules;
+- plot threads;
+- season-level story elements;
+- episode/chapter elements;
+- scenes;
+- beats;
+- relationships between all of them.
 
-**Title:** Season 1 — 2009–2010
-**Work semantics:** season; store season number in metadata.
+The current OpenWrite schema supports project-level characters, locations, lore and plot points, and a unified
+graph whose story elements can be premise, act, chapter, scene, beat or plot point. Graph connections include
+story flow, character arc, setting, plot thread, thematic and reference links.
 
-Opening:
-- 7 September 2009;
-- Nathan's 13th birthday;
-- first episode begins before the move.
+## Hierarchy for this story
 
-### Episode 1 chapter
+### Project
 
-**Title:** Before and After
-**Story span:** 7–30 September 2009
-**Target:** 10k–14k words
+**Modern Family AU — Nathan Pierce**
 
-Primary threads:
-- Nathan's old life;
-- game prototype;
-- father's promotion;
-- relocation;
-- new school;
-- football;
-- Nathan/Alex;
-- Pilot;
-- The Bicycle Thief;
-- family background threads.
+Contains the complete series universe.
 
-### Episode 2 chapter
+### Work
 
-**Title:** Finish the Game
-**Story span:** 1–15 October 2009
-**Target:** 10k–14k words
+Use one Work for each story season.
 
-Primary threads:
-- game completion;
-- Nathan/Alex relationship;
-- school integration;
-- football integration;
-- Pierce family settling;
-- Come Fly with Me;
-- The Incident;
-- technical recognition without fame.
+A Work is **not** an individual episode.
 
-## Project-level characters
+This matters because a season follows one year and may contain many substantial chapters.
 
-Create once:
-- Nathan Pierce
-- David Pierce
-- Melissa Pierce
-- Claire Dunphy
-- Phil Dunphy
-- Haley Dunphy
-- Alex Dunphy
-- Luke Dunphy
-- Jay Pritchett
-- Gloria Pritchett
-- Manny Delgado
-- Mitchell Pritchett
-- Cameron Tucker
-- DeDe Pritchett
-- Dylan Marshall
-- recurring teachers
-- recurring football teammates
+### Chapter
 
-Recurring teachers and teammates should gain stable identities only when their repeated narrative role
-has become useful enough to justify naming them.
+Use each final story episode/chapter as a Chapter inside the season Work.
 
-## Project-level locations
+There is deliberately no fixed number of Chapters per Work.
 
-Create once, with nesting:
-- Seattle-area Pierce home
-- Nathan's old school
-- old football field/training ground
-- California temporary Pierce rental
-- new middle school
-- Alex's/ Nathan's school library
-- new football training ground
-- football match venue(s)
-- Dunphy house
-- Pritchett house
-- Jay's business
-- Mitchell/Cameron home
-- local supermarket
-- useful neighborhood shops
-- recurring streets/route between homes and school
+### Graph
 
-## Project-level lore
+Use graph nodes for:
+
+- season-level acts/movements;
+- episode/chapter structures;
+- scenes;
+- beats;
+- plot threads;
+- characters;
+- locations;
+- lore.
+
+Use connections to represent causal and narrative structure.
+
+## Core entities to create
+
+### Characters
+
+Project-level characters should include Nathan, the Pierce family, the Dunphy family, and relevant wider
+Modern Family characters.
+
+Character descriptions should contain stable canon + AU identity.
+
+Dynamic season state belongs in the season/episode graph and timeline rather than overwriting the permanent
+character identity.
+
+### Locations
+
+Project-level locations:
+
+- Seattle-area Pierce home;
+- old school;
+- old football environment;
+- California temporary rental;
+- new middle school;
+- recurring school library/academic spaces;
+- football locations;
+- Dunphy home;
+- wider family homes;
+- local shops/supermarket;
+- useful routes and neighborhood places.
+
+### Lore
 
 Core lore entries:
-- reincarnation and memory rules;
-- Modern Family canon knowledge limits;
-- butterfly-effect rules;
-- episodic parallel-plot rule;
-- Season 1 calendar;
-- school-grade/age continuity;
-- Nathan's technical background;
-- first mobile game design;
-- 2009 technology constraints;
+
+- reincarnation rules;
+- previous-life/current-life memory coexistence;
+- Modern Family memory limits;
+- fragmented future knowledge;
 - Nathan's intervention philosophy;
-- narration/POV rules;
-- backpropagation rules.
+- butterfly-effect rules;
+- causal foreshadowing;
+- backpropagation method;
+- narrative camera / epistemic limits;
+- season = approximately one year;
+- school/age continuity;
+- technology realism;
+- 2009 technical context;
+- prop provenance rule.
 
-## Project-level plot points / threads
+### Plot threads
 
-Create reusable plot threads:
-- Nathan's first mobile game;
-- relocation and adaptation;
-- Nathan/Alex slow-burn;
-- school reputation and teacher relationships;
-- football/social integration;
-- Pierce family adjustment;
-- Nathan's future AI trajectory;
+At project level:
+
+- Nathan's life / coming of age;
+- Nathan/Alex;
+- Pierce family;
+- school;
+- football;
+- technology / AI trajectory;
 - canon divergence;
-- object/prop continuity.
+- butterfly-effect chains;
+- wider Dunphy/Pritchett relationships.
 
-## Open notes/ideas
+At season level:
 
-Store as working notes until promoted:
-- first recurring football friend;
-- first recurring academic teacher;
-- permanent California house purchase;
-- first developer who inspects Nathan's game;
-- first consequential butterfly effect;
-- recurring household props;
-- future clubs/competitions;
-- Alex's longer-term academic activities.
+- Season 1 adaptation/belonging;
+- first technical achievement;
+- first friendship network;
+- first major canon divergence;
+- Nathan learning the difference between prediction and understanding.
 
-## Rule
+## Graph structure
 
-The Codex should be rich enough that a future drafting session can ask:
+The graph should preserve the distinction:
 
-"Where should Nathan be at 16:30 on Thursday, who else could reasonably be there, what are they doing, and
-what has changed since the last episode?"
+**series macro arc**
+→ **season master plot**
+→ **episode/chapter**
+→ **scene**
+→ **beat**
 
-The answer should be recoverable from the Codex + dated continuity timeline without guessing.
+Cross-cutting threads connect horizontally across all these levels.
+
+Examples:
+
+`Nathan/Alex` — character_arc —> scene
+`Nathan first game` — plot_thread —> multiple scenes
+`California temporary rental` — setting —> multiple scenes
+`A* bottleneck` — reference —> flow-field adaptation scene
+`first intervention` — plot_thread —> consequence scene
+
+## Important modelling rule
+
+Do not create a graph node merely because an outline contains a bullet.
+
+The Codex should represent stable entities and meaningful causal/narrative relationships.
+
+Detailed daily schedule data remains better suited to the versioned continuity files in `escrita`.
+
+OpenWrite is where those stable facts become interconnected and useful during drafting.
+
+## Current seed priority
+
+The Codex should first contain:
+
+1. stable core characters;
+2. recurring locations;
+3. core lore/rules;
+4. Season 1 master plot;
+5. Episodes 1–2;
+6. Season 1 plot threads;
+7. Episodes 3–4 as working chapters;
+8. only then further seasonal material.
+
+This ordering mirrors the actual narrative workflow and prevents a huge unverified database from becoming
+another source of canon drift.
+
+## Source-of-truth policy
+
+When information differs:
+
+1. explicitly accepted narrative decisions are authoritative;
+2. `escrita` versioned canon/timeline records the current resolved form;
+3. OpenWrite mirrors those facts for connected drafting;
+4. an OpenWrite-generated suggestion is **not** automatically canon;
+5. later AI-generated material must be reconciled before entering the stable Codex.
+
+This prevents the Codex from silently becoming another source of accidental retcons.
