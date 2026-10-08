@@ -9,7 +9,7 @@ The drafting process selects from it.
 ## Nathan
 
 ### Technology
-- 7 Sep: birthday; current game project becomes the main personal project for the opening arc.
+- 7 Sep: Nathan turns 13; the game project becomes the main personal project for the opening arc.
 - 7–13 Sep: establishes the prototype, one map, enemy movement and conventional A* baseline.
 - 14–15 Sep: move disrupts the development routine.
 - 16–23 Sep: profiler exposes repeated pathfinding work; Nathan recognizes the flow-field technique he has
@@ -52,14 +52,14 @@ The drafting process selects from it.
 
 ## Pierce family
 
-- 7 Sep: birthday/family routine before any move is announced.
-- 8–13 Sep: normal family life with hints that David's work situation is more important than Nathan realizes.
+- 7 Sep: birthday/family routine before the move is announced.
+- 8–13 Sep: promotion/relocation unfolds; David's role had been quietly negotiated beforehand, but the confirmation is sudden to Nathan.
 - 9 Sep: LAUSD year begins elsewhere, while Nathan's old-school routine continues.
 - 10–13 Sep: David receives/learns of promotion and California role; timing can be sudden from Nathan's
   perspective.
-- 13–15 Sep: move preparation, packing, travel, arrival.
-- 16–30 Sep: house setup, local errands, new routines and work demands.
-- 1–15 Oct: family stops feeling temporary and begins acquiring favorite places, routines and objects.
+- 12–15 Sep: move preparation, packing, relocation travel and arrival in an employer-arranged temporary rental.
+- 16–30 Sep: temporary-house setup, local errands, new routines and work demands; permanent home purchase remains a later subplot.
+- 1–15 Oct: family starts acquiring favorite places, routines and objects even though the house itself is still temporary.
 
 ## Dunphy/Pritchett/Tucker background threads
 
