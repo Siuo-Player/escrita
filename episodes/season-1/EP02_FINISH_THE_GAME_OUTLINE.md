@@ -7,7 +7,7 @@ Updated: 2026-10-08
 
 **1–15 October 2009**
 
-Target finished length: **10,000–14,000+ words**.
+Length: **long-form; no fixed word-count target**.
 
 The episode should feel like the beginning of normal life after the move. The game is the strongest through-line,
 but the episode must contain multiple independent plots.
@@ -16,7 +16,7 @@ but the episode must contain multiple independent plots.
 
 **Nathan is no longer trying to become settled; he is settled enough to start building something.**
 
-The game reaches completion around the middle/later part of the episode.
+The game that **began on 7 September in Episode 1** reaches its established release point on **15 October**. Episode 2 is the second half of the same continuous project, not a new project.
 
 The emotional plot is quieter:
 Nathan and Alex become comfortable enough that their conversations no longer require an excuse.
@@ -1095,3 +1095,21 @@ After the first prose pass, ask:
 - Does the episode still feel like an ensemble *Modern Family* world rather than a Nathan-only universe?
 
 If a scene fails one of these, repair the causal layer before cutting the scene.
+
+## Game continuity
+
+Episode 2 continues the exact game begun in Episode 1.
+
+No reset occurs between episodes.
+
+Carry-over state:
+
+- A* has already exposed the repeated-cost problem.
+- Nathan has already adapted the flow-field approach he previously studied.
+- shared navigation and local steering are already integrated;
+- the remaining technical work is prediction/influence behavior, optimization, hardware constraints, balancing and release.
+
+The final release date remains **15 October 2009**.
+
+When Episode 2 begins on **1 October**, the reader should be able to feel the accumulated weeks of work:
+the codebase, terminology, bugs and design decisions all have history.
