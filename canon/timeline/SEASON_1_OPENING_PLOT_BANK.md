@@ -39,7 +39,7 @@ The drafting process selects from it.
 ## Nathan + Alex
 
 - 16 Sep: first sight at new school.
-- 17 Sep: second sight/academic context; no approach.
+- 17 Sep: second sight during an ordinary school transition; Alex's cello/musical routine is visible, but Nathan does not play cello and they do not share the activity.
 - 18 Sep: Alex initiates practical first conversation.
 - 21 Sep: second conversation; Alex remembers the earlier exchange.
 - 22 Sep: third brief contact before the Pilot.
@@ -123,7 +123,8 @@ The first episode now has four explicit contact lines before 23 September:
 - **16 Sep — Claire:** brief school pickup-area exchange with the new student.
 - **17 Sep — Phil:** brief football/community-field conversation.
 - **19 Sep — Haley:** brief weekend local encounter.
-- **16–22 Sep — Alex:** several school/cello/library/corridor contacts, with the first substantial exchange on 18 Sep.
+- **16–22 Sep — Alex:** several school/library/corridor contacts; Alex's cello routine can form background
+  texture, with the first substantial exchange on 18 Sep. Nathan is not a cello player.
 
 These are detailed in episodes/season-1/EP01_PREPILOT_CONTACT_THREADS.md.
 
