@@ -7,16 +7,19 @@ Updated: 2026-10-08
 
 **Name:** Nathan Pierce
 **Age at entry:** 12, turning 13 during the opening arc.
-**Starting point:** September 2009, shortly before the *Modern Family* pilot. The working calendar uses
-the real LAUSD school-year opening of **Wednesday, 9 September 2009** and places Nathan's transfer
-one week later on **Wednesday, 16 September 2009**. Nathan's birthday is **Monday, 21 September 2009**.
-The pilot's broadcast date is **23 September 2009**, and its story events are kept on that real date
-unless a scene or continuity reason requires otherwise.
+**Starting point:** Monday, **7 September 2009**, shortly before the *Modern Family* pilot. The real
+LAUSD school year opens on **Wednesday, 9 September 2009**. Nathan is still living in the Seattle area
+when the story begins; his father's sudden promotion creates the need for the family to relocate, and
+Nathan transfers to his new Southern California school on **Wednesday, 16 September 2009**. Nathan's
+birthday is **Monday, 21 September 2009**. The pilot's broadcast date is **23 September 2009**, and its
+story events are kept on that real date unless a scene or continuity reason requires otherwise.
 
-The short gap is deliberate: Nathan arrives in the Dunphys' broader neighborhood before starting school,
-meets several members of the family through ordinary local life, then meets Alex at school before the
-pilot. By the pilot, at least four members of the family already know who he is, even though Nathan is
-not inserted into the family's central reunion scene unless the plot naturally calls for him.
+The opening deliberately begins before the move. The reader first sees Nathan as an advanced young
+programmer, a capable football captain and a student with an established life of his own. The family then
+receives the unexpected news about his father's promotion, relocates to Southern California, and Nathan
+enters his new school. By the Pilot, at least four members of the Dunphy/Pritchett/Tucker orbit can know
+him through ordinary local encounters, school or activities, even though Nathan is not inserted into the
+family's central reunion scene unless the plot naturally calls for him.
 **School position:** one school year above Alex Dunphy.
 **Sex/gender:** male.
 
