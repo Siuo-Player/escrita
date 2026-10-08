@@ -1,274 +1,918 @@
 # Season 1, Episode 1 — Before and After
 
-Status: DRAFT OUTLINE / working
+Status: DRAFT OUTLINE / expanded working draft
 Updated: 2026-10-08
 
 ## Story window
 
 **7–30 September 2009**
 
-Target finished length: **10,000–14,000 words**.
+Target finished length: **10,000–14,000+ words**.
 
-Purpose: introduce Nathan's existing life before the move, establish his personality and technical competence,
-force the relocation, establish the new school and first Alex interaction, introduce the Dunphy orbit without
-making Nathan part of canon scenes, and end with the first full week after the Pilot beginning to settle into
-continuity.
+The episode should feel broad rather than rushed. It covers almost a month, but routine days are compressed.
+The reader should experience several complete "windows" into Nathan's life and understand what happens
+between them.
 
-## Core movement
+## Central movement
 
-**A boy who already has a life is suddenly moved into a new one.**
+**Nathan already has a life. The move does not create him; it displaces him.**
 
-The game is the technical spine, but the episode is not "about the game." The game, school, football,
-family and Alex thread should develop in parallel.
+The episode begins on his thirteenth birthday before school starts, with computing, football and an
+established social/academic identity. His father's promotion then abruptly redirects the family's future.
+The new school introduces Alex and a second social world. The episode closes with Nathan no longer entirely
+new, but still unfinished in both his new life and his game.
 
-## Threads
+## Persistent threads
 
 ### A — Nathan / game
-Start prototype → A* baseline → stress test → performance problem → flow-field pivot.
+Prototype → A* baseline → stress test → bottleneck → flow-field adaptation → first integrated field movement.
 
-### B — Nathan / old school
-Show his reputation through teacher interaction rather than exposition.
+### B — Old school
+Teachers and teammates already know Nathan. The reader sees why through interactions rather than exposition.
 
-### C — Nathan / football
-Established captain; social competence is visible once interaction is underway.
+### C — Football
+Nathan is already captain and comfortable inside an established team.
 
-### D — Pierce family / promotion and move
-Unexpected professional change → family decision → logistics → relocation.
+### D — Pierce family
+Birthday → promotion → logistics → relocation → temporary rental setup.
 
-### E — Nathan / new school
-New kid → teachers and classmates form first impressions.
+### E — New school
+New kid → teacher reactions → classmates → first foothold.
 
-### F — Nathan / Alex
-Recognition → avoidance → first interaction on 18 Sep → second contact after birthday.
+### F — Nathan + Alex
+Recognition → observation → avoidance → Alex initiates → repeated contact.
 
 ### G — Modern Family AU
-Pilot on 23 Sep and The Bicycle Thief on 30 Sep run in parallel when Nathan has no natural reason to be
-present.
+Pilot on 23 Sep and The Bicycle Thief on 30 Sep, shown in parallel unless Nathan has a genuine reason to
+intersect them.
 
-### H — background life
-Small purchases, packing, household setup, teammates, teachers, Dunphy errands and other independent goals.
+### H — Living background
+Shopping, packing, household setup, teammates, teachers, family members' independent plans, objects acquiring
+provenance.
 
-## Dated outline
+---
 
-### 7 Sep — birthday / opening scene
+## MOVEMENT I — 7–13 SEPTEMBER
+### Old life before the move
 
-- Nathan turns **13**.
-- Open with him already working on the game rather than with exposition about reincarnation.
-- Establish his technical ability through action: he is comfortable in C++, has a concrete design target,
-  and is already thinking about performance.
-- A small birthday interaction with his parents establishes warmth and normality.
-- His perfectionism appears in a trivial way: he is dissatisfied with something that already works.
-- He has a football responsibility later that day or in the first week, establishing that computing is not his
-  whole identity.
-- End the opening movement with a sense that this is an ordinary week.
+### 7 September — birthday / opening image
 
-### 8–9 Sep — old school baseline
+**Calendar:** Labor Day. No ordinary school day. citeturn275803search0turn275803search1
 
-**8 Sep**
-- Mathematics class: Nathan solves a problem unusually quickly.
-- Teacher asks him to explain the reasoning.
-- Nathan worries that a confident explanation will sound like showing off.
-- The teacher responds positively to the quality of the explanation, not to his "genius."
+#### Scene 1 — Nathan at the computer
+Open quietly with action rather than explaining reincarnation.
 
-**9 Sep**
-- LAUSD school year begins elsewhere; Nathan's school life continues normally.
-- Science class or lab: Nathan proposes a better test design.
-- Football practice: teammates joke with him; once they start talking, he is easy and funny.
-- Small background beat: Nathan's old teammates are already talking about an upcoming match; one player
-  wants more playing time.
+Nathan is thirteen today.
 
-### 10–13 Sep — game baseline / family news
+He is working on the game. The machine is already configured for C++ development. The game currently has:
+- a basic tile/grid map;
+- player movement;
+- one enemy archetype;
+- simple patrol behavior;
+- the first version of pathfinding.
 
-- Nathan gets several enemies moving with ordinary A*.
-- Initial test feels good.
-- He deliberately increases the enemy count instead of stopping after the first success.
-- Somewhere in this span David's work situation changes rapidly from "important" to "we may be moving."
-- News of the California promotion lands as a genuine family interruption.
-- Nathan's first reaction is practical: how soon, where, school, football, computer setup.
-- Emotional reaction comes later: he realizes he is leaving people and routines he already has.
-- His mother begins managing the logistics; Nathan helps where useful rather than becoming the center of
-  every family decision.
-- Background continuity: packing supplies, boxes, a household item being moved, an ordinary shopping trip.
+He is using A* because it is the sensible baseline, not because he lacks better ideas.
 
-### 14 Sep — last old-school football / recognition of departure
+Character beats:
+- he notices a small inefficiency before anyone else would care;
+- refuses to call the prototype "good";
+- thinks about the problem mathematically;
+- has a notebook with sketches rather than polished design documents.
 
-- One final meaningful old-school/team interaction.
-- Nathan has enough emotional connection to feel the departure, but he does not become melodramatic.
-- A teammate or coach tells him they will miss having him.
-- Nathan assumes they are being kind because he is leaving.
-- Evening: he runs the game benchmark with more enemies.
-- The profiler shows the same work being repeated by different guards.
-- Nathan notices the pattern but does not solve it immediately.
+The reader should infer advanced competence from the way he works.
 
-### 15 Sep — transition
+#### Scene 2 — birthday breakfast
+David and Melissa celebrate him.
 
-- Travel / arrival compressed through selected sensory details.
-- New house is not fully settled.
-- Nathan assembles enough of his computer setup to work.
-- Parent work schedules begin changing.
-- A brief neighborhood encounter can establish Claire and Phil naturally, without making Nathan an instant
-  family member.
-- Nathan sees the surrounding area and realizes the new school is close.
+Keep it domestic and ordinary.
 
-### 16 Sep — first day in new school
+Useful characterization:
+- Nathan tries to say he does not need much;
+- parents know he always says that;
+- a gift connected to football/computing can show they understand his interests;
+- he is more comfortable receiving practical gifts than emotional praise.
 
-- Nathan enters as the new student.
-- Teacher introductions.
-- He gives a good answer without volunteering more than necessary.
-- He sees Alex.
-- Recognition is immediate.
-- Attraction makes him want to speak.
-- He finds several reasons not to.
-- A short hallway/library observation establishes that Alex is real, not just a memory.
-- After school: first training/new football environment or a small sports contact.
-- Evening: Nathan looks again at the profiler. The move has not made the technical problem disappear.
+Do not make the birthday a monologue about destiny.
 
-### 17 Sep — Alex at a distance / school identity
+#### Scene 3 — football
+A holiday training session, pickup session or organized youth practice is plausible.
 
-- Nathan notices Alex in an academic setting.
-- Another student asks Nathan about something technical; Nathan answers naturally once addressed.
-- Alex may overhear enough to register that he is smart.
-- Nathan later assumes she probably did not notice him.
-- Teacher assigns or mentions a task that Nathan finds easy.
-- Evening: he re-reads material about shared navigation and recognizes the flow-field approach he has already
-  studied.
+Nathan is already captain.
 
-### 18 Sep — first Alex interaction
+Show the contrast:
+- in computing he works alone and overthinks;
+- once teammates talk to him, he jokes easily;
+- he makes a tactical suggestion;
+- a teammate follows it without drama.
 
-- Alex needs a book/resource connected to an advanced problem.
-- She notices Nathan has it and initiates the conversation.
-- The conversation is short and practical.
-- Nathan knows exactly who she is but behaves as though he does not know her at all.
-- Alex discovers he is helpful and not arrogant.
-- Nathan leaves thinking he probably sounded awkward.
-- That evening, he begins adapting the flow field.
-- A small technical success occurs, but steering is still imperfect.
+One teammate, **potential recurring peer**, is introduced as someone who trusts Nathan but also wants more
+playing time.
 
-### 19–20 Sep — weekend
+#### Scene 4 — quiet family undercurrent
+A very small domestic detail:
+- David takes a work call;
+- Melissa notices the tone of the conversation;
+- Nathan notices but does not know what it means.
 
-- Saturday football: Nathan begins earning trust in the new group but does not become captain.
-- One teammate is initially competitive with him.
-- Nathan's social personality is visible once the teammate starts talking.
-- At home, the family continues settling.
-- Nathan remembers Alex while coding, dislikes that he is distracted, and then keeps thinking about her.
-- No need for a romantic scene; the change is that the first conversation now exists in his memory as something
-  real.
+This plants the promotion before the reveal.
 
-### 21 Sep — Pilot lead-in, not a Nathan retelling
+#### Scene 5 — evening coding
+Nathan runs the prototype.
 
-- Nathan has a normal school day.
-- The game now has multiple guards using a shared flow field.
-- He starts noticing edge cases and local collision problems.
-- A family member can mention a neighborhood/family event without giving the Pilot away.
-- Nathan is aware of the date and knows what is happening in the Dunphy/Pritchett orbit, but he does not
-  manufacture an excuse to be there.
+One guard = fine.
 
-### 22 Sep — second Alex contact
+Five guards = fine.
 
-- Alex and Nathan have another ordinary school interaction.
-- The practical excuse is smaller or absent.
-- Nathan is surprised that the conversation continues.
-- Alex starts forming her own opinion of him.
-- Nathan interprets her friendliness as normal politeness.
-- Technical thread: local steering becomes cleaner.
+He decides to try more.
 
-### 23 Sep — Pilot / parallel canon
+The benchmark is not introduced as exposition. We see the number on his screen increase.
 
-**Modern Family thread — parallel**
-- Show the relevant family material from the people who are actually there.
-- Nathan is not inserted into the main reunion.
-- If useful, a short Nathan-adjacent consequence or later mention can bridge the threads.
+End beat:
+**"Why are five different guards all spending time finding essentially the same road?"**
 
-**Nathan thread**
-- School interaction or football reference.
-- Evening: Nathan sits at his computer while the Pilot's day has unfolded elsewhere.
-- He profiles the game again.
-- The prediction idea begins to take shape because last-known-position pursuit is too predictable.
-- End on a technical question rather than a completed solution.
+---
 
-### 24–27 Sep — first real settling
+### 8 September — old school begins
 
-- Nathan is no longer completely anonymous at school.
-- A teacher recognizes him from an earlier class.
-- One classmate begins sitting near him or asking for help.
-- Alex and Nathan have another small exchange.
-- Football: the competitive teammate starts treating Nathan as a useful teammate rather than a rival.
-- Pierce family starts establishing routines in the new neighborhood.
-- Nathan experiments with the prediction/influence map.
-- One early test works convincingly; another fails.
+#### Scene 6 — mathematics
+Nathan arrives at school already comfortable with the material.
 
-### 28–29 Sep — convergence
+Teacher gives a problem.
 
-- Several threads begin lightly intersecting.
-- A school problem or conversation gives Nathan an idea for the game.
-- Alex sees him working on something and asks a question.
-- Nathan gives a simplified answer because he does not want to sound pretentious.
-- At home, a normal purchase or unpacked object establishes something that can recur later.
-- Nathan's game now looks like a real small product rather than a prototype.
+Nathan solves it quickly.
 
-### 30 Sep — The Bicycle Thief / Episode ending
+Teacher asks him to explain it.
 
-**Modern Family thread — mostly parallel**
-- The Bicycle Thief happens on its established date.
-- Show only the parts worth preserving for AU continuity; Nathan does not need to be present.
-- A later consequence may reach him if natural.
+Nathan:
+- starts explaining at too high a level;
+- realizes it;
+- simplifies;
+- worries he has sounded arrogant.
 
-**Nathan thread**
-- Nathan finishes the current development phase.
-- Flow field + local steering works.
-- Prediction layer exists but is not yet polished.
-- Alex and Nathan have enough accumulated interaction that their next conversation will no longer feel like
-  another first meeting.
-- End with Nathan looking at the game running with several guards and knowing the hard part is no longer
-  "can I make this work?" but "can I make it good enough?"
+Teacher does not praise him as a genius. Instead:
+- asks one harder follow-up;
+- notices he can actually explain the reasoning;
+- quietly decides he may need harder work later.
 
-## Hidden/background beats available to the prose
+This teacher should be a possible recurring academic relationship.
 
-Use only where they strengthen the episode:
+#### Scene 7 — lunch / classmates
+A classmate starts a conversation.
 
-- Claire/Phil making an ordinary purchase or unpacking something in parallel.
-- Nathan's parents discussing a new work routine.
-- Old teammates reacting to his departure.
-- New teammate pursuing a starting position.
-- A teacher deciding to give Nathan a more difficult problem.
-- Alex studying or dealing with her own school/family problem when Nathan is elsewhere.
-- Luke, Haley, Manny, Mitchell, Cam or other family members having unrelated moments that establish them as
-  independent people.
-- Props acquired through real actions rather than appearing because a later scene needs them.
+Nathan is normal once spoken to.
 
-## Episode state at the end
+The reader sees that he is **not socially awkward in conversation**.
+
+His problem is initiation.
+
+#### Scene 8 — football / captaincy
+Another short beat:
+- teammate asks whether they should change formation;
+- Nathan answers;
+- everyone follows.
+
+Later:
+someone compliments the decision.
+
+Nathan credits the team's execution.
+
+This establishes leadership without self-confidence.
+
+#### Scene 9 — game
+At home, Nathan adds more guards.
+
+The bottleneck becomes clearer.
+
+He uses a profiler.
+
+Important visual/narrative point:
+the computer is doing work Nathan considers wasteful.
+
+Do not explain profiling extensively; show him staring at the same operation repeating.
+
+---
+
+### 9 September — contrast with California
+
+#### Scene 10 — school
+Science/lab.
+
+Nathan proposes a cleaner experiment.
+
+Teacher makes him justify why.
+
+He does so calmly.
+
+His classmates' reaction should be modest:
+"Okay, that actually makes sense."
+
+#### Scene 11 — football
+Practice includes a small conflict:
+- one teammate wants more time on the field;
+- Nathan mediates practically;
+- he does not give the teammate a motivational speech;
+- he identifies what the player needs to improve.
+
+This teammate can later become important.
+
+#### Scene 12 — evening / David's news approaches
+David's work day becomes more urgent.
+
+A short parallel family scene with David and Melissa establishes:
+- the California role has been under discussion for weeks;
+- the outcome is still uncertain;
+- relocation support is already being discussed as a possibility.
+
+This means the later "sudden" news is sudden **to Nathan**, not magically produced overnight.
+
+---
+
+### 10–11 September — game + first emotional disruption
+
+#### Scene 13 — A* stress test
+Nathan runs 10, 15, 20, 24 enemies.
+
+The first serious performance degradation occurs.
+
+He experiments with:
+- fewer updates;
+- cached paths;
+- different destinations.
+
+The result is better but not good enough.
+
+He gets irritated at the program rather than himself:
+the code is doing exactly what he told it to do.
+
+#### Scene 14 — family
+David gets confirmation that the promotion has been approved and that the new role is California-based.
+
+Nathan learns the news.
+
+The scene should begin with practical questions:
+- When?
+- Where?
+- What about school?
+- What happens to football?
+- What about his computer?
+
+Then the emotional reaction arrives later.
+
+He realizes:
+- he had a team;
+- teachers knew him;
+- routines were established;
+- he was not looking for a new life.
+
+#### Scene 15 — parents' explanation
+David explains that the company had been negotiating the move quietly.
+
+Important:
+- the promotion is sudden in its final confirmation;
+- the logistics are unusually fast because the company already has a relocation provider;
+- they will initially rent a house;
+- they will buy later after the family knows the area.
+
+This resolves the house problem.
+
+#### Scene 16 — Nathan alone
+Nathan returns to the game instead of talking.
+
+This is not avoidance of the move in a melodramatic way.
+
+It is simply the one problem he can still control.
+
+---
+
+### 12 September — last football weekend
+
+#### Scene 17 — match
+Nathan plays his final match before leaving.
+
+The team knows he is moving.
+
+Keep emotions restrained.
+
+A teammate tells him they will miss him.
+
+Nathan immediately assumes:
+"They're being nice."
+
+This shows self-undervaluation outside romance.
+
+#### Scene 18 — coach
+Coach tells Nathan he has leadership qualities.
+
+Nathan is embarrassed.
+
+Coach gives him practical advice for joining another team.
+
+Later, this advice can matter.
+
+#### Scene 19 — moving logistics
+Boxes begin appearing.
+
+Do not turn this into a shopping documentary.
+
+Select details:
+- computer equipment carefully packed;
+- books divided into "must have" and "can wait";
+- football gear;
+- one household object Melissa realizes they need;
+- moving company contact.
+
+---
+
+### 13 September — last quiet Sunday
+
+#### Scene 20 — family planning
+Breakfast/table scene.
+
+David and Melissa discuss timing.
+
+Nathan gets a small amount of choice:
+- what he wants in his room;
+- which equipment travels with him;
+- what should be shipped.
+
+This reinforces that the parents respect his independence.
+
+#### Scene 21 — technical reading
+Nathan revisits material on pathfinding and field-based navigation.
+
+He does not suddenly remember a perfect answer.
+
+He recognizes a technique he already studied.
+
+His thought:
+A* is solving the right problem repeatedly.
+A shared field could represent the reusable part.
+
+He makes rough notes.
+
+#### Scene 22 — school departure preparation
+Nathan sends a few messages to teammates / friends.
+
+No huge farewell scene.
+
+A sense that his old life is ending because of logistics rather than a dramatic decision.
+
+---
+
+## MOVEMENT II — 14–15 SEPTEMBER
+### The move
+
+### 14 September
+
+#### Scene 23 — departure
+Compressed travel sequence.
+
+Use sensory details:
+- airport;
+- luggage;
+- computer case;
+- tired parents;
+- Nathan reading rather than watching something.
+
+#### Scene 24 — David starts California role
+Can be a short parallel scene.
+
+He is already working.
+
+This makes the promotion feel real rather than "dad got a new title."
+
+#### Scene 25 — temporary rental
+The family enters the California rental.
+
+Important:
+- it is a real house;
+- it is empty enough to personalize;
+- it is clearly not yet "home";
+- some furniture may be temporary;
+- boxes dominate the rooms.
+
+Nathan sets up the minimum computer environment.
+
+#### Scene 26 — neighborhood
+A normal encounter can establish Claire/Phil or another Dunphy family member.
+
+Do not force a conversation.
+
+A simple:
+- moving truck;
+- neighbor glance;
+- Phil introducing himself;
+- Claire checking who has moved in.
+
+This is enough for the first impression.
+
+#### Scene 27 — first night in California
+Nathan looks at the map / school route.
+
+He also looks at his unfinished game.
+
+The two problems are suddenly connected:
+he is going to have to rebuild a life and finish a project simultaneously.
+
+---
+
+## MOVEMENT III — 16–23 SEPTEMBER
+### First week at the new school / first contact with Alex
+
+### 16 September — first school day
+
+#### Scene 28 — arrival
+Nathan is early.
+
+He knows where the classrooms are only in theory.
+
+He checks his schedule.
+
+His new timetable differs enough from Seattle that the day feels unfamiliar.
+
+#### Scene 29 — mathematics
+New teacher.
+
+Nathan answers carefully.
+
+Teacher notices.
+
+No reputation has followed him here.
+
+This is important:
+**he has to earn the new reputation from zero.**
+
+#### Scene 30 — hallway: Alex
+Nathan sees Alex.
+
+Recognition.
+
+He knows exactly who she is.
+
+For several seconds he considers approaching.
+
+Then:
+- too awkward;
+- she is with someone;
+- he does not want to bother her;
+- he will have another chance.
+
+He walks away.
+
+This is the first visible romantic self-sabotage.
+
+#### Scene 31 — after school
+New football contact.
+
+Nathan is useful immediately but does not dominate.
+
+He notices the new group has different habits than his old team.
+
+That distinction matters later.
+
+#### Scene 32 — game
+Evening coding.
+
+Nathan's first flow-field attempt starts from his notes.
+
+He gets the field mostly right.
+
+Movement is fast.
+
+Then two guards collide and behave badly.
+
+He marks it rather than abandoning the method.
+
+---
+
+### 17 September
+
+#### Scene 33 — school / Alex at distance
+Library/academic context.
+
+Alex is working.
+
+Nathan notices.
+
+He deliberately focuses on his own assignment.
+
+A student asks Nathan a technical question.
+
+Nathan explains naturally.
+
+Alex may overhear part of it.
+
+Nathan does not notice her noticing.
+
+#### Scene 34 — English
+Teacher catches Nathan over-editing a written answer.
+
+The teacher says the answer was already good before he changed it five times.
+
+Nathan is mildly embarrassed.
+
+This becomes an early seed for his perfectionism.
+
+#### Scene 35 — family evening
+Claire/Phil or another family member is briefly shown elsewhere dealing with their own ordinary problem.
+
+Nathan is not there.
+
+The cut exists simply to establish that the Dunphy household is already alive before the Pilot.
+
+#### Scene 36 — flow-field review
+Nathan opens the reference material again.
+
+He sees the connection between his measured bottleneck and the field representation.
+
+Technical thought:
+the expensive information should be shared; the cheap differences can stay individual.
+
+---
+
+### 18 September — first Alex conversation
+
+#### Scene 37 — practical reason
+Alex needs a book/reference/resource.
+
+She notices Nathan has it.
+
+She asks.
+
+Nathan knows exactly who she is.
+
+Alex does not know that.
+
+Conversation:
+- practical;
+- brief;
+- mildly awkward;
+- not romantic.
+
+Nathan explains the material correctly.
+
+He then worries that he sounded like he was correcting her.
+
+Alex leaves thinking something closer to:
+"He's weirdly helpful."
+
+#### Scene 38 — after the conversation
+Nathan replays the conversation in his head.
+
+Not:
+"She likes me."
+
+Instead:
+"She probably just needed the book."
+
+This is the central self-undervaluation.
+
+#### Scene 39 — evening coding
+The first flow-field version works better.
+
+Nathan smiles once.
+
+Then notices a steering defect.
+
+Perfect.
+
+---
+
+### 19–20 September — weekend bridge
+
+#### Scene 40 — new football environment
+Saturday activity/match.
+
+Nathan earns respect.
+
+The competitive teammate is introduced as a possible friend.
+
+Nathan does not become captain.
+
+#### Scene 41 — home/family adjustment
+Parents unpack.
+
+Melissa begins establishing a household routine.
+
+David spends long hours working.
+
+Nathan finds the kitchen / local street / route to school unfamiliar.
+
+Small detail:
+one item the family needs is bought for the rental.
+
+#### Scene 42 — Nathan + game
+He works on local steering.
+
+The enemies no longer get trapped as often.
+
+Prediction remains absent or primitive.
+
+#### Scene 43 — Alex echo
+Nathan thinks about Friday's conversation while coding.
+
+He notices that he has been smiling.
+
+He immediately becomes annoyed with himself for losing concentration.
+
+---
+
+### 21 September — one ordinary weekday
+
+There is **no birthday here** anymore.
+
+#### Scene 44 — school
+Nathan is beginning to know where things are.
+
+A teacher remembers his name.
+
+A classmate asks for help.
+
+This is the first evidence that the school has started accepting him.
+
+#### Scene 45 — Alex
+Alex acknowledges him first.
+
+A small exchange.
+
+No big romantic beat.
+
+The important change is that they now recognize each other.
+
+#### Scene 46 — game
+Flow field stable enough for multi-guard movement.
+
+Nathan begins thinking about the second half:
+What should the guard pursue?
+
+Last-known position is too exploitable.
+
+---
+
+### 22 September
+
+#### Scene 47 — school / Alex conversation 2
+The practical reason is smaller.
+
+The conversation lasts slightly longer.
+
+Nathan begins speaking first for perhaps one sentence.
+
+This is a genuine character milestone.
+
+#### Scene 48 — football
+Coach notices Nathan's tactical ability.
+
+A teammate asks him to help.
+
+The new friendship begins.
+
+#### Scene 49 — technical night
+Nathan writes down:
+**navigation ≠ destination selection**
+
+This sentence can become the conceptual bridge to the prediction/influence field.
+
+---
+
+### 23 September — Pilot day
+
+#### Parallel canon thread
+The *Modern Family* Pilot occurs on its established date. The story uses the Pilot as background canon,
+not as an excuse for Nathan to enter the central family reunion.
+
+Potential parallel snippets:
+- Dunphy household;
+- Jay/Gloria/Manny;
+- Mitchell/Cameron/Lily;
+- their independent conflicts.
+
+Nathan is elsewhere.
+
+#### Nathan thread
+- school is now his third day in the building;
+- Alex is no longer a stranger;
+- he has a small football foothold;
+- at night he works on the game.
+
+#### Scene 50 — technical realization
+He notices that a guard should not need to "know where the player is."
+
+It needs a **weighted guess** about where to go.
+
+He sketches:
+- last sighting;
+- direction;
+- likely exits;
+- recent choices.
+
+This becomes the first version of the influence map.
+
+#### End beat
+Nathan has solved the conceptual problem.
+
+He has **not** finished the implementation.
+
+---
+
+## MOVEMENT IV — 24–30 SEPTEMBER
+### Consequences of the first week
+
+### 24–25 September
+
+#### Scene 51 — school reputation
+A teacher asks Nathan a harder question based on earlier performance.
+
+Nathan answers.
+
+Teacher asks whether he has considered an academic club/competition.
+
+Nathan assumes this is encouragement because he is new.
+
+#### Scene 52 — Alex
+Brief conversation without homework.
+
+Alex is curious about the computer project.
+
+Nathan gives a deliberately simplified explanation.
+
+He is relieved she understands.
+
+#### Scene 53 — football
+The competitive teammate cooperates with Nathan.
+
+Their relationship moves one step.
+
+#### Scene 54 — family
+Dunphy or Pierce household shown doing something unrelated to Nathan.
+
+A purchase/prop is introduced naturally.
+
+#### Scene 55 — prediction layer
+Nathan tests a route:
+- player always escapes left;
+- guards begin searching left.
+
+Then he makes the model more uncertain.
+
+The behavior becomes more believable.
+
+---
+
+### 26–27 September
+
+#### Scene 56 — weekend football
+Nathan starts becoming part of the team without being appointed captain.
+
+The social identity is transferring.
+
+#### Scene 57 — family
+Temporary house starts looking lived-in.
+
+One object gets unpacked.
+
+A recurring family member's independent goal is hinted.
+
+#### Scene 58 — game test
+20+ enemies.
+
+Flow field handles the global navigation.
+
+Prediction field handles destination.
+
+Local steering handles the mess.
+
+The architecture finally feels coherent.
+
+---
+
+### 28–29 September
+
+#### Scene 59 — school
+Nathan now has one classmate who regularly talks to him.
+
+Important:
+the classmate is not suddenly a best friend.
+
+#### Scene 60 — Alex
+Alex notices Nathan's habit of downplaying compliments.
+
+A small remark:
+"You know you don't have to apologize every time you're right."
+
+Nathan is caught off guard.
+
+He says he wasn't apologizing.
+
+He was.
+
+#### Scene 61 — evening
+Game is almost a real vertical slice.
+
+Nathan discovers:
+- unnecessary updates;
+- a cache opportunity;
+- one collision bug.
+
+He keeps working.
+
+#### Scene 62 — parallel world
+Short family scene unrelated to Nathan.
+
+Could be:
+- a shopping trip;
+- Phil pursuing an ordinary hobby;
+- Claire organizing the house;
+- Alex studying before an upcoming task.
+
+No intersection.
+
+---
+
+### 30 September — The Bicycle Thief / Episode ending
+
+#### Parallel canon
+*The Bicycle Thief* occurs on this date. Its main story can be shown independently:
+Phil/Luke/bike, Jay/Manny and Mitchell/Cameron/Lily threads. citeturn191690search0turn191690search2
+
+Nathan does not suddenly become part of it.
+
+If a later consequence matters, note it in the plot bank instead of forcing an interaction.
+
+#### Nathan thread
+The current build has:
+- stable shared flow field;
+- functional local steering;
+- early prediction layer;
+- enough content to feel like a real game.
+
+But the build is unfinished.
+
+#### Final image
+Nathan watches 20+ guards move through the map.
+
+It looks good.
+
+He opens the profiler.
+
+He sees things he still wants to fix.
+
+**Episode ends.**
+
+## State transfer to Episode 2
 
 Nathan:
 - 13;
 - relocated;
-- established enough at school to have first contacts;
-- first real conversation with Alex;
-- beginning a new football identity;
-- game technically mature but unfinished.
+- old life established in memory;
+- new school foothold;
+- one recurring classmate/teammate;
+- increasingly comfortable with Alex;
+- still severely underestimates himself.
 
 Alex:
 - knows Nathan;
-- has initiated conversation twice;
-- sees him as intelligent and unusually unshowy;
-- has no need yet to define what he is to her.
+- has initiated contact;
+- has begun noticing his personality;
+- has curiosity beyond schoolwork.
+
+Football:
+- Nathan is not captain;
+- one teammate is becoming a friend;
+- coach respects him.
+
+Family:
+- temporary rental now feels less temporary;
+- David's job is consuming more time;
+- permanent house purchase remains a later story.
 
 Game:
-- A* discarded as the main navigation method;
-- flow field + steering working;
-- prediction layer partly working;
-- final optimization/release still ahead.
+- flow field is the main navigation method;
+- steering works;
+- prediction layer exists;
+- optimization and release remain.
 
-## Word-count guidance
+## Word-count architecture
 
-At least 10,000 words.
+Target **10k–14k+**.
 
-Do not fill by narrating every school day. Expand scenes where:
+A useful distribution is:
 
-- a relationship changes;
-- a teacher interaction reveals character;
-- Nathan's technical reasoning matters;
-- the move has emotional weight;
-- a canon parallel scene adds independent life;
-- a background thread can naturally become a visible scene.
+- 2,000–2,500 words: old life / birthday / school / football;
+- 1,500–2,000: promotion and move;
+- 2,500–3,000: new school / Alex first week;
+- 2,000–2,500: game development;
+- 1,500–2,000: parallel family/canon/background material.
 
-Routine transitions can remain short.
+This is a guide, not a quota. Strong scenes should expand naturally.
+
+## Drafting warning
+
+Do not show every day.
+
+Use dates heavily in the underlying timeline, but let prose jump:
+"By Friday..."
+"Over the weekend..."
+"Three days later..."
+
+The reader should feel time passing without reading a diary.
