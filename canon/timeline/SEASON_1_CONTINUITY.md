@@ -382,3 +382,26 @@ The final test is:
 > life stopped existing?
 
 If yes, the continuity is working.
+
+
+## Narrative construction layer
+
+The calendar is internal infrastructure for the richer narrative method defined in
+`canon/narrative/NARRATIVE_METHODOLOGY.md`.
+
+The pre-Pilot contact dates are fixed for continuity:
+
+- 16 Sep — Claire;
+- 17 Sep — Phil;
+- 19 Sep — Haley;
+- 16–22 Sep — Alex, with substantial first conversation on 18 Sep.
+
+The exact physical blocking and dialogue are intentionally flexible. The first prose pass and subsequent
+backpropagation may improve how each meeting occurs without changing the dates unless a stronger continuity
+reason is discovered.
+
+Nathan does not play cello. Alex's cello practice remains part of her independent schedule and can create
+a natural school-transition sighting.
+
+The episode grid is an internal availability map, not a checklist. The visible story should preserve
+independent character lives even when a character's schedule never appears on-page.
