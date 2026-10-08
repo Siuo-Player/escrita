@@ -553,34 +553,19 @@ Alex remains Nathan's final relationship.
 
 ---
 
-## 17. Later continuity additions already established after the older discussions
+## 17. Reconciliation rule for newer decisions
 
-These are newer decisions that have since been consolidated into Git and should be treated as current
-continuity unless explicitly revised:
+The repository's `main` branch contains newer decisions that were persisted after some of the historical
+conversations. Those decisions are current repository context, but this document must **not** silently absorb
+new material introduced by later planning sessions or by an AI assistant.
 
-- Nathan's birthday is **7 September 1996**; he turns 13 on **Monday, 7 September 2009**.
-- Labor Day being 7 September in 2009 is accepted rather than causing the birthday to move.
-- Nathan is in **8th grade** and Alex in **7th grade** at the opening school year.
-- Nathan transfers to the Southern California school on **16 September 2009**.
-- The Pilot remains on **23 September 2009**.
-- Alex plays **cello**, not piano.
-- The initial house is an employer-arranged temporary rental rather than an immediate permanent purchase.
-- The Pierces can later become direct neighbors after a later permanent-house purchase.
-- Before the Pilot, the detailed target is four distinct family contact lines: Alex through school, Claire
-  through school pickup, Phil through football/community activity, and Haley through a small weekend local
-  encounter.
-- Episode planning uses character-level schedule/state grids before scenes are selected.
-- The final prose should use only a fraction of this planning material; the world should be richer than the
-  visible narrative.
-- The first mobile game uses a plausible 2009 development path, with A* as the conventional baseline,
-  flow-field navigation as the shared-navigation improvement, a separate lightweight prediction/influence
-  layer, and local steering.
-- Nathan has studied flow fields before he applies them; he adapts a known technique rather than magically
-  inventing it from future knowledge.
-- The first game arc runs approximately from 7 September to 15 October 2009.
-- Episodes should contain multiple independent threads, and canon events should not be forced to include
-  Nathan.
-- Recurring objects should have believable provenance rather than appearing only when convenient.
+When a newer decision exists:
 
-These newer decisions refine the historical foundation without replacing its core character, reincarnation,
-relationship, canon, future-knowledge or backpropagation principles.
+1. compare it against this historical foundation;
+2. identify whether it explicitly supersedes an older decision or merely adds detail;
+3. preserve both when they are compatible;
+4. mark the newer decision as the current version when it truly supersedes the older one;
+5. never manufacture a resolution when the evidence is incomplete.
+
+This rule exists specifically to prevent an incomplete repository from causing accidental retcons.
+
