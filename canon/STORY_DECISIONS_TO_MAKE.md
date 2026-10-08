@@ -76,6 +76,15 @@ are recorded so they are not asked again.
     software, games and AI work can be unusually advanced for the period when the result follows from what
     he has plausibly learned.
 
+19. **Season 1 continuity spine:** a reusable school/football/programming rhythm is fixed for the first
+    season. Nathan is in 8th grade and Alex in 7th, allowing natural school interaction while preserving
+    Alex's later middle-school graduation. The default rhythm is programming on Monday/Wednesday/Friday,
+    football training Tuesday/Thursday, a Saturday match, and lighter planning/programming on Sunday.
+    Classroom scenes should reveal intelligence and personality through teacher interactions rather than
+    repeated praise. The 16–20 September opening includes Nathan's distant observations of Alex, a practical
+    first interaction initiated by Alex on 18 September, a birthday on 21 September, and a pilot-parallel
+    programming scene on 23 September. Full reusable schedule: `canon/timeline/SEASON_1_CONTINUITY.md`.
+
 Detailed protagonist record: canon/characters/NATHAN_PIERCE.md.
 
 ## B. Still to decide — useful for the first arc
