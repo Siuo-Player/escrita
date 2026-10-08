@@ -17,6 +17,41 @@ backpropagation → continuity/refinement → continue forward → final prose p
 
 The goal is to make a long episodic story feel as though it was lived rather than assembled.
 
+## OpenWrite Codex
+
+OpenWrite is used as the interactive working Codex and manuscript environment.
+
+The version-controlled repository **escrita** remains the authoritative source for dated canon, research
+evidence, continuity decisions and the rich underlying plot bank. OpenWrite mirrors the stable planning
+state so it is fast to consult while drafting.
+
+Recommended mapping:
+
+| Story concept | OpenWrite representation |
+|---|---|
+| Entire series | **Project** with type **series** |
+| Season | **Work** under the series project, with season number in metadata |
+| Episode | **Chapter** under the season/work |
+| Scene / beat | Story-map **scene/beat** graph nodes when useful |
+| Series/season arcs | **Act / plot-point** graph nodes and plot points |
+| Character | Project-level **Character** |
+| Location | Project-level **Location**, nested with parent locations when appropriate |
+| World/canon rules | Project-level **Lore** |
+| Plot thread | **Plot point** + graph **plot_thread** connections |
+| Notes for a chapter | Chapter notes |
+| Loose notes/ideas | Custom lore/plot metadata or story-map nodes until a dedicated note type exists |
+| Relationships | Graph connections such as character_arc, setting, thematic and reference |
+
+Recurring characters and locations should normally exist once at project level rather than being recreated
+for each episode. Episode-specific material can be attached to the relevant work/chapter.
+
+When a canon fact changes, update **escrita first**, then mirror the stable result into OpenWrite. This
+avoids having two competing versions of truth.
+
+The Codex should contain enough information to answer "who, where, what is happening, why, and what has
+already changed?" without forcing the finished prose to explain all of it.
+
+
 ## Layer 1 — Rich timeline
 
 Important events receive exact dates whenever the calendar permits them.
