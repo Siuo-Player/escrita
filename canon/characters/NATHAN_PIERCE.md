@@ -415,10 +415,10 @@ The divergence should accumulate rather than reset at the start of every episode
 
 Each story season represents approximately **one year of Nathan's life**.
 
-The story uses a brief opening/prologue from **16–20 September 2009** to establish Nathan's transfer,
-first family contacts and first interaction with Alex. The formal Season 1 starting point is his
-**thirteenth birthday on Monday, 21 September 2009**, after which the season continues through the pilot
-and the rest of the year. The story follows:
+The story begins on **7 September 2009**, before the family move. The first two episodes compress the
+opening period through **15 October 2009**: old school and football, the father's promotion and move,
+Nathan's new school, first interactions with Alex, the Pilot in parallel, and the completion of Nathan's
+first mobile game. The story follows:
 - school;
 - football;
 - training;
