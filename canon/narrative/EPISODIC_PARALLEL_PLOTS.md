@@ -12,6 +12,30 @@ causal thread, but other characters continue pursuing their own goals when he is
 
 The reader should feel that the world would keep moving if Nathan walked out of the scene.
 
+## Canon non-interference rule
+
+When a *Modern Family* event has no natural reason to involve Nathan, **do not invent a connection just
+to let him participate**.
+
+Use one of two treatments:
+
+**Parallel treatment:** show the canon family thread directly from the relevant character's point of view,
+while Nathan is living his own day elsewhere.
+
+**Consequence treatment:** do not show the event itself from Nathan's side; show Nathan encountering a
+natural consequence afterward when their lives cross.
+
+The choice depends on narrative value. If the original event is interesting in its own right, show it in
+parallel. If watching it would merely duplicate the original episode, skip most of it and let a consequence
+reach Nathan later.
+
+Nathan may sometimes know what is happening because of his memory of the series, but knowledge is not the
+same thing as physical presence. His awareness should not be used as an excuse to insert him into scenes
+where he would not naturally belong.
+
+This rule applies equally to important family purchases, school events, sports events and other people's
+private conversations. The world is allowed to progress without Nathan.
+
 ## Normal episode composition
 
 A typical episode should contain several threads chosen from:
