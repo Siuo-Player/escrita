@@ -25,6 +25,18 @@ reason.
 The story no longer treats 16–20 September as a separate formal prologue. The actual opening begins on 7
 September, so the reader first sees Nathan in his old life before the move.
 
+### Temporary rental vs. future permanent neighbors
+
+The Pierce family initially lives in an employer-arranged temporary rental in the same broad suburban area
+as the Dunphys. It is close enough for school, football, shopping and park routines to overlap, but it is
+not the permanent house next door.
+
+The eventual permanent house purchase is a later story thread. The family should first live in California long
+enough to learn the area, evaluate schools and commutes, establish routines and decide what they actually want.
+Only then can they buy a permanent house and become direct neighbors to the Dunphys. This creates a stronger,
+more sustained source of family interaction later in the story and gives Phil a plausible role because he is a
+real-estate professional.
+
 ## Opening two-episode structure
 
 The first two episodes deliberately cover a large amount of calendar time. Routine days are compressed;
@@ -37,7 +49,7 @@ scenes are reserved for moments that change Nathan's relationships, circumstance
 The episode opens on **7 September** with Nathan already engaged in programming and still living in his old
 city.
 
-The first movement, roughly **7–14 September**, establishes:
+The first movement, roughly **7–13 September**, establishes:
 
 - Nathan as a technically advanced young programmer rather than introducing him first through *Modern
   Family*;
@@ -54,17 +66,21 @@ August, so David and Melissa already know the relocation is possible even though
 promotion is confirmed, the company activates relocation support and arranges a temporary rental, movers and
 travel. A few strong scenes and time-compressed transitions carry Nathan from his old routine to the new house.
 
-**15 September** is mainly an arrival/setup day.
+**14–15 September** cover the relocation and arrival/setup transition.
 
-The second movement, roughly **16–23 September**, covers Nathan's first week in the new school:
+The second movement, roughly **16–23 September**, covers Nathan's first week in the new school and his
+first four connection lines into the Dunphy orbit:
 
 - first impressions of teachers;
 - Alex seen from a distance;
 - Nathan repeatedly deciding not to approach her;
 - the first practical interaction initiated by Alex;
+- small, independent encounters with **Claire, Phil and Haley**;
 - first football/social contacts in the new environment where useful;
-- Nathan's birthday on **7 September**;
 - the Pilot running in parallel on **23 September**.
+
+The four pre-Pilot contact threads are defined in
+episodes/season-1/EP01_PREPILOT_CONTACT_THREADS.md.
 
 The Pilot should not interrupt Nathan's own plot. A scene can move from an ordinary school/family moment to
 Nathan programming that same evening, with the canon event occurring elsewhere.
@@ -246,14 +262,17 @@ Nathan simply remembers the conversation while programming or during football.
 
 Alex has now changed category in his mind: from someone he watches to someone he has actually spoken to.
 
-### 21 September — birthday
+### 21 September — second conversation
 
-Nathan turns 13.
+A short corridor, lunch or library continuation establishes that the first conversation was not a one-off.
 
-A small family celebration is enough. The birthday can also give Alex a simple, age-appropriate reason
-to acknowledge him without jumping the relationship forward.
+Alex references something from the first interaction. Nathan is surprised that she remembered.
 
-### 22 September — second contact
+### 22 September — third contact
+
+A brief ordinary interaction reinforces that the first conversation was not a one-off. Alex is beginning
+to recognize Nathan as someone she can simply talk to, while Nathan discovers that the second and third
+conversations are much easier than the first.
 
 A short interaction establishes that the first conversation was not a one-off.
 
