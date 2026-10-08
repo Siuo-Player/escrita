@@ -45,10 +45,13 @@ are recorded so they are not asked again.
    episode's plot focus, while characters from the show may occupy much more of the episode. Original
    material can center on Nathan/Alex, Nathan/Haley, school, football, technology, friends, parents or
    other themes.
-10. **Season structure:** each story season represents roughly one year of Nathan's life. A brief opening
-    prologue covers 16–20 September 2009; the formal Season 1 begins on Nathan's thirteenth birthday,
-    **21 September 2009**, and then runs through the rest of that year of his life. The long story runs
-    through adolescence, university and early professional life, ending in Nathan's early-to-mid twenties.
+10. **Season structure:** each story season represents roughly one year of Nathan's life. Season 1 begins
+    on **7 September 2009**, while Nathan is still in his old city. Episode 1 covers **7–30 September**,
+    compressing the old school, the father's sudden promotion, the family move, Nathan's first week in the
+    new school, first interactions with Alex, the Pilot in parallel, and the following week. Episode 2
+    covers **1–15 October** and completes the first mobile game around the middle or later part of the
+    episode. The long story runs through adolescence, university and early professional life, ending in
+    Nathan's early-to-mid twenties.
 11. **Ending:** after Nathan and Alex are adults and established in education/work, the final scene is
     Alex telling Nathan that she is pregnant.
 12. **Backpropagation:** later events must leave earlier traces. Pregnancy in particular needs a believable
