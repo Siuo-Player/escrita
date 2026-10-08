@@ -85,8 +85,8 @@ are recorded so they are not asked again.
     Alex's later middle-school graduation. The default rhythm is programming on Monday/Wednesday/Friday,
     football training Tuesday/Thursday, a Saturday match, and lighter planning/programming on Sunday.
     Classroom scenes should reveal intelligence and personality through teacher interactions rather than
-    repeated praise. The opening period includes Nathan's birthday on 7 September, his distant observations of Alex after the
-    16 September school transfer, a practical first interaction initiated by Alex on 18 September, and a
+    repeated praise. The opening period includes Nathan's birthday on 7 September, the 16 September
+    school transfer, multiple small pre-Pilot contacts with Alex/Claire/Phil/Haley, and a
     pilot-parallel programming scene on 23 September. Full reusable schedule: `canon/timeline/SEASON_1_CONTINUITY.md`.
 
 20. **Parallel-plot rule:** every episode should contain several simultaneously existing threads rather than
@@ -111,9 +111,12 @@ Detailed protagonist record: canon/characters/NATHAN_PIERCE.md.
 ## B. Still to decide — useful for the first arc
 
 ### 1. Nathan's exact birth date and starting calendar date
-**Resolved:** birthday is **7 September 1996 (Saturday; he turns 13 on Monday, 7 September 2009)**. Nathan transfers to school on **16 September
-2009 (Wednesday)**, one week after the LAUSD year opening on 9 September. The pilot's broadcast date is
-23 September 2009 and can also serve as its in-universe date.
+**Resolved:** birthday is **7 September 1996**. He turns 13 on **Monday, 7 September 2009**. Nathan transfers
+to school on **Wednesday, 16 September 2009**, one week after the LAUSD year opening on 9 September. The
+pilot's broadcast date is **23 September 2009** and can also serve as its in-universe date.
+
+Labor Day is the first Monday of September, so 7 September 2009 being Labor Day is simply part of this
+season's calendar; the birthday is not moved to avoid that coincidence.
 
 ### 2. Nathan's personality weaknesses
 **Resolved:** the selected weaknesses are fear of seeming arrogant, strong fear of rejection, strong
@@ -162,10 +165,14 @@ establish first impressions of several of them without turning Nathan into a par
 family-reunion sequence.
 
 ### 10. Opening-week canon intersection
-**Working:** use ordinary neighborhood/school/activity encounters to establish first impressions before
-the pilot. Candidate first contacts are Alex at school, Claire and Phil as nearby adults, and Luke or
-another family member through sport/neighborhood life. At least four family members should know Nathan by
-the pilot without making him artificially central to the episode.
+**Working, now detailed:** before the pilot, Nathan should have four distinct contact lines:
+**Alex** through several school interactions; **Claire** through a school pickup-area encounter on
+16 September; **Phil** through a football/community-field encounter on 17 September; and **Haley** through
+a very small weekend local encounter on 19 September. They do not all need equal emotional weight.
+Nathan should still remain outside the pilot's central family reunion.
+
+Detailed first-episode contact plan:
+episodes/season-1/EP01_PREPILOT_CONTACT_THREADS.md.
 
 ### 11. Canon changes
 Which tragedies/bad decisions are specifically priorities for Nathan to prevent in the first year?
@@ -176,6 +183,21 @@ Pick a normal range once we begin drafting.
 
 ### 13. Exact tone balance
 Current target: comedy + warmth/family + slice-of-life + growth, with drama/romance appearing naturally.
+
+### 14. Episode character-grid workflow
+**Resolved as process:** before scene writing, create an episode-level schedule/state grid for the recurring
+cast. The grid records where characters plausibly are, what they are doing, their private thread, and likely
+overlap windows. Scenes are selected from those overlaps afterward. The final prose may use only a fraction of
+the grid.
+
+Operational document:
+canon/timeline/SEASON_1_CHARACTER_EPISODE_GRIDS.md.
+
+### 15. Future permanent-neighbor setup
+**Working:** the September house is temporary. A permanent home purchase occurs only after the family has
+spent meaningful time in California and knows the area. The eventual house should place the Pierces directly
+next to or immediately beside the Dunphys. This later change increases natural interactions and can also give
+Phil a credible role in the purchase because of his real-estate profession.
 
 ## C. Decisions that can stay WORKING for now
 
