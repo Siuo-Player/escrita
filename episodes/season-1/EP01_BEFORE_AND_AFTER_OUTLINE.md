@@ -50,6 +50,14 @@ intersect them.
 Shopping, packing, household setup, teammates, teachers, family members' independent plans, objects acquiring
 provenance.
 
+### I — Pre-Pilot family contact lines
+Four people in the Dunphy orbit become familiar with Nathan before **23 September** without forcing him into
+the Pilot: **Claire (16 Sep), Phil (17 Sep), Haley (19 Sep), Alex (16–22 Sep)**.
+
+Detailed contact logic is kept separately in:
+episodes/season-1/EP01_PREPILOT_CONTACT_THREADS.md.
+
+
 ---
 
 ## MOVEMENT I — 7–13 SEPTEMBER
@@ -393,18 +401,19 @@ Important:
 
 Nathan sets up the minimum computer environment.
 
-#### Scene 26 — neighborhood
-A normal encounter can establish Claire/Phil or another Dunphy family member.
+#### Scene 26 — local geography, not yet direct neighbors
+The temporary rental is in the same broad area as the Dunphys, but it is not the permanent house next door.
 
-Do not force a conversation.
+Nathan notices:
+- a useful route to school;
+- a nearby football field/park;
+- local shops;
+- the difference between the new area and the family's old routine.
 
-A simple:
-- moving truck;
-- neighbor glance;
-- Phil introducing himself;
-- Claire checking who has moved in.
+This establishes the geography that will make later encounters plausible without making the family instantly
+interlocked.
 
-This is enough for the first impression.
+The actual pre-Pilot contact scenes are deliberately spread across 16–19 September.
 
 #### Scene 27 — first night in California
 Nathan looks at the map / school route.
@@ -442,7 +451,27 @@ No reputation has followed him here.
 This is important:
 **he has to earn the new reputation from zero.**
 
-#### Scene 30 — hallway: Alex
+#### Scene 30 — pickup area: Claire
+After the school day, Nathan is briefly disoriented by the pickup routine.
+
+Claire is collecting one of her children and notices that Nathan is checking the campus layout/timetable.
+
+She asks whether he is new.
+
+The exchange is practical:
+- Nathan confirms;
+- Claire gives one small local school/pickup tip;
+- they introduce themselves naturally if the moment lasts;
+- Nathan recognizes Claire only after the name is spoken.
+
+Nathan becomes slightly too formal because he knows exactly who she is.
+
+Claire's first impression is simply:
+**polite, organized, a little serious.**
+
+This is the first non-Alex bridge into the Dunphy family.
+
+#### Scene 31 — hallway: Alex
 Nathan sees Alex.
 
 Recognition.
@@ -461,8 +490,11 @@ He walks away.
 
 This is the first visible romantic self-sabotage.
 
-#### Scene 31 — after school
+#### Scene 32 — after school
 New football contact.
+
+Nathan does not need to befriend anyone immediately. The important thing is that the new team becomes a
+real place in his weekly schedule.
 
 Nathan is useful immediately but does not dominate.
 
@@ -520,7 +552,31 @@ Nathan is not there.
 
 The cut exists simply to establish that the Dunphy household is already alive before the Pilot.
 
-#### Scene 36 — flow-field review
+#### Scene 36 — late-afternoon football / Phil
+Nathan goes to a nearby community field for informal football work.
+
+Phil happens to be there for an ordinary family/local reason.
+
+Phil comments on Nathan's control or footwork.
+
+Nathan initially thinks he is talking to somebody else.
+
+The conversation is brief:
+- football;
+- recent move;
+- names;
+- one light Phil joke.
+
+Nathan recognizes Phil and deliberately keeps the recognition from showing.
+
+The important characterization is that Nathan becomes naturally conversational once Phil initiates.
+
+Phil leaves thinking:
+**new kid, good player, serious at first, probably easy enough to talk to.**
+
+This can later support a natural Phil-as-realtor connection.
+
+#### Scene 37 — flow-field review
 Nathan opens the reference material again.
 
 He sees the connection between his measured bottleneck and the field representation.
@@ -532,7 +588,7 @@ the expensive information should be shared; the cheap differences can stay indiv
 
 ### 18 September — first Alex conversation
 
-#### Scene 37 — practical reason
+#### Scene 38 — practical reason
 Alex needs a book/reference/resource.
 
 She notices Nathan has it.
@@ -556,7 +612,7 @@ He then worries that he sounded like he was correcting her.
 Alex leaves thinking something closer to:
 "He's weirdly helpful."
 
-#### Scene 38 — after the conversation
+#### Scene 39 — after the conversation
 Nathan replays the conversation in his head.
 
 Not:
@@ -567,7 +623,7 @@ Instead:
 
 This is the central self-undervaluation.
 
-#### Scene 39 — evening coding
+#### Scene 40 — evening coding
 The first flow-field version works better.
 
 Nathan smiles once.
@@ -580,7 +636,7 @@ Perfect.
 
 ### 19–20 September — weekend bridge
 
-#### Scene 40 — new football environment
+#### Scene 41 — new football environment
 Saturday activity/match.
 
 Nathan earns respect.
@@ -589,7 +645,30 @@ The competitive teammate is introduced as a possible friend.
 
 Nathan does not become captain.
 
-#### Scene 41 — home/family adjustment
+#### Scene 42 — Haley contact / community weekend
+Nathan is at the local community park/football area for a weekend activity.
+
+Haley is nearby because of an ordinary family/social reason.
+
+A tiny practical interaction creates the meeting:
+- holding a gate;
+- returning something dropped;
+- answering whether a field is occupied;
+- moving aside at the right moment.
+
+Haley makes a light remark, Nathan answers, and the conversation ends.
+
+There is no romantic framing.
+
+Haley simply learns that the new kid is Nathan.
+
+Nathan recognizes her immediately and is quietly struck by the imbalance between what he knows and what she knows
+about him.
+
+Her first impression should be no deeper than:
+**quiet, but not weird.**
+
+#### Scene 43 — home/family adjustment
 Parents unpack.
 
 Melissa begins establishing a household routine.
@@ -601,14 +680,14 @@ Nathan finds the kitchen / local street / route to school unfamiliar.
 Small detail:
 one item the family needs is bought for the rental.
 
-#### Scene 42 — Nathan + game
+#### Scene 44 — Nathan + game
 He works on local steering.
 
 The enemies no longer get trapped as often.
 
 Prediction remains absent or primitive.
 
-#### Scene 43 — Alex echo
+#### Scene 47 — Alex echo
 Nathan thinks about Friday's conversation while coding.
 
 He notices that he has been smiling.
@@ -621,7 +700,7 @@ He immediately becomes annoyed with himself for losing concentration.
 
 There is **no birthday here** anymore.
 
-#### Scene 44 — school
+#### Scene 46 — school
 Nathan is beginning to know where things are.
 
 A teacher remembers his name.
@@ -639,7 +718,7 @@ No big romantic beat.
 
 The important change is that they now recognize each other.
 
-#### Scene 46 — game
+#### Scene 48 — game
 Flow field stable enough for multi-guard movement.
 
 Nathan begins thinking about the second half:
@@ -651,7 +730,7 @@ Last-known position is too exploitable.
 
 ### 22 September
 
-#### Scene 47 — school / Alex conversation 2
+#### Scene 49 — school / Alex conversation 2
 The practical reason is smaller.
 
 The conversation lasts slightly longer.
@@ -660,14 +739,14 @@ Nathan begins speaking first for perhaps one sentence.
 
 This is a genuine character milestone.
 
-#### Scene 48 — football
+#### Scene 50 — football
 Coach notices Nathan's tactical ability.
 
 A teammate asks him to help.
 
 The new friendship begins.
 
-#### Scene 49 — technical night
+#### Scene 51 — technical night
 Nathan writes down:
 **navigation ≠ destination selection**
 
@@ -695,7 +774,7 @@ Nathan is elsewhere.
 - he has a small football foothold;
 - at night he works on the game.
 
-#### Scene 50 — technical realization
+#### Scene 52 — technical realization
 He notices that a guard should not need to "know where the player is."
 
 It needs a **weighted guess** about where to go.
@@ -720,7 +799,7 @@ He has **not** finished the implementation.
 
 ### 24–25 September
 
-#### Scene 51 — school reputation
+#### Scene 53 — school reputation
 A teacher asks Nathan a harder question based on earlier performance.
 
 Nathan answers.
@@ -729,7 +808,7 @@ Teacher asks whether he has considered an academic club/competition.
 
 Nathan assumes this is encouragement because he is new.
 
-#### Scene 52 — Alex
+#### Scene 54 — Alex
 Brief conversation without homework.
 
 Alex is curious about the computer project.
@@ -738,17 +817,17 @@ Nathan gives a deliberately simplified explanation.
 
 He is relieved she understands.
 
-#### Scene 53 — football
+#### Scene 55 — football
 The competitive teammate cooperates with Nathan.
 
 Their relationship moves one step.
 
-#### Scene 54 — family
+#### Scene 56 — family
 Dunphy or Pierce household shown doing something unrelated to Nathan.
 
 A purchase/prop is introduced naturally.
 
-#### Scene 55 — prediction layer
+#### Scene 57 — prediction layer
 Nathan tests a route:
 - player always escapes left;
 - guards begin searching left.
@@ -761,19 +840,19 @@ The behavior becomes more believable.
 
 ### 26–27 September
 
-#### Scene 56 — weekend football
+#### Scene 58 — weekend football
 Nathan starts becoming part of the team without being appointed captain.
 
 The social identity is transferring.
 
-#### Scene 57 — family
+#### Scene 59 — family
 Temporary house starts looking lived-in.
 
 One object gets unpacked.
 
 A recurring family member's independent goal is hinted.
 
-#### Scene 58 — game test
+#### Scene 60 — game test
 20+ enemies.
 
 Flow field handles the global navigation.
@@ -788,13 +867,13 @@ The architecture finally feels coherent.
 
 ### 28–29 September
 
-#### Scene 59 — school
+#### Scene 61 — school
 Nathan now has one classmate who regularly talks to him.
 
 Important:
 the classmate is not suddenly a best friend.
 
-#### Scene 60 — Alex
+#### Scene 62 — Alex
 Alex notices Nathan's habit of downplaying compliments.
 
 A small remark:
@@ -806,7 +885,7 @@ He says he wasn't apologizing.
 
 He was.
 
-#### Scene 61 — evening
+#### Scene 63 — evening
 Game is almost a real vertical slice.
 
 Nathan discovers:
@@ -816,7 +895,7 @@ Nathan discovers:
 
 He keeps working.
 
-#### Scene 62 — parallel world
+#### Scene 64 — parallel world
 Short family scene unrelated to Nathan.
 
 Could be:
