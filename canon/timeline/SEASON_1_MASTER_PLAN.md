@@ -461,3 +461,208 @@ A single episode may advance multiple season-level threads at once.
 6. Draft prose.
 7. Backpropagate again from the actual prose.
 8. Use external free analysis tools as a diagnostic, not as an authority.
+
+
+---
+
+## Macro-beat sequence
+
+These are **season-level turning points**, not episode boundaries.
+
+### Opening state — a life worth losing
+
+Nathan begins with a functional identity in Seattle:
+
+- known by teachers;
+- captain of his football team;
+- technically productive;
+- comfortable with established routines;
+- socially functional once other people initiate.
+
+The reader should care about that life before it disappears.
+
+### Inciting disruption — California
+
+David's promotion forces the family to move.
+
+Nathan cannot control it.
+
+The move creates the first major contradiction in his worldview:
+he has extensive knowledge but no power over the immediate circumstances of his own life.
+
+### First new foothold — September
+
+Nathan rebuilds three systems simultaneously:
+
+- school;
+- football;
+- social/local life.
+
+Alex becomes the first relationship he actively cares about.
+
+The Dunphy encounters are separate lines rather than one giant introduction.
+
+The game begins on 7 September and becomes the first concrete demonstration that Nathan can still create
+something under changed conditions.
+
+### First false success — prediction seems useful
+
+Nathan's remembered knowledge helps him recognize people, anticipate some family dynamics and act with
+confidence.
+
+For a while, it appears that he can have the best of both worlds:
+build his own life while quietly avoiding known disasters.
+
+This confidence is necessary because the later failure needs something real to break.
+
+### First limits — memory versus reality
+
+Small discrepancies accumulate.
+
+Not all need to be caused by Nathan's deliberate intervention.
+
+Some are caused simply by:
+
+- his existence;
+- new friendships;
+- changed timing;
+- altered information flow;
+- people knowing things they did not know in canon.
+
+Nathan explains the first discrepancies away.
+
+The reader can see more.
+
+### Mid-season expansion — Nathan becomes part of the local system
+
+By the middle of the season, other people begin acting with Nathan already in their mental model.
+
+Nathan no longer merely enters existing situations.
+
+He is now one of the background causes of future situations.
+
+This is where school, football, Alex, family and canon threads should begin crossing more often without
+collapsing into one mega-plot.
+
+### Second movement — intentional intervention
+
+Nathan deliberately intervenes in a problem because he believes his knowledge makes the correct action
+obvious.
+
+The immediate outcome is genuinely better.
+
+This rewards his instinct to help.
+
+Then a secondary consequence appears.
+
+The consequence should be understandable when the reader traces the chain backward.
+
+### Relationship turn — Alex knows Nathan, not the idea of Nathan
+
+Alex's attraction develops through accumulated observation.
+
+She sees:
+
+- competence without arrogance;
+- kindness;
+- insecurity;
+- humor;
+- persistence;
+- the gap between what Nathan can do and how little credit he gives himself.
+
+Nathan learns things about Alex that were never part of his television memory.
+
+This is the emotional mirror of the butterfly-effect plot:
+the real Alex is becoming someone he could not have remembered.
+
+### Technical maturation
+
+After the first game release, Nathan starts behaving less like a gifted hobbyist and more like a young
+engineer/researcher.
+
+The project becomes:
+
+- experiments;
+- measurements;
+- comparisons;
+- communication;
+- documentation;
+- external feedback;
+- progressively larger questions.
+
+The first game remains a seed, not the whole technology arc.
+
+### Social complication
+
+Nathan's growth creates a problem of its own.
+
+Other people increasingly rely on him.
+
+His self-undervaluation makes positive recognition difficult to accept, while his competence makes people
+continue approaching him.
+
+He must learn that refusing visibility is not always humility.
+
+### Late-season convergence
+
+Several previously independent threads begin interacting:
+
+- school opportunity;
+- football friendship;
+- Alex relationship;
+- family scheduling;
+- Nathan's technical commitments;
+- consequences from earlier interventions.
+
+The convergence is not a single giant event.
+
+It is the realization that Nathan now has too many real relationships to treat the world as a puzzle
+he can solve alone.
+
+### Season climax — knowledge fails as control
+
+Nathan faces a meaningful situation where his remembered canon strongly suggests what should happen.
+
+He acts.
+
+He successfully prevents or changes one harmful outcome.
+
+At the same time, another consequence goes differently from the remembered story.
+
+This is the season's conceptual climax:
+
+**knowledge remains useful, but prediction is no longer authority.**
+
+Alex should have an emotionally important place in the climax, not necessarily as the person Nathan saves,
+but as someone who sees him dealing with uncertainty.
+
+### Resolution — a future he does not remember
+
+The year closes with Nathan recognizing that:
+
+- California is home;
+- the school contains people who know him;
+- football contains relationships that did not exist before;
+- Alex is becoming his real relationship rather than a remembered character;
+- his technical path is now his own;
+- the world has diverged enough that future memories are increasingly only one source of information.
+
+The season does not end with the butterfly effect resolved.
+
+It ends with Nathan accepting that it is permanent.
+
+## Season-level subplot balance
+
+Visible chapters can select different combinations from these season threads:
+
+- **Character:** Nathan's shyness, self-undervaluation, competence, physical life and willingness to act.
+- **Relationship:** Nathan/Alex, friendships, family dynamics and wider-cast relationships.
+- **Academic:** school, teachers, challenges, opportunities and visibility.
+- **Football:** training, matches, peers, tactical leadership, friendship and identity.
+- **Technical:** the game, experiments, optimization, communication and research thinking.
+- **Family:** Pierce household, David's career, Melissa's work and settling in California.
+- **Canon:** the contemporary *Modern Family* ensemble, allowed to breathe without Nathan.
+- **Butterfly:** changed timing, information and consequences.
+
+No subplot is required to appear in every chapter.
+The season's coherence comes from **state carrying forward**, not equal screen time.
