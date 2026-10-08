@@ -462,6 +462,46 @@ When he cannot remember a detail, he has to derive it.
 
 This keeps his advantage from becoming a cheat sheet.
 
+## Development calendar and school-night workload
+
+The game is developed over roughly **7–8 calendar weeks**, with about **6 weeks of substantial technical
+development** and the final week or two devoted mainly to playtesting, packaging and release preparation.
+
+A strong narrative calendar is:
+
+- **17–23 Aug:** concept, map grid, input/rendering and one enemy prototype.
+- **24–30 Aug:** conventional A* baseline working with several enemies.
+- **31 Aug–6 Sep:** stress testing and profiling reveal that repeated pathfinding is the major cost.
+- **7–13 Sep:** Nathan reviews flow-field material and builds the first shared cost/direction field.
+- **14–20 Sep:** flow field stabilizes; local steering is added; the family moves and Nathan enters school.
+- **21–27 Sep:** player prediction/influence map, integration and update-frequency tuning.
+- **28 Sep–4 Oct:** device testing, balancing and optimization.
+- **5–11 Oct:** final playtesting and release preparation.
+
+Because Nathan already knows the general shape of the project, has strong C++ skills and does not waste time
+on dead ends apart from the A* → flow-field redesign, a believable total is roughly **70–100 focused
+development hours**.
+
+During school weeks he usually has only about **10–14 focused programming hours**, concentrated on Monday,
+Wednesday, Friday, Saturday and Sunday. Tuesday and Thursday are normally football nights. This prevents
+the game from consuming every part of his life while still allowing unusually rapid progress for a
+thirteen-year-old who is already highly prepared.
+
+The scope is what makes the schedule credible:
+
+- one small game;
+- few enemy archetypes;
+- compact maps;
+- simple assets;
+- no network system;
+- no large physics system;
+- no custom engine;
+- the technical ambition is concentrated in AI, navigation and optimization.
+
+The important milestone for the story is therefore not simply "Nathan finishes a game." It is that a very
+small game reaches a polished vertical slice unusually quickly because Nathan understands the problem,
+measures his implementation and spends his effort on the part that actually matters.
+
 ## Novel presentation rules
 
 The novel should show the development rather than summarize it after the fact.
