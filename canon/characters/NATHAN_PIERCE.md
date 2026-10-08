@@ -391,20 +391,29 @@ The story may reference or intersect with the pilot naturally through:
 Those references should themselves create small divergences rather than serving as a recap of the
 original episode.
 
-## Narration and knowledge
+## Narration, camera and knowledge
 
-The default presentation is from Nathan's point of view.
+Nathan remains the protagonist and the default narrative centre, but he is **not the permanent camera**.
 
-The narrator may fluidly describe what nearby characters think, feel or are visibly considering when
-doing so improves the scene, but the narrative is **epistemically bounded**.
+Scenes may use:
 
-What the narration presents should remain compatible with what the characters in the scene could know.
+- Nathan-centered narration;
+- general ensemble presentation;
+- a nearby character's thoughts/actions;
+- short cutaways;
+- character-centered canon scenes;
+- consequence scenes that Nathan cannot yet know.
 
-The narrator is not an oracle who reveals the objective truth whenever it is convenient.
+Strict POV is therefore not required for every scene.
 
-A character's interpretation may therefore be wrong.
-Nathan's interpretation may be wrong.
-A narrator statement may describe a belief or apparent motive rather than an objective fact.
+The important constraint is epistemic clarity:
+the reader should be able to distinguish objective action, remembered canon, a character's interpretation,
+and information known only to another character.
+
+The reader may deliberately know more than Nathan. Small butterfly-effect causes can be shown before
+Nathan notices their consequences.
+
+Nathan's memory remains a character capability, not narrative omniscience.
 
 ## Butterfly effect
 
