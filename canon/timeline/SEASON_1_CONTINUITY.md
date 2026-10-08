@@ -104,7 +104,7 @@ The episode ends with the game clearly alive but unfinished.
 Episode 2 is not a new beginning. Nathan starts on **1 October** with the same school, teammates, teachers,
 family and Alex relationship established by Episode 1.
 
-The main arc is the final development push:
+The main arc is the final development push on the game Nathan began on 7 September:
 
 - player prediction/influence behaviour becomes reliable;
 - prediction and navigation are integrated cleanly;
@@ -115,8 +115,7 @@ The main arc is the final development push:
 - somebody outside Nathan's immediate circle can begin to notice that the enemies behave unusually well;
 - the finished game is packaged and reaches a real playable release around **15 October**.
 
-The game should finish around the **middle or later part of Episode 2**, depending on episode length and how
-much space the school/Alex material needs.
+The game's release date is fixed by the continuity: **15 October 2009**. Its position within the prose is determined by scene pacing, not by a fixed chapter word count.
 
 The important ending beat is not fame. It is Nathan looking at a finished, playable game and immediately
 seeing several things he could still improve.
@@ -339,12 +338,11 @@ A* → flow-field redesign.
 | **8–12 Oct** | Profiling, caching, update-frequency reduction, device tests and balancing. | Nathan's perfectionism becomes the main technical pressure. |
 | **13–15 Oct** | Final playtest, cleanup, packaging and release. | Game finishes around the middle/later part of Episode 2. |
 
-### Why this faster duration works
+### Why the dated development arc works
 
-A useful narrative target is roughly **60–85 focused development hours**.
-
-That is aggressive, but the game's scope is intentionally tiny and Nathan is not learning game development from
-zero. He already understands C++, has studied the relevant concepts and knows which parts he wants to control.
+The game's scope is intentionally small, Nathan already has strong C++ skills, and he has studied the relevant
+concepts before implementing them. The project therefore can progress quickly without requiring magical
+future knowledge.
 
 The work is accelerated by:
 
