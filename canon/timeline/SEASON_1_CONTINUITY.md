@@ -322,21 +322,20 @@ day-by-day diary.
 
 ## Nathan's first game — compressed development calendar
 
-The complete development now runs from **7 September to approximately 15 October 2009**: about **39 days
-(5½ weeks)**. It is deliberately faster than the earlier 7–8 week plan because Nathan already knows what he
-wants to build, has strong C++ skills, uses an existing 2D framework and has no major failure besides the
-A* → flow-field redesign.
+The complete development runs continuously from **7 September to 15 October 2009**. These dates are fixed.
+Nathan starts the game in Episode 1 and carries the same project into Episode 2. The narrative does not imply
+that the project existed before the opening scene.
 
 | Period | Game milestone | Narrative integration |
 | --- | --- | --- |
-| **7–9 Sep** | Concept locked; grid, input/rendering and one enemy prototype already underway. | Opens Episode 1 with Nathan's technical identity and old-school life. |
+| **7–9 Sep** | Project begins; basic grid/input/rendering and first enemy prototype emerge. | Opens Episode 1 with Nathan creating the project and his technical identity. |
 | **10–13 Sep** | Conventional **A*** baseline; several enemies; first small playable map. | Nathan deliberately starts with the normal solution. |
 | **14–15 Sep** | Move interrupts work; short transition to California. | Technical work continues only in fragments while family logistics dominate. |
 | **16–23 Sep** | Stress test reveals repeated pathfinding cost; Nathan reviews his flow-field material and adapts the shared field. | New school, first Alex interaction, birthday and Pilot happen alongside the technical pivot. |
 | **24–30 Sep** | Flow field stabilizes; local steering and shared navigation are integrated; first prediction experiments. | Week-after-Pilot school and football material alternates with increasingly focused programming. |
 | **1–7 Oct** | Player prediction/influence field becomes reliable; goal selection and navigation connect cleanly. | Episode 2 opens with the project already technically mature. |
 | **8–12 Oct** | Profiling, caching, update-frequency reduction, device tests and balancing. | Nathan's perfectionism becomes the main technical pressure. |
-| **13–15 Oct** | Final playtest, cleanup, packaging and release. | Game finishes around the middle/later part of Episode 2. |
+| **13–15 Oct** | Final playtest, cleanup, packaging and release. | Episode 2 reaches the established 15 Oct release. |
 
 ### Why the dated development arc works
 
