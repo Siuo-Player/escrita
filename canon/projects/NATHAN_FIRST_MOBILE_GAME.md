@@ -137,12 +137,13 @@ source code from future games. He remembers impressions:
 
 He does not remember the exact technical recipe.
 
-The actual discovery therefore happens through a mixture of:
+The actual breakthrough therefore happens through a mixture of:
 - ordinary A* knowledge;
 - his C++ ability;
 - basic graph and grid reasoning;
 - measurement;
 - experimentation;
+- prior reading about flow fields;
 - fragmented memories of later games.
 
 He realizes that when many agents share a destination, the useful thing is not a path for each agent.
@@ -153,8 +154,9 @@ He initially thinks about it as a set of arrows spread over the map.
 
 Only after testing it does he recognize that this is effectively a reusable flow field.
 
-The important narrative moment is not a magical memory of the word "flow field". The important moment is
-Nathan independently reconstructing the concept from the problem in front of him.
+The important narrative moment is not a magical memory that hands Nathan a finished implementation.
+He has genuinely read about flow fields before; the important moment is recognizing that the technique
+fits the bottleneck he has measured and then adapting it correctly to his own game.
 
 ## Flow field
 
@@ -396,9 +398,9 @@ The key distinction is:
 **the technique is not unknown; Nathan is unusual.**
 
 In 2009, a specialist who inspected the project could recognize that flow-field-style navigation was a
-real, established idea. What is exceptional is that a thirteen-year-old independently reconstructed the
-concept from a practical problem, implemented it correctly in a mobile game, connected it to a separate
-lightweight player-prediction system, and then optimized the whole arrangement for constrained hardware.
+real, established idea. What is exceptional is that a thirteen-year-old recognized a specialist technique he had actually
+studied, adapted it correctly to a mobile game, connected it to a separate lightweight player-prediction
+system, and then optimized the whole arrangement for constrained hardware.
 
 Therefore the story should not give Nathan an implausible immediate reputation as the "inventor" of a
 new AI technique.
