@@ -236,3 +236,8 @@ Before Nathan acts on a remembered canon event, use [the Foreknowledge and Inter
 ## Character naming discipline
 
 Before adding an original character, consult [the Character Naming Standard](CHARACTER_NAMING_STANDARD.md) and [the Character Name Registry](../characters/CHARACTER_NAME_REGISTRY.md). Use cohort- and country-appropriate public frequency data, filter duplicates and rejected names, then record a reproducible random draw. User-locked and source-canon names are exceptions; do not silently change them. Family surnames must be inherited/recorded consistently rather than independently randomized for each relative.
+
+
+## Global architecture, linear causality and backpropagation
+
+Follow [Narrative Architecture and Causal Drafting Method](NARRATIVE_AND_CAUSAL_METHOD.md) together with the [Decision Log](../DECISION_LOG.md). Plan the whole series recursively from beginning/end to midpoint and finer anchors; then build the story's lived state forward in chronological order, scene by scene, with causes, choices, outcomes and persistent state changes. After an episode or season, trace promised outcomes backward to identify missing prerequisites, then re-read forward to catch regressions. Randomize only among constrained, reasonable candidates when a choice is underdetermined; record the pool, seed, validation and dependencies. Do not let random draws overrule canon, causal constraints or explicit author choices.
