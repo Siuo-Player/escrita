@@ -50,7 +50,7 @@ The drafting process selects from it.
 - 13–15 Oct: Alex does something that quietly contradicts Nathan's pessimistic interpretation.
 - End-state: they have a genuine early friendship/interest, not a relationship label.
 
-## Pierce family
+## Callahan family
 
 - 7 Sep: birthday/family routine before the move is announced.
 - 8–13 Sep: promotion/relocation unfolds; Clifford's role had been quietly negotiated beforehand, but the confirmation is sudden to Nathan.
@@ -130,6 +130,6 @@ These are detailed in episodes/season-1/EP01_PREPILOT_CONTACT_THREADS.md.
 
 ## Geographic continuity for future neighbors
 
-The September temporary rental is in the same broad area, but is not the permanent Pierce home next to the
-Dunphys. A later permanent purchase, after the family has learned the area, can place the Pierces directly
+The September temporary rental is in the same broad area, but is not the permanent Callahan home next to the
+Dunphys. A later permanent purchase, after the family has learned the area, can place the Callahans directly
 beside the Dunphys. This is a deliberate long-term interaction engine, not an Episode 1 shortcut.
