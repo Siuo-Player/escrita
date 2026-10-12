@@ -586,7 +586,7 @@ Saturday activity/match.
 
 Nathan earns respect.
 
-Jordan Reyes is introduced as a possible friend. He wants more playing time and is wary of being overlooked, but he is not hostile. See [Jordan's working profile](../../canon/characters/JORDAN_REYES.md).
+Maxwell Whitaker is introduced as a possible friend. He wants more playing time and is wary of being overlooked, but he is not hostile. See [Maxwell's working profile](../../canon/characters/MAXWELL_WHITAKER.md).
 
 Nathan does not become captain.
 
@@ -664,9 +664,9 @@ This is a genuine character milestone.
 #### Scene 48 — football
 Coach notices Nathan's tactical ability.
 
-Jordan asks him to help with a tactical situation.
+Maxwell asks him to help with a tactical situation.
 
-The first shift toward friendship begins, but Jordan still has his own goal of earning more playing time. They are not instant best friends.
+The first shift toward friendship begins, but Maxwell still has his own goal of earning more playing time. They are not instant best friends.
 
 #### Scene 49 — technical night
 Nathan writes down:

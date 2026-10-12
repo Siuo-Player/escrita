@@ -159,3 +159,6 @@ A estrutura narrativa não chega para produzir prosa convincente. Antes da reda�
 - [Season 1 Relationship Pacing](../../canon/narrative/SEASON_1_RELATIONSHIP_PACING.md) — evolução gradual e friendship-first de Nathan e Alex.
 
 - [Opening Calendar Audit](OPENING_CALENDAR_AUDIT.md) — dates verified against the archived Seattle Public Schools calendar, the LAUSD 2009–10 calendar, and the original *Modern Family* Season 1 air dates; distinguishes source-backed dates from assumptions.
+
+- [Character Naming Standard](../../canon/narrative/CHARACTER_NAMING_STANDARD.md) — cohort/country-appropriate frequency sources, random name selection, duplicate avoidance and family-name continuity.
+- [Character Name Registry](../../canon/characters/CHARACTER_NAME_REGISTRY.md) — author-locked names, retired names, random-draw audit and the pending protagonist surname choice.
