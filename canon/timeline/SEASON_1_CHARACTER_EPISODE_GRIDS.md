@@ -30,8 +30,8 @@ This avoids the feeling that characters teleport into place because an episode n
 ### Pierce family
 
 - Nathan: school, football, programming, self-study, social adjustment.
-- David: California leadership role, transition from relocation logistics into full work rhythm.
-- Melissa: professional work, family organization, emotional monitoring of the move.
+- Clifford: California leadership role, transition from relocation logistics into full work rhythm.
+- Heather: professional work, family organization, emotional monitoring of the move.
 
 ### Dunphy household
 
@@ -78,8 +78,8 @@ Exact times remain mostly CREATED/WORKING unless separately marked CANON.
 | Character | Start state | Main private thread | End state |
 |---|---|---|---|
 | Nathan | settled in old life | move + game + new social world | relocated, partially integrated |
-| David | quiet promotion process | California role + move | commuting/working from California role |
-| Melissa | stable professional routine | relocation + keeping family grounded | established new family routine |
+| Clifford | quiet promotion process | California role + move | commuting/working from California role |
+| Heather | stable professional routine | relocation + keeping family grounded | established new family routine |
 | Claire | normal family/school routine | notices new family / local logistics | knows Nathan as a familiar new student |
 | Phil | normal work/family routine | local life + football-family context | knows Nathan casually |
 | Haley | high-school/social life | independent plans | recognizes Nathan |
@@ -98,7 +98,7 @@ Exact times remain mostly CREATED/WORKING unless separately marked CANON.
 |---|---|---|---|---|---|---|
 | 7 Sep Mon | Birthday, computer, football, prototype | Home/family rhythm | Family/social day | Family/holiday rhythm | All families on non-school holiday rhythm | Pierce birthday; separate canon-family texture |
 | 8 Sep Tue | Old school + football + coding | School | High school | Normal work/household | School/work | Math teacher; old-team captaincy |
-| 9 Sep Wed | Old school + science + coding | School | High school | Household/work | School/work | David/partner parallel; game profiling |
+| 9 Sep Wed | Old school + science + coding | School | High school | Household/work | School/work | Clifford/partner parallel; game profiling |
 | 10 Sep Thu | Old school + football; A* stress | School + cello practice | High school | Work/household | Family routines | First serious game bottleneck |
 | 11 Sep Fri | School + long coding | School + cello/family | Social/family | Work/household | Family routines | Promotion confirmation approaches |
 | 12 Sep Sat | Old-team match; farewell energy | Family / music | Social/family | Family errands | Family activities | Old football relationships |
@@ -141,8 +141,8 @@ The story does not need to show every step, but the grid makes every step possib
 | Character | Start state | Main private thread | End state |
 |---|---|---|---|
 | Nathan | established enough to have a routine | finish game + relationships | game released; early friendships clearer |
-| David | new California job | work demands settle | normal executive rhythm beginning |
-| Melissa | family settling | balance career and Nathan's intensity | household feels stable |
+| Clifford | new California job | work demands settle | normal executive rhythm beginning |
+| Heather | family settling | balance career and Nathan's intensity | household feels stable |
 | Claire | knows Nathan vaguely | family routines | more familiar with Pierce family |
 | Phil | knows Nathan from football | work/family + local life | potential future real-estate link remains |
 | Haley | recognizes Nathan | school/social life | casual local familiarity |
