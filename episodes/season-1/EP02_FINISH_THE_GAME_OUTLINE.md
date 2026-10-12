@@ -126,8 +126,8 @@ This is important because she is beginning to observe him.
 Short Pierce-family domestic sequence:
 - boxes are mostly gone;
 - kitchen routine is established;
-- Melissa knows where things are;
-- David is working longer hours.
+- Heather knows where things are;
+- Clifford is working longer hours.
 
 The temporary rental begins to have ordinary life.
 
@@ -331,7 +331,7 @@ Nathan says yes without overthinking.
 Small but important.
 
 #### Scene 24 — family
-Melissa buys/arranges something for the rental.
+Heather buys/arranges something for the rental.
 
 The house acquires another normal household detail.
 
@@ -423,7 +423,7 @@ Nathan tries to do both perfectly.
 He cannot.
 
 #### Scene 33 — parent interaction
-David or Melissa notices.
+Clifford or Heather notices.
 
 The parent does not tell him to abandon the game.
 

@@ -122,7 +122,7 @@ reluctance to seek new friendships. The broader self-undervaluation is a recurri
 Nathan/Alex slow burn.
 
 ### 3. Parents' final occupations and family history
-**Sufficiently bounded for the opening episodes.** David remains a senior technology executive/early co-founder; Melissa has a demanding, well-paid professional career outside core software engineering. Their roles, relationship with Nathan, and reason for the move are recorded in `canon/characters/PIERCE_FAMILY.md`. Keep exact employer/title and work subplots unspecified until the story needs them; both parents are supportive background, not a second main plot.
+**Sufficiently bounded for the opening episodes.** Clifford (randomly selected given name; SSA 1960s male rank 159) remains a senior technology executive/early co-founder; Heather (randomly selected given name; SSA 1960s female rank 127) has a demanding, well-paid professional career outside core software engineering. Their roles, relationship with Nathan, and reason for the move are recorded in `canon/characters/PIERCE_FAMILY.md`. Keep exact employer/title and work subplots unspecified until the story needs them; both parents are supportive background, not a second main plot.
 
 ### 4. Nathan's first concrete technology project
 **Resolved in design:** a small 2D mobile game for conservative 2009 hardware. Nathan builds the important

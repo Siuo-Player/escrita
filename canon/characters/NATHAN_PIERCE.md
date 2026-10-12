@@ -44,14 +44,14 @@ The reincarnation itself is private. To everyone else he is simply Nathan Pierce
 
 Nathan was born and raised in the Seattle-area technology corridor.
 
-### Father — David Pierce
+### Father — Clifford Pierce
 
-David is a senior technology executive and early co-founder of a successful private software
+Clifford is a senior technology executive and early co-founder of a successful private software
 company. He is technically capable, pragmatic and accustomed to long-term planning.
 
-### Mother — Melissa Pierce
+### Mother — Heather Pierce
 
-Melissa has a demanding professional career. She is strongly supportive of education and discipline
+Heather has a demanding professional career. She is strongly supportive of education and discipline
 but does not reduce Nathan's identity to academic achievement.
 
 ### Financial situation
@@ -70,7 +70,7 @@ people and spend time.
 
 ### Move to Southern California
 
-David accepts a major California-based leadership responsibility connected with his technology
+Clifford accepts a major California-based leadership responsibility connected with his technology
 company. The family therefore moves from the Seattle area to Southern California shortly before
 Nathan's new school term.
 

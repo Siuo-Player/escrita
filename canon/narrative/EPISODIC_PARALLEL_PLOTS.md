@@ -209,8 +209,8 @@ The move is still recent enough to have consequences.
 
 Possible recurring beats:
 
-- David's promotion means longer and more demanding workdays;
-- Melissa works out the family's new routines;
+- Clifford's promotion means longer and more demanding workdays;
+- Heather works out the family's new routines;
 - Nathan's room/computer setup becomes functional;
 - the family discovers ordinary local places;
 - Nathan misses an element of his old routine;

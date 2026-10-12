@@ -70,8 +70,8 @@ Primary threads:
 Create once:
 - Nathan (surname pending author choice; current files use Pierce as a placeholder)
 - Maxwell Whitaker (working recurring football peer; see canon character profile)
-- David (father; family surname follows the eventual author-confirmed surname)
-- Melissa (mother; family surname follows the eventual author-confirmed surname)
+- Clifford (father; family surname follows the eventual author-confirmed surname)
+- Heather (mother; family surname follows the eventual author-confirmed surname)
 - Claire Dunphy
 - Phil Dunphy
 - Haley Dunphy

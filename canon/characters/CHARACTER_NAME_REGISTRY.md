@@ -45,7 +45,7 @@ Keep Maxwell's existing role and personality beats. Do not create relatives, anc
 | Current working name | Status | Instruction |
 |---|---|---|
 | Nathan Pierce | PENDING AUTHOR CHOICE on surname; USER-LOCKED on Nathan | Do not replace Nathan. Do not assume Pierce is final. |
-| David / Melissa [family surname currently Pierce] | Existing WORKING labels in the established story bible | They are already used as the protagonist's parents. Preserve the roles and continuity; do not rename them casually inside a scene. If the author later wants to apply the random-name process retroactively to their first names, regenerate and migrate all references together. |
+| Clifford / Heather [family surname currently Pierce] | WORKING / RANDOMLY SELECTED | The first names were selected from 1960s U.S. SSA decade rankings with seed `637376247`; Clifford is rank 159 in the male table and Heather is rank 127 in the female table. They remain the protagonist's parents. Their shared surname is still a placeholder pending the author's choice. |
 | Jordan Reyes | RETIRED | Provisional assistant-generated name superseded by Maxwell Whitaker. Do not reuse for this character or another new original character. |
 | Ethan Brooks | REJECTED / RETIRED | The author rejected it as an overused fan-fiction-style choice. Never revive it as the protagonist or a new character. |
 | Pierce | PENDING | Existing placeholder for the protagonist's family surname, not a user-locked choice. |
@@ -165,3 +165,47 @@ This is the **exact first-name candidate pool**, in the order used for the seede
 With Python's `random.Random(687708412).randrange(95)`, the selected zero-based index was **58**, yielding **Maxwell**. The same seeded generator was then used to shuffle the surname pool. Input order and ranks were `Whitaker (#610), Callahan (#682), Ellison (#829), Gentry (#821)`; the shuffled order was `Gentry, Callahan, Ellison, Whitaker`. The first three became the protagonist's pending surname slate; Whitaker was assigned to Maxwell without reuse.
 
 Filtering notes for this draw: the pool excluded existing canon/registered first names and variants, including Nathan, David, Melissa, Claire, Phil/Philip/Phillip, Haley, Alex/Alexis, Luke, Jay, Gloria, Manny, Mitchell, Cameron, DeDe, Dylan, Ethan, Jordan, Nathaniel and Drew. This is the selection history for this draw, not an instruction to exclude every one of those names from all future demographic data; the general duplicate/rejection filters in the naming standard govern future pools.
+
+
+## Parents' first-name selection audit
+
+The previously used labels David and Melissa were assistant-generated and were not user-locked, so they were replaced rather than treated as immutable choices. Nathan remains user-locked; no canon names were changed.
+
+- **Source:** U.S. Social Security Administration, [Top names of the 1960s](https://www.ssa.gov/OACT/babynames/decades/names1960s.html), a decade-frequency table.
+- **Seed:** `637376247`.
+- **Method:** form source-order candidate pools from the male and female ranks 101–200; filter existing canon/registered/rejected first names and known confusable variants; select independently using a seeded draw.
+- **Father:** male pool size 97; zero-based index 56 → **Clifford**, SSA 1960s male rank **159**.
+- **Mother:** female pool size 97; zero-based index 25 → **Heather**, SSA 1960s female rank **127**.
+- **Surname:** not selected here. Both parents share the same family surname as Nathan once the author approves it.
+
+### Exact male candidate pool — ordered by SSA 1960s source rank, after filters
+
+```text
+Albert, Darren, Ronnie, Ralph, Joel, Louis, Jim, Micheal, Marc, Frederick,
+Eddie, Lee, Stanley, Tommy, Eugene, Tom, Tracy, Howard, Leonard, Kurt,
+Marvin, Kelly, Brent, Ernest, Dwayne, Aaron, Brett, Rick, Benjamin, Bill,
+Reginald, Duane, Juan, Fred, Melvin, Adam, Norman, Dan, Harry, Jesse,
+Carlos, Nicholas, Jerome, Kirk, Ray, Don, Calvin, Glen, Brad, Theodore,
+Derrick, Karl, Edwin, Earl, Lance, Francis, Clifford, Kent, Derek, Wesley,
+Alfred, Antonio, Warren, Andre, Clarence, Bernard, Kyle, Tyrone, Manuel, Luis,
+Chad, Gordon, Dave, Guy, Kerry, Daryl, Leroy, Perry, Lonnie, Erik,
+Maurice, Marcus, Alvin, Gilbert, Vernon, Alexander, Stuart, Rickey, Shane,
+Franklin, Leon, Gregg, Bob, Darin, Leslie, Gene, Herbert
+```
+
+### Exact female candidate pool — ordered by SSA 1960s source rank, after filters
+
+```text
+Betty, Stacey, Penny, Shirley, Victoria, Jean, Peggy, Melanie, Joan, Melinda,
+Shelly, Stacy, Virginia, Marie, Maureen, Ruth, Julia, Ellen, Tonya, Shannon,
+Heidi, Joanne, Dorothy, Rita, Gail, Heather, Deanna, Rose, Vickie, Carrie,
+Veronica, Yvonne, Becky, Helen, Sylvia, Yolanda, April, Terry, Elaine, Sheri,
+Marilyn, Alice, Jodi, Rachel, Sheryl, Jackie, Phyllis, Jamie, Frances, Crystal,
+Joann, Eileen, Shelley, Toni, Charlene, Kristin, Sally, Charlotte, Kristine, Jeanne,
+Sara, Tanya, Belinda, Carmen, Sandy, Evelyn, Alicia, Sonya, Lorraine, Yvette,
+Jeanette, Loretta, Joy, Norma, Roberta, Vanessa, Shari, Jo, Natalie, Tammie,
+Traci, Gwendolyn, Nicole, Felicia, Melody, Shelia, Tami, Marcia, Doris, Kristen,
+Audrey, Karla, Jody, Glenda, Patty, Amanda, Pam
+```
+
+The candidate pools and selected indices are frozen in this registry. Do not reroll because a result feels unfamiliar; if a name is rejected by the author, record it as retired and perform a separately logged draw.
