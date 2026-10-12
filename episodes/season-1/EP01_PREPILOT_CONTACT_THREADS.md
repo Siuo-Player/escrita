@@ -20,7 +20,7 @@ These contacts are the beginning of continuity, not a checklist to satisfy.
 
 ## Geographic rule
 
-The Pierce family initially lives in an employer-arranged temporary rental in the same broad suburban
+The Callahan family initially lives in an employer-arranged temporary rental in the same broad suburban
 area as the Dunphys.
 
 The rental is close enough for normal school, football, shopping and park routines to overlap, but it is
@@ -30,7 +30,7 @@ This distinction matters:
 
 1. Early encounters are plausible because the families share local geography.
 2. Nathan does not instantly become part of the Dunphy household.
-3. Later, after the Pierces have lived in California long enough to know the area, they can buy a permanent
+3. Later, after the Callahans have lived in California long enough to know the area, they can buy a permanent
    house and become direct neighbors.
 4. Phil's profession as a real-estate agent can then become a natural bridge into the house-purchase plot
    rather than being retrofitted after the fact.
@@ -99,7 +99,7 @@ She does not instantly classify him as brilliant.
 
 Later, when Claire hears Alex mention the new eighth-grader, she can connect the name and face:
 
-the polite boy from pickup = Nathan Pierce.
+the polite boy from pickup = Nathan Callahan.
 
 That means the next interaction does not reset to zero.
 
@@ -428,7 +428,7 @@ Possible later chain:
 5. permanent house search begins;
 6. Phil becomes a plausible real-estate contact;
 7. a house adjacent to or immediately near the Dunphys becomes available;
-8. the Pierce family chooses it for practical reasons first;
+8. the Callahan family chooses it for practical reasons first;
 9. only afterward does Nathan realize just how much this changes the frequency of family interactions.
 
 This makes becoming neighbors a consequence of the family's own settling process rather than an immediate
