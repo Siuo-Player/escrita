@@ -74,6 +74,17 @@ These should not all appear in every episode.
 - Mitchell and Cameron continue building routines around Lily.
 - A family member can acquire an object in an ordinary scene before it becomes important much later.
 
+## Pre-Pilot acquaintance ledger
+
+These are outline-level contact beats, not finished dialogue or instant friendships. Their purpose is to establish four direct first contacts before the 23 September Pilot without forcing Nathan into the family-reunion scene.
+
+- **15 Sep — Phil:** introduces himself during an ordinary moving-truck/access moment and includes Nathan briefly after talking to David.
+- **15 Sep — Claire:** joins later for a practical neighborhood/parking reason and asks Nathan which grade he is entering.
+- **15 Sep — Luke:** retrieves a ball that has rolled into the Pierce driveway; Nathan returns it and they exchange a few ordinary lines.
+- **16–18 Sep — Alex:** Nathan first sees her at school on the 16th; she initiates the first real conversation on the 18th about an assigned academic resource.
+
+Contact state by the Pilot: they recognize each other and have some context, but none of the adults or children should already treat Nathan as a close friend. Carry forward what was actually said and learned; do not reintroduce him as a stranger in each later scene.
+
 ## Canon anchors
 
 - **23 Sep — Pilot:** Nathan does not enter the central family reunion unless a genuine intersection exists.
