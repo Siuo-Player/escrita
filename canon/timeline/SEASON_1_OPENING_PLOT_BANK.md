@@ -41,7 +41,7 @@ The drafting process selects from it.
 - 16 Sep: first sight at new school.
 - 17 Sep: second sight/academic context; no approach.
 - 18 Sep: Alex initiates practical first conversation.
-- 21 Sep: simple birthday acknowledgment.
+- 21 Sep: ordinary school Monday; no birthday beat. Nathan turned 13 on 7 Sep, before the move. Any Alex interaction must build on the 18 Sep exchange rather than use a delayed birthday acknowledgment.
 - 22 Sep: second interaction.
 - 24–30 Sep: brief recurring conversations; Alex starts recognizing Nathan as a person rather than just
   the new smart kid.
@@ -54,7 +54,7 @@ The drafting process selects from it.
 
 - 7 Sep: birthday/family routine before the move is announced.
 - 8–13 Sep: promotion/relocation unfolds; David's role had been quietly negotiated beforehand, but the confirmation is sudden to Nathan.
-- 9 Sep: LAUSD year begins elsewhere, while Nathan's old-school routine continues.
+- 9 Sep: Seattle Public Schools and LAUSD both begin instruction; Nathan starts the school term at his old school. The school-calendar basis is documented in `research/narrative/OPENING_CALENDAR_AUDIT.md`.
 - 10–13 Sep: David receives/learns of promotion and California role; timing can be sudden from Nathan's
   perspective.
 - 12–15 Sep: move preparation, packing, relocation travel and arrival in an employer-arranged temporary rental.
