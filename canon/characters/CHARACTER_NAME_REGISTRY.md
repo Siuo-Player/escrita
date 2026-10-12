@@ -23,7 +23,7 @@ A reproducible draw generated a shortlist of three U.S. surnames for author revi
 | 2 | **Callahan** | 682 | Often associated with Irish origin; use only if that background fits the family the author wants. |
 | 3 | **Ellison** | 829 | English-language surname; plausible in the United States. |
 
-**Final result:** **Nathan Callahan**. This is now the author-confirmed family surname. The former placeholder **Pierce** is RETIRED for this family. File paths and active references are being migrated together. Do not infer Irish ancestry or any other cultural biography from Callahan alone.
+**Final result:** **Nathan Callahan**. This is now the author-confirmed family surname. The former placeholder **Pierce** is RETIRED for this family. The active character and family profiles, outlines, timeline and Codex references have been migrated to Callahan together. Do not infer Irish ancestry or any other cultural biography from Callahan alone.
 
 The other generated candidates, Gentry and Ellison, were not selected for the protagonist. Do not reroll this decision unless the author explicitly reopens it.
 
