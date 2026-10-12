@@ -160,9 +160,8 @@ the pilot. Candidate first contacts are Alex at school, Claire and Phil as nearb
 another family member through sport/neighborhood life. At least four family members should know Nathan by
 the pilot without making him artificially central to the episode.
 
-### 11. Canon changes
-Which tragedies/bad decisions are specifically priorities for Nathan to prevent in the first year?
-Which canon outcomes are protected unless the butterfly effect makes them untenable?
+### 11. Canon changes and intervention priorities
+**Policy established; specific first-year opportunities require a dated canon audit.** Use `canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md` to separate certainty about remembered events from certainty about the altered timeline, rank the potential harm, assess Nathan's access and credibility, and choose the smallest plausible action. Nathan actively tries to prevent serious harm, but Episode 1–2 must not gain a manufactured crisis or place him in canon scenes without a credible reason. Once his action changes a causal condition, follow the consequence honestly. The remaining task is to map first-year canon events and identify only the opportunities that pass the feasibility test.
 
 ### 12. Episode length
 **Resolved working target:** 10,000–14,000+ words for a typical opening episode. The story should reach that length through meaningful scenes, parallel threads and consequential detail, never filler.
@@ -187,6 +186,6 @@ Now sufficiently bounded for Episode 1–2 drafting:
 5. **Writing tools:** `research/narrative/AI_WRITING_TOOL_SELECTION.md` stores an evidence-led comparison plan using OpenWrite and the already connected provider, instead of adding paid subscriptions by default.
 6. **Episode length:** target 10,000–14,000+ words, earned by story substance.
 
-**Still required before committing a full Episode 1 prose draft:** select first-year canon-intervention priorities only after checking the canon timeline and practical feasibility. Nathan should not be given a list of tragedies to prevent merely to force plot. Also run a final scene-purpose and calendar check over the current outline.
+**Still required before committing a full Episode 1 prose draft:** complete a source-backed calendar/scene-purpose audit and use the intervention policy to decide whether a first-year event offers a credible opportunity. A decision not to intervene is valid when access or a plausible action is missing; ignoring an actionable risk is not.
 
 The opening calendar, personality profile, pilot-intersection rule, first mobile game, relationship direction and dialogue discipline are recorded. Remaining details can stay provisional where they do not block a scene.

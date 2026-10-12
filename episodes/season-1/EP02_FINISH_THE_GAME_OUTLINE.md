@@ -7,7 +7,7 @@ Updated: 2026-10-08
 
 **1–15 October 2009**
 
-Drafting references: use [the dialogue naturalness standard](../../canon/narrative/DIALOGUE_NATURALNESS_STANDARD.md), [Season 1 relationship pacing](../../canon/narrative/SEASON_1_RELATIONSHIP_PACING.md), and [Jordan's working profile](../../canon/characters/JORDAN_REYES.md). Scene beats are constraints, not dialogue to expand mechanically.
+Drafting references: use [the dialogue naturalness standard](../../canon/narrative/DIALOGUE_NATURALNESS_STANDARD.md), [Season 1 relationship pacing](../../canon/narrative/SEASON_1_RELATIONSHIP_PACING.md), [Jordan's working profile](../../canon/characters/JORDAN_REYES.md), and [the foreknowledge/intervention policy](../../canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md). Scene beats are constraints, not dialogue to expand mechanically; keep *The Incident* parallel unless an established, credible interaction gives Nathan a reason and a way to help.
 
 Target finished length: **10,000–14,000+ words**.
 

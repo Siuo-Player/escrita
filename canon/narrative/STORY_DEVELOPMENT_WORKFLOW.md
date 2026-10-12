@@ -226,3 +226,8 @@ Dialogue must pass the project's separate [Natural Dialogue Standard](DIALOGUE_N
 Use the [AI Writing Tool Selection and Evaluation protocol](../../research/narrative/AI_WRITING_TOOL_SELECTION.md) to compare only models available through the existing OpenWrite provider. A blind comparison on a fixed scene comes before any claim that a model or paid writing product is more natural. The project author's reading and judgment remain the acceptance signal; AI judges are advisory.
 
 Final prose is written in natural European Portuguese by default unless explicitly changed. Planning and technical canon documents can stay in English. Preserve the Southern California context and character-specific voices without literal translation of English syntax or imitation of exact lines from the source series.
+
+
+## Foreknowledge and intervention pass
+
+Before Nathan acts on a remembered canon event, use [the Foreknowledge and Intervention Policy](FOREKNOWLEDGE_INTERVENTION_POLICY.md). Separate how clearly he remembers the original event from how likely it is to recur after the timeline has changed. Check the present trigger, whether he has access to someone who can act, and the smallest credible intervention. A decision not to intervene is valid when access or a plausible action is missing; ignoring an immediate, actionable risk is not. Keep the detailed ledger out of finished prose.

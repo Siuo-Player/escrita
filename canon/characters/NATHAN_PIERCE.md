@@ -343,6 +343,8 @@ His intervention therefore has two different scales:
 
 The second category should become increasingly important.
 
+Operational rules for individual opportunities are recorded in `canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md`. Apply them without turning the finished prose into a list of future events.
+
 ## Narrative proportion
 
 *Modern Family* should normally occupy around **10–40% of an episode's plot focus**, depending on the
