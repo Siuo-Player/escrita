@@ -7,7 +7,7 @@ Updated: 2026-10-08
 
 **1–15 October 2009**
 
-Drafting references: use [the dialogue naturalness standard](../../canon/narrative/DIALOGUE_NATURALNESS_STANDARD.md), [Season 1 relationship pacing](../../canon/narrative/SEASON_1_RELATIONSHIP_PACING.md), [Jordan's working profile](../../canon/characters/JORDAN_REYES.md), and [the foreknowledge/intervention policy](../../canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md). Scene beats are constraints, not dialogue to expand mechanically; keep *The Incident* parallel unless an established, credible interaction gives Nathan a reason and a way to help.
+Drafting references: use [the dialogue naturalness standard](../../canon/narrative/DIALOGUE_NATURALNESS_STANDARD.md), [Season 1 relationship pacing](../../canon/narrative/SEASON_1_RELATIONSHIP_PACING.md), [Maxwell's working profile](../../canon/characters/MAXWELL_WHITAKER.md), and [the foreknowledge/intervention policy](../../canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md). Scene beats are constraints, not dialogue to expand mechanically; keep *The Incident* parallel unless an established, credible interaction gives Nathan a reason and a way to help.
 
 Target finished length: **10,000–14,000+ words**.
 
@@ -75,7 +75,7 @@ Nathan almost leaves, then stays.
 This is a small victory.
 
 #### Scene 3 — football
-Jordan asks Nathan for help on a tactical situation.
+Maxwell asks Nathan for help on a tactical situation.
 
 Nathan gives a useful answer.
 
@@ -322,7 +322,7 @@ old scripts are not enough.
 ### 9 October
 
 #### Scene 23 — football
-Jordan asks Nathan to help outside formal practice.
+Maxwell asks Nathan to help outside formal practice.
 
 This is the first real invitation.
 
@@ -567,7 +567,7 @@ Instead of praise alone, the teacher gives Nathan a harder follow-up.
 Nathan likes that more than a compliment.
 
 ### Scene 45 — football
-Jordan asks him about the weekend.
+Maxwell asks him about the weekend.
 
 No longer "the new kid."
 
