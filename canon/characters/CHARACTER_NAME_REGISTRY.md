@@ -35,7 +35,7 @@ The other generated candidates, Gentry and Ellison, were not selected for the pr
 - **Status:** WORKING; replaces the provisional name Jordan Reyes.
 - **Narrative role:** a competitive but fair teammate who wants more meaningful playing time, tests whether Nathan listens, gradually trusts him, and maintains goals outside Nathan.
 - **Name evidence:** the SSA's 1990s male names table lists Maxwell at rank **161**; Whitaker ranked **610** in the U.S. Census Bureau's 2020 surname data.
-- **Random selection audit:** seed `687708412`; first-name candidate pool size 95; zero-based selected index 58; selected given name Maxwell. The surname pool, filtered to plausible non-top-frequency U.S. surnames and ordered as Whitaker (#610), Callahan (#682), Ellison (#829), Gentry (#821), was shuffled from the same seeded random stream. Its order was Gentry, Callahan, Ellison, Whitaker: the first three became the protagonist's candidate slate and Whitaker was assigned to the peer without reuse.
+- **Random selection audit:** seed `687708412`; first-name candidate pool size 95; zero-based selected index 58; selected given name Maxwell. The surname pool, filtered to plausible non-top-frequency U.S. surnames and ordered as Whitaker (#610), Callahan (#682), Ellison (#829), Gentry (#821), was shuffled from the same seeded random stream. Its order was Gentry, Callahan, Ellison, Whitaker: the first three were offered as the protagonist's surname shortlist and Whitaker was assigned to the peer without reuse.
 - **Sources:** [SSA — Top names of the 1990s](https://www.ssa.gov/OACT/babynames/decades/names1990s.html); [U.S. Census Bureau — 2020 Census names data](https://www.census.gov/topics/population/genealogy/data/2020_names.html); rank cross-check for Whitaker: [2020 surname frequency derived from Census data](https://www.namecensus.com/last-names/whitaker-surname-popularity/).
 
 Keep Maxwell's existing role and personality beats. Do not create relatives, ancestry or additional personal history simply to justify the name; decide those details only when the timeline needs them.
@@ -162,7 +162,7 @@ This is the **exact first-name candidate pool**, in the order used for the seede
 94 Larry
 ```
 
-With Python's `random.Random(687708412).randrange(95)`, the selected zero-based index was **58**, yielding **Maxwell**. The same seeded generator was then used to shuffle the surname pool. Input order and ranks were `Whitaker (#610), Callahan (#682), Ellison (#829), Gentry (#821)`; the shuffled order was `Gentry, Callahan, Ellison, Whitaker`. The first three became the protagonist's pending surname slate; Whitaker was assigned to Maxwell without reuse.
+With Python's `random.Random(687708412).randrange(95)`, the selected zero-based index was **58**, yielding **Maxwell**. The same seeded generator was then used to shuffle the surname pool. Input order and ranks were `Whitaker (#610), Callahan (#682), Ellison (#829), Gentry (#821)`; the shuffled order was `Gentry, Callahan, Ellison, Whitaker`. The first three became the protagonist's surname shortlist; the author later chose Callahan, and Whitaker was assigned to Maxwell without reuse.
 
 Filtering notes for this draw: the pool excluded existing canon/registered first names and variants, including Nathan, David, Melissa, Claire, Phil/Philip/Phillip, Haley, Alex/Alexis, Luke, Jay, Gloria, Manny, Mitchell, Cameron, DeDe, Dylan, Ethan, Jordan, Nathaniel and Drew. This is the selection history for this draw, not an instruction to exclude every one of those names from all future demographic data; the general duplicate/rejection filters in the naming standard govern future pools.
 
@@ -176,7 +176,7 @@ The previously used labels David and Melissa were assistant-generated and were n
 - **Method:** form source-order candidate pools from the male and female ranks 101–200; filter existing canon/registered/rejected first names and known confusable variants; select independently using a seeded draw.
 - **Father:** male pool size 97; zero-based index 56 → **Clifford**, SSA 1960s male rank **159**.
 - **Mother:** female pool size 97; zero-based index 25 → **Heather**, SSA 1960s female rank **127**.
-- **Surname:** not selected here. Both parents share the same family surname as Nathan once the author approves it.
+- **Surname:** this draw only selected the parents' given names; family-surname selection was a separate decision. The author subsequently selected Callahan for the entire family.
 
 ### Exact male candidate pool — ordered by SSA 1960s source rank, after filters
 
