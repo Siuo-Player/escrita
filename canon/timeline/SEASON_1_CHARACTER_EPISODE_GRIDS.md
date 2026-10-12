@@ -27,7 +27,7 @@ This avoids the feeling that characters teleport into place because an episode n
 
 ## Character roster for the opening
 
-### Pierce family
+### Callahan family
 
 - Nathan: school, football, programming, self-study, social adjustment.
 - Clifford: California leadership role, transition from relocation logistics into full work rhythm.
@@ -96,7 +96,7 @@ Exact times remain mostly CREATED/WORKING unless separately marked CANON.
 
 | Date | Nathan | Alex | Haley | Claire / Phil | Other family | Scene opportunities |
 |---|---|---|---|---|---|---|
-| 7 Sep Mon | Birthday, computer, football, prototype | Home/family rhythm | Family/social day | Family/holiday rhythm | All families on non-school holiday rhythm | Pierce birthday; separate canon-family texture |
+| 7 Sep Mon | Birthday, computer, football, prototype | Home/family rhythm | Family/social day | Family/holiday rhythm | All families on non-school holiday rhythm | Callahan birthday; separate canon-family texture |
 | 8 Sep Tue | Old school + football + coding | School | High school | Normal work/household | School/work | Math teacher; old-team captaincy |
 | 9 Sep Wed | Old school + science + coding | School | High school | Household/work | School/work | Clifford/partner parallel; game profiling |
 | 10 Sep Thu | Old school + football; A* stress | School + cello practice | High school | Work/household | Family routines | First serious game bottleneck |
@@ -143,7 +143,7 @@ The story does not need to show every step, but the grid makes every step possib
 | Nathan | established enough to have a routine | finish game + relationships | game released; early friendships clearer |
 | Clifford | new California job | work demands settle | normal executive rhythm beginning |
 | Heather | family settling | balance career and Nathan's intensity | household feels stable |
-| Claire | knows Nathan vaguely | family routines | more familiar with Pierce family |
+| Claire | knows Nathan vaguely | family routines | more familiar with Callahan family |
 | Phil | knows Nathan from football | work/family + local life | potential future real-estate link remains |
 | Haley | recognizes Nathan | school/social life | casual local familiarity |
 | Alex | comfortable talking to Nathan | academics/cello + growing friendship | genuine early friendship/interest |
