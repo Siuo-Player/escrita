@@ -281,15 +281,15 @@ The Pierce family is affluent but should never read as billionaire-level wealthy
 
 The family comes from the Seattle-area technology corridor.
 
-### David Pierce
+### Clifford Pierce
 
-David is a technology executive and early co-founder of a successful private software company.
+Clifford is a technology executive and early co-founder of a successful private software company.
 
 He is technically competent and experienced enough to think several years ahead.
 
-### Melissa Pierce
+### Heather Pierce
 
-Melissa has a demanding professional career outside core software engineering.
+Heather has a demanding professional career outside core software engineering.
 
 ### Family resources
 
@@ -314,7 +314,7 @@ Money creates opportunities but does not eliminate:
 
 ### Move
 
-The family moves to Southern California because of David's career.
+The family moves to Southern California because of Clifford's career.
 
 The first California home is an employer-arranged temporary rental. It is in the same broad area as the
 Dunphys but is not initially the house next door.
