@@ -167,16 +167,15 @@ The reader sees that he is **not socially awkward in conversation**.
 
 His problem is initiation.
 
-#### Scene 8 — football / captaincy
-Another short beat:
-- teammate asks whether they should change formation;
-- Nathan answers;
-- everyone follows.
+#### Scene 8 — football / captaincy outside practice
+A short conversation at school or in the team chat about the previous session:
+- a teammate asks whether they should change formation next time;
+- Nathan answers with one concrete adjustment;
+- the others accept it without drama.
 
-Later:
-someone compliments the decision.
+This is not another training session; Wednesday is a school/programming day in the recurring rhythm. The point is that Nathan's leadership is already visible outside the pitch.
 
-Nathan credits the team's execution.
+Later, someone compliments the decision. Nathan credits the team's execution.
 
 This establishes leadership without self-confidence.
 
