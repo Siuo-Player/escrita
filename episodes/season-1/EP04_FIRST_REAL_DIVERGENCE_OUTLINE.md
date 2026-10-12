@@ -55,7 +55,7 @@ He is trusted tactically but still not treated as an adult authority.
 
 A conflict over playing time or strategy can mirror the old-school teammate thread.
 
-### E — Pierce family
+### E — Callahan family
 Clifford's work creates a scheduling problem.
 
 Nathan learns that his parents' professional lives are not simply background resources.
