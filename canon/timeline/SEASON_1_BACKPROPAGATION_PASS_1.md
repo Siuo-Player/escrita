@@ -147,12 +147,12 @@ someone asks Nathan to explain a result to a person who does not automatically u
 ### 8. The Pierce parents remain full characters
 
 Later state:
-David and Melissa are people with careers, preferences, pressures and independent decisions.
+Clifford and Heather are people with careers, preferences, pressures and independent decisions.
 
 Existing seeds:
-- David's work created the relocation;
+- Clifford's work created the relocation;
 - promotion was negotiated before Nathan knew;
-- Melissa has her own demanding career;
+- Heather has her own demanding career;
 - both parents participate in the move;
 - rental organization is not solely Nathan's problem.
 
