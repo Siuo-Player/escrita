@@ -33,7 +33,7 @@ Teachers and teammates already know Nathan. The reader sees why through interact
 ### C — Football
 Nathan is already captain and comfortable inside an established team.
 
-### D — Pierce family
+### D — Callahan family
 Birthday → promotion → logistics → relocation → temporary rental setup.
 
 ### E — New school
@@ -827,7 +827,7 @@ The competitive teammate cooperates with Nathan.
 Their relationship moves one step.
 
 #### Scene 56 — family
-Dunphy or Pierce household shown doing something unrelated to Nathan.
+Dunphy or Callahan household shown doing something unrelated to Nathan.
 
 A purchase/prop is introduced naturally.
 
@@ -1019,7 +1019,7 @@ actions create a consequence Nathan cannot see.
 Useful modes:
 
 - Nathan-centered scene: objective action + Nathan's interpretation.
-- Family cutaway: a short self-contained scene showing what the Dunphys/Pritchetts/Pierces are doing
+- Family cutaway: a short self-contained scene showing what the Dunphys/Pritchetts/Callahans are doing
   independently.
 - Consequence cutaway: show a small decision by another character before its effect reaches Nathan.
 - Canon parallel: show a canonical family thread because it is interesting in itself, not because Nathan
