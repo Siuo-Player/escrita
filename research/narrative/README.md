@@ -148,3 +148,12 @@ Quando a IA trabalhar na história, deve:
 - rejeitar a tendência de “tudo fica bem” quando o conflito narrativo exige um custo.
 
 Estas regras são **orientação de escrita**, não canon da fanfic. Podem ser revistas à medida que o projeto encontra uma voz própria.
+
+
+## Escrita com IA e diálogo natural
+
+A estrutura narrativa não chega para produzir prosa convincente. Antes da redação, consulte também:
+
+- [Natural Dialogue Standard](../../canon/narrative/DIALOGUE_NATURALNESS_STANDARD.md) — critérios operacionais para intenção, subtexto, voz, ritmo, idade e revisão de diálogos.
+- [AI Writing Tool Selection and Evaluation](AI_WRITING_TOOL_SELECTION.md) — fontes sobre avaliação de escrita criativa, comparação cega de modelos e um fluxo de trabalho baseado no OpenWrite já configurado, sem comprar novas ferramentas antes de demonstrar necessidade.
+- [Season 1 Relationship Pacing](../../canon/narrative/SEASON_1_RELATIONSHIP_PACING.md) — evolução gradual e friendship-first de Nathan e Alex.
