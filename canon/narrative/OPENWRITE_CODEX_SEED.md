@@ -120,7 +120,7 @@ Core lore entries:
 - Nathan's technical background;
 - first mobile game design;
 - 2009 technology constraints;
-- Nathan's intervention philosophy;
+- Nathan's intervention philosophy and foreknowledge feasibility policy;
 - narration/POV rules;
 - natural dialogue standard and character-specific voice guidance;
 - European Portuguese final-prose default and dialogue translation principles;
