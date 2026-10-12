@@ -7,7 +7,7 @@ Updated: 2026-10-12
 
 ## Identity
 
-**Name:** Nathan Pierce
+**Working full name:** Nathan Pierce (surname placeholder; the given name Nathan is author-locked, but Pierce is pending author choice)
 **Age at story opening:** 13. He was 12 immediately before the opening birthday.
 **Starting point:** Monday, **7 September 2009**, shortly before the *Modern Family* pilot. The real
 LAUSD school year opens on **Wednesday, 9 September 2009**. Nathan is still living in the Seattle area
