@@ -124,8 +124,8 @@ This is important because she is beginning to observe him.
 Short Pierce-family domestic sequence:
 - boxes are mostly gone;
 - kitchen routine is established;
-- Melissa knows where things are;
-- David is working longer hours.
+- Heather knows where things are;
+- Clifford is working longer hours.
 
 The temporary rental begins to have ordinary life.
 
@@ -329,7 +329,7 @@ Nathan says yes without overthinking.
 Small but important.
 
 #### Scene 24 — family
-Melissa buys/arranges something for the rental.
+Heather buys/arranges something for the rental.
 
 The house acquires another normal household detail.
 
@@ -421,7 +421,7 @@ Nathan tries to do both perfectly.
 He cannot.
 
 #### Scene 33 — parent interaction
-David or Melissa notices.
+Clifford or Heather notices.
 
 The parent does not tell him to abandon the game.
 
@@ -772,8 +772,8 @@ The Pierce rental should also move from "boxes everywhere" to:
 - one preferred breakfast routine;
 - known grocery items;
 - established laundry/household patterns;
-- predictable David work hours;
-- Melissa's work rhythm;
+- predictable Clifford work hours;
+- Heather's work rhythm;
 - Nathan's fixed desk/coding hours.
 
 These details should emerge in scenes, not become a household-management report.
@@ -792,8 +792,8 @@ Examples:
 - Phil confirms a client appointment;
 - Alex practices cello and puts away a book;
 - Haley changes weekend plans;
-- David moves a work commitment;
-- Melissa schedules a family task.
+- Clifford moves a work commitment;
+- Heather schedules a family task.
 
 Most of these do not need immediate payoff.
 
@@ -926,9 +926,9 @@ Show it:
 
 - someone has a preferred mug;
 - groceries are bought from the same shop;
-- David knows where his keys are;
+- Clifford knows where his keys are;
 - Nathan leaves the computer running because the desk is now his;
-- Melissa changes something in a room because it is easier than living out of boxes.
+- Heather changes something in a room because it is easier than living out of boxes.
 
 Later, this makes the eventual permanent-house move emotionally meaningful.
 
