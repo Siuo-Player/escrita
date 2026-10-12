@@ -7,6 +7,8 @@ Updated: 2026-10-08
 
 **7–30 September 2009**
 
+Drafting references: use [the dialogue naturalness standard](../../canon/narrative/DIALOGUE_NATURALNESS_STANDARD.md) and [Season 1 relationship pacing](../../canon/narrative/SEASON_1_RELATIONSHIP_PACING.md). Scene beats are constraints, not dialogue to expand mechanically.
+
 Target finished length: **10,000–14,000+ words**.
 
 The episode should feel broad rather than rushed. It covers almost a month, but routine days are compressed.
@@ -585,7 +587,7 @@ Saturday activity/match.
 
 Nathan earns respect.
 
-The competitive teammate is introduced as a possible friend.
+Jordan Reyes is introduced as a possible friend. He wants more playing time and is wary of being overlooked, but he is not hostile. See [Jordan's working profile](../../canon/characters/JORDAN_REYES.md).
 
 Nathan does not become captain.
 
@@ -663,9 +665,9 @@ This is a genuine character milestone.
 #### Scene 48 — football
 Coach notices Nathan's tactical ability.
 
-A teammate asks him to help.
+Jordan asks him to help with a tactical situation.
 
-The new friendship begins.
+The first shift toward friendship begins, but Jordan still has his own goal of earning more playing time. They are not instant best friends.
 
 #### Scene 49 — technical night
 Nathan writes down:
