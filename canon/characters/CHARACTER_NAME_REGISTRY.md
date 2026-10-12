@@ -58,3 +58,110 @@ Before committing any new original name:
 3. Keep original characters' given names unique unless the author explicitly approves a deliberate exception.
 4. Do not assign a sibling, parent, child, or spouse an independently randomized surname; derive it from the established family/legal naming rules.
 5. Update this registry in the same PR that adds or renames the character.
+
+
+### Reproducibility appendix for seed `687708412`
+
+This is the **exact first-name candidate pool**, in the order used for the seeded draw. It is the male-name list at SSA 1990s ranks 101–200, after removing names already in use, the retired Ethan/Jordan choices, the protagonist's name and close/likely-confusing variants. The order follows the SSA source table, with removed candidates omitted. The list is frozen for this record; changing it requires a new draw and a new log entry.
+
+```text
+00 Tanner
+01 Angel
+02 Vincent
+03 Isaiah
+04 Dalton
+05 Brett
+06 George
+07 Alejandro
+08 Elijah
+09 Cory
+10 Cole
+11 Joel
+12 Erik
+13 Jake
+14 Mason
+15 Jorge
+16 Dillon
+17 Raymond
+18 Colton
+19 Ricardo
+20 Casey
+21 Brendan
+22 Devon
+23 Keith
+24 Colin
+25 Wesley
+26 Oscar
+27 Julian
+28 Johnathan
+29 Eduardo
+30 Chad
+31 Donald
+32 Bryce
+33 Ronald
+34 Alec
+35 Dominic
+36 Grant
+37 Martin
+38 Henry
+39 Mario
+40 Xavier
+41 Manuel
+42 Alan
+43 Derrick
+44 Frank
+45 Tristan
+46 Collin
+47 Omar
+48 Jeremiah
+49 Jackson
+50 Troy
+51 Edgar
+52 Javier
+53 Douglas
+54 Clayton
+55 Jonathon
+56 Nicolas
+57 Andre
+58 Maxwell
+59 Ivan
+60 Levi
+61 Sergio
+62 Roberto
+63 Darius
+64 Andres
+65 Cristian
+66 Hector
+67 Fernando
+68 Curtis
+69 Gary
+70 Riley
+71 Johnny
+72 Max
+73 Dennis
+74 Malik
+75 Wyatt
+76 Cesar
+77 Edwin
+78 Gavin
+79 Preston
+80 Marco
+81 Allen
+82 Ruben
+83 Calvin
+84 Mathew
+85 Randy
+86 Brent
+87 Jerry
+88 Hayden
+89 Parker
+90 Brady
+91 Tony
+92 Pedro
+93 Craig
+94 Larry
+```
+
+With Python's `random.Random(687708412).randrange(95)`, the selected zero-based index was **58**, yielding **Maxwell**. The same seeded generator was then used to shuffle the surname pool. Input order and ranks were `Whitaker (#610), Callahan (#682), Ellison (#829), Gentry (#821)`; the shuffled order was `Gentry, Callahan, Ellison, Whitaker`. The first three became the protagonist's pending surname slate; Whitaker was assigned to Maxwell without reuse.
+
+Filtering notes for this draw: the pool excluded existing canon/registered first names and variants, including Nathan, David, Melissa, Claire, Phil/Philip/Phillip, Haley, Alex/Alexis, Luke, Jay, Gloria, Manny, Mitchell, Cameron, DeDe, Dylan, Ethan, Jordan, Nathaniel and Drew. This is the selection history for this draw, not an instruction to exclude every one of those names from all future demographic data; the general duplicate/rejection filters in the naming standard govern future pools.
