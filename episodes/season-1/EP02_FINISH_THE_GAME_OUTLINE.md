@@ -7,6 +7,8 @@ Updated: 2026-10-08
 
 **1–15 October 2009**
 
+Drafting references: use [the dialogue naturalness standard](../../canon/narrative/DIALOGUE_NATURALNESS_STANDARD.md), [Season 1 relationship pacing](../../canon/narrative/SEASON_1_RELATIONSHIP_PACING.md), and [Jordan's working profile](../../canon/characters/JORDAN_REYES.md). Scene beats are constraints, not dialogue to expand mechanically.
+
 Target finished length: **10,000–14,000+ words**.
 
 The episode should feel like the beginning of normal life after the move. The game is the strongest through-line,
@@ -73,7 +75,7 @@ Nathan almost leaves, then stays.
 This is a small victory.
 
 #### Scene 3 — football
-Teammate asks Nathan for help on a tactical situation.
+Jordan asks Nathan for help on a tactical situation.
 
 Nathan gives a useful answer.
 
@@ -320,7 +322,7 @@ old scripts are not enough.
 ### 9 October
 
 #### Scene 23 — football
-Nathan's teammate asks him to help outside formal practice.
+Jordan asks Nathan to help outside formal practice.
 
 This is the first real invitation.
 
@@ -565,7 +567,7 @@ Instead of praise alone, the teacher gives Nathan a harder follow-up.
 Nathan likes that more than a compliment.
 
 ### Scene 45 — football
-Teammate asks him about the weekend.
+Jordan asks him about the weekend.
 
 No longer "the new kid."
 
