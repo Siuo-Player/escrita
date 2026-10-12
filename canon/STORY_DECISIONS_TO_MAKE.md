@@ -184,7 +184,7 @@ Before adding or asking about any character name, consult `canon/characters/CHAR
 
 Now sufficiently bounded for Episode 1–2 drafting:
 1. **Parents:** stable background baseline; no need to add more biography until a scene needs it.
-2. **Outside peer:** Jordan Reyes is a working recurring teammate; profile and role are linked above.
+2. **Outside peer:** Maxwell Whitaker is the working recurring teammate; profile and role are linked above. Jordan Reyes was only an interim assistant-generated label and is retired.
 3. **Nathan/Alex:** friendship-first Season 1 pacing is defined; later romance milestones stay open.
 4. **Dialogue:** `canon/narrative/DIALOGUE_NATURALNESS_STANDARD.md` defines the drafting and acceptance process.
 5. **Writing tools:** `research/narrative/AI_WRITING_TOOL_SELECTION.md` stores an evidence-led comparison plan using OpenWrite and the already connected provider, instead of adding paid subscriptions by default.
