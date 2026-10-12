@@ -69,6 +69,7 @@ Primary threads:
 
 Create once:
 - Nathan Pierce
+- Jordan Reyes (working recurring football peer; see canon character profile)
 - David Pierce
 - Melissa Pierce
 - Claire Dunphy
@@ -86,8 +87,7 @@ Create once:
 - recurring teachers
 - recurring football teammates
 
-Recurring teachers and teammates should gain stable identities only when their repeated narrative role
-has become useful enough to justify naming them.
+Jordan Reyes is the first working original peer with a stable profile; retain his identity and goals across episodes. Further teachers and teammates should gain stable identities only when their repeated narrative role has become useful enough to justify naming them.
 
 ## Project-level locations
 
@@ -122,6 +122,9 @@ Core lore entries:
 - 2009 technology constraints;
 - Nathan's intervention philosophy;
 - narration/POV rules;
+- natural dialogue standard and character-specific voice guidance;
+- European Portuguese final-prose default and dialogue translation principles;
+- scene-sized drafting and dialogue-review workflow;
 - backpropagation rules.
 
 ## Project-level plot points / threads
@@ -140,7 +143,7 @@ Create reusable plot threads:
 ## Open notes/ideas
 
 Store as working notes until promoted:
-- first recurring football friend;
+- an additional recurring peer only when a clear narrative function emerges;
 - first recurring academic teacher;
 - permanent California house purchase;
 - first developer who inspects Nathan's game;
