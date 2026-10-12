@@ -122,37 +122,32 @@ The lines announce the emotional outline rather than letting two early acquainta
 
 — Esse é o *How to Solve It*?
 
-Nathan confirmou com a cabeça antes de se lembrar de que ela não o podia ouvir a assentir.
-
 — É.
 
-— A professora Harris quer mesmo que leiamos isto tudo?
+— A Harris disse para lermos isto tudo?
 
-— Acho que só os capítulos dois e três. — Olhou para as anotações na margem. — Pelo menos foi o que eu percebi.
+— Acho que só os capítulos dois e três.
 
-Alex aproximou o livro um pouco, sem lho tirar da mão.
+— "Acho" não me tranquiliza muito.
 
-— Já fizeste os exercícios?
+— Não. Pois. Foi o que anotei.
 
-— Alguns.
+Alex olhou para as páginas marcadas.
 
-Ela reparou na página marcada.
+— Isso foi tudo no capítulo dois?
 
-— Isso parece mais do que alguns.
+— Parte. Não consegui perceber o exercício quatro.
 
-— Fiquei preso num deles.
+— A sério? Eu ainda nem comecei.
 
-— E resolveste?
+Nathan olhou para ela, sem saber se aquilo era uma piada.
 
-Nathan demorou demasiado a responder.
+— Queres ver onde fiquei?
 
-— Eventualmente.
+— Pode ser.
 
-— Está bem. Se descobrires se é para ler o resto, avisa-me?
+Ela tirou o caderno da mochila e aproximou-o do livro. Nathan teve de voltar à primeira página para se lembrar de onde tinha começado.
 
-— Sim. Claro.
-
-Ela voltou para junto dos colegas. Nathan ficou a olhar para a página aberta, já sem se lembrar do que estava a tentar corrigir.
 
 The exchange works only if the scene earns those beats. Do not copy its rhythm mechanically into every interaction. In a later conversation, the same characters should already know each other a little more and should not repeat this exact awkwardness.
 
