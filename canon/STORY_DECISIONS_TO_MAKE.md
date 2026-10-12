@@ -9,7 +9,7 @@ are recorded so they are not asked again.
 
 ## A. Resolved foundation
 
-1. **Protagonist:** Nathan Pierce, male, 13 at the story opening (having turned 13 that day); American;
+1. **Protagonist:** Nathan (given name locked; family surname currently Pierce but explicitly pending author confirmation), male, 13 at the story opening (having turned 13 that day); American;
    affluent technology-oriented family; A-level student; football/soccer captain; long-term physical
    training in strength, speed, flexibility, football and martial arts; shy, embarrassed by initiating
    interactions, perfectionist and emotionally sensitive; afraid of seeming arrogant; strongly afraid of
@@ -138,7 +138,7 @@ Eventually choose a plausible university/research environment and whether Nathan
 AI, machine learning or another adjacent route before specializing.
 
 ### 6. First 2–4 recurring non-canon relationships
-**First working peer defined:** Jordan Reyes, a competitive but fair teammate who wants more playing time. His profile is `canon/characters/JORDAN_REYES.md`. He gives Nathan a social foothold independent of Alex and the Dunphys. Add other recurring non-canon relationships when their independent goals create real story value; do not fill a quota with decorative characters.
+**First working peer defined:** Maxwell Whitaker, a competitive but fair teammate who wants more playing time. His name was selected with the reproducible random naming process and his profile is `canon/characters/MAXWELL_WHITAKER.md`. He gives Nathan a social foothold independent of Alex and the Dunphys. Add other recurring non-canon relationships when their independent goals create real story value; do not fill a quota with decorative characters.
 
 ### 7. Alex relationship pacing
 **Season 1 direction established; later milestones remain open.** Nathan is attracted first because he recognizes Alex. Their opening exchanges are practical and Alex's initial interest is ordinary curiosity, not instant romance. The season should develop a believable friendship with gradual trust, no confession or official relationship as a required payoff. See `canon/narrative/SEASON_1_RELATIONSHIP_PACING.md`. Dating, mutual attraction becoming explicit, and later pauses remain undecided until the appropriate arc.
@@ -175,6 +175,10 @@ Geographic micro-details, exact house layout, detailed finances, minor character
 career details, exact university thesis topic, crossover policy, and most late-series events.
 
 We should not lock these prematurely. They can be created when the causal narrative needs them.
+
+## Naming rule (added 12 October 2026)
+
+Before adding or asking about any character name, consult `canon/characters/CHARACTER_NAME_REGISTRY.md` and `canon/narrative/CHARACTER_NAMING_STANDARD.md`. Nathan's given name remains locked by the author. Do not assume Pierce is final, and do not ask about the surname as though no candidate research exists; the registry records the current shortlist and awaits the author's decision. Ethan Brooks is retired/rejected and must not be reused. Jordan Reyes was only a provisional assistant-generated name and has been replaced by the reproducibly selected Maxwell Whitaker.
 
 ## First-arc readiness after the 12 October 2026 review
 
