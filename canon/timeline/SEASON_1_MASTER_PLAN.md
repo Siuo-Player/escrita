@@ -87,7 +87,7 @@ Early Nathan compares everything with his previous life.
 
 Later he stops comparing automatically.
 
-By the end of the season, California is not "where the family moved because of David."
+By the end of the season, California is not "where the family moved because of Clifford."
 
 It is Nathan's own home and social world.
 
@@ -227,7 +227,7 @@ Football also creates natural bridges into the wider neighborhood and adult worl
 
 The family has its own arc, independent of the Dunphys.
 
-### David
+### Clifford
 
 The California position stops being merely the reason for the move and becomes a real professional chapter.
 
@@ -238,9 +238,9 @@ His increased responsibilities can affect:
 - household decisions;
 - Nathan's expectations.
 
-### Melissa
+### Heather
 
-Melissa protects the practical/emotional stability of the family while maintaining her own career.
+Heather protects the practical/emotional stability of the family while maintaining her own career.
 
 She is not simply the "supportive mother of a genius."
 
@@ -483,7 +483,7 @@ The reader should care about that life before it disappears.
 
 ### Inciting disruption — California
 
-David's promotion forces the family to move.
+Clifford's promotion forces the family to move.
 
 Nathan cannot control it.
 
@@ -660,7 +660,7 @@ Visible chapters can select different combinations from these season threads:
 - **Academic:** school, teachers, challenges, opportunities and visibility.
 - **Football:** training, matches, peers, tactical leadership, friendship and identity.
 - **Technical:** the game, experiments, optimization, communication and research thinking.
-- **Family:** Pierce household, David's career, Melissa's work and settling in California.
+- **Family:** Pierce household, Clifford's career, Heather's work and settling in California.
 - **Canon:** the contemporary *Modern Family* ensemble, allowed to breathe without Nathan.
 - **Butterfly:** changed timing, information and consequences.
 
