@@ -11,11 +11,11 @@ This file is the place to check before asking the author about a name or introdu
 |---|---|---|---|
 | Protagonist | **Nathan** (given name) | USER-LOCKED | The author chose Nathan after rejecting Ethan Brooks. Do not change his given name just because Nathan is statistically common. |
 | Modern Family characters | Claire, Phil, Haley, Alex and Luke Dunphy; Jay and Gloria Pritchett; Manny Delgado; Mitchell Pritchett; Cameron Tucker; DeDe Pritchett; Dylan Marshall; others from the show | CANON-LOCKED | Preserve source-canon names and relationships. |
-| Protagonist's family | Shared surname | PENDING AUTHOR CHOICE | All documents currently use Pierce, but the author has said the surname may change. Once chosen, parents and any later siblings must follow the same family-name rules. |
+| Protagonist and parents | **Callahan** | USER-LOCKED (2026-10-12) | The author selected Nathan Callahan from the generated candidate slate. Clifford, Heather, Nathan and any later siblings share Callahan unless a documented family/legal naming reason establishes an exception. |
 
-## Pending protagonist surname
+## Protagonist surname — decision completed 2026-10-12
 
-A reproducible draw generated a shortlist of three U.S. surnames for the author to review. The pool excludes the surname currently assigned to the working original peer so the two unrelated characters cannot accidentally receive the same name. The candidates are ordered by the random draw, not by a model's personal taste.
+A reproducible draw generated a shortlist of three U.S. surnames for author review. The author then chose **Callahan** from that shortlist. The random process provided constrained alternatives; it did not override the author's final preference. The pool excluded the working peer's surname, Whitaker, to avoid an accidental duplicate.
 
 | Draw order | Candidate | 2020 U.S. Census surname rank | Notes |
 |---:|---|---:|---|
@@ -23,9 +23,9 @@ A reproducible draw generated a shortlist of three U.S. surnames for the author 
 | 2 | **Callahan** | 682 | Often associated with Irish origin; use only if that background fits the family the author wants. |
 | 3 | **Ellison** | 829 | English-language surname; plausible in the United States. |
 
-**Current document placeholder:** Pierce. It remains in paths and working profiles until the author selects a replacement or confirms that Pierce should remain. No name-dependent family details should be finalized on the assumption that Pierce is permanent.
+**Final result:** **Nathan Callahan**. This is now the author-confirmed family surname. The former placeholder **Pierce** is RETIRED for this family. File paths and active references are being migrated together. Do not infer Irish ancestry or any other cultural biography from Callahan alone.
 
-If all three are rejected, do not repeatedly reroll the same pool. Ask for any cultural/phonetic preference that materially narrows the set, then rebuild and record a new candidate pool and seed.
+The other generated candidates, Gentry and Ellison, were not selected for the protagonist. Do not reroll this decision unless the author explicitly reopens it.
 
 ## Original character selected by the naming process
 
@@ -44,11 +44,11 @@ Keep Maxwell's existing role and personality beats. Do not create relatives, anc
 
 | Current working name | Status | Instruction |
 |---|---|---|
-| Nathan Pierce | PENDING AUTHOR CHOICE on surname; USER-LOCKED on Nathan | Do not replace Nathan. Do not assume Pierce is final. |
-| Clifford / Heather [family surname currently Pierce] | WORKING / RANDOMLY SELECTED | The first names were selected from 1960s U.S. SSA decade rankings with seed `637376247`; Clifford is rank 159 in the male table and Heather is rank 127 in the female table. They remain the protagonist's parents. Their shared surname is still a placeholder pending the author's choice. |
+| Nathan Callahan | USER-LOCKED | Both given name and surname are author-confirmed. Pierce was only the previous placeholder. |
+| Clifford Callahan / Heather Callahan | WORKING given names; USER-LOCKED family surname | Clifford and Heather were selected from SSA 1960s name pools; their seed and exact pools are recorded below. Callahan is the author-confirmed shared family surname. |
 | Jordan Reyes | RETIRED | Provisional assistant-generated name superseded by Maxwell Whitaker. Do not reuse for this character or another new original character. |
 | Ethan Brooks | REJECTED / RETIRED | The author rejected it as an overused fan-fiction-style choice. Never revive it as the protagonist or a new character. |
-| Pierce | PENDING | Existing placeholder for the protagonist's family surname, not a user-locked choice. |
+| Pierce | RETIRED / previous placeholder | Replaced by Callahan on 2026-10-12. Preserve Pierce only in historical decision records. |
 
 ## Duplicate prevention
 
@@ -209,3 +209,16 @@ Audrey, Karla, Jody, Glenda, Patty, Amanda, Pam
 ```
 
 The candidate pools and selected indices are frozen in this registry. Do not reroll because a result feels unfamiliar; if a name is rejected by the author, record it as retired and perform a separately logged draw.
+
+
+## DEC-002 result — Nathan Callahan
+
+The author selected **Callahan**, the second candidate in the generated shortlist, on 12 October 2026. The shortlisting method and source/rank validation are recorded here; the final selection was an explicit author preference, not a second random draw.
+
+- Candidate slate: Gentry (#821), Callahan (#682), Ellison (#829), based on U.S. Census Bureau surname-frequency data.
+- Chosen name: Nathan Callahan.
+- Family propagation: Clifford Callahan and Heather Callahan; same surname for any future siblings unless an established naming/legal reason differs.
+- Cultural guardrail: the surname alone does not establish an Irish background. Keep the family's ancestry unspecified until it is story-relevant and independently decided.
+- Previous name: Pierce remains only in the historical record as the provisional placeholder that was superseded.
+
+For the rationale and full decision trace, see [Decision Log](../DECISION_LOG.md).
