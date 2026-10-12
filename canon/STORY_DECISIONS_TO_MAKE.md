@@ -122,9 +122,7 @@ reluctance to seek new friendships. The broader self-undervaluation is a recurri
 Nathan/Alex slow burn.
 
 ### 3. Parents' final occupations and family history
-A working proposal exists: father as technology executive/co-founder and mother in a demanding professional
-career. Decide whether to keep this exactly or refine it. Once locked, these details should rarely drive
-the plot but will prevent later contradictions.
+**Sufficiently bounded for the opening episodes.** David remains a senior technology executive/early co-founder; Melissa has a demanding, well-paid professional career outside core software engineering. Their roles, relationship with Nathan, and reason for the move are recorded in `canon/characters/PIERCE_FAMILY.md`. Keep exact employer/title and work subplots unspecified until the story needs them; both parents are supportive background, not a second main plot.
 
 ### 4. Nathan's first concrete technology project
 **Resolved in design:** a small 2D mobile game for conservative 2009 hardware. Nathan builds the important
@@ -140,15 +138,10 @@ Eventually choose a plausible university/research environment and whether Nathan
 AI, machine learning or another adjacent route before specializing.
 
 ### 6. First 2–4 recurring non-canon relationships
-These can be friends, teammates, classmates, mentors or another person who gives Nathan a social world
-outside the Dunphys.
+**First working peer defined:** Jordan Reyes, a competitive but fair teammate who wants more playing time. His profile is `canon/characters/JORDAN_REYES.md`. He gives Nathan a social foothold independent of Alex and the Dunphys. Add other recurring non-canon relationships when their independent goals create real story value; do not fill a quota with decorative characters.
 
 ### 7. Alex relationship pacing
-The intended final pairing is fixed as **Nathan + Alex**, but decide:
-- when mutual attraction becomes explicit;
-- when they first date;
-- how long the early slow-burn lasts;
-- which normal misunderstandings or disagreements create pauses.
+**Season 1 direction established; later milestones remain open.** Nathan is attracted first because he recognizes Alex. Their opening exchanges are practical and Alex's initial interest is ordinary curiosity, not instant romance. The season should develop a believable friendship with gradual trust, no confession or official relationship as a required payoff. See `canon/narrative/SEASON_1_RELATIONSHIP_PACING.md`. Dating, mutual attraction becoming explicit, and later pauses remain undecided until the appropriate arc.
 
 ### 8. Haley complication
 A later adult-only physical relationship between Nathan and Haley is permitted during a real separation
@@ -172,7 +165,7 @@ Which tragedies/bad decisions are specifically priorities for Nathan to prevent 
 Which canon outcomes are protected unless the butterfly effect makes them untenable?
 
 ### 12. Episode length
-Pick a normal range once we begin drafting.
+**Resolved working target:** 10,000–14,000+ words for a typical opening episode. The story should reach that length through meaningful scenes, parallel threads and consequential detail, never filler.
 
 ### 13. Exact tone balance
 Current target: comedy + warmth/family + slice-of-life + growth, with drama/romance appearing naturally.
@@ -184,18 +177,16 @@ career details, exact university thesis topic, crossover policy, and most late-s
 
 We should not lock these prematurely. They can be created when the causal narrative needs them.
 
-## First-arc minimum
+## First-arc readiness after the 12 October 2026 review
 
-Before Episode 1 is drafted in full, we only need:
-1. parents' final baseline details;
-2. first recurring outside-friend(s);
-3. Alex relationship pacing for the first year;
-4. first-year tragedy/intervention priorities.
+Now sufficiently bounded for Episode 1–2 drafting:
+1. **Parents:** stable background baseline; no need to add more biography until a scene needs it.
+2. **Outside peer:** Jordan Reyes is a working recurring teammate; profile and role are linked above.
+3. **Nathan/Alex:** friendship-first Season 1 pacing is defined; later romance milestones stay open.
+4. **Dialogue:** `canon/narrative/DIALOGUE_NATURALNESS_STANDARD.md` defines the drafting and acceptance process.
+5. **Writing tools:** `research/narrative/AI_WRITING_TOOL_SELECTION.md` stores an evidence-led comparison plan using OpenWrite and the already connected provider, instead of adding paid subscriptions by default.
+6. **Episode length:** target 10,000–14,000+ words, earned by story substance.
 
-The opening calendar, personality profile, pilot-intersection rule and first mobile game are now recorded
-in the canon.
+**Still required before committing a full Episode 1 prose draft:** select first-year canon-intervention priorities only after checking the canon timeline and practical feasibility. Nathan should not be given a list of tragedies to prevent merely to force plot. Also run a final scene-purpose and calendar check over the current outline.
 
-The calendar, personality weaknesses and first technology project are now sufficiently established to
-write around.
-
-Everything else can remain provisional and evolve through the story.
+The opening calendar, personality profile, pilot-intersection rule, first mobile game, relationship direction and dialogue discipline are recorded. Remaining details can stay provisional where they do not block a scene.
