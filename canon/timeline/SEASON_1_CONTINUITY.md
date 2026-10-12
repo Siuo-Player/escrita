@@ -27,7 +27,7 @@ September, so the reader first sees Nathan in his old life before the move.
 
 ### Temporary rental vs. future permanent neighbors
 
-The Pierce family initially lives in an employer-arranged temporary rental in the same broad suburban area
+The Callahan family initially lives in an employer-arranged temporary rental in the same broad suburban area
 as the Dunphys. It is close enough for school, football, shopping and park routines to overlap, but it is
 not the permanent house next door.
 
