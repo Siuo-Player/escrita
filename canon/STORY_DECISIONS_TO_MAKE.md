@@ -131,10 +131,9 @@ reluctance to seek new friendships. The broader self-undervaluation is a recurri
 Nathan/Alex slow burn.
 
 ### 3. Parents' baseline occupations and family history
-**Resolved at baseline level:** David is a technology executive and early co-founder of a successful private
-software company. Melissa has a demanding professional career outside core software engineering.
+**Resolved at baseline level:** Clifford is the randomly selected working name for the protagonist's father (SSA 1960s male rank 159). He is a technology executive and early co-founder of a successful private software company. Heather is the randomly selected working name for the protagonist's mother (SSA 1960s female rank 127). She has a demanding professional career outside core software engineering. See `canon/characters/CHARACTER_NAME_REGISTRY.md` for the seed and name-selection audit.
 
-The exact sector/title of Melissa's work may remain a local background detail until the narrative needs it.
+The exact sector/title of Heather's work may remain a local background detail until the narrative needs it.
 The family is affluent but not billionaire-level wealthy; money creates opportunity rather than competence or
 plot immunity.
 
