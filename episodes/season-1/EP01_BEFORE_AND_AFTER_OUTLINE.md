@@ -666,7 +666,7 @@ Coach notices Nathan's tactical ability.
 
 Maxwell asks him to help with a tactical situation.
 
-The first shift toward friendship begins, but Jordan still has his own goal of earning more playing time. They are not instant best friends.
+The first shift toward friendship begins, but Maxwell still has his own goal of earning more playing time. They are not instant best friends.
 
 #### Scene 49 — technical night
 Nathan writes down:
