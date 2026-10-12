@@ -35,6 +35,13 @@ O foco do projeto não é escrever tudo de uma vez. Primeiro construímos o **mo
 - `canon/STORY_SCOPE_AND_PROTAGONIST_DESIGN.md` — regras de trabalho para manter uma vida
   independente do protagonista, uso limitado de conhecimento futuro e equilíbrio com a série.
 
+
+## Aviso sobre fanfiction e direitos
+
+Este repositório documenta o planeamento de uma obra de **fanfiction não oficial** ambientada no universo de *Modern Family*. Não é afiliado, patrocinado, autorizado nem endossado pelos titulares dos direitos da série. Os nomes, personagens, elementos do universo e outros materiais preexistentes de *Modern Family* pertencem aos respetivos titulares. Nathan Callahan, a família Callahan, as tramas originais e os restantes elementos criados especificamente para esta história são material original deste projeto.
+
+O aviso identifica a natureza do projeto; **não constitui uma licença, não demonstra autorização e não garante que qualquer utilização esteja legalmente autorizada**. A lei aplicável e eventuais exceções dependem dos factos e da jurisdição. O projeto não deve reproduzir diálogos longos, guiões, imagens, episódios ou outro material protegido desnecessariamente. Este repositório é um projeto de planeamento narrativo; qualquer publicação ou exploração futura deve ser revista separadamente.
+
 ## Estado atual
 
 **Fase 0 — Fundação.**
@@ -56,3 +63,10 @@ A classificação não é decorativa: serve para sabermos o que pode ser alterad
 ## Fluxo de trabalho
 
 Investigação → decisão → registo → perguntas específicas → construção incremental → episódio → verificação temporal → verificação de continuidade → backpropagation → revisão da documentação → prosa final.
+
+
+## Continuidade, decisões e método de escrita
+
+- `canon/DECISION_LOG.md` — decisões escolhidas, alternativas, evidência, processo de validação e dependências.
+- `canon/characters/CHARACTER_NAME_REGISTRY.md` — nomes escolhidos, nomes rejeitados e seleção aleatória reproduzível.
+- `canon/narrative/NARRATIVE_AND_CAUSAL_METHOD.md` — arquitetura top-down recursiva, construção causal linear, registo de estado e backpropagation.
