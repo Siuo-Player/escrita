@@ -7,7 +7,7 @@ Updated: 2026-10-08
 
 **7–30 September 2009**
 
-Drafting references: use [the dialogue naturalness standard](../../canon/narrative/DIALOGUE_NATURALNESS_STANDARD.md) and [Season 1 relationship pacing](../../canon/narrative/SEASON_1_RELATIONSHIP_PACING.md). Scene beats are constraints, not dialogue to expand mechanically.
+Drafting references: use [the dialogue naturalness standard](../../canon/narrative/DIALOGUE_NATURALNESS_STANDARD.md), [Season 1 relationship pacing](../../canon/narrative/SEASON_1_RELATIONSHIP_PACING.md), and [the foreknowledge/intervention policy](../../canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md). Scene beats are constraints, not dialogue to expand mechanically; do not force a canon rescue into the opening just to prove Nathan remembers the show.
 
 Target finished length: **10,000–14,000+ words**.
 
