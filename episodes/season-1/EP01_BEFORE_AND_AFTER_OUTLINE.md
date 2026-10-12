@@ -394,18 +394,17 @@ Important:
 
 Nathan sets up the minimum computer environment.
 
-#### Scene 26 — neighborhood
-A normal encounter can establish Claire/Phil or another Dunphy family member.
+#### Scene 26 — ordinary first contacts in the neighborhood
 
-Do not force a conversation.
+The contacts should happen as small interruptions to the move, not as a staged “meet the family” scene.
 
-A simple:
-- moving truck;
-- neighbor glance;
-- Phil introducing himself;
-- Claire checking who has moved in.
+**Phil:** while the driver works out where the truck can stand, Phil comes over to introduce himself and make sure the family can still get past. He talks to David first, then includes Nathan for a moment. His friendliness is genuine but a little overenthusiastic; Nathan answers normally once spoken to, without suddenly becoming sociable enough to extend the conversation himself.
 
-This is enough for the first impression.
+**Claire:** she joins later for a practical reason connected with access/parking, introduces herself, and asks Nathan which grade he is going into because he will be attending school locally. Keep it brisk. Claire is solving the immediate problem, not conducting an interview about the new family.
+
+**Luke:** later, a ball he has been playing with rolls into the Pierce driveway. Nathan stops it before it reaches the open boxes and sends it back. They exchange only a few ordinary lines about the ball/soccer; Luke leaves when he has it. This should feel like a child retrieving his ball, not a contrived friendship scene.
+
+These are three separate, short contacts spread across the arrival day. By **18 September**, the fourth direct acquaintance is Alex, whose first practical conversation she initiates at school. Thus Phil, Claire, Luke and Alex have each had a natural, individually plausible first contact with Nathan before the **23 September Pilot**, without Nathan joining the central family-reunion scene. None of them should treat him as a close friend yet.
 
 #### Scene 27 — first night in California
 Nathan looks at the map / school route.
