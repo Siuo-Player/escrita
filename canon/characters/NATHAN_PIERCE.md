@@ -1,7 +1,9 @@
-# Protagonist — Nathan Pierce
+# Protagonist — Nathan (surname pending author choice)
 
 Status: WORKING / established from project decisions
-Updated: 2026-10-08
+Updated: 2026-10-12
+
+**Naming status:** Nathan is the author-locked given name. Pierce is the current working surname only; the author has explicitly said it may change. Check `canon/characters/CHARACTER_NAME_REGISTRY.md` before writing or asking about the surname. If a new surname is chosen, migrate this file and all family references together.
 
 ## Identity
 
