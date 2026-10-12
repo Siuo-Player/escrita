@@ -144,7 +144,7 @@ Existing seeds:
 The next technical backprop target is communication:
 someone asks Nathan to explain a result to a person who does not automatically understand his terminology.
 
-### 8. The Pierce parents remain full characters
+### 8. The Callahan parents remain full characters
 
 Later state:
 Clifford and Heather are people with careers, preferences, pressures and independent decisions.
@@ -179,7 +179,7 @@ Do not add romantic weight merely because of the permitted adult future possibil
 ### 10. Future permanent-neighbor arc
 
 Later state:
-The Pierce family becomes direct neighbors to the Dunphys.
+The Callahan family becomes direct neighbors to the Dunphys.
 
 Existing seeds:
 - temporary rental is geographically nearby;
@@ -188,7 +188,7 @@ Existing seeds:
 - the eventual purchase can therefore arise from the family's own housing needs.
 
 Backprop requirement:
-The permanent house should be selected for believable Pierce-family reasons first.
+The permanent house should be selected for believable Callahan-family reasons first.
 
 The Dunphy adjacency is the consequence, not the sole motivation.
 
