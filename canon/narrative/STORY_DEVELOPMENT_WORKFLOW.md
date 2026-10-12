@@ -241,3 +241,26 @@ Before adding an original character, consult [the Character Naming Standard](CHA
 ## Global architecture, linear causality and backpropagation
 
 Follow [Narrative Architecture and Causal Drafting Method](NARRATIVE_AND_CAUSAL_METHOD.md) together with the [Decision Log](../DECISION_LOG.md). Plan the whole series recursively from beginning/end to midpoint and finer anchors; then build the story's lived state forward in chronological order, scene by scene, with causes, choices, outcomes and persistent state changes. After an episode or season, trace promised outcomes backward to identify missing prerequisites, then re-read forward to catch regressions. Randomize only among constrained, reasonable candidates when a choice is underdetermined; record the pool, seed, validation and dependencies. Do not let random draws overrule canon, causal constraints or explicit author choices.
+
+
+## Character dossiers and recent-past state
+
+Before drafting a scene, consult [Character State Continuity Standard](../characters/CHARACTER_STATE_CONTINUITY_STANDARD.md). Every person who speaks or changes the scene's outcome has a state snapshot tied to the exact scene date. A secondary cast bible is sufficient for an early profile, but characters receive much deeper entries before they take a substantial role. The previous few weeks/days must be specifically documented for all active characters because they inform immediate reactions and dialogue.
+
+The record covers personality and relationships as well as skills, knowledge, mistaken beliefs, fears, dislikes, allergies/health facts when established, promises, schedules, props and what each person has actually witnessed. Use UNKNOWN when unresolved; never silently treat it as absence.
+
+## Skills and knowledge do not reset between scenes
+
+Use [Nathan's Knowledge and Skill Ledger](../characters/NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md) before writing Nathan's actions, and use the same conceptual audit for other characters. Do not suppress a known capability just to make a plot work. Do not introduce a new competence without a source. If a character chooses the less efficient option, explain it through missing knowledge, time/tools, a social or emotional cost, a competing goal or an understandable mistake.
+
+## Supporting-cast source files
+
+- [Football Teams and Player Backgrounds](../characters/FOOTBALL_TEAMS_AND_PLAYERS.md)
+- [Secondary Social Circles](../characters/SECONDARY_SOCIAL_CIRCLES.md)
+- [Cast Naming Draw Audit](../characters/CAST_NAMING_DRAW_AUDIT.md)
+
+These are causal infrastructure, not a mandatory cast list for every episode. Mentioned characters may remain off-page; no one should appear just to service a beat if their schedule, motive or knowledge would not put them there.
+
+## Forward and backward passes stay paired
+
+After every episode, first propagate the on-page state forward: knowledge, relationships, trust, schedules, abilities, props and unresolved obligations. Then trace important later outcomes backward to identify missing causes. Finally re-read forward from the earliest affected scene to catch contradictions caused by the new setup. A backward-added seed must fit the character's actual state at the earlier date; it cannot make them appear to have planned a future event they could not reasonably anticipate.

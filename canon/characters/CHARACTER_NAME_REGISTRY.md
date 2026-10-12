@@ -222,3 +222,59 @@ The author selected **Callahan**, the second candidate in the generated shortlis
 - Previous name: Pierce remains only in the historical record as the provisional placeholder that was superseded.
 
 For the rationale and full decision trace, see [Decision Log](../DECISION_LOG.md).
+
+
+## Supporting cast introduced on 12 October 2026
+
+These are WORKING names generated for the first-pass cast. Do not treat them as user-locked or canon-locked. Read [Cast Naming Draw Audit](CAST_NAMING_DRAW_AUDIT.md) for exact seed, source-order pools, selected order and validation limits; read the cast files for background.
+
+| Name | Current role | Status |
+|---|---|---|
+| Tristan Morrow | Seattle team, goalkeeper | WORKING |
+| Tanner Kramer | Seattle team, right back | WORKING |
+| Colton Shepherd | Seattle team, centre back | WORKING |
+| Brady Vaughn | Seattle team, centre back | WORKING |
+| Alec Reeves | Seattle team, left back | WORKING |
+| Calvin Baxter | Seattle team, holding midfielder | WORKING |
+| Chad Pruitt | Seattle team, attacking midfielder | WORKING |
+| Andres Phelps | Seattle team, right winger | WORKING |
+| Elijah Perry | Seattle team, striker | WORKING |
+| Xavier Mercer | Seattle team, left winger | WORKING |
+| Ruben Henson | Seattle team, reserve goalkeeper | WORKING |
+| Marco Sloan | Seattle team, utility defender | WORKING |
+| Devon Carver | Seattle team, midfield substitute | WORKING |
+| Johnny Sutton | Seattle team, forward substitute | WORKING |
+| Omar Stanton | Southern California team, goalkeeper | WORKING |
+| Fernando Merritt | Southern California team, right back | WORKING |
+| Hector Foster | Southern California team, centre back | WORKING |
+| Javier Fletcher | Southern California team, centre back | WORKING |
+| Derrick Hendrix | Southern California team, left back | WORKING |
+| Larry Rios | Southern California team, holding midfielder | WORKING |
+| Mason Baldwin | Southern California team, central/attacking midfielder | WORKING |
+| Cory McBride | Southern California team, right winger | WORKING |
+| Mario Abbott | Southern California team, striker | WORKING |
+| Andre Pratt | Southern California team, left winger | WORKING |
+| Alejandro Lawson | Southern California team, utility defender | WORKING |
+| Allen Keller | Southern California team, midfield substitute | WORKING |
+| Cesar Hodge | Southern California team, forward substitute | WORKING |
+| Wesley Moss | Nathan/Alex school technology-library peer | WORKING |
+| Cynthia Barrett | Alex's academic classmate | WORKING |
+| Kaitlin Cannon | Alex's project/library peer | WORKING |
+| Desiree Vance | Haley's high-school friend | WORKING |
+| Kristina Barlow | Haley's high-school friend | WORKING |
+| Julie Kendall | Haley's wider-circle friend | WORKING |
+| Leonard Holloway | Seattle coach | WORKING |
+| Lance Conley | Southern California coach | WORKING |
+| Tracey Wheeler | Claire's parent/community contact | WORKING |
+| Victoria Hutchinson | Claire's neighborhood contact | WORKING |
+| Vanessa Quinn | Claire's community contact | WORKING |
+
+Maxwell Whitaker remains the previously documented WORKING football peer and is not rerolled in this pass. Nathan Callahan remains USER-LOCKED. None of the working surnames above establishes ancestry. Their specific Census-frequency ranks must be checked before any name is made central or locked.
+
+## Expanded state-reference index
+
+- [Football teams and player backgrounds](FOOTBALL_TEAMS_AND_PLAYERS.md)
+- [Secondary social circles](SECONDARY_SOCIAL_CIRCLES.md)
+- [Character state continuity standard](CHARACTER_STATE_CONTINUITY_STANDARD.md)
+- [Nathan's knowledge and skill ledger](NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md)
+- [Cast naming draw audit](CAST_NAMING_DRAW_AUDIT.md)

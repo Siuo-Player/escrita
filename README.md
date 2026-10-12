@@ -70,3 +70,14 @@ Investigação → decisão → registo → perguntas específicas → construç
 - `canon/DECISION_LOG.md` — decisões escolhidas, alternativas, evidência, processo de validação e dependências.
 - `canon/characters/CHARACTER_NAME_REGISTRY.md` — nomes escolhidos, nomes rejeitados e seleção aleatória reproduzível.
 - `canon/narrative/NARRATIVE_AND_CAUSAL_METHOD.md` — arquitetura top-down recursiva, construção causal linear, registo de estado e backpropagation.
+
+
+## Character state, supporting cast and ability continuity
+
+- [Character state continuity standard](canon/characters/CHARACTER_STATE_CONTINUITY_STANDARD.md) — life-to-scene state, recent-past detail, knowledge limits, skills, props and backpropagation rules.
+- [Nathan's knowledge and skill ledger](canon/characters/NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md) — the protagonist's internal skills, factual knowledge, previous-life memories and limitations.
+- [Football teams and player backgrounds](canon/characters/FOOTBALL_TEAMS_AND_PLAYERS.md) — the Seattle team, the new Southern California team and each player's working background.
+- [Secondary social circles](canon/characters/SECONDARY_SOCIAL_CIRCLES.md) — recurring classmates/friends around Alex and Haley and Claire's community contacts.
+- [Cast naming draw audit](canon/characters/CAST_NAMING_DRAW_AUDIT.md) — reproducible name-generation pools, seeds, selections and remaining validation limits.
+
+The relationship calendar is not a rigid deadline: early episode drafts test the pacing, and the top-down plan and forward scene sequence may both be revised if the finished story needs it.

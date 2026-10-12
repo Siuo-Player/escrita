@@ -100,3 +100,61 @@ When a decision is changed:
 4. change the dependent documents together in a reviewed branch/PR;
 5. record the validation and known remaining conflicts;
 6. do not claim complete propagation until the updated tree has been searched and the key paths re-read.
+
+
+## DEC-008 — First supporting-cast pass for football and lead-character circles
+
+- **Date:** 2026-10-12.
+- **Question:** how to stop scenes from inventing disposable teammates/friends and make brief later interactions causally coherent?
+- **Current result:** create two distinct football rosters (Nathan's Seattle team and the Southern California team) and stable social circles for Alex, Haley and Claire. Give every named person an independent immediate goal, behavioral tendencies, relationship context and recent-past state.
+- **Status:** USER-REQUESTED RULE; names and invented biographies remain WORKING.
+- **Method:** define narrative function/position before selecting names; draw given names reproducibly from SSA decade tables; assign surnames from a frozen candidate pool. Full pools and selections are in [Cast Naming Draw Audit](characters/CAST_NAMING_DRAW_AUDIT.md).
+- **Validation:** first-name cohorts and ranks are recorded. Surname Census ranks remain pending, so no new surname is author-locked and no ethnicity is inferred.
+- **Dependencies:** Episodes 1–2 football scenes, social scenes around Alex/Haley/Claire, schedules, dialogue, attendance/minutes, relationships and scene-state headers.
+- **Revisit trigger:** author dislikes a name/character, demographic verification contradicts suitability, or draft evidence shows a role is redundant.
+
+## DEC-009 — Life-to-scene continuity is mandatory
+
+- **Date:** 2026-10-12.
+- **Question:** how to prevent characters forgetting established facts, motives, fears, skills, objects or recent exchanges?
+- **Current result:** every speaking or causally active individual must have a state snapshot for the exact scene date; the previous days/weeks must be documented for all active characters. Background detail remains mostly invisible unless it naturally improves the prose.
+- **Status:** USER-REQUESTED PROJECT RULE.
+- **Method:** scene-state header + persistent character profile + recent-past timeline + forward state update + backpropagation and forward-regression pass. Unknowns are explicitly marked UNKNOWN, not treated as absence.
+- **Validation:** this operationalizes the established causal narrative model for knowledge, capabilities, possessions, health, obligations, relationships and off-page schedules.
+- **Limit:** a standard reduces omissions; it cannot guarantee that a scene is good by itself. Drafts must be audited and the process improved when failures recur.
+- **Dependencies:** every episode scene and every significant character/prop/skill change.
+- **Revisit trigger:** the standard proves too cumbersome; reduce fields only if its causal protections remain.
+
+## DEC-010 — Protagonist knowledge and skill ledger
+
+- **Date:** 2026-10-12.
+- **Question:** how to make Nathan's established abilities usable without displaying artificial levels in the story?
+- **Current result:** maintain a private, dated ledger distinguishing factual knowledge, practical skill, retrieval, confidence, willingness to act and possibly wrong beliefs. Use bounded internal levels only to guide consistency.
+- **Status:** USER-REQUESTED PROJECT RULE; individual skill ratings are WORKING estimates.
+- **Method:** start from the character profile, record a baseline and update only when learning, practice, injury, disuse, new evidence or a meaningful choice changes the state. Check whether a known capability would solve the problem before writing a less effective choice.
+- **Validation:** reflects Nathan's domain-specific academic/technical strength, soccer and physical training, social hesitation, arts weaknesses and imperfect access to future-world memories. It does not make him omniscient.
+- **Open issue:** source profile and Episode 1 currently conflict about whether 7 September is already Nathan's thirteenth birthday or whether he is still about two weeks away; see DEC-012.
+- **Dependencies:** Nathan's actions, mobile-game project, football, school scenes, social decisions and later scenes relying on previous-life knowledge.
+- **Revisit trigger:** a drafted scene contradicts a baseline rating or evidence establishes a more precise ability.
+
+## DEC-011 — Episode passing can revise the top-down relationship plan
+
+- **Date:** 2026-10-12.
+- **Question:** how to keep long-range architecture from forcing an unnatural romance or emotional timetable?
+- **Current result:** continue both modes in parallel: recursively plan the long series, while writing and evaluating opening episodes in chronological causal detail. The early drafts test pacing. There is no fixed decision that Nathan and Alex must begin dating in Year 2.
+- **Status:** USER-REQUESTED PROJECT RULE.
+- **Method:** keep the current first-season friendship proposal as a hypothesis; assess the density, quality and emotional consequence of interactions in Episodes 1–2 and a small sample of Episode 3. Backpropagate setup where later states have earned it, then read forward to check revisions remain natural.
+- **Validation:** preserves top-down anchors without turning them into unchangeable appointments. Relationship timing follows accumulated experience and scene quality rather than elapsed calendar alone.
+- **Dependencies:** Season 1 relationship pacing, series/season anchors, outlines and later relationship payoffs.
+- **Revisit trigger:** prose shows a faster/slower pace would be more believable; update the plan and every affected setup/payoff.
+
+## DEC-012 — Open continuity conflict: Nathan's age/birthday
+
+- **Date discovered:** 2026-10-12.
+- **Conflict:** the opening outlines and profile use 7 September 2009 as Nathan's birthday, while the reincarnation passage says he begins life at twelve roughly two weeks before turning thirteen. These cannot all be true at once.
+- **Status:** OPEN / must resolve before prose locks the birthday scene.
+- **Why not silently fix it:** the opening date and birthday have been central planning anchors, and the author previously indicated that 6 or 8 September could be considered if needed. Preserve the conflict until the surrounding chronology is reconciled intentionally.
+- **Immediate guardrail:** use the calendar fact that 7 September 2009 is Labor Day; do not schedule normal school or football training that day. A birthday scene must not call Nathan thirteen if the age choice remains unresolved.
+- **Resolution options:** (A) birthday on 7 September and amend the "two weeks before" passage; (B) keep the two-weeks-before premise and move the birthday while preserving the opening start; (C) choose another date after checking episode and school chronology.
+- **Dependencies:** Nathan's age, birthday episode, school grade, physical comparison with peers, family dialogue, name-cohort assumptions and both opening outlines.
+- **Revisit trigger:** before Episode 1 prose is drafted.

@@ -135,3 +135,18 @@ Backpropagation cannot guarantee a perfect narrative. It is a disciplined way to
 
 
 **Decision provenance:** `canon/DECISION_LOG.md` is the durable ledger for current results, rejected alternatives, validation evidence, seeds and dependencies. Read it before asking the author to repeat a decision.
+
+
+## Track D — per-character state and capability continuity
+
+Use the [Character State Continuity Standard](../characters/CHARACTER_STATE_CONTINUITY_STANDARD.md) for every scene. Whole-series anchors, forward chronology and backpropagation are insufficient if the writer forgets what an individual already knows, owns, fears or can do.
+
+Before prose, attach a scene-state header for every speaking or causally active character. Include the recent past, current knowledge boundary, relevant skills, physical state, active relationships and props. A character's hidden profile can be much richer than the prose; it should influence choices without automatically being explained to the reader.
+
+Use Nathan's [Knowledge and Skill Ledger](../characters/NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md) to check both sides of the common failure: forgetting an established capability and granting him an ability without a prior cause. If he does not use a clearly useful skill, record the actual constraint or motivation.
+
+## Two-way long-range planning and episode pacing
+
+The top-down series design remains a working architecture, not a deadline contract. The early episode outlines are also experiments that test how much calendar time, emotional change and subplot movement fit naturally into the prose. After each initial draft, compare what happened on the page with the long-range anchors. If the relationship, career, friendship or season arc feels too slow or too fast, revise the top-down plan and propagate the consequences; do not force scenes to fit a calendar target merely because it was written first.
+
+No dating year or exact episode number is fixed for Nathan and Alex. The current Season 1 proposal aims to build a real friendship and test gradual attraction. A possible romance in a later school year is a hypothesis, not a binding promise. Let actual shared experience, initiative from both characters, vulnerability, conflict and finished prose determine the credible pace.
