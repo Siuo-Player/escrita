@@ -231,3 +231,8 @@ Final prose is written in natural European Portuguese by default unless explicit
 ## Foreknowledge and intervention pass
 
 Before Nathan acts on a remembered canon event, use [the Foreknowledge and Intervention Policy](FOREKNOWLEDGE_INTERVENTION_POLICY.md). Separate how clearly he remembers the original event from how likely it is to recur after the timeline has changed. Check the present trigger, whether he has access to someone who can act, and the smallest credible intervention. A decision not to intervene is valid when access or a plausible action is missing; ignoring an immediate, actionable risk is not. Keep the detailed ledger out of finished prose.
+
+
+## Character naming discipline
+
+Before adding an original character, consult [the Character Naming Standard](CHARACTER_NAMING_STANDARD.md) and [the Character Name Registry](../characters/CHARACTER_NAME_REGISTRY.md). Use cohort- and country-appropriate public frequency data, filter duplicates and rejected names, then record a reproducible random draw. User-locked and source-canon names are exceptions; do not silently change them. Family surnames must be inherited/recorded consistently rather than independently randomized for each relative.
