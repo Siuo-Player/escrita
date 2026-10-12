@@ -50,7 +50,7 @@ The drafting process selects from it.
 - 13–15 Oct: Alex does something that quietly contradicts Nathan's pessimistic interpretation.
 - End-state: they have a genuine early friendship/interest, not a relationship label.
 
-## Pierce family
+## Callahan family
 
 - 7 Sep: birthday/family routine before the move is announced.
 - 8–13 Sep: promotion/relocation unfolds; Clifford's role had been quietly negotiated beforehand, but the confirmation is sudden to Nathan.

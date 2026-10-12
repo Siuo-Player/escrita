@@ -69,11 +69,14 @@ A name selection is reproducible only when the seed **and** candidate pool/order
 
 ## Current application
 
-The protagonist's first name **Nathan** remains author-locked from the prior story decisions. His surname **Pierce is not treated as final**: the author has explicitly said it may change. See the registry for the randomly generated candidate slate and the one outstanding author decision.
+The protagonist's full name **Nathan Callahan** is now author-locked (2026-10-12). Nathan was chosen by the author earlier; Callahan was selected by the author from the generated surname slate. The former placeholder Pierce is retired for this family. See the registry and Decision Log for the selection process.
 
 The original football-peer name **Jordan Reyes** was a provisional assistant-generated choice and is now retired. The reproducible draw recorded in the registry selects **Maxwell Whitaker** instead. This is a working recurring character name, not an immutable canon fact.
 
 
 ## Parent names added on 12 October 2026
 
-The working first-name labels for Nathan's parents are now **Clifford** (father) and **Heather** (mother). They were selected reproducibly from the U.S. SSA's 1960s cohort tables because the prior labels David and Melissa were assistant-generated, not user-locked. The seed and exact pools are recorded in [the Character Name Registry](../characters/CHARACTER_NAME_REGISTRY.md). They share Nathan's eventual family surname; `Pierce` remains a placeholder pending author choice.
+The working first-name labels for Nathan's parents are now **Clifford** (father) and **Heather** (mother). They were selected reproducibly from the U.S. SSA's 1960s cohort tables because the prior labels David and Melissa were assistant-generated, not user-locked. The seed and exact pools are recorded in [the Character Name Registry](../characters/CHARACTER_NAME_REGISTRY.md). They share Nathan's author-confirmed family surname, Callahan.
+
+
+The former surname placeholder **Pierce** is retired for Nathan's family. It must not return in active profiles or outlines unless the author explicitly reopens the decision. The accepted surname is Callahan; do not infer ancestry from the name alone.

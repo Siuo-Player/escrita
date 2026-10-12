@@ -203,7 +203,7 @@ Instead:
 A teammate's own ambition can continue as a parallel subplot: someone wants a starting position, is frustrated
 with Nathan's arrival, then learns to use him as an ally.
 
-### E. Pierce family adjustment
+### E. Callahan family adjustment
 
 The move is still recent enough to have consequences.
 

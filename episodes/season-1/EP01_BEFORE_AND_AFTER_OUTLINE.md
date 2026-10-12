@@ -35,7 +35,7 @@ Teachers and teammates already know Nathan. The reader sees why through interact
 ### C — Football
 Nathan is already captain and comfortable inside an established team.
 
-### D — Pierce family
+### D — Callahan family
 Birthday → promotion → logistics → relocation → temporary rental setup.
 
 ### E — New school
@@ -745,7 +745,7 @@ The competitive teammate cooperates with Nathan.
 Their relationship moves one step.
 
 #### Scene 54 — family
-Dunphy or Pierce household shown doing something unrelated to Nathan.
+Dunphy or Callahan household shown doing something unrelated to Nathan.
 
 A purchase/prop is introduced naturally.
 

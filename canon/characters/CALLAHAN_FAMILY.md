@@ -1,17 +1,17 @@
-# Protagonist's family baseline (current surname placeholder: Pierce)
+# Callahan family baseline
 
 Status: WORKING
 Purpose: stable background for continuity; family life is supportive context, not a main plot engine.
 Updated: 2026-10-12
 
-**Surname status:** Pierce is provisional, not a user-locked family surname. The parents and protagonist should share whichever family surname the author chooses unless a documented naming/legal reason establishes otherwise. Clifford and Heather are now the randomized working given names for Nathan's parents; their shared surname remains provisional. See `canon/characters/CHARACTER_NAME_REGISTRY.md`.
+**Surname status:** Callahan is the author-confirmed shared family surname as of 2026-10-12. Nathan's given name was already locked; the author selected Callahan from the generated shortlist. See `canon/DECISION_LOG.md` and `canon/characters/CHARACTER_NAME_REGISTRY.md` for the decision trail. Clifford and Heather remain working given names selected by the logged random process.
 
-## Nathan Pierce
+## Nathan Callahan
 
 Nathan is the only child for now. This is a working choice intended to keep the early family dynamic
 focused; it can be revised before sibling-dependent plots are written.
 
-## Clifford Pierce
+## Clifford Callahan
 
 Age at Nathan's entry: early-to-mid 40s.
 
@@ -46,7 +46,7 @@ Clifford accepts a major California leadership role connected to the company's e
 Southern California. This provides a normal reason for the family move without involving any canon
 character.
 
-## Heather Pierce
+## Heather Callahan
 
 Age at Nathan's entry: early-to-mid 40s.
 
@@ -67,7 +67,7 @@ She supports his education and training while expecting him to maintain ordinary
 
 ## Family lifestyle
 
-The Pierces have:
+The Callahans have:
 - a comfortable home;
 - private/shared access to quality computing equipment;
 - a large personal library;

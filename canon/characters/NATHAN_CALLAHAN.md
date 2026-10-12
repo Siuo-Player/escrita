@@ -1,13 +1,13 @@
-# Protagonist — Nathan (surname pending author choice)
+# Protagonist — Nathan Callahan
 
 Status: WORKING / established from project decisions
 Updated: 2026-10-12
 
-**Naming status:** Nathan is the author-locked given name. Pierce is the current working surname only; the author has explicitly said it may change. Check `canon/characters/CHARACTER_NAME_REGISTRY.md` before writing or asking about the surname. If a new surname is chosen, migrate this file and all family references together.
+**Naming status:** Nathan Callahan is author-locked as of 2026-10-12. See `canon/DECISION_LOG.md` and `canon/characters/CHARACTER_NAME_REGISTRY.md` for the shortlist, selection method and validation.
 
 ## Identity
 
-**Working full name:** Nathan Pierce (surname placeholder; the given name Nathan is author-locked, but Pierce is pending author choice)
+**Full name:** Nathan Callahan
 **Age at story opening:** 13. He was 12 immediately before the opening birthday.
 **Starting point:** Monday, **7 September 2009**, shortly before the *Modern Family* pilot. The real
 LAUSD school year opens on **Wednesday, 9 September 2009**. Nathan is still living in the Seattle area
@@ -38,25 +38,25 @@ He is not replacing a canon child. He is the biological son of his own parents i
 a normal childhood history, relationships and memories from that life. His previous-life memories
 coexist with his current-life memories.
 
-The reincarnation itself is private. To everyone else he is simply Nathan Pierce.
+The reincarnation itself is private. To everyone else he is simply Nathan Callahan.
 
 ## Family and origin
 
 Nathan was born and raised in the Seattle-area technology corridor.
 
-### Father — Clifford Pierce
+### Father — Clifford Callahan
 
 Clifford is a senior technology executive and early co-founder of a successful private software
 company. He is technically capable, pragmatic and accustomed to long-term planning.
 
-### Mother — Heather Pierce
+### Mother — Heather Callahan
 
 Heather has a demanding professional career. She is strongly supportive of education and discipline
 but does not reduce Nathan's identity to academic achievement.
 
 ### Financial situation
 
-The Pierce family is affluent enough to provide:
+The Callahan family is affluent enough to provide:
 - a comfortable home;
 - quality schools;
 - books and technical material in quantity;
