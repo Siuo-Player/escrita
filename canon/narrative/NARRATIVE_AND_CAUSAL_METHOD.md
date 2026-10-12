@@ -5,7 +5,7 @@ Updated: 2026-10-12
 
 ## The two directions are complementary, not competing
 
-The series is designed **top-down** and written/causally developed **forward in time**. Backpropagation then checks whether the forward story has earned the states promised by the high-level design.
+Nathan Callahan's series is designed **top-down** and written/causally developed **forward in time**. Backpropagation then checks whether the forward story has earned the states promised by the high-level design.
 
 The top-down model provides destination, meaning, proportionality and long-range setup. The forward causal model provides believable transitions, lived detail, independent character agency and consequences. Neither is allowed to replace the other.
 
@@ -132,3 +132,6 @@ The method is working when:
 - an author can revise a working choice without losing the evidence and reasoning behind the current version.
 
 Backpropagation cannot guarantee a perfect narrative. It is a disciplined way to find missing causes and continuity errors, and its effectiveness must be evaluated against actual episode drafts and reader experience.
+
+
+**Decision provenance:** `canon/DECISION_LOG.md` is the durable ledger for current results, rejected alternatives, validation evidence, seeds and dependencies. Read it before asking the author to repeat a decision.
