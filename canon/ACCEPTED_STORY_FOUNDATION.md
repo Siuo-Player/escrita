@@ -150,7 +150,7 @@ The story should not quietly turn Nathan into a universal polymath.
 
 Nathan does not replace any canon child.
 
-He is born as Nathan Pierce in this reality and has his own:
+He is born as Nathan Callahan in this reality and has his own:
 
 - childhood;
 - parents;
@@ -273,21 +273,21 @@ Any impressive result must still have a plausible chain of learning and experime
 
 ---
 
-## 7. Pierce family
+## 7. Callahan family
 
-The Pierce family is affluent but should never read as billionaire-level wealthy.
+The Callahan family is affluent but should never read as billionaire-level wealthy.
 
 ### Origin
 
 The family comes from the Seattle-area technology corridor.
 
-### Clifford Pierce
+### Clifford Callahan
 
 Clifford is a technology executive and early co-founder of a successful private software company.
 
 He is technically competent and experienced enough to think several years ahead.
 
-### Heather Pierce
+### Heather Callahan
 
 Heather has a demanding professional career outside core software engineering.
 
@@ -439,7 +439,7 @@ A chapter can therefore contain substantial material about:
 - football;
 - technology;
 - friends;
-- the Pierce family;
+- the Callahan family;
 
 while still clearly belonging to the *Modern Family* world.
 
