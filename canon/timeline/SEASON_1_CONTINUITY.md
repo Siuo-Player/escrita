@@ -62,7 +62,7 @@ The first movement, roughly **7–13 September**, establishes:
 - the family's compressed preparation and move south.
 
 The move is not treated as a long logistics sequence. The promotion had been quietly negotiated for part of
-August, so David and Melissa already know the relocation is possible even though Nathan does not. Once the
+August, so Clifford and Heather already know the relocation is possible even though Nathan does not. Once the
 promotion is confirmed, the company activates relocation support and arranges a temporary rental, movers and
 travel. A few strong scenes and time-compressed transitions carry Nathan from his old routine to the new house.
 
