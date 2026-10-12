@@ -157,3 +157,5 @@ A estrutura narrativa não chega para produzir prosa convincente. Antes da reda�
 - [Natural Dialogue Standard](../../canon/narrative/DIALOGUE_NATURALNESS_STANDARD.md) — critérios operacionais para intenção, subtexto, voz, ritmo, idade e revisão de diálogos.
 - [AI Writing Tool Selection and Evaluation](AI_WRITING_TOOL_SELECTION.md) — fontes sobre avaliação de escrita criativa, comparação cega de modelos e um fluxo de trabalho baseado no OpenWrite já configurado, sem comprar novas ferramentas antes de demonstrar necessidade.
 - [Season 1 Relationship Pacing](../../canon/narrative/SEASON_1_RELATIONSHIP_PACING.md) — evolução gradual e friendship-first de Nathan e Alex.
+
+- [Opening Calendar Audit](OPENING_CALENDAR_AUDIT.md) — dates verified against the archived Seattle Public Schools calendar, the LAUSD 2009–10 calendar, and the original *Modern Family* Season 1 air dates; distinguishes source-backed dates from assumptions.

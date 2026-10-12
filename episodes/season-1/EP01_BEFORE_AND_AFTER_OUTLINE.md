@@ -7,7 +7,7 @@ Updated: 2026-10-08
 
 **7–30 September 2009**
 
-Drafting references: use [the dialogue naturalness standard](../../canon/narrative/DIALOGUE_NATURALNESS_STANDARD.md), [Season 1 relationship pacing](../../canon/narrative/SEASON_1_RELATIONSHIP_PACING.md), and [the foreknowledge/intervention policy](../../canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md). Scene beats are constraints, not dialogue to expand mechanically; do not force a canon rescue into the opening just to prove Nathan remembers the show.
+Drafting references: use [the dialogue naturalness standard](../../canon/narrative/DIALOGUE_NATURALNESS_STANDARD.md), [Season 1 relationship pacing](../../canon/narrative/SEASON_1_RELATIONSHIP_PACING.md), [the foreknowledge/intervention policy](../../canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md), and [the source-backed opening calendar audit](../../research/narrative/OPENING_CALENDAR_AUDIT.md). Scene beats are constraints, not dialogue to expand mechanically; do not force a canon rescue into the opening just to prove Nathan remembers the show.
 
 Target finished length: **10,000–14,000+ words**.
 
@@ -134,7 +134,7 @@ End beat:
 
 ---
 
-### 8 September — old school begins
+### 9 September — first day at the old school
 
 #### Scene 6 — mathematics
 Nathan arrives at school already comfortable with the material.
@@ -167,16 +167,15 @@ The reader sees that he is **not socially awkward in conversation**.
 
 His problem is initiation.
 
-#### Scene 8 — football / captaincy
-Another short beat:
-- teammate asks whether they should change formation;
-- Nathan answers;
-- everyone follows.
+#### Scene 8 — football / captaincy outside practice
+A short conversation at school or in the team chat about the previous session:
+- a teammate asks whether they should change formation next time;
+- Nathan answers with one concrete adjustment;
+- the others accept it without drama.
 
-Later:
-someone compliments the decision.
+This is not another training session; Wednesday is a school/programming day in the recurring rhythm. The point is that Nathan's leadership is already visible outside the pitch.
 
-Nathan credits the team's execution.
+Later, someone compliments the decision. Nathan credits the team's execution.
 
 This establishes leadership without self-confidence.
 
@@ -194,7 +193,7 @@ Do not explain profiling extensively; show him staring at the same operation rep
 
 ---
 
-### 9 September — contrast with California
+### 10 September — school and relocation pressure
 
 #### Scene 10 — school
 Science/lab.
@@ -229,7 +228,7 @@ This means the later "sudden" news is sudden **to Nathan**, not magically produc
 
 ---
 
-### 10–11 September — game + first emotional disruption
+### 11 September — game + first emotional disruption
 
 #### Scene 13 — A* stress test
 Nathan runs 10, 15, 20, 24 enemies.
