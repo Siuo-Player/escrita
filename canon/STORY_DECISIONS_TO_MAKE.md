@@ -9,7 +9,7 @@ are recorded so they are not asked again.
 
 ## A. Resolved foundation
 
-1. **Protagonist:** Nathan (given name locked; family surname currently Pierce but explicitly pending author confirmation), male, 13 at the story opening (having turned 13 that day); American;
+1. **Protagonist:** Nathan Callahan (given name and family surname locked by the author on 2026-10-12), male, 13 at the story opening (having turned 13 that day); American;
    affluent technology-oriented family; A-level student; football/soccer captain; long-term physical
    training in strength, speed, flexibility, football and martial arts; shy, embarrassed by initiating
    interactions, perfectionist and emotionally sensitive; afraid of seeming arrogant; strongly afraid of
@@ -101,12 +101,12 @@ are recorded so they are not asked again.
     object, but to avoid materializing important recurring things exactly when a scene needs them.
 22. **Episode 2 subplot set:** the game remains the primary technical thread, but Episode 2 also carries a
     meaningful Nathan/Alex relationship progression, Nathan settling into the new school's academic/social
-    environment, football/team integration, and the Pierce family's adjustment to California. On the
+    environment, football/team integration, and the Callahan family's adjustment to California. On the
     *Modern Family* side, **Come Fly with Me** (7 October) and **The Incident** (14 October) provide canon
     AU material; they should intersect Nathan only when his existing life naturally touches them. The episode
     does not need an invented replacement canon episode.
 
-Detailed protagonist record: canon/characters/NATHAN_PIERCE.md.
+Detailed protagonist record: canon/characters/NATHAN_CALLAHAN.md.
 
 ## B. Still to decide — useful for the first arc
 
@@ -122,7 +122,7 @@ reluctance to seek new friendships. The broader self-undervaluation is a recurri
 Nathan/Alex slow burn.
 
 ### 3. Parents' final occupations and family history
-**Sufficiently bounded for the opening episodes.** Clifford (randomly selected given name; SSA 1960s male rank 159) remains a senior technology executive/early co-founder; Heather (randomly selected given name; SSA 1960s female rank 127) has a demanding, well-paid professional career outside core software engineering. Their roles, relationship with Nathan, and reason for the move are recorded in `canon/characters/PIERCE_FAMILY.md`. Keep exact employer/title and work subplots unspecified until the story needs them; both parents are supportive background, not a second main plot.
+**Sufficiently bounded for the opening episodes.** Clifford (randomly selected given name; SSA 1960s male rank 159) remains a senior technology executive/early co-founder; Heather (randomly selected given name; SSA 1960s female rank 127) has a demanding, well-paid professional career outside core software engineering. Their roles, relationship with Nathan, and reason for the move are recorded in `canon/characters/CALLAHAN_FAMILY.md`. Keep exact employer/title and work subplots unspecified until the story needs them; both parents are supportive background, not a second main plot.
 
 ### 4. Nathan's first concrete technology project
 **Resolved in design:** a small 2D mobile game for conservative 2009 hardware. Nathan builds the important
@@ -176,9 +176,9 @@ career details, exact university thesis topic, crossover policy, and most late-s
 
 We should not lock these prematurely. They can be created when the causal narrative needs them.
 
-## Naming rule (added 12 October 2026)
+## Naming rule (updated 12 October 2026)
 
-Before adding or asking about any character name, consult `canon/characters/CHARACTER_NAME_REGISTRY.md` and `canon/narrative/CHARACTER_NAMING_STANDARD.md`. Nathan's given name remains locked by the author. Do not assume Pierce is final, and do not ask about the surname as though no candidate research exists; the registry records the current shortlist and awaits the author's decision. Ethan Brooks is retired/rejected and must not be reused. Jordan Reyes was only a provisional assistant-generated name and has been replaced by the reproducibly selected Maxwell Whitaker.
+Before adding or asking about any character name, consult `canon/characters/CHARACTER_NAME_REGISTRY.md` and `canon/narrative/CHARACTER_NAMING_STANDARD.md`. Nathan's given name remains locked by the author. Nathan Callahan is now locked. The old Pierce placeholder is retired and must not be resurrected without an explicit author revision. Ethan Brooks is retired/rejected and must not be reused. Jordan Reyes was only a provisional assistant-generated name and has been replaced by the reproducibly selected Maxwell Whitaker.
 
 ## First-arc readiness after the 12 October 2026 review
 
@@ -193,3 +193,8 @@ Now sufficiently bounded for Episode 1–2 drafting:
 **Still required before committing a full Episode 1 prose draft:** complete a source-backed calendar/scene-purpose audit and use the intervention policy to decide whether a first-year event offers a credible opportunity. A decision not to intervene is valid when access or a plausible action is missing; ignoring an actionable risk is not.
 
 The opening calendar, personality profile, pilot-intersection rule, first mobile game, relationship direction and dialogue discipline are recorded. Remaining details can stay provisional where they do not block a scene.
+
+
+## Durable decision provenance
+
+Consult `canon/DECISION_LOG.md` for the full process history, options, validation and dependencies. Consult `canon/narrative/NARRATIVE_AND_CAUSAL_METHOD.md` for the user's hybrid top-down/linear/backpropagation method. Record later reversals with their rationale rather than silently overwriting previous decisions.
