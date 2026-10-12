@@ -3,7 +3,7 @@
 Status: WORKING CHARACTER PROPOSAL
 Updated: 2026-10-12
 
-**Name selection:** selected via the project's random naming protocol; see `canon/characters/CHARACTER_NAME_REGISTRY.md`.
+**Name selection:** Maxwell Whitaker was selected via the project's random naming protocol; see `canon/characters/CHARACTER_NAME_REGISTRY.md`. Do not revert to the retired provisional name Jordan Reyes.
 
 ## Narrative function
 
