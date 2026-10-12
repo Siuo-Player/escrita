@@ -78,8 +78,8 @@ Voice is more than catchphrases, slang or sentence length. It comes from what a 
 - **Luke:** concrete, associative and occasionally unexpectedly perceptive. He can be wrong or silly without being written as uniformly stupid.
 - **Phil:** warm and eager to connect, often through enthusiasm or play. A joke can be too much, badly timed or simply not land; he should not be performing constantly.
 - **Claire:** goal-oriented and direct, particularly when logistics or responsibility are involved. Concern can show up through practical action rather than a tidy emotional speech.
-- **David:** economical, pragmatic and used to deciding under constraints. Avoid giving him generic executive speeches.
-- **Melissa:** attentive to routine and strain, practical and supportive. She can challenge Nathan without turning every conversation into therapy.
+- **Clifford:** economical, pragmatic and used to deciding under constraints. Avoid giving him generic executive speeches.
+- **Heather:** attentive to routine and strain, practical and supportive. She can challenge Nathan without turning every conversation into therapy.
 - **Recurring peers:** must have goals, blind spots and conversational habits independent of Nathan. Do not make a new friend merely a delivery system for compliments about him.
 
 These are defaults, not rigid dialogue templates. Each character can surprise the reader when the scene gives them a reason.
