@@ -70,8 +70,8 @@ Primary threads:
 Create once:
 - Nathan Callahan
 - Maxwell Whitaker (working recurring football peer; see canon character profile)
-- Clifford (father; family surname follows the eventual author-confirmed surname)
-- Heather (mother; family surname follows the eventual author-confirmed surname)
+- Clifford Callahan (father; working given name selected through the logged SSA/random process)
+- Heather Callahan (mother; working given name selected through the logged SSA/random process)
 - Claire Dunphy
 - Phil Dunphy
 - Haley Dunphy
