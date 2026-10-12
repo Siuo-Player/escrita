@@ -178,7 +178,7 @@ We should not lock these prematurely. They can be created when the causal narrat
 
 ## Naming rule (updated 12 October 2026)
 
-Before adding or asking about any character name, consult `canon/characters/CHARACTER_NAME_REGISTRY.md` and `canon/narrative/CHARACTER_NAMING_STANDARD.md`. Nathan's given name remains locked by the author. Nathan Callahan is now locked. The old Callahan placeholder is retired and must not be resurrected without an explicit author revision. Ethan Brooks is retired/rejected and must not be reused. Jordan Reyes was only a provisional assistant-generated name and has been replaced by the reproducibly selected Maxwell Whitaker.
+Before adding or asking about any character name, consult `canon/characters/CHARACTER_NAME_REGISTRY.md` and `canon/narrative/CHARACTER_NAMING_STANDARD.md`. Nathan's given name remains locked by the author. Nathan Callahan is now locked. The old Pierce placeholder is retired and must not be resurrected without an explicit author revision. Ethan Brooks is retired/rejected and must not be reused. Jordan Reyes was only a provisional assistant-generated name and has been replaced by the reproducibly selected Maxwell Whitaker.
 
 ## First-arc readiness after the 12 October 2026 review
 
