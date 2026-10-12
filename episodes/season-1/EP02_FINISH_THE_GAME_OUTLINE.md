@@ -35,7 +35,7 @@ Nathan's reputation begins to exist independently of being new.
 ### D — Football
 Nathan earns his place in the new group.
 
-### E — Pierce family
+### E — Callahan family
 The temporary rental begins to feel like home.
 
 ### F — Modern Family AU
@@ -121,7 +121,7 @@ Alex does not push.
 This is important because she is beginning to observe him.
 
 #### Scene 7 — family
-Short Pierce-family domestic sequence:
+Short Callahan-family domestic sequence:
 - boxes are mostly gone;
 - kitchen routine is established;
 - Heather knows where things are;
@@ -634,7 +634,7 @@ Football:
 - coach trusts Nathan;
 - captaincy remains a future possibility rather than instant reward.
 
-Pierce family:
+Callahan family:
 - temporary rental feels like home;
 - California has become a real life rather than a relocation project;
 - permanent house search remains future material.
@@ -675,7 +675,7 @@ Suggested space:
 - 2,000–2,500: Alex/Nathan;
 - 1,500–2,000: school;
 - 1,500–2,000: football;
-- 1,000–1,500: Pierce family;
+- 1,000–1,500: Callahan family;
 - 1,000–2,000: parallel canon/background.
 
 The proportions may change according to scene quality.
@@ -767,7 +767,7 @@ The world is beginning to disagree with his self-image.
 
 ### Family routine
 
-The Pierce rental should also move from "boxes everywhere" to:
+The Callahan rental should also move from "boxes everywhere" to:
 
 - one preferred breakfast routine;
 - known grocery items;
