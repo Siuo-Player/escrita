@@ -22,7 +22,7 @@ This file stores **what was decided, how the current answer was validated, and w
 - **Date:** 2026-10-12.
 - **Question:** which surname should replace the assistant's provisional 'Pierce'?
 - **Prior state:** Pierce appeared across the working documents but had not been explicitly chosen by the author. It was a placeholder, not a locked decision.
-- **Candidate-generation method:** used U.S. Census surname frequency data to avoid defaulting to the most ubiquitous surnames; a seeded draw produced this ordered shortlist:
+- **Candidate-generation method:** used U.S. Census surname frequency data to avoid defaulting to the most ubiquitous surnames. Seed `687708412` was reused for a reproducible shuffle of the frozen input pool `Whitaker (#610), Callahan (#682), Ellison (#829), Gentry (#821)`. The resulting order was `Gentry, Callahan, Ellison, Whitaker`; the first three were offered as the protagonist's shortlist and Whitaker was reserved for the football peer. The ordered shortlist was:
   1. Gentry — 2020 U.S. Census surname rank 821.
   2. Callahan — rank 682.
   3. Ellison — rank 829.
