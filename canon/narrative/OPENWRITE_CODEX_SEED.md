@@ -8,7 +8,7 @@ when the series project is populated.
 
 ## Project
 
-**Title:** Modern Family AU — Nathan Pierce
+**Title:** Modern Family AU — Nathan [family surname pending author choice; existing documents use Pierce provisionally]
 **Type:** series
 
 Core metadata:
@@ -69,7 +69,7 @@ Primary threads:
 
 Create once:
 - Nathan Pierce
-- Jordan Reyes (working recurring football peer; see canon character profile)
+- Maxwell Whitaker (working recurring football peer; see canon character profile)
 - David Pierce
 - Melissa Pierce
 - Claire Dunphy
@@ -87,7 +87,7 @@ Create once:
 - recurring teachers
 - recurring football teammates
 
-Jordan Reyes is the first working original peer with a stable profile; retain his identity and goals across episodes. Further teachers and teammates should gain stable identities only when their repeated narrative role has become useful enough to justify naming them.
+Maxwell Whitaker is the first working original peer with a stable profile; retain his identity and goals across episodes. Further teachers and teammates should gain stable identities only when their repeated narrative role has become useful enough to justify naming them.
 
 ## Project-level locations
 
@@ -123,6 +123,7 @@ Core lore entries:
 - Nathan's intervention philosophy and foreknowledge feasibility policy;
 - narration/POV rules;
 - natural dialogue standard and character-specific voice guidance;
+- character naming standard, demographic source selection, random draw audit and duplicate-name registry;
 - European Portuguese final-prose default and dialogue translation principles;
 - scene-sized drafting and dialogue-review workflow;
 - backpropagation rules.
