@@ -4,14 +4,14 @@ Status: WORKING
 Purpose: stable background for continuity; family life is supportive context, not a main plot engine.
 Updated: 2026-10-12
 
-**Surname status:** Pierce is provisional, not a user-locked family surname. The parents and protagonist should share whichever family surname the author chooses unless a documented naming/legal reason establishes otherwise. David and Melissa remain current working given-name labels; no first-name change is being made in this naming pass. See `canon/characters/CHARACTER_NAME_REGISTRY.md`.
+**Surname status:** Pierce is provisional, not a user-locked family surname. The parents and protagonist should share whichever family surname the author chooses unless a documented naming/legal reason establishes otherwise. Clifford and Heather are now the randomized working given names for Nathan's parents; their shared surname remains provisional. See `canon/characters/CHARACTER_NAME_REGISTRY.md`.
 
 ## Nathan Pierce
 
 Nathan is the only child for now. This is a working choice intended to keep the early family dynamic
 focused; it can be revised before sibling-dependent plots are written.
 
-## David Pierce
+## Clifford Pierce
 
 Age at Nathan's entry: early-to-mid 40s.
 
@@ -23,7 +23,7 @@ Profession:
 
 Financial history:
 - the company became successful before Nathan's teenage years;
-- David has substantial equity and executive income;
+- Clifford has substantial equity and executive income;
 - the family is affluent, not billionaire-level wealthy;
 - money is available for education, equipment, sports, travel and projects, but purchases do not remove
   technical or social constraints.
@@ -37,16 +37,16 @@ Personality:
 - does not automatically believe that being intelligent makes an idea good.
 
 Relationship with Nathan:
-David is proud of Nathan's academic ability but does not define him entirely by grades.
+Clifford is proud of Nathan's academic ability but does not define him entirely by grades.
 He is willing to buy books, computers, software, training and educational resources when Nathan can
 explain why they are useful.
 
 Move:
-David accepts a major California leadership role connected to the company's expansion/operations in
+Clifford accepts a major California leadership role connected to the company's expansion/operations in
 Southern California. This provides a normal reason for the family move without involving any canon
 character.
 
-## Melissa Pierce
+## Heather Pierce
 
 Age at Nathan's entry: early-to-mid 40s.
 
@@ -58,11 +58,11 @@ Personality:
 - practical;
 - academically supportive;
 - attentive to Nathan's emotional state;
-- less interested in technical detail than David;
+- less interested in technical detail than Clifford;
 - willing to challenge Nathan when perfectionism or overplanning becomes unhealthy.
 
 Relationship with Nathan:
-Melissa protects the distinction between "being capable" and "having to be perfect".
+Heather protects the distinction between "being capable" and "having to be perfect".
 She supports his education and training while expecting him to maintain ordinary responsibilities.
 
 ## Family lifestyle
@@ -98,8 +98,8 @@ though his basic living conditions are good.
 ## Continuity constraints
 
 Keep the following stable unless a later story decision explicitly changes them:
-- David's income/wealth comes from a technology career and equity, not unexplained inheritance.
-- Melissa has her own career.
+- Clifford's income/wealth comes from a technology career and equity, not unexplained inheritance.
+- Heather has her own career.
 - Neither parent knows about Nathan's previous life.
 - Neither parent treats Nathan's future knowledge as ordinary teenage knowledge.
 - Nathan's parents can fund opportunities but cannot give him adult experience, social confidence,
