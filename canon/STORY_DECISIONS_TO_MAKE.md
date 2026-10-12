@@ -155,10 +155,7 @@ establish first impressions of several of them without turning Nathan into a par
 family-reunion sequence.
 
 ### 10. Opening-week canon intersection
-**Working:** use ordinary neighborhood/school/activity encounters to establish first impressions before
-the pilot. Candidate first contacts are Alex at school, Claire and Phil as nearby adults, and Luke or
-another family member through sport/neighborhood life. At least four family members should know Nathan by
-the pilot without making him artificially central to the episode.
+**Contact plan established in the Episode 1 outline:** before the 23 September Pilot, Nathan has short, ordinary, acquaintance-level contacts with Phil and Claire during the move, Luke when a ball rolls into the Pierce driveway, and Alex through school (first sight on 16 September, practical conversation initiated by Alex on 18 September). These are four direct first contacts, not instant friendships. Nathan is not inserted into the family's central reunion scene; each later interaction must begin from the small amount of history actually established.
 
 ### 11. Canon changes and intervention priorities
 **Policy established; specific first-year opportunities require a dated canon audit.** Use `canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md` to separate certainty about remembered events from certainty about the altered timeline, rank the potential harm, assess Nathan's access and credibility, and choose the smallest plausible action. Nathan actively tries to prevent serious harm, but Episode 1–2 must not gain a manufactured crisis or place him in canon scenes without a credible reason. Once his action changes a causal condition, follow the consequence honestly. The remaining task is to map first-year canon events and identify only the opportunities that pass the feasibility test.
