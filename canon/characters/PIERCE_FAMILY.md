@@ -4,7 +4,7 @@ Status: WORKING
 Purpose: stable background for continuity; family life is supportive context, not a main plot engine.
 Updated: 2026-10-12
 
-**Surname status:** Pierce is provisional, not a user-locked family surname. The parents and protagonist should share whichever family surname the author chooses unless a documented naming/legal reason establishes otherwise. See `canon/characters/CHARACTER_NAME_REGISTRY.md`.
+**Surname status:** Pierce is provisional, not a user-locked family surname. The parents and protagonist should share whichever family surname the author chooses unless a documented naming/legal reason establishes otherwise. David and Melissa remain current working given-name labels; no first-name change is being made in this naming pass. See `canon/characters/CHARACTER_NAME_REGISTRY.md`.
 
 ## Nathan Pierce
 
