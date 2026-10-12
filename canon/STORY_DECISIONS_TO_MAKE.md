@@ -15,7 +15,7 @@ state must not be treated as established canon until reconciled with the user's 
 
 ## A. Resolved foundation
 
-1. **Protagonist:** Nathan Pierce, male, 13 at the story opening (having turned 13 that day); American;
+1. **Protagonist:** Nathan Callahan, male, 13 at the story opening (having turned 13 that day); American;
    affluent technology-oriented family; A-level student; football/soccer captain; long-term physical
    training in strength, speed, flexibility, football and martial arts; shy, embarrassed by initiating
    interactions, perfectionist and emotionally sensitive; afraid of seeming arrogant; strongly afraid of
@@ -107,17 +107,17 @@ state must not be treated as established canon until reconciled with the user's 
     object, but to avoid materializing important recurring things exactly when a scene needs them.
 22. **Episode 2 subplot set:** the game remains the primary technical thread, but Episode 2 also carries a
     meaningful Nathan/Alex relationship progression, Nathan settling into the new school's academic/social
-    environment, football/team integration, and the Pierce family's adjustment to California. On the
+    environment, football/team integration, and the Callahan family's adjustment to California. On the
     *Modern Family* side, **Come Fly with Me** (7 October) and **The Incident** (14 October) provide canon
     AU material; they should intersect Nathan only when his existing life naturally touches them. The episode
     does not need an invented replacement canon episode.
 
-Detailed protagonist record: canon/characters/NATHAN_PIERCE.md.
+Detailed protagonist record: canon/characters/NATHAN_CALLAHAN.md.
 
 ## B. Still to decide — useful for the first arc
 
 ### 1. Nathan's exact birth date and starting calendar date
-**Resolved:** birthday is **7 September 1996**. He turns 13 on **Monday, 7 September 2009**. Nathan transfers
+**Resolved:** full name is **Nathan Callahan** (author-confirmed 12 October 2026; surname shortlist and selection in `canon/DECISION_LOG.md`). Birthday is **7 September 1996**. He turns 13 on **Monday, 7 September 2009**. Nathan transfers
 to school on **Wednesday, 16 September 2009**, one week after the LAUSD year opening on 9 September. The
 pilot's broadcast date is **23 September 2009** and can also serve as its in-universe date.
 
@@ -210,7 +210,7 @@ canon/timeline/SEASON_1_CHARACTER_EPISODE_GRIDS.md.
 
 ### 15. Future permanent-neighbor setup
 **Working:** the September house is temporary. A permanent home purchase occurs only after the family has
-spent meaningful time in California and knows the area. The eventual house should place the Pierces directly
+spent meaningful time in California and knows the area. The eventual house should place the Callahans directly
 next to or immediately beside the Dunphys. This later change increases natural interactions and can also give
 Phil a credible role in the purchase because of his real-estate profession.
 
@@ -281,3 +281,7 @@ The following are now part of the working methodology rather than open choices:
 
 Full method:
 canon/narrative/NARRATIVE_METHODOLOGY.md.
+
+## Decision provenance and narrative construction
+
+The author-confirmed surname and the rationale for naming choices are recorded in `canon/DECISION_LOG.md` and `canon/characters/CHARACTER_NAME_REGISTRY.md`. Use `canon/narrative/NARRATIVE_AND_CAUSAL_METHOD.md` for the recursive top-down series architecture, forward chronological causal development, and episode/season backpropagation workflow. The prior surname placeholder Pierce is retired.
