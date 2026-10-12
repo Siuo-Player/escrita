@@ -8,14 +8,14 @@ when the series project is populated.
 
 ## Project
 
-**Title:** Modern Family AU — Nathan [family surname pending author choice; existing documents use Pierce provisionally]
+**Title:** Modern Family AU — Nathan [family surname pending author choice; existing documents use Callahan provisionally]
 **Type:** series
 
 Core metadata:
 - period: 2009 onward;
 - primary setting: Southern California;
 - secondary opening setting: Seattle-area;
-- protagonist: Nathan (family surname pending author choice; existing documents use Pierce provisionally);
+- protagonist: Nathan (family surname pending author choice; existing documents use Callahan provisionally);
 - canon baseline: Modern Family;
 - narrative model: episodic parallel plots;
 - Season 1 anchor date: 7 September 2009;
@@ -68,7 +68,7 @@ Primary threads:
 ## Project-level characters
 
 Create once:
-- Nathan (surname pending author choice; current files use Pierce as a placeholder)
+- Nathan (surname pending author choice; current files use Callahan as a placeholder)
 - Maxwell Whitaker (working recurring football peer; see canon character profile)
 - Clifford (father; family surname follows the eventual author-confirmed surname)
 - Heather (mother; family surname follows the eventual author-confirmed surname)
@@ -92,10 +92,10 @@ Maxwell Whitaker is the first working original peer with a stable profile; retai
 ## Project-level locations
 
 Create once, with nesting:
-- Seattle-area Pierce home
+- Seattle-area Callahan home
 - Nathan's old school
 - old football field/training ground
-- California temporary Pierce rental
+- California temporary Callahan rental
 - new middle school
 - Alex's/ Nathan's school library
 - new football training ground
