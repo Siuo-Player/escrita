@@ -94,7 +94,7 @@ Character beats:
 The reader should infer advanced competence from the way he works.
 
 #### Scene 2 — birthday breakfast
-David and Melissa celebrate him.
+Clifford and Heather celebrate him.
 
 Keep it domestic and ordinary.
 
@@ -122,8 +122,8 @@ playing time.
 
 #### Scene 4 — quiet family undercurrent
 A very small domestic detail:
-- David takes a work call;
-- Melissa notices the tone of the conversation;
+- Clifford takes a work call;
+- Heather notices the tone of the conversation;
 - Nathan notices but does not know what it means.
 
 This plants the promotion before the reveal.
@@ -227,10 +227,10 @@ Practice includes a small conflict:
 
 This teammate can later become important.
 
-#### Scene 12 — evening / David's news approaches
-David's work day becomes more urgent.
+#### Scene 12 — evening / Clifford's news approaches
+Clifford's work day becomes more urgent.
 
-A short parallel family scene with David and Melissa establishes:
+A short parallel family scene with Clifford and Heather establishes:
 - the California role has been under discussion for weeks;
 - the outcome is still uncertain;
 - relocation support is already being discussed as a possibility.
@@ -257,7 +257,7 @@ He gets irritated at the program rather than himself:
 the code is doing exactly what he told it to do.
 
 #### Scene 14 — family
-David gets confirmation that the promotion has been approved and that the new role is California-based.
+Clifford gets confirmation that the promotion has been approved and that the new role is California-based.
 
 Nathan learns the news.
 
@@ -277,7 +277,7 @@ He realizes:
 - he was not looking for a new life.
 
 #### Scene 15 — parents' explanation
-David explains that the company had been negotiating the move quietly.
+Clifford explains that the company had been negotiating the move quietly.
 
 Important:
 - the promotion is sudden in its final confirmation;
@@ -330,7 +330,7 @@ Select details:
 - computer equipment carefully packed;
 - books divided into "must have" and "can wait";
 - football gear;
-- one household object Melissa realizes they need;
+- one household object Heather realizes they need;
 - moving company contact.
 
 ---
@@ -340,7 +340,7 @@ Select details:
 #### Scene 20 — family planning
 Breakfast/table scene.
 
-David and Melissa discuss timing.
+Clifford and Heather discuss timing.
 
 Nathan gets a small amount of choice:
 - what he wants in his room;
@@ -386,7 +386,7 @@ Use sensory details:
 - tired parents;
 - Nathan reading rather than watching something.
 
-#### Scene 24 — David starts California role
+#### Scene 24 — Clifford starts California role
 Can be a short parallel scene.
 
 He is already working.
@@ -675,9 +675,9 @@ Her first impression should be no deeper than:
 #### Scene 43 — home/family adjustment
 Parents unpack.
 
-Melissa begins establishing a household routine.
+Heather begins establishing a household routine.
 
-David spends long hours working.
+Clifford spends long hours working.
 
 Nathan finds the kitchen / local street / route to school unfamiliar.
 
@@ -966,7 +966,7 @@ Football:
 
 Family:
 - temporary rental now feels less temporary;
-- David's job is consuming more time;
+- Clifford's job is consuming more time;
 - permanent house purchase remains a later story.
 
 Game:
@@ -1035,7 +1035,7 @@ The reader is therefore allowed to know more than Nathan.
 2. That gives Nathan a longer uninterrupted morning.
 3. He spends more time with the prototype.
 4. The extra test exposes the repeated-path cost earlier.
-5. David's work call happens in the middle of an otherwise normal birthday.
+5. Clifford's work call happens in the middle of an otherwise normal birthday.
 6. Nathan notices the call but cannot yet connect it to a concrete change.
 7. The evening benchmark becomes the first technical and narrative pressure point.
 
@@ -1066,14 +1066,14 @@ The promotion should not appear as information created for the episode at the mo
 Backstory already exists:
 
 - negotiations were happening before 7 September;
-- David knew California was a possibility;
-- Melissa knew enough to discuss logistics;
+- Clifford knew California was a possibility;
+- Heather knew enough to discuss logistics;
 - the company had a relocation provider;
 - the final confirmation came later.
 
 This makes the family's rapid move believable.
 
-A small scene from David's perspective can occur before Nathan learns anything.
+A small scene from Clifford's perspective can occur before Nathan learns anything.
 
 The reader can therefore realize that Nathan's old life is already becoming temporary before Nathan knows it.
 
@@ -1278,7 +1278,7 @@ That tension carries directly into Episode 2.
 | Nathan credits teammates rather than himself | Later leadership and self-worth conflict |
 | Nathan keeps useful books/resources | Future school/research opportunities |
 | Nathan's rental computer corner becomes his stable workspace | University/research habit later |
-| David's relocation process uses professional support | Future family moves/career realism |
+| Clifford's relocation process uses professional support | Future family moves/career realism |
 | Phil first knows Nathan through football | Future realtor/house purchase bridge |
 | Claire first remembers Nathan as a polite new student | Later parent-level familiarity |
 | Alex remembers the book conversation | Relationship begins from accumulated small memories |
