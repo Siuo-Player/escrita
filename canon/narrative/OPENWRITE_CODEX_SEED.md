@@ -8,14 +8,14 @@ when the series project is populated.
 
 ## Project
 
-**Title:** Modern Family AU — Nathan [family surname pending author choice; existing documents use Callahan provisionally]
+**Title:** Modern Family AU — Nathan Callahan
 **Type:** series
 
 Core metadata:
 - period: 2009 onward;
 - primary setting: Southern California;
 - secondary opening setting: Seattle-area;
-- protagonist: Nathan (family surname pending author choice; existing documents use Callahan provisionally);
+- protagonist: Nathan Callahan;
 - canon baseline: Modern Family;
 - narrative model: episodic parallel plots;
 - Season 1 anchor date: 7 September 2009;
@@ -68,7 +68,7 @@ Primary threads:
 ## Project-level characters
 
 Create once:
-- Nathan (surname pending author choice; current files use Callahan as a placeholder)
+- Nathan Callahan
 - Maxwell Whitaker (working recurring football peer; see canon character profile)
 - Clifford (father; family surname follows the eventual author-confirmed surname)
 - Heather (mother; family surname follows the eventual author-confirmed surname)
@@ -165,4 +165,4 @@ The answer should be recoverable from the Codex + dated continuity timeline with
 
 ## Naming source of truth
 
-The authoritative rules and current name ledger are `canon/narrative/CHARACTER_NAMING_STANDARD.md` and `canon/characters/CHARACTER_NAME_REGISTRY.md`. Confirm the protagonist's family surname before finalizing the series title, character records, family names or OpenWrite display names.
+The authoritative rules and current name ledger are `canon/narrative/CHARACTER_NAMING_STANDARD.md` and `canon/characters/CHARACTER_NAME_REGISTRY.md`. The protagonist's family surname is author-confirmed as Callahan; keep character records and OpenWrite display names synchronized. See `canon/DECISION_LOG.md`.
