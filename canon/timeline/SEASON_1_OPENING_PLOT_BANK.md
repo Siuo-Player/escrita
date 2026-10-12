@@ -53,9 +53,9 @@ The drafting process selects from it.
 ## Pierce family
 
 - 7 Sep: birthday/family routine before the move is announced.
-- 8–13 Sep: promotion/relocation unfolds; David's role had been quietly negotiated beforehand, but the confirmation is sudden to Nathan.
+- 8–13 Sep: promotion/relocation unfolds; Clifford's role had been quietly negotiated beforehand, but the confirmation is sudden to Nathan.
 - 9 Sep: LAUSD year begins elsewhere, while Nathan's old-school routine continues.
-- 10–13 Sep: David receives/learns of promotion and California role; timing can be sudden from Nathan's
+- 10–13 Sep: Clifford receives/learns of promotion and California role; timing can be sudden from Nathan's
   perspective.
 - 12–15 Sep: move preparation, packing, relocation travel and arrival in an employer-arranged temporary rental.
 - 16–30 Sep: temporary-house setup, local errands, new routines and work demands; permanent home purchase remains a later subplot.
