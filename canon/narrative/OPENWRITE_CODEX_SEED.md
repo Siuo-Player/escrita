@@ -15,7 +15,7 @@ Core metadata:
 - period: 2009 onward;
 - primary setting: Southern California;
 - secondary opening setting: Seattle-area;
-- protagonist: Nathan Pierce;
+- protagonist: Nathan (family surname pending author choice; existing documents use Pierce provisionally);
 - canon baseline: Modern Family;
 - narrative model: episodic parallel plots;
 - Season 1 anchor date: 7 September 2009;
@@ -60,7 +60,7 @@ Primary threads:
 - Nathan/Alex relationship;
 - school integration;
 - football integration;
-- Pierce family settling;
+- protagonist's family settling;
 - Come Fly with Me;
 - The Incident;
 - technical recognition without fame.
@@ -68,10 +68,10 @@ Primary threads:
 ## Project-level characters
 
 Create once:
-- Nathan Pierce
+- Nathan (surname pending author choice; current files use Pierce as a placeholder)
 - Maxwell Whitaker (working recurring football peer; see canon character profile)
-- David Pierce
-- Melissa Pierce
+- David (father; family surname follows the eventual author-confirmed surname)
+- Melissa (mother; family surname follows the eventual author-confirmed surname)
 - Claire Dunphy
 - Phil Dunphy
 - Haley Dunphy
@@ -136,7 +136,7 @@ Create reusable plot threads:
 - Nathan/Alex slow-burn;
 - school reputation and teacher relationships;
 - football/social integration;
-- Pierce family adjustment;
+- protagonist's family adjustment;
 - Nathan's future AI trajectory;
 - canon divergence;
 - object/prop continuity.
@@ -161,3 +161,8 @@ The Codex should be rich enough that a future drafting session can ask:
 what has changed since the last episode?"
 
 The answer should be recoverable from the Codex + dated continuity timeline without guessing.
+
+
+## Naming source of truth
+
+The authoritative rules and current name ledger are `canon/narrative/CHARACTER_NAMING_STANDARD.md` and `canon/characters/CHARACTER_NAME_REGISTRY.md`. Confirm the protagonist's family surname before finalizing the series title, character records, family names or OpenWrite display names.
