@@ -27,7 +27,7 @@ chains are sufficiently mature.
 
 ## Premise
 
-Nathan Pierce arrives in California at thirteen after his father's career abruptly moves the family south.
+Nathan Callahan arrives in California at thirteen after his father's career abruptly moves the family south.
 
 He enters the world already carrying two unusual advantages:
 
@@ -223,7 +223,7 @@ Football also creates natural bridges into the wider neighborhood and adult worl
 
 ---
 
-## 6. Pierce family
+## 6. Callahan family
 
 The family has its own arc, independent of the Dunphys.
 
@@ -660,7 +660,7 @@ Visible chapters can select different combinations from these season threads:
 - **Academic:** school, teachers, challenges, opportunities and visibility.
 - **Football:** training, matches, peers, tactical leadership, friendship and identity.
 - **Technical:** the game, experiments, optimization, communication and research thinking.
-- **Family:** Pierce household, Clifford's career, Heather's work and settling in California.
+- **Family:** Callahan household, Clifford's career, Heather's work and settling in California.
 - **Canon:** the contemporary *Modern Family* ensemble, allowed to breathe without Nathan.
 - **Butterfly:** changed timing, information and consequences.
 
