@@ -49,7 +49,7 @@ He can help, but the episode should explicitly show the distinction:
 
 His intervention produces one good immediate result and one small unintended consequence.
 
-### E — Pierce family
+### E — Callahan family
 Clifford's California job reaches its first stable rhythm.
 
 Heather starts treating the temporary rental as a functioning home.
@@ -77,7 +77,7 @@ This creates the first bridge from hobbyist programming to communication/researc
 6. **Canon intersection** — Nathan's small intervention.
 7. **Consequence cutaway** — reader sees the unexpected second-order effect before Nathan does.
 8. **Nathan reaction** — he initially interprets the result through remembered canon.
-9. **Pierce home** — routine feels established.
+9. **Callahan home** — routine feels established.
 10. **Technical conversation** — someone asks how the game handles so many agents.
 11. **Alex echo** — she remembers or references something from an earlier interaction.
 12. **Closing** — Nathan notices he has stopped thinking of every day in terms of "new school".
