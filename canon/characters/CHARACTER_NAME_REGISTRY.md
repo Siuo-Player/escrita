@@ -15,7 +15,7 @@ This file is the place to check before asking the author about a name or introdu
 
 ## Protagonist surname — decision completed 2026-10-12
 
-A reproducible draw generated a shortlist of three U.S. surnames for author review. The author chose **Callahan** from that shortlist on 2026-10-12. The random process provided constrained alternatives; it did not override the author's final preference. The pool excluded the working peer's surname, Whitaker, to avoid an accidental duplicate.
+A reproducible draw generated a shortlist of three U.S. surnames for author review. The author chose **Callahan** from that shortlist on 2026-10-12. The shortlist came from seed `687708412`: the frozen input pool was `Whitaker (#610), Callahan (#682), Ellison (#829), Gentry (#821)`; the seeded shuffle yielded `Gentry, Callahan, Ellison, Whitaker`. The first three became the shortlist and Whitaker was assigned to Maxwell, avoiding a duplicate. The author then chose Callahan. The random process provided constrained alternatives; it did not override the author's final preference.
 
 | Draw order | Candidate | 2020 U.S. Census surname rank | Notes |
 |---:|---|---:|---|
