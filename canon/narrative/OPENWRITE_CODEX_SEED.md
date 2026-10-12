@@ -1,4 +1,4 @@
-# OpenWrite Codex Specification — Modern Family AU / Nathan Pierce
+# OpenWrite Codex Specification — Modern Family AU / Nathan Callahan
 
 Status: WORKING / aligned with current OpenWrite implementation
 Updated: 2026-10-08
@@ -29,7 +29,7 @@ story flow, character arc, setting, plot thread, thematic and reference links.
 
 ### Project
 
-**Modern Family AU — Nathan Pierce**
+**Modern Family AU — Nathan Callahan**
 
 Contains the complete series universe.
 
@@ -66,7 +66,7 @@ Use connections to represent causal and narrative structure.
 
 ### Characters
 
-Project-level characters should include Nathan, the Pierce family, the Dunphy family, and relevant wider
+Project-level characters should include Nathan, the Callahan family, the Dunphy family, and relevant wider
 Modern Family characters.
 
 Character descriptions should contain stable canon + AU identity.
@@ -78,7 +78,7 @@ character identity.
 
 Project-level locations:
 
-- Seattle-area Pierce home;
+- Seattle-area Callahan home;
 - old school;
 - old football environment;
 - California temporary rental;
@@ -115,7 +115,7 @@ At project level:
 
 - Nathan's life / coming of age;
 - Nathan/Alex;
-- Pierce family;
+- Callahan family;
 - school;
 - football;
 - technology / AI trajectory;
