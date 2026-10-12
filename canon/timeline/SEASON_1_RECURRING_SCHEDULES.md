@@ -205,7 +205,7 @@ WORKING routine:
 - occasional clown-related practice or hobby;
 - social/family activities.
 
-### Clifford Pierce
+### Clifford Callahan
 
 CREATED:
 - California promotion creates a much heavier work period during September/October;
@@ -214,7 +214,7 @@ CREATED:
 - frequent commuting/travel during the transition;
 - this pressure should be visible without making him neglect his family.
 
-### Heather Pierce
+### Heather Callahan
 
 CREATED:
 - demanding professional career;
