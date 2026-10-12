@@ -127,8 +127,8 @@ Examples:
 - Phil is pursuing one of his hobbies;
 - Haley has plans unrelated to Nathan;
 - Luke is interested in some new activity;
-- David is adapting to increased responsibility;
-- Melissa is trying to establish a workable family routine.
+- Clifford is adapting to increased responsibility;
+- Heather is trying to establish a workable family routine.
 
 A background goal can remain dormant for several episodes before becoming relevant.
 
