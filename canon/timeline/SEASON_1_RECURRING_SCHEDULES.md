@@ -205,7 +205,7 @@ WORKING routine:
 - occasional clown-related practice or hobby;
 - social/family activities.
 
-### David Pierce
+### Clifford Pierce
 
 CREATED:
 - California promotion creates a much heavier work period during September/October;
@@ -214,7 +214,7 @@ CREATED:
 - frequent commuting/travel during the transition;
 - this pressure should be visible without making him neglect his family.
 
-### Melissa Pierce
+### Heather Pierce
 
 CREATED:
 - demanding professional career;
@@ -228,7 +228,7 @@ These are recurring opportunities, not mandatory scenes.
 
 | Habit | Typical timing | Character(s) |
 |---|---|---|
-| Grocery run | Wed or Sat morning | Claire / Gloria / Melissa |
+| Grocery run | Wed or Sat morning | Claire / Gloria / Heather |
 | Household errands | Tue/Thu daytime | Claire / Gloria |
 | Real-estate appointments | weekdays + some weekends | Phil |
 | Business day | Mon–Fri | Jay |
