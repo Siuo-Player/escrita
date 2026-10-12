@@ -693,3 +693,16 @@ A week can be represented by:
 - or a time jump.
 
 The underlying timeline is deliberately richer than the visible story.
+
+
+## Scene-state and cast continuity gate (added 12 October)
+
+Before prose drafting, complete or link a scene-state header for everyone who speaks, makes a choice or changes an outcome under [Character State Continuity Standard](../../canon/characters/CHARACTER_STATE_CONTINUITY_STANDARD.md). Keep the [Knowledge and Skill Ledger](../../canon/characters/NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md) current as the game and relationships evolve.
+
+Specific controls for this episode:
+- The California football group has a shared history before Nathan arrives. Use the [Football Teams and Player Backgrounds](../../canon/characters/FOOTBALL_TEAMS_AND_PLAYERS.md); do not give every player the same voice or make Maxwell instantly intimate with Nathan.
+- After each football scene, update attendance, selection, minutes, team trust, tactical information shared and any physical-state change.
+- Nathan should use established programming, debugging, mathematics, soccer and physical capabilities when relevant. If he does not, the scene must supply a credible limitation or reason.
+- Track current game-build state, outstanding bugs, hardware/tools, test results and time spent. A solved bug stays solved unless a later change plausibly reintroduces it.
+- Alex's response is based on the actual conversations so far, not Nathan's hoped-for interpretation. Any change to relationship pace remains provisional and must be justified by accumulated interactions.
+- Character routines, school obligations, promises, props and what each person knows survive the episode's date jumps. Skip routine days in prose only after underlying state remains coherent.

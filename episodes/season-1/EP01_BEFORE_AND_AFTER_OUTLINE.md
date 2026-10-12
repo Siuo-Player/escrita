@@ -917,3 +917,16 @@ Use dates heavily in the underlying timeline, but let prose jump:
 "Three days later..."
 
 The reader should feel time passing without reading a diary.
+
+
+## Scene-state and cast continuity gate (added 12 October)
+
+The scenes above are still an outline, not permission to improvise whoever happens to be present. Before prose drafting, add a scene-state header for everyone who speaks, makes a choice or alters the outcome, following [Character State Continuity Standard](../../canon/characters/CHARACTER_STATE_CONTINUITY_STANDARD.md). Use [Football Teams and Player Backgrounds](../../canon/characters/FOOTBALL_TEAMS_AND_PLAYERS.md) for the Seattle roster, and the [Knowledge and Skill Ledger](../../canon/characters/NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md) for Nathan.
+
+Specific controls for this episode:
+- On 7 September, any football beat must be solo/informal rather than scheduled school practice, because the date is Labor Day.
+- Scenes around 9–12 September use the Seattle lineup, coach Leonard Holloway and the squad's existing relationships. Record the reason and date when the team learns that Nathan is moving.
+- The scene around 19 September uses the new Southern California squad and coach Lance Conley; Nathan is a new teammate, not captain. Treat the activity as a scrimmage until an official fixture is justified.
+- Every old-team player who speaks, makes a meaningful run, responds to the move or affects the match needs a scene-date state update, including minutes, knowledge of the move, mood, relevant past exchanges and physical condition.
+- Alex's school peers and Haley's friends are not invented in the moment of a conversation. Use [Secondary Social Circles](../../canon/characters/SECONDARY_SOCIAL_CIRCLES.md), then deepen anyone who takes a meaningful role.
+- The exact Nathan birthday/age conflict remains open under DEC-012. Do not describe him as both already thirteen and two weeks from turning thirteen.

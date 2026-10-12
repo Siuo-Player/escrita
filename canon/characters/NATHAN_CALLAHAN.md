@@ -483,3 +483,10 @@ The story should not be a reproduction of the original episodes.
 The original series supplies a recognizable world and starting conditions. The fanfic's real subject is
 what happens when Nathan's independent life enters that world and the people involved are forced to
 live with the consequences.
+
+
+## Operational knowledge and skill state
+
+Use [Nathan's Knowledge and Skill Ledger](NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md) for internal proficiency estimates, current knowledge, previous-life memory fragments, established limitations and scene-by-scene capability updates. Those levels are a writer's continuity tool and must never be presented as an in-world numerical system.
+
+Nathan's fear of rejection and embarrassment is established, but it should not be generalized into supernatural empathy or constant hypersensitivity. He can be socially ordinary, misread others, remain imperfectly adaptable and still speak naturally when someone has opened the conversation or when he is acting in a familiar role.

@@ -198,3 +198,17 @@ The opening calendar, personality profile, pilot-intersection rule, first mobile
 ## Durable decision provenance
 
 Consult `canon/DECISION_LOG.md` for the full process history, options, validation and dependencies. Consult `canon/narrative/NARRATIVE_AND_CAUSAL_METHOD.md` for the user's hybrid top-down/linear/backpropagation method. Record later reversals with their rationale rather than silently overwriting previous decisions.
+
+
+## Character/state work added 12 October 2026
+
+The supporting-cast foundation and operating rules are now recorded in:
+- [Football teams and player backgrounds](characters/FOOTBALL_TEAMS_AND_PLAYERS.md)
+- [Secondary social circles](characters/SECONDARY_SOCIAL_CIRCLES.md)
+- [Character state continuity standard](characters/CHARACTER_STATE_CONTINUITY_STANDARD.md)
+- [Nathan's knowledge and skill ledger](characters/NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md)
+- [Cast naming draw audit](characters/CAST_NAMING_DRAW_AUDIT.md)
+
+These documents create a first-pass cast for testing the opening. Names and biographies are WORKING; they do not become immutable merely because they have been written down. Surname-frequency validation and the Nathan age/birthday conflict remain open. Scene prose should wait for a dated state header for everyone who speaks or affects an outcome, but planning can continue.
+
+The high-level relationship plan remains provisional. Draft Episodes 1–2 and a small Episode 3 sample to learn the real pace; do not lock a Year 2 romance date before the scenes prove it.

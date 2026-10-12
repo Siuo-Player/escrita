@@ -153,7 +153,7 @@ Assignment order:
 - Seattle team: first 14 school-age male names use surname slots 1–14.
 - California team: school-age male names 15–27 use surname slots 15–27.
 - Coach names use surname slots 28–29.
-- Alex/Haley school circles use surname slots 30–33, plus the separate established name Maxwell Whitaker.
+- Alex/Haley school circles use surname slots 30–34, plus the separate established name Maxwell Whitaker.
 - Claire's community circle uses surname slots 35–37.
 - Wesley Moss uses surname slot 38.
 
