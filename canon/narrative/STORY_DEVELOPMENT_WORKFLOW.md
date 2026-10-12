@@ -217,3 +217,12 @@ should not be to pad it. Instead, enrich the underlying world and see whether on
 stronger scene detail, consequences or character interactions naturally deserve page time.
 
 The prose should grow because the story contains more life, not because a word counter demands it.
+
+
+## Dialogue and model-selection discipline
+
+Dialogue must pass the project's separate [Natural Dialogue Standard](DIALOGUE_NATURALNESS_STANDARD.md); do not expand outline beats mechanically or generate a whole episode in one prompt. Draft one scene or two connected scenes at a time, evaluate the spoken lines separately, then run a targeted critic pass that flags specific lines rather than rewriting the entire scene.
+
+Use the [AI Writing Tool Selection and Evaluation protocol](../../research/narrative/AI_WRITING_TOOL_SELECTION.md) to compare only models available through the existing OpenWrite provider. A blind comparison on a fixed scene comes before any claim that a model or paid writing product is more natural. The project author's reading and judgment remain the acceptance signal; AI judges are advisory.
+
+Final prose is written in natural European Portuguese by default unless explicitly changed. Planning and technical canon documents can stay in English. Preserve the Southern California context and character-specific voices without literal translation of English syntax or imitation of exact lines from the source series.
