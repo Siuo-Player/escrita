@@ -12,9 +12,13 @@ reason.
 
 ## Calendar foundation
 
-- LAUSD school year opens Wednesday, **9 September 2009**.
-- Nathan's story begins on **Monday, 7 September 2009**, his thirteenth birthday, while he is still living
-  in the Seattle area and attending his previous school.
+- The archived Seattle Public Schools 2009–10 calendar and the LAUSD 2009–10 calendar both place
+  the first day of instruction on **Wednesday, 9 September 2009**; see
+  [the opening calendar audit](../../research/narrative/OPENING_CALENDAR_AUDIT.md).
+- Nathan's story begins on **Monday, 7 September 2009**, his thirteenth birthday and US Labor Day. He is
+  still living in the Seattle area; the birthday scene takes place at home, not at school.
+- The first school day at his old school is **Wednesday, 9 September 2009** under the current Seattle
+  Public Schools calendar baseline.
 - Nathan transfers to his new Southern California school on **Wednesday, 16 September 2009**.
 - Nathan turns 13 on **Monday, 7 September 2009**.
 - The *Modern Family* pilot remains on **Wednesday, 23 September 2009**.
@@ -133,7 +137,7 @@ Nathan's school life is a real part of the routine, not a staging area for meeti
 
 ### Old school: 7–14 September
 
-The opening scenes establish Nathan before the reader meets the Dunphys.
+The school week begins on **Wednesday, 9 September** under the current Seattle Public Schools calendar baseline. Monday the 7th is Labor Day; Tuesday the 8th is pre-term/setup time. The opening scenes establish Nathan before the reader meets the Dunphys.
 
 **Teachers:** Nathan routinely finishes difficult work early, asks useful questions, and can explain an
 answer beyond the expected level. The characterization comes from how he behaves after being noticed. He
@@ -246,12 +250,14 @@ Nathan simply remembers the conversation while programming or during football.
 
 Alex has now changed category in his mind: from someone he watches to someone he has actually spoken to.
 
-### 21 September — birthday
+### 21 September — an ordinary Monday
 
-Nathan turns 13.
+Nathan's thirteenth birthday was on **7 September**, before the move. There is no second birthday beat
+here and no delayed birthday acknowledgment to manufacture a reason for Alex to approach him.
 
-A small family celebration is enough. The birthday can also give Alex a simple, age-appropriate reason
-to acknowledge him without jumping the relationship forward.
+Treat 21 September as a normal school day. Any contact with Alex should follow from their 18 September
+conversation and may be brief or absent; the relationship does not need to escalate every time the outline
+revisits a date.
 
 ### 22 September — second contact
 
