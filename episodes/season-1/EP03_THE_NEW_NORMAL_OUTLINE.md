@@ -50,9 +50,9 @@ He can help, but the episode should explicitly show the distinction:
 His intervention produces one good immediate result and one small unintended consequence.
 
 ### E — Pierce family
-David's California job reaches its first stable rhythm.
+Clifford's California job reaches its first stable rhythm.
 
-Melissa starts treating the temporary rental as a functioning home.
+Heather starts treating the temporary rental as a functioning home.
 
 Nathan sees both parents adapting in ways he did not remember from his previous life because this family did not
 exist in his remembered canon.
