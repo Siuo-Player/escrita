@@ -15,7 +15,7 @@ This file is the place to check before asking the author about a name or introdu
 
 ## Protagonist surname — decision completed 2026-10-12
 
-A reproducible draw generated a shortlist of three U.S. surnames for author review. The author then chose **Callahan** from that shortlist. The random process provided constrained alternatives; it did not override the author's final preference. The pool excluded the working peer's surname, Whitaker, to avoid an accidental duplicate.
+A reproducible draw generated a shortlist of three U.S. surnames for author review. The author chose **Callahan** from that shortlist on 2026-10-12. The random process provided constrained alternatives; it did not override the author's final preference. The pool excluded the working peer's surname, Whitaker, to avoid an accidental duplicate.
 
 | Draw order | Candidate | 2020 U.S. Census surname rank | Notes |
 |---:|---|---:|---|
