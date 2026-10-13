@@ -423,53 +423,26 @@ Nathan tests the private build on his existing second-generation iPod touch. He 
 
 ## 14 October — The Incident
 
-### Parallel canon thread
+### Parallel canon thread — working clock schedule
+These clock times are a **working AU schedule**, not times established by the original episode. Nathan's California school day runs approximately 08:00–14:45.
 
-Dede arrives and the family fallout unfolds.
-
-Show the family independently where that provides value.
-
-The episode should preserve the original family dynamics rather than making Nathan the hidden reason for Dede's
-visit or behavior. citeturn191690search60turn191690search3
+- **16:15–16:45:** DeDe makes the unexpected first visit to Mitchell and Cameron and asks Mitchell to help arrange an apology/reconciliation with the family.
+- **16:50–17:15:** Mitchell passes the news to Jay privately. The adults decide to handle the wider family meeting later; Nathan is not present and learns none of these private details.
+- **18:45–20:30:** the family dinner at Claire and Phil's house. DeDe attempts to make amends; the apology goes badly and the confrontation with Gloria follows. Keep the established canon causes and reactions. Alex is at the family home for the dinner in this AU continuity, but she is not made a driver of the conflict or an interpreter of the adults' motives.
 
 ### Nathan thread
 
-#### Scene 40 — school
-Nathan's school day continues.
+#### Scene 40 — school, before DeDe's visit
+**Time:** 12:20–12:35, school lunch break.
+Nathan notices Alex is distracted and asks a low-pressure question. Her immediate concern is an ordinary school assignment she has been struggling to finish before the next day; she tells him only that she has a lot to do. **This scene happens before DeDe's arrival**, so Alex cannot be reacting to that encounter yet. Nathan sees a small, observable change, not a private family cause, and does not interrogate her.
 
-He notices a change in Alex's mood only because he knows her a little now.
+#### Scene 41 — consequence through Phil, after the dinner
+**Time:** approximately 20:40–20:50, shared front walk/driveway as the dinner winds down.
+Nathan is returning a football or helping bring an ordinary item inside when he crosses paths with Phil outside the neighboring home. Phil has just come through the tense family evening and is less buoyant than usual. Their exchange remains brief and neighborly; Phil does not confide in Nathan, and Nathan cannot infer the argument's private details from one strained interaction. This is the first visible effect of the event on someone Nathan already knows, not a reason for him to intervene.
 
-He asks.
-
-She answers only partly.
-
-He does not force it.
-
-This is a good contrast with his future temptation to rely on canon knowledge.
-
-#### Scene 41 — consequence through Phil
-Later on 14 October, Nathan sees Phil during an ordinary neighborhood or real-estate errand. Phil met the Callahans during the move-day introduction, so this contact has a plausible route; they are acquaintances, not confidants.
-
-Phil's attempt at his usual friendliness is a little strained or distracted, and an ordinary exchange does not land exactly as Nathan expected from his memory of the show. Nathan does not know that the cause is DeDe's visit and does not intervene in private family fallout.
-
-This is an early butterfly-effect marker: Nathan observes a difference, but has not gained the private explanation.
-
-#### Scene 42 — game
-Final heavy technical session.
-
-The build reaches the target.
-
-Nathan checks:
-- 1 guard;
-- 5;
-- 10;
-- 15;
-- 20;
-- 24.
-
-It holds.
-
----
+#### Scene 42 — final heavy technical session
+**Time:** 21:00–23:00, Callahan home.
+Nathan resumes testing after the neighborhood encounter. He checks 1, 5, 10, 15, 20 and 24 guards against the recorded scenarios. The target cases now pass after targeted fixes; if any release-blocking defect appears, he fixes it and reruns the affected case rather than leaving it for the public version. Record the build and results. The next day's peer test remains useful for playability and regression, not as an excuse to ship a known critical bug.
 
 ### 15 October — package and private test
 
@@ -481,9 +454,9 @@ Nathan is tired but functioning. School feels normal, showing how far he has set
 **Time:** 10:10–10:25, class.
 CA-MATH-01 offers a harder follow-up instead of giving praise alone. Nathan responds well to having something specific to solve. Any later club opportunity still depends on the actual follow-up and signup, not this moment alone.
 
-#### Scene 45 — Alex initiates
-**Time:** 12:20–12:30, school lunch break.
-Alex starts a non-academic conversation. Nathan stays rather than looking for an exit. It signals growing comfort, but neither labels the relationship.
+#### Scene 45 — Alex initiates, the day after the dinner
+**Time:** Thursday 15 October, 12:20–12:30, school lunch break.
+Alex starts a non-academic conversation. She is a little more preoccupied than usual after the previous evening's family dinner, but chooses an ordinary topic and does not owe Nathan an explanation. If she mentions the dinner, she shares only what she wants; otherwise Nathan cannot know its details. He stays rather than looking for an exit. Their comfort grows without a confession or label.
 
 #### Scene 46 — football and Maxwell's weekend invitation
 **Time:** 16:00–17:30, scheduled California training; invitation at 17:32–17:40 after the session.
