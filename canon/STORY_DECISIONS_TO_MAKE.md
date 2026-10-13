@@ -14,8 +14,7 @@ are recorded so they are not asked again.
    training in strength, speed, flexibility, football and martial arts; shy, embarrassed by initiating
    interactions, perfectionist and emotionally sensitive; afraid of seeming arrogant; strongly afraid of
    rejection; strongly self-undervaluing; and reluctant to seek new friendships.
-2. **Entry:** direct reincarnation into a new life at age 12, only days before his thirteenth birthday,
-   with previous-life memories.
+2. **Entry:** direct reincarnation into his twelve-year-old life, roughly two weeks before his thirteenth birthday, with previous-life memories. This transition precedes the story opening; it is not the opening date.
 3. **Starting point and calendar:** Season 1 begins on **Monday, 7 September 2009**, which is also Nathan's
    thirteenth birthday. LAUSD's 2009–10 school year begins on **Wednesday, 9 September 2009**. Nathan
    transfers one week later on **Wednesday, 16 September 2009**. The *Modern Family* pilot aired on
@@ -110,10 +109,8 @@ Detailed protagonist record: canon/characters/NATHAN_CALLAHAN.md.
 
 ## B. Still to decide — useful for the first arc
 
-### 1. Nathan's exact birth date and starting calendar date
-**Resolved:** birthday is **7 September 1996 (Saturday; he turns 13 on Monday, 7 September 2009)**. Nathan transfers to school on **16 September
-2009 (Wednesday)**, one week after the LAUSD year opening on 9 September. The pilot's broadcast date is
-23 September 2009 and can also serve as its in-universe date.
+### 1. Nathan's exact birth date and starting calendar date — RESOLVED
+**Resolved:** birthday is **7 September 1996 (Saturday; he turns 13 on Monday, 7 September 2009)**. The story opens on that birthday. The prior-life transition occurs roughly two weeks earlier, while he is still twelve; this is a separate event and does not move the opening date. Nathan transfers to school on **16 September 2009 (Wednesday)**, one week after the LAUSD year opening on 9 September. The pilot's broadcast date is 23 September 2009 and can also serve as its in-universe date.
 
 ### 2. Nathan's personality weaknesses
 **Resolved:** the selected weaknesses are fear of seeming arrogant, strong fear of rejection, strong
@@ -209,6 +206,6 @@ The supporting-cast foundation and operating rules are now recorded in:
 - [Nathan's knowledge and skill ledger](characters/NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md)
 - [Cast naming draw audit](characters/CAST_NAMING_DRAW_AUDIT.md)
 
-These documents create a first-pass cast for testing the opening. Names and biographies are WORKING; they do not become immutable merely because they have been written down. Surname-frequency validation and the Nathan age/birthday conflict remain open. Scene prose should wait for a dated state header for everyone who speaks or affects an outcome, but planning can continue.
+These documents create a first-pass cast for testing the opening. Names and biographies are WORKING; they do not become immutable merely because they have been written down. Surname-frequency validation for the working supporting-cast surnames remains open. The apparent Nathan age/birthday conflict was reviewed and closed as a false positive under DEC-012; the established dates remain unchanged. Scene prose should wait for a dated state header for everyone who speaks or affects an outcome, but planning can continue.
 
 The high-level relationship plan remains provisional. Draft Episodes 1–2 and a small Episode 3 sample to learn the real pace; do not lock a Year 2 romance date before the scenes prove it.
