@@ -531,7 +531,7 @@ Instead of praise alone, the teacher gives Nathan a harder follow-up.
 Nathan likes that more than a compliment.
 
 #### Scene 45 — football
-After Thursday's scheduled California training, Maxwell asks Nathan about the weekend. The invitation is casual and grounded in their repeated work together; Nathan is no longer treated simply as "the new kid."
+After Thursday's scheduled California training, Maxwell asks whether Nathan would like to get a snack with a couple of teammates after their usual Saturday team activity. It extends the earlier post-match invitation; it is a tentative social plan, not a new official fixture or a promise about playing time. Nathan says he is interested but will check with his parents about transport. He is no longer treated simply as "the new kid."
 
 #### Scene 46 — Alex
 Alex initiates another conversation.
