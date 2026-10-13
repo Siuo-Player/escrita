@@ -61,7 +61,7 @@ He knows the building.
 
 He knows where to sit.
 
-A teacher remembers the stronger answer he gave in September.
+CA-MATH-01, the mathematics teacher who has seen Nathan's work since his transfer, remembers the stronger answer he gave in September.
 
 This immediately tells the reader that the previous episode happened.
 
@@ -79,7 +79,7 @@ Maxwell asks Nathan for help on a tactical situation.
 
 Nathan gives a useful answer.
 
-The teammate calls him by name casually.
+Maxwell calls him by name casually.
 
 The social bridge is now real.
 
@@ -97,11 +97,11 @@ He needs uncertainty.
 ### 2–3 October
 
 #### Scene 5 — school
-A teacher gives Nathan an optional harder exercise.
+CA-MATH-01 gives Nathan an optional harder exercise.
 
 Nathan finishes it.
 
-Teacher asks what he does outside school.
+The same teacher asks what he does outside school.
 
 Nathan mentions programming.
 
@@ -178,7 +178,7 @@ This is a rare instance where discipline wins over perfectionism.
 ### 5 October
 
 #### Scene 11 — school
-A classmate begins treating Nathan as a reliable person rather than a smart novelty.
+Wesley Moss begins treating Nathan as a reliable person rather than a smart novelty.
 
 #### Scene 12 — Alex
 Alex walks with Nathan for part of the way after school.
@@ -211,18 +211,14 @@ Now the system feels like the game he imagined.
 ### 6 October
 
 #### Scene 14 — football
-Competitive teammate and Nathan cooperate successfully.
+Maxwell and Nathan cooperate successfully on a concrete tactical situation.
 
-The teammate earns more playing time.
+Maxwell earns more playing time because he executes the work consistently in training; Nathan's advice is one contribution, not the sole reason for the coach's decision.
 
-Nathan is happy for him.
-
-The teammate realizes Nathan is not trying to take his place.
-
-Friendship develops.
+Nathan is happy for him. Maxwell realizes Nathan is not trying to take his place. Their friendship develops by one step.
 
 #### Scene 15 — school
-Teacher mentions a possible club/competition.
+CA-MATH-01 mentions the school's optional maths-enrichment/competition group, following up on the earlier suggestion.
 
 Nathan is interested.
 
@@ -289,7 +285,7 @@ Nathan begins to realize he likes talking to her even when he has nothing to say
 ### 8 October
 
 #### Scene 20 — school
-Teacher gives Nathan an unexpectedly difficult question.
+CA-MATH-01 gives Nathan an unexpectedly difficult question.
 
 Nathan answers.
 
@@ -350,7 +346,7 @@ Nathan's new California team plays a friendly/internal scrimmage or coach-run as
 Nathan performs well enough for Coach Lance to trust him with one tactical adjustment, but he is not made captain. The trust is evidence-based and limited to the moment. Record the selected players, roles/minutes, observed action, and any teammate/coach state change in the scene ledger.
 
 #### Scene 27 — post-match invitation
-Maxwell, or the specific teammate identified in the scene-state ledger, invites Nathan to a low-stakes activity after the scrimmage (a snack or a short conversation near the field). Avoid creating an unplanned party or ignoring parent/transport constraints.
+Maxwell invites Nathan to a low-stakes activity after the scrimmage, such as getting a snack nearby or talking for a few minutes before they leave. Avoid creating an unplanned party or ignoring parent/transport constraints.
 
 Nathan hesitates because he fears imposing, then accepts. The milestone is that he accepts the invitation, not that the whole team suddenly becomes close.
 
@@ -373,13 +369,9 @@ Nathan simply notices that he is looking forward to talking to her on Monday.
 ### 11 October — Sunday
 
 #### Scene 30 — family / local life
-A short family outing.
+During a short family outing, the rental neighborhood feels more familiar.
 
-The rental neighborhood now feels familiar.
-
-Someone mentions how long they will stay.
-
-Nathan realizes they may actually buy here eventually.
+Heather says that if Clifford's new role proves stable, she can imagine the family eventually buying a home in the area; she is expressing a hope, not announcing a decision. Nathan realizes that California may become a lasting home rather than a temporary stop.
 
 Do not resolve the future house yet.
 
@@ -446,7 +438,7 @@ CA-MATH-01, the same mathematics teacher who has observed Nathan's work since Se
 Record whether this means signing up, agreeing to attend an introductory meeting, or merely expressing interest. Do not write him as an enrolled member unless he has completed the required step.
 
 #### Scene 37 — Tuesday football practice
-At the scheduled California training session on 13 October, Maxwell or another established teammate includes Nathan in a drill or uses the team's shorthand with him without explaining every routine. Nathan is not captain; his role and minutes still depend on Coach Lance.
+At the scheduled California training session on 13 October, Maxwell includes Nathan in a drill and uses the team's shorthand with him without explaining every routine. Nathan is not captain; his role and minutes still depend on Coach Lance.
 
 No ceremony. That is the point. Record who initiated the interaction and what the others observed.
 
@@ -522,9 +514,9 @@ It holds.
 
 ---
 
-## 15 October — package and private test
+### 15 October — package and private test
 
-### Scene 43 — morning
+#### Scene 43 — morning
 Nathan is tired but functioning.
 
 School feels normal.
@@ -533,21 +525,21 @@ That matters.
 
 The reader should feel how far he has come in one month.
 
-### Scene 44 — teacher
-Teacher sees a strong piece of work.
+#### Scene 44 — teacher
+CA-MATH-01 sees a strong piece of work.
 
 Instead of praise alone, the teacher gives Nathan a harder follow-up.
 
 Nathan likes that more than a compliment.
 
-### Scene 45 — football
+#### Scene 45 — football
 Maxwell asks him about the weekend.
 
 No longer "the new kid."
 
 Just Nathan.
 
-### Scene 46 — Alex
+#### Scene 46 — Alex
 Alex initiates another conversation.
 
 Nathan stays without searching for an exit.
@@ -556,7 +548,7 @@ The conversation contains no academic excuse.
 
 Their relationship is now clearly real even if neither calls it anything.
 
-### Scene 47 — final build
+#### Scene 47 — final build
 Nathan packages the game.
 
 The packaging/private-test process is deliberately small.
@@ -567,7 +559,7 @@ He packages a local test build and lets Wesley Moss, his technology/library acqu
 
 Nathan explains one part of the architecture in accessible terms. Wesley's interest is modest and based only on what he actually saw. This is a first seed of future technical recognition, not a public launch. No App Store submission, broad external distribution or sudden fame occurs here.
 
-### Scene 48 — final emotional beat
+#### Scene 48 — final emotional beat
 Nathan watches the finished game.
 
 Several guards move through the level.
@@ -586,7 +578,7 @@ For tonight.
 
 Nathan:
 - established enough at school to have recurring acquaintances;
-- one genuine teammate friendship beginning, not a whole team of best friends;
+- a genuine friendship with Maxwell Whitaker beginning, not a whole team of best friends;
 - teacher beginning to identify his potential;
 - comfortable with Alex, with possible attraction still unnamed;
 - more willing to remain in ordinary social interactions;
@@ -599,7 +591,7 @@ Alex:
 - curiosity/interest has begun.
 
 Football:
-- one real friendship forming;
+- a real friendship with Maxwell forming;
 - coach trusts Nathan;
 - captaincy remains a future possibility rather than instant reward.
 
