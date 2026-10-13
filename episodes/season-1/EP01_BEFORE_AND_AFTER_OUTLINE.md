@@ -754,17 +754,12 @@ Nathan now has one classmate who regularly talks to him.
 Important:
 the classmate is not suddenly a best friend.
 
-#### Scene 60 — Alex
-Alex notices Nathan's habit of downplaying compliments.
+#### Scene 60 — Alex / ordinary exchange
+A short, ordinary exchange at school gives Nathan a chance to minimize a small success or begin an unnecessary apology over something minor. Alex does not call attention to it or interpret it as a settled pattern; at this point, they have only spoken a handful of times.
 
-A small remark:
-"You know you don't have to apologize every time you're right."
+The conversation moves on naturally. This is, at most, another small observation—not a diagnosis or a relationship milestone.
 
-Nathan is caught off guard.
-
-He says he wasn't apologizing.
-
-He was.
+**Reserved for much later:** keep the line "You know you don't have to apologize every time you're right" as a possible future line, but do not use it until Nathan's habit has been shown repeatedly over many chapters to both the reader and Alex, and their relationship has earned that directness.
 
 #### Scene 61 — evening
 Game is almost a real vertical slice.
