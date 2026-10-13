@@ -828,7 +828,7 @@ Alex:
 
 Football:
 - Nathan is not captain;
-- one teammate is becoming a friend;
+- Maxwell Whitaker is becoming a friend through specific tactical cooperation, though the friendship is still early;
 - coach respects him.
 
 Family:
