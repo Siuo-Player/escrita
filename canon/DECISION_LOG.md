@@ -160,3 +160,18 @@ When a decision is changed:
 - **Options considered:** moving the birthday to 6/8 September or rewriting the transition timing is unnecessary; those options are rejected for this review because they solve a conflict that does not exist.
 - **Dependencies checked:** profile, story-decision file, Nathan's knowledge/skill ledger, Episode 1 opening and football roster guardrails. Their statements now explicitly distinguish the transition date from the opening birthday.
 - **Revisit trigger:** only if the author intentionally changes the established birthday/opening date or the reincarnation premise; do not reopen through date-only confusion.
+
+
+## DEC-013 — Working mobile-game platform/toolchain and test-device path
+
+- **Date:** 2026-10-13.
+- **Question:** how can Nathan credibly build and test a C++-logic mobile game targeting 2009 iPhone/iPod touch hardware over the opening 39 days?
+- **Current working result:** use an Intel Mac running Mac OS X 10.5 Leopard with period-appropriate Xcode 3.1.x / iPhone OS SDK 3.x tooling; use an Objective-C framework layer such as the period-appropriate cocos2d for iPhone, with game/pathfinding/prediction logic in C++ connected through a small Objective-C++ bridge.
+- **Working prop:** Nathan already has a second-generation iPod touch from the family before the story opens, plausibly bought/gifted in 2008. It supplies a real, conservative target for on-device tests. Do not introduce it for the first time on the day a test is needed; retain its provenance and OS/build version in the prop/test ledger.
+- **Working administrative route:** Clifford, as the adult, handles any required developer-account, signing and provisioning administration with Nathan. Nathan remains the author of the code. This enables private device testing but does not imply App Store publication or fame.
+- **Status:** WORKING / provisional creative-technical decision. The author has not separately locked the exact computer model, point-release SDK or device gift date.
+- **Validation method:** compare the requirement against Apple's archived Xcode 3.1 release notes (iPhoneOS SDK cross-development requires an Intel Macintosh), Apple's 2008 announcement of the second-generation iPod touch, and Apple's support page listing its iPhone OS 3.1 documentation. See the technical design file for source links.
+- **Alternatives considered:** (A) unspecified Windows-only development is rejected for an actual 2009 iOS build because it lacks the native Apple toolchain; (B) Mac simulator only is insufficient to substantiate real-device performance; (C) modern cross-platform/automated mobile pipelines are anachronistic; (D) a public release by 15 October is not assumed and remains a separate decision.
+- **Causal consequences:** the opening computer setup is a Mac-compatible iOS development environment; device tests require a named target/build and plausible signing route; game logic remains C++ while framework integration may use Objective-C/Objective-C++; a successful simulator test does not automatically count as a successful hardware test.
+- **Dependencies checked:** NATHAN_CALLAHAN profile; NATHAN_FIRST_MOBILE_GAME technical design; Episode 1 incoming inventory; Episode 2 old-device test and private playtest. Update them together if the author later selects a different target platform.
+- **Revisit trigger:** if later canon establishes a non-Apple platform, a different household computer, a specific device gift/history, or a constraint that makes a real-device build implausible.
