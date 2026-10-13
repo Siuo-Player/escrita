@@ -225,19 +225,19 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Boundary:** treat this as a friendly/internal scrimmage unless the story establishes registration, eligibility, opponent, and official competition. Nathan can perform well and be trusted with a tactical adjustment without becoming captain. Record minutes, role, useful actions and injuries (none unless shown).  
 **Carry forward:** coach has observed another performance; local trust rises by evidence, not title.
 
-### Scene 27 — Post-match invitation
-**Date:** 10 October, immediately after football.  
-**Cast:** Nathan and Maxwell Whitaker.  
-**Pre-state:** football contact has advanced through shared work and a Saturday event.  
-**Boundary:** invite Nathan to a defined low-stakes activity after the match (food/snack or brief time at the field entrance); don't introduce a large unscheduled party. Nathan hesitates because he fears imposing, then accepts.  
-**Carry forward:** record what he agreed to, when it ends, transport/parent permissions, and which teammate remembers it. This is a social milestone because he accepts, not because everyone becomes close.
+### Scene 27 — Post-match invitation and playtest arrangement
+**Date/time:** Saturday 10 October, 11:20–11:35, beside the field after the internal scrimmage.
+**Cast:** Nathan and Maxwell Whitaker; Cory McBride joins the plan only after Maxwell asks and Nathan agrees.
+**Pre-state:** Maxwell has shown growing but still limited trust in Nathan through training and the scrimmage. The boys do not yet know the game's technical design.
+**Boundary:** Maxwell invites Nathan to get a snack and asks what he works on at home. Nathan briefly says he is building a small game and offers a short test, without presenting himself as an expert. He hesitates before accepting the social plan. Maxwell asks to include Cory; Nathan agrees conditional on adult permission. By early afternoon, Heather agrees to host for one hour, Maxwell's parent confirms drop-off/pick-up, and Cory's parent separately agrees he may attend. The visit is fixed for 16:00–17:00; if the permission/transport check is omitted in prose, the visit is not established.
+**Carry forward:** Maxwell and Cory know Nathan is making a small game and are invited to try it; they do not know its architecture or any private memories. The arranged visit, time window and pickup plan are established, not assumed.
 
 ### Scene 28 — Game stress test / peer playability
-**Date:** Saturday 10 October, late afternoon/evening.
-**Cast:** Nathan; Maxwell; one California teammate kept unnamed unless the scene gives them a consequential individual action.
-**Pre-state:** the 20–24-enemy technical stress run is now acceptable on the recorded scenarios, though optimization/polish issues remain. The Mac/simulator build can be tried without treating it as a real-device benchmark.
-**Boundary:** Nathan tests the stress case, then watches Maxwell and one teammate play a few rounds without coaching them. This is a usability/playability check: record what controls they understand, what feedback they miss, and which concrete comment (if any) changes a later fix. Keep the session short and socially plausible after the accepted post-match invitation. No public distribution, download numbers or fame arise from it.
-**Carry forward:** Nathan now has his own technical observations plus peer gameplay feedback. Maxwell knows he has tried a build, but not private memories or every underlying technical detail. The specific feedback must be carried into the later polish/regression pass.
+**Date/time:** Saturday 10 October, 16:00–17:00, Callahan rental.
+**Cast:** Nathan, Maxwell Whitaker and Cory McBride. Heather is the responsible adult in the home if present; she does not need to supervise the gameplay minute-by-minute.
+**Pre-state:** the 20–24-enemy technical stress run passes the documented performance target on the Mac/simulator, but gameplay defects remain. Parents have agreed to the visit and transport.
+**Boundary:** Nathan first runs the technical stress scenario, then lets each peer try a short level without coaching. Maxwell repeatedly chooses a narrow corridor; when guards bunch up, he cannot turn cleanly around them and reports that movement feels stuck. Cory rushes to the visible exit before confirming the objective; when nothing happens, he cannot tell whether he missed a task or the game failed to register it. These are specific observations of corridor movement/collision and objective/exit feedback; neither tester diagnoses the implementation. Nathan asks them to repeat the situation once, records the build and reproduction steps, and does not argue away the feedback. This is a Mac/simulator playability test, not a real-device performance result.
+**Carry forward:** two of the existing bug classes now have reproducible peer reports: (1) narrow-corridor crowding/steering response, and (2) unclear objective-completion/exit feedback. Nathan must fix each and retest it before submission. Maxwell and Cory know only what they played and said; the game's internals remain Nathan's knowledge.
 ### Scene 29 — Alex echo
 **Date:** 10 October evening, Nathan alone.  
 **Cast:** Nathan.  
