@@ -414,7 +414,7 @@ He checks his schedule.
 His new timetable differs enough from Seattle that the day feels unfamiliar.
 
 #### Scene 29 — mathematics
-New teacher.
+Ms. Connie Harrington (the teacher tracked internally as `CA-MATH-01`) is teaching this eighth-grade section. She has transfer paperwork but no prior personal knowledge of Nathan.
 
 Nathan answers carefully.
 
@@ -594,7 +594,7 @@ He immediately becomes annoyed with himself for losing concentration.
 There is **no birthday here** anymore.
 
 #### Scene 44 — school
-Nathan is beginning to know where things are. CA-MATH-01 remembers his name and work from the first week. Wesley Moss, an eighth-grade technology/library peer, asks Nathan a concrete technology or homework question. Nathan responds helpfully without trying to show off.
+Nathan is beginning to know where things are. Ms. Harrington remembers his name and work from the first week. Wesley Moss, an eighth-grade technology/library peer, asks Nathan a concrete technology or homework question. Nathan responds helpfully without trying to show off.
 
 This is the first evidence that a school acquaintance is becoming routine, not instant friendship. Wesley has his own workload and interests; record the specific question and answer if they become a later callback.
 
@@ -689,7 +689,7 @@ He has **not** finished the implementation.
 ### 24–25 September
 
 #### Scene 51 — school reputation
-CA-MATH-01, the same mathematics teacher who has seen Nathan's September work, asks a harder follow-up question. Nathan reasons through it.
+Ms. Harrington, the same mathematics teacher who has seen Nathan's September work, asks a harder follow-up question. Nathan reasons through it.
 
 The teacher then mentions the school's optional maths-enrichment/competition group as a possible next step. Nathan assumes the suggestion may be generic encouragement because he is new; he does not sign up on the spot. The exact meeting date and commitment are not fixed until the follow-up is developed and recorded.
 
