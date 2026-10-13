@@ -96,10 +96,10 @@ Useful characterization:
 
 Do not make the birthday a monologue about destiny.
 
-#### Scene 3 — football
-A holiday training session, pickup session or organized youth practice is plausible.
+#### Scene 3 — informal football
+Labor Day is a holiday, so do not stage a coach-led team practice or scheduled fixture. If this scene is retained, make it an informal pickup/kickabout with one or two teammates Nathan already knows, arranged casually rather than as official practice; solo touches or conditioning is also plausible. No lineup, official attendance or match result is needed.
 
-Nathan is already captain.
+Nathan is already captain of his regular Seattle team, although this scene itself is informal.
 
 Show the contrast:
 - in computing he works alone and overthinks;
@@ -929,4 +929,4 @@ Specific controls for this episode:
 - The scene around 19 September uses the new Southern California squad and coach Lance Conley; Nathan is a new teammate, not captain. Treat the activity as a scrimmage until an official fixture is justified.
 - Every old-team player who speaks, makes a meaningful run, responds to the move or affects the match needs a scene-date state update, including minutes, knowledge of the move, mood, relevant past exchanges and physical condition.
 - Alex's school peers and Haley's friends are not invented in the moment of a conversation. Use [Secondary Social Circles](../../canon/characters/SECONDARY_SOCIAL_CIRCLES.md), then deepen anyone who takes a meaningful role.
-- The exact Nathan birthday/age conflict remains open under DEC-012. Do not describe him as both already thirteen and two weeks from turning thirteen.
+- Nathan turns thirteen on 7 September 2009. The prior-life transition roughly two weeks earlier is a distinct event, not a contradiction; see DEC-012.
