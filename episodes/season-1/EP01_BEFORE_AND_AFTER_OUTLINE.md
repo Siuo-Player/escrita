@@ -189,7 +189,7 @@ Do not explain profiling extensively; show him staring at the same operation rep
 
 ### 10 September — school and relocation pressure
 
-#### Scene 10 — school
+#### Scene 10 — science/lab
 Science/lab.
 
 Nathan proposes a cleaner experiment.
@@ -200,7 +200,7 @@ He does so calmly.
 
 The class reaction should be modest: a couple of students follow the explanation or nod, but nobody treats him as a prodigy. Do not give an unnamed student a memorable line or a recurring role.
 
-#### Scene 11 — football
+#### Scene 11 — football / playing-time tension
 At the regular Thursday practice, **Devon Carver**, a central-midfield substitute, asks for more playing time after feeling overlooked. Coach **Leonard Holloway** still makes selection decisions; Nathan does not promise Devon minutes.
 
 Nathan mediates practically, identifies one specific improvement Devon can work on, and avoids giving him a motivational speech. Leonard notices how the captain handles the disagreement. Devon's profile already explains why he values concrete feedback and wants the coach to trust him in more than one role.
@@ -340,7 +340,7 @@ A shared field could represent the reusable part.
 
 He makes rough notes.
 
-#### Scene 22 — school departure preparation
+#### Scene 22 — follow-up messages
 Nathan sends brief follow-up messages to **Calvin Baxter, Tristan Morrow and Devon Carver**. They already know the move is happening from the team group message on 11 September; these private messages are about keeping in touch and saying goodbye, not revealing the news for the first time.
 
 No huge farewell scene. The old life is ending through logistics rather than one dramatic decision. Record any specific promise only if the scene actually makes it.
@@ -551,7 +551,7 @@ Perfect.
 #### Scene 40 — new football environment
 On Saturday, Nathan attends a **coach-run internal assessment scrimmage**, not an official league match. This follows the contact with Coach Lance Conley on 16 September and gives the coach a reason to evaluate Nathan.
 
-Nathan earns a little respect through how he adapts to the existing team's habits.
+Nathan remembers Coach Leonard Holloway's advice to learn a new side's shape before trying to change it. He first watches how the California midfield and back line move together, then makes one useful adjustment only when a clear opportunity appears. His small gain in respect comes from adapting to the existing team's habits, not from immediately taking control.
 
 Maxwell Whitaker is introduced as a possible friend. He wants more playing time and is wary of being overlooked, but he is not hostile. See [Maxwell's working profile](../../canon/characters/MAXWELL_WHITAKER.md).
 
