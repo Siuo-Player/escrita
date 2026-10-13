@@ -237,7 +237,7 @@ the code is doing exactly what he told it to do.
 #### Scene 14 — family
 Clifford gets confirmation that the promotion has been approved and that the new role is California-based.
 
-Nathan learns the news. Later that evening, he sends a short message to the Seattle team group chat so the coach and squad know before the Saturday match; keep their responses ordinary rather than giving every teammate the same reaction.
+Nathan learns the news.
 
 The scene should begin with practical questions:
 - When?
@@ -271,6 +271,8 @@ Nathan returns to the game instead of talking.
 This is not avoidance of the move in a melodramatic way.
 
 It is simply the one problem he can still control.
+
+Before returning to the code for the night, he sends a short, plain message to the Seattle team group chat so Coach Leonard and the squad know before Saturday's match. This is information, not a dramatic announcement; individual reactions should be shown only if they matter to a later scene.
 
 ---
 
@@ -306,7 +308,7 @@ Select details:
 - computer equipment carefully packed;
 - books divided into "must have" and "can wait";
 - football gear;
-- one household object Heather realizes they need;
+- the essentials box Heather wants opened first after arrival;
 - moving company contact.
 
 ---
