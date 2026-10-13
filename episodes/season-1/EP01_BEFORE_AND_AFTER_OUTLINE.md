@@ -394,18 +394,10 @@ Important:
 
 Nathan sets up the minimum computer environment.
 
-#### Scene 26 — neighborhood
-A normal encounter can establish Claire/Phil or another Dunphy family member.
+#### Scene 26 — neighborhood introduction
+During the move-day unloading, Phil introduces himself to the new neighbors and offers to carry one light box. Claire joins the introduction; Luke is nearby and asks Nathan about the football he brought outside. Keep the exchange short, friendly, and ordinary.
 
-Do not force a conversation.
-
-A simple:
-- moving truck;
-- neighbor glance;
-- Phil introducing himself;
-- Claire checking who has moved in.
-
-This is enough for the first impression.
+By the end, Phil and Claire know the Callahans' names and that they have moved next door. Luke knows Nathan as the new neighbor and has seen his football gear. Alex and Haley need not be present, and none of the three discovers anything about Nathan's private memories or feelings. This gives three family members a plausible first connection before the Pilot without forcing Nathan into a canon family scene.
 
 #### Scene 27 — first night in California
 Nathan looks at the map / school route.
@@ -462,14 +454,10 @@ He walks away.
 
 This is the first visible romantic self-sabotage.
 
-#### Scene 31 — after school
-New football contact.
+#### Scene 31 — after-school football contact
+Nathan speaks to Coach Lance Conley or the team's designated contact about joining the local side. The exchange establishes logistics and an invitation to a coach-approved assessment; it is not a full practice or match yet.
 
-Nathan is useful immediately but does not dominate.
-
-He notices the new group has different habits than his old team.
-
-That distinction matters later.
+Nathan observes that the new group has different habits from his Seattle team, but he has not earned local trust yet and is not captain. The first assessment remains scheduled for Saturday, 19 September, as an internal scrimmage.
 
 #### Scene 32 — game
 Evening coding.
@@ -514,12 +502,10 @@ Nathan is mildly embarrassed.
 
 This becomes an early seed for his perfectionism.
 
-#### Scene 35 — family evening
-Claire/Phil or another family member is briefly shown elsewhere dealing with their own ordinary problem.
+#### Scene 35 — Haley's independent social life
+At home, Haley arranges a social plan with Kristina Barlow while Claire asks about schoolwork and timing. Their disagreement is ordinary and specific rather than a new family crisis. Nathan is not present and is not the subject of the conversation.
 
-Nathan is not there.
-
-The cut exists simply to establish that the Dunphy household is already alive before the Pilot.
+This establishes Haley's existing social circle and Claire's parenting routine before the Pilot. The plan or scheduling disagreement should be recorded so it can be remembered if referenced later; any phone behavior and language must fit 2009.
 
 #### Scene 36 — flow-field review
 Nathan opens the reference material again.
@@ -623,13 +609,9 @@ He immediately becomes annoyed with himself for losing concentration.
 There is **no birthday here** anymore.
 
 #### Scene 44 — school
-Nathan is beginning to know where things are.
+Nathan is beginning to know where things are. CA-MATH-01 remembers his name and work from the first week. Wesley Moss, an eighth-grade technology/library peer, asks Nathan a concrete technology or homework question. Nathan responds helpfully without trying to show off.
 
-A teacher remembers his name.
-
-A classmate asks for help.
-
-This is the first evidence that the school has started accepting him.
+This is the first evidence that a school acquaintance is becoming routine, not instant friendship. Wesley has his own workload and interests; record the specific question and answer if they become a later callback.
 
 #### Scene 45 — Alex
 Alex acknowledges him first.
@@ -744,10 +726,8 @@ The competitive teammate cooperates with Nathan.
 
 Their relationship moves one step.
 
-#### Scene 54 — family
-Dunphy or Callahan household shown doing something unrelated to Nathan.
-
-A purchase/prop is introduced naturally.
+#### Scene 54 — household detail
+In the Callahan rental, Heather unpacks a blue ceramic mixing bowl that travelled from the Seattle kitchen in a kitchen box. It is placed in the usable kitchen and helps a routine meal feel less temporary. The bowl is established family property, not a new purchase or a symbolic object by default. Track its location and condition from here on.
 
 #### Scene 55 — prediction layer
 Nathan tests a route:
@@ -767,12 +747,10 @@ Nathan starts becoming part of the team without being appointed captain.
 
 The social identity is transferring.
 
-#### Scene 57 — family
-Temporary house starts looking lived-in.
+#### Scene 57 — the rental starts to feel lived-in
+Clifford, Heather, or Nathan unpacks a framed family photograph from a Washington-coast outing in summer 2008 and places it on a shelf. Keep the exact outing broad unless later detail becomes necessary; do not invent unnamed people in the photograph.
 
-One object gets unpacked.
-
-A recurring family member's independent goal is hinted.
+The photograph has travelled with the family and is now visible in California. This quiet prop gives the old home a physical presence without requiring a speech about missing Seattle. Track its location if it is moved later.
 
 #### Scene 58 — game test
 20+ enemies.
@@ -817,16 +795,10 @@ Nathan discovers:
 
 He keeps working.
 
-#### Scene 62 — parallel world
-Short family scene unrelated to Nathan.
+#### Scene 62 — Alex's independent evening
+At the Dunphy home, Alex practices cello, becomes frustrated with a passage, and returns to homework. Nathan is not present. This is about Alex's own high standards and school routine, not a message about Nathan or a romantic beat.
 
-Could be:
-- a shopping trip;
-- Phil pursuing an ordinary hobby;
-- Claire organizing the house;
-- Alex studying before an upcoming task.
-
-No intersection.
+Alex's life continues off-page; unless she actually mentions Nathan in this scene, he learns nothing from it.
 
 ---
 
@@ -919,9 +891,9 @@ Use dates heavily in the underlying timeline, but let prose jump:
 The reader should feel time passing without reading a diary.
 
 
-## Scene-state and cast continuity gate (added 12 October)
+## Scene-state and cast continuity gate (updated 13 October)
 
-The scenes above are still an outline, not permission to improvise whoever happens to be present. Before prose drafting, add a scene-state header for everyone who speaks, makes a choice or alters the outcome, following [Character State Continuity Standard](../../canon/characters/CHARACTER_STATE_CONTINUITY_STANDARD.md). Use [Football Teams and Player Backgrounds](../../canon/characters/FOOTBALL_TEAMS_AND_PLAYERS.md) for the Seattle roster, and the [Knowledge and Skill Ledger](../../canon/characters/NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md) for Nathan.
+The outline is not permission to improvise whoever happens to be present. Before prose drafting, use the [Episode 1 Scene-State Ledger](EP01_SCENE_STATE_LEDGER.md) for the date-specific pre-state and carry-forward delta of every scene. Use [Character State Continuity Standard](../../canon/characters/CHARACTER_STATE_CONTINUITY_STANDARD.md), [Modern Family Core Character State Baselines](../../canon/characters/MODERN_FAMILY_CORE_STATE_BASELINES.md), [Football Teams and Player Backgrounds](../../canon/characters/FOOTBALL_TEAMS_AND_PLAYERS.md), and the [Knowledge and Skill Ledger](../../canon/characters/NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md) as persistent sources of truth.
 
 Specific controls for this episode:
 - On 7 September, any football beat must be solo/informal rather than scheduled school practice, because the date is Labor Day.
