@@ -169,7 +169,7 @@ A short conversation at school or in the team chat about the previous session. *
 
 This is not another training session; Wednesday is a school/programming day in the recurring rhythm. The point is that Nathan's leadership is already visible outside the pitch.
 
-Later, someone compliments the decision. Nathan credits the team's execution.
+Calvin says the adjustment should help the midfield keep its shape. Nathan credits the team's execution rather than taking the praise for himself.
 
 This establishes leadership without self-confidence.
 
