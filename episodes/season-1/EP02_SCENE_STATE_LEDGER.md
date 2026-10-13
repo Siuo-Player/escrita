@@ -142,7 +142,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 
 ### Scene 15 — School / club opportunity
 **Date:** 6 October, school.  
-**Cast:** Nathan, CA-MATH-01 or the explicitly identified teacher; Alex only if the later offhand comment is on-page.  
+**Cast:** Nathan and CA-MATH-01; Alex only if the later offhand comment is on-page.  
 **Pre-state:** the teacher has observed advanced reasoning and knows Nathan programs; no club membership yet.  
 **Boundary:** opportunity, deadline and commitment are separate facts. Alex's comment that the club sounds suited to him is casual encouragement, not a formal invitation or evidence of attraction. Nathan hesitates because joining involves initiating contact.  
 **Carry forward:** record what club/competition was named, who gave the details, the next meeting/deadline, and Nathan's actual response. Do not later write him as enrolled if he only expressed interest.
@@ -158,8 +158,8 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Date:** Wednesday 7 October, daytime.  
 **Cast:** Nathan, Alex if the outline shows a conversation, and active school participants only.  
 **Pre-state:** Nathan's school routine is established; Alex has her own family/canon day and can be distracted or tired for reasons unrelated to him.  
-**Boundary:** do not make Nathan participate in the canon episode simply because Alex is part of it. School contact should have an ordinary reason.  
-**Carry forward:** only what is actually exchanged enters each character's knowledge. The canon-family plot remains elsewhere.
+**Boundary:** during a brief ordinary school-space conversation, Nathan mentions that CA-MATH-01 suggested the optional maths-enrichment/competition group. Alex says it sounds like something he would be good at. She learns about the opportunity only because Nathan tells her, not from the teacher or another source. Do not make Nathan participate in the private events of the canon episode.  
+**Carry forward:** Nathan knows Alex offered encouragement; Alex knows he is considering an academic opportunity. The canon-family plot remains elsewhere.
 
 ### Scene 18 — Integrate prediction and flow field
 **Date:** 7 October evening, Callahan home.  
@@ -227,7 +227,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 
 ### Scene 27 — Post-match invitation
 **Date:** 10 October, immediately after football.  
-**Cast:** Nathan, Maxwell or the specifically named teammate issuing the invitation.  
+**Cast:** Nathan and Maxwell Whitaker.  
 **Pre-state:** football contact has advanced through shared work and a Saturday event.  
 **Boundary:** invite Nathan to a defined low-stakes activity after the match (food/snack or brief time at the field entrance); don't introduce a large unscheduled party. Nathan hesitates because he fears imposing, then accepts.  
 **Carry forward:** record what he agreed to, when it ends, transport/parent permissions, and which teammate remembers it. This is a social milestone because he accepts, not because everyone becomes close.
@@ -251,7 +251,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Cast:** Clifford, Heather, Nathan as chosen.  
 **Pre-state:** rental now feels more familiar; blue bowl, photograph, and new bookshelf have established locations. Family still rents and has not decided the permanent home.  
 **Boundary:** outing is ordinary; don't imply a property purchase or a permanent move is settled.  
-**Carry forward:** if someone comments on how long they'll stay, it expresses a current estimate/hope, not a decision. Record the words if the dialogue will be referenced later.
+**Carry forward:** Heather's comment is a hope conditional on Clifford's role proving stable, not a decision. Nathan now knows his mother can imagine a permanent home in California; the family has not committed to buying or begun a settled property search.
 
 ### Scene 31 — Weekly plan / bedtime
 **Date:** 11 October evening.  
@@ -291,15 +291,15 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 ### Scene 36 — School / academic opportunity accepted
 **Date:** Tuesday 13 October, school.  
 **Cast:** Nathan and CA-MATH-01; class aggregate.  
-**Pre-state:** teacher previously offered an optional club/competition. The opportunity details/deadline were recorded at Scene 15.  
-**Boundary:** Nathan accepts only if he has the needed name/date and can actually commit. His action is an important initiative milestone, not an automatic membership absent confirmation.  
-**Carry forward:** record whether acceptance means he signs up, attends a meeting, or just says yes. Do not skip steps.
+**Pre-state:** CA-MATH-01 mentioned the optional maths-enrichment/competition group on 6 October. Nathan is interested but has not committed, and the exact meeting time has not yet been checked against football.  
+**Boundary:** CA-MATH-01 gives Nathan the information and next steps. Nathan says he intends to pursue it, but checks the meeting time against football before committing to attendance. This is the first time he initiates a concrete next step himself; it does not mean he is already enrolled.  
+**Carry forward:** no membership or attendance is established yet. A later scene must record the meeting time, parental/transport arrangements and actual signup before treating him as a member.
 
 ### Scene 37 — Football / casual inclusion
 **Date:** 13 October, scheduled California practice.  
 **Cast:** Nathan, Maxwell, Coach Lance and players participating.  
 **Pre-state:** the team has several weeks of shared training/scrimmage experience. Maxwell's trust has risen but he's still an independent teammate, not merely Nathan's sidekick.  
-**Boundary:** casual treatment is shown through a practical invitation, passing shorthand or a teammate including Nathan in a drill. Nathan remains non-captain.  
+**Boundary:** Maxwell includes Nathan in a drill and uses the team's shorthand with him without explaining every routine. Nathan remains non-captain.  
 **Carry forward:** log role/minutes/tactical communication and who initiated the casual interaction.
 
 ### Scene 38 — Old-device test
@@ -352,12 +352,12 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Boundary:** offer a harder follow-up or next-step problem rather than praise alone. Nathan is motivated by having something to solve.  
 **Carry forward:** teacher's academic expectations rise. Any future competition/club opportunity must connect to what Nathan actually accepted at Scene 36.
 
-### Scene 45 — Football / teammate asks about weekend
-**Date:** 15 October, school/field contact or a short team message.  
-**Cast:** Nathan and Maxwell.  
-**Pre-state:** several shared activities and tactical conversations; not yet best friends; Nathan is not captain.  
-**Boundary:** Maxwell uses Nathan's name casually and asks about a low-key weekend plan. This is evidence of normal inclusion, not a large friendship ceremony.  
-**Carry forward:** record the precise plan and any parent/transport dependency. Do not make it happen before Nathan accepts.
+### Scene 45 — Maxwell's weekend invitation
+**Date:** Thursday 15 October, after scheduled California training.  
+**Cast:** Nathan and Maxwell; Coach Lance and the training group are present during the session, but the conversation happens after it.  
+**Pre-state:** several shared activities and tactical conversations; not best friends; Nathan is not captain. The post-match invitation from 10 October has already been accepted.  
+**Boundary:** Maxwell asks whether Nathan would like to get a snack with a couple of teammates after their usual Saturday team activity. It extends the existing social contact; it is not a new official fixture or a promise about playing time. Nathan says he is interested but will check with his parents about transport.  
+**Carry forward:** a tentative invitation exists, but attendance is not confirmed. Maxwell knows only that Nathan is interested; parent permission, transport and the exact Saturday activity must be resolved before the plan becomes fact.
 
 ### Scene 46 — Alex initiates
 **Date:** 15 October, school shared space.  
@@ -368,7 +368,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 
 ### Scene 47 — Package and private test build
 **Date:** 15 October after school/evening, Callahan home or supervised school-approved setting.  
-**Cast:** Nathan and Wesley Moss only if the outline explicitly has the test; parent present if needed for device/access.  
+**Cast:** Nathan and Wesley Moss. Clifford has already handled the parent-managed signing/provisioning route; no parent needs to be present unless the scene introduces a practical reason.  
 **Pre-state:** game target tests have passed for the recorded cases; remaining issues and build version are documented. Wesley is a technology/library acquaintance, not a professional reviewer.  
 **Chosen working beat:** Nathan packages a small local build and lets Wesley play on Nathan's second-generation iPod touch after school, with the device/build already prepared through the parent-managed signing route. Wesley notices that guards move less predictably than the usual enemy AI; Nathan explains one concept simply. There is no public App Store launch, fame, or uncontrolled external distribution.  
 **Boundary:** the build uses the period-correct Mac/Xcode/iPhone OS toolchain. The demo gives Wesley firsthand knowledge only of what he plays/sees; don't claim a measured performance result here unless the scene records it.  
