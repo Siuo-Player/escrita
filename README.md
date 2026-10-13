@@ -78,6 +78,10 @@ Investigação → decisão → registo → perguntas específicas → construç
 - [Nathan's knowledge and skill ledger](canon/characters/NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md) — the protagonist's internal skills, factual knowledge, previous-life memories and limitations.
 - [Football teams and player backgrounds](canon/characters/FOOTBALL_TEAMS_AND_PLAYERS.md) — the Seattle team, the new Southern California team and each player's working background.
 - [Secondary social circles](canon/characters/SECONDARY_SOCIAL_CIRCLES.md) — recurring classmates/friends around Alex and Haley and Claire's community contacts.
-- [Cast naming draw audit](canon/characters/CAST_NAMING_DRAW_AUDIT.md) — reproducible name-generation pools, seeds, selections and remaining validation limits.
+- [Cast naming draw audit](canon/characters/CAST_NAMING_DRAW_AUDIT.md) — reproducible name-generation pools, seeds, selections and a partial 2020 Census rank audit.
+- [Modern Family core-character state baselines](canon/characters/MODERN_FAMILY_CORE_STATE_BASELINES.md) — canon starting states, character-specific behavior, and limits on what they know about Nathan.
+- [Episode 1 scene-state ledger](episodes/season-1/EP01_SCENE_STATE_LEDGER.md) — dated pre-state, knowledge boundaries, props, causes and carry-forward changes for the September opening.
+- [Episode 2 scene-state ledger](episodes/season-1/EP02_SCENE_STATE_LEDGER.md) — dated knowledge/relationship/football/game states and the private test-build endpoint.
+- [First mobile game technical design](canon/projects/NATHAN_FIRST_MOBILE_GAME.md) — game architecture, 2009 hardware constraints and the working Mac/iPod touch build path.
 
 The relationship calendar is not a rigid deadline: early episode drafts test the pacing, and the top-down plan and forward scene sequence may both be revised if the finished story needs it.
