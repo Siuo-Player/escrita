@@ -199,7 +199,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ### Scene 40 — New California football environment
 **Date/location:** 19 Sep, local field, controlled internal scrimmage. **Cast:** Nathan, Coach Lance, Maxwell Whitaker, California roster/substitutes who take part.  
-**Pre-state:** only introductions/logistics so far; local squad has a shared history without Nathan. **Boundary:** assessment scrimmage, not official competition unless eligibility is independently established. Nathan is new midfielder, not captain. Coach assesses communication/adaptation as well as skill.  
+**Pre-state:** only introductions/logistics so far; local squad has a shared history without Nathan. **Boundary:** assessment scrimmage, not official competition unless eligibility is independently established. Nathan is a new midfielder, not captain. He remembers Coach Leonard Holloway's advice to learn the new side's shape before trying to change it, so he observes how the California midfield and back line move together before proposing one adjustment. Coach Lance assesses communication/adaptation as well as skill.  
 **Carry forward:** record attendance, sides/roles, approximate minutes, physical state, tactical exchanges and what each player learns. Maxwell wants playing time but isn't hostile by default; trust remains preliminary.
 
 ### Scene 41 — Home/family adjustment
