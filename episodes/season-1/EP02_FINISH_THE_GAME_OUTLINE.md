@@ -362,20 +362,17 @@ Nathan simply notices that he is looking forward to talking to her on Monday.
 ### 11 October — Sunday
 
 #### Scene 30 — family / local life
-During a short family outing, the rental neighborhood feels more familiar.
+**Time:** 10:00–12:00, short family outing in the neighborhood.
+The rental neighborhood feels more familiar. Heather says that if Clifford's new role proves stable, she can imagine the family eventually buying a home in the area; this is a hope, not a decision. Nathan realizes California may become a lasting home rather than a temporary stop. Do not resolve the future house yet.
 
-Heather says that if Clifford's new role proves stable, she can imagine the family eventually buying a home in the area; she is expressing a hope, not announcing a decision. Nathan realizes that California may become a lasting home rather than a temporary stop.
+#### Scene 31 — targeted defect fixes and weekly plan
+**Time:** 13:00–16:00, Nathan's computer; 19:45–20:15, weekly plan.
+The six defects from the 9 October playthrough are still the working list at the start of the afternoon. With Maxwell and Cory's specific feedback now recorded, Nathan spends a three-hour focused block on three contained fixes:
+- **BUG-01:** improve local steering so guards yield/space themselves at narrow bottlenecks rather than trapping the player;
+- **BUG-04:** make objective completion and the exit's available/locked state visibly distinct;
+- **BUG-05:** restart from the loaded map while clearing transient player/guard/objective state, with an immediate response.
 
-Do not resolve the future house yet.
-
-#### Scene 31 — Nathan
-Weekly plan.
-
-He sees how much work remains.
-
-Instead of working until 2 a.m., he stops at a reasonable hour.
-
-This shows discipline.
+He repeats the exact reproducer for each change and records all three as closed only after the relevant test passes. This is focused work on an open day, not an all-night session; the other three defects remain open. In the evening he plans the remaining schoolwork and game tasks, then stops at a reasonable hour rather than working until 2 a.m. The school assignment due Wednesday remains an active obligation.
 
 ---
 
@@ -396,9 +393,9 @@ A normal assignment due Wednesday 14 October competes with game work. Nathan ini
 **Time:** 17:00–17:20, Callahan rental.
 Heather sees the assignment and asks about the real deadline. She helps Nathan compare the school requirement with the optional polish task without ordering him to abandon the game. Nathan commits to finishing the assignment first and limiting tonight's programming to one measured task. Record the exact deferred game task and keep the choice in continuity.
 
-#### Scene 35 — targeted game optimization
+#### Scene 35 — field-rebuild optimization
 **Time:** 20:00–22:00, Nathan's computer.
-After dinner and the school assignment, Nathan spends his normal two-hour programming block on one measured bottleneck, such as a redundant update or cache lookup. He tests the change against a recorded scenario. This is not the whole bug list being magically fixed in one evening; unresolved issues remain for the later test/regression pass.
+After dinner and completing the assignment, Nathan works on **BUG-06**, the measured performance spikes during shared path-field rebuilds. He caches fields by map version/target and coalesces redundant rebuild requests instead of recalculating the same result repeatedly. The same simulator scenario is rerun: repeated rebuild work is reduced, but this does not yet close the device-performance gate. The iPod test on Tuesday remains necessary; no other issue is declared fixed by this optimization.
 
 ### 13 October
 
@@ -416,7 +413,7 @@ Maxwell includes Nathan in a drill and uses the team's shorthand without explain
 
 #### Scene 39 — old-device technical test
 **Time:** 19:15–21:15, Callahan home.
-Nathan tests the private build on his existing second-generation iPod touch. He records OS, build identifier, scenario and actual result. A performance cliff appears under the stress case; he reduces redundant work and verifies that the measured case now passes. Other gameplay issues stay open until separately tested. This is still private testing, not a public release.
+Nathan tests the current private build on his existing second-generation iPod touch and records OS, build identifier, scenario and result. The simulator improvement from Monday is not enough: under the 20/24-guard stress case, the device still shows a performance spike. Nathan reduces the remaining redundant work, reruns the same build/scenario and verifies the fix. He then checks the 1/5/10/15/20/24-guard set on the device. **BUG-06 closes only after those recorded target cases pass**; this is still private testing, not a public release.
 
 ## 14 October — The Incident
 
@@ -437,9 +434,9 @@ Nathan notices Alex is distracted and asks a low-pressure question. Her immediat
 **Time:** approximately 20:40–20:50, shared front walk/driveway as the dinner winds down.
 Nathan is returning a football or helping bring an ordinary item inside when he crosses paths with Phil outside the neighboring home. Phil has just come through the tense family evening and is less buoyant than usual. Their exchange remains brief and neighborly; Phil does not confide in Nathan, and Nathan cannot infer the argument's private details from one strained interaction. This is the first visible effect of the event on someone Nathan already knows, not a reason for him to intervene.
 
-#### Scene 42 — final heavy technical session
+#### Scene 42 — final technical defect closure
 **Time:** 21:00–23:00, Callahan home.
-Nathan resumes testing after the neighborhood encounter. He checks 1, 5, 10, 15, 20 and 24 guards against the recorded scenarios. The target cases now pass after targeted fixes; if any release-blocking defect appears, he fixes it and reruns the affected case rather than leaving it for the public version. Record the build and results. The next day's peer test remains useful for playability and regression, not as an excuse to ship a known critical bug.
+Nathan closes **BUG-02** by giving a guard a short, bounded lost-sight grace interval before it searches around the last observed position; longer loss of sight still ends the chase. He closes **BUG-03** by checking walkable-cell/collision constraints before committing a movement step, then reruns both the original tight-corner case and the corridor test. He also runs the full 1/5/10/15/20/24-guard regression set on the current build. The registered target cases pass. Record build and evidence; any reproducible failure would block submission and require another fix-and-retest cycle. No known defect is left for release merely to meet the planned date.
 
 ### 15 October — package and private test
 
@@ -460,8 +457,8 @@ Alex starts a non-academic conversation. She is a little more preoccupied than u
 After Thursday's training, Maxwell asks whether Nathan would like to get a snack with a couple of teammates after their usual Saturday team activity. It extends the earlier post-match invitation; it is not a new official fixture or a promise about playing time. Nathan is interested but needs to check parent permission and transport.
 
 #### Scene 47 — Wesley's final private playtest and submission
-**Time:** 18:30–20:00, Callahan home, with Clifford available for the device/account administration.
-Wesley tests the candidate on Nathan's second-generation iPod touch. The test must have a concrete purpose: Wesley attempts a short level without Nathan coaching him, and Nathan records any point where the objective, controls or enemy feedback is unclear. Nathan then makes any release-blocking fix and reruns the affected test, followed by a final regression pass against the documented guard-count scenarios. No known critical defect is left in the version submitted. Clifford handles the adult account/submission steps; the candidate is submitted for App Store review by approximately 21:30. This is a small, controlled test, not an audience launch.
+**Time:** 18:30–20:00, Callahan home, with Clifford available for the device/account administration; final regression/submission 20:00–21:30.
+Wesley tests the candidate on Nathan's second-generation iPod touch without being coached. He completes the short level, understands from the visual state that the objective is complete and the exit is open, can turn through the previously troublesome corridor, and restarts without waiting through the old delay. These observations confirm the fixes rather than granting Wesley technical knowledge. Nathan checks the device build and recorded regression list once more. No known reproducible defect remains in the candidate. Clifford handles the adult account/submission steps; the validated candidate is submitted for App Store review by approximately 21:30. This is a small controlled test, not an audience launch.
 
 #### Scene 48 — final emotional beat
 **Time:** 21:45–22:00, Nathan's room.
