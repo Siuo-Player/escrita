@@ -138,6 +138,16 @@ When a new fact changes an old one:
 
 Never silently delete an established fact merely because it is inconvenient. It can be revised, but the revision has to be intentional and propagated.
 
+## Episode-level state ledgers
+
+The episode outline is the dramatic plan; the corresponding scene-state ledger is the internal continuity record that makes the plan executable. Current ledgers:
+
+- [Episode 1 Scene-State Ledger](../../episodes/season-1/EP01_SCENE_STATE_LEDGER.md)
+- [Episode 2 Scene-State Ledger](../../episodes/season-1/EP02_SCENE_STATE_LEDGER.md)
+- [Modern Family Core Character State Baselines](MODERN_FAMILY_CORE_STATE_BASELINES.md)
+
+For any future episode, create its ledger before prose drafting. Keep entries dated and additive; update the scene ledger and source profile together whenever knowledge, ability, relationship, health, schedule, promise, possession or technical build state changes.
+
 ## Acceptance checklist for a scene
 
 A scene is not ready if:
