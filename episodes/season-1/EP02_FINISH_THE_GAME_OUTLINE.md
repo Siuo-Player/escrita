@@ -258,11 +258,9 @@ Otherwise parallel-cut.
 ### Nathan thread
 
 #### Scene 17 — ordinary school day
-Nathan has his normal classes.
+Nathan has his normal classes. During an ordinary encounter in a shared school space, he mentions that CA-MATH-01 suggested the school's optional maths-enrichment/competition group. Alex makes an offhand, encouraging comment that it sounds like something he would be good at. She knows about the suggestion because Nathan tells her; she has not heard it from the teacher or anyone else.
 
-Alex returns from her day with her own opinions/problems.
-
-Their lives are intersecting without merging.
+Alex still has her own opinions and problems. Their lives intersect without merging, and this conversation doesn't insert Nathan into the private events of the canon episode.
 
 #### Scene 18 — evening
 Nathan integrates prediction and flow field:
@@ -433,9 +431,9 @@ The story should show the work through decisions rather than code.
 ### 13 October
 
 #### Scene 36 — school / academic opportunity
-CA-MATH-01, the same mathematics teacher who has observed Nathan's work since September, offers a specific next step related to the optional club/competition mentioned earlier. Nathan accepts after confirming the practical details.
+CA-MATH-01 follows up on the optional maths-enrichment/competition group and gives Nathan the information and next steps.
 
-Record whether this means signing up, agreeing to attend an introductory meeting, or merely expressing interest. Do not write him as an enrolled member unless he has completed the required step.
+Nathan asks for the details and says he intends to pursue it, but checks the meeting time against football before committing to attendance. This is the first time he initiates a concrete next step himself; it does not mean he is already enrolled.
 
 #### Scene 37 — Tuesday football practice
 At the scheduled California training session on 13 October, Maxwell includes Nathan in a drill and uses the team's shorthand with him without explaining every routine. Nathan is not captain; his role and minutes still depend on Coach Lance.
@@ -533,11 +531,7 @@ Instead of praise alone, the teacher gives Nathan a harder follow-up.
 Nathan likes that more than a compliment.
 
 #### Scene 45 — football
-Maxwell asks him about the weekend.
-
-No longer "the new kid."
-
-Just Nathan.
+After Thursday's scheduled California training, Maxwell asks Nathan about the weekend. The invitation is casual and grounded in their repeated work together; Nathan is no longer treated simply as "the new kid."
 
 #### Scene 46 — Alex
 Alex initiates another conversation.
