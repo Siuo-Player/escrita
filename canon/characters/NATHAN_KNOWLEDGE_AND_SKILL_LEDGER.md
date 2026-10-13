@@ -2,7 +2,7 @@
 
 Status: WORKING OPERATIONAL REFERENCE; internal levels are not shown in the novel
 Baseline date: 7 September 2009
-Updated: 2026-10-12
+Updated: 2026-10-13
 
 This document is the writer's memory of what Nathan can know, do, remember, misunderstand and retrieve at each point in the story. It exists because a capability already acquired should not vanish merely because the next scene is easier to write without it.
 
@@ -46,6 +46,10 @@ Use separate dimensions when useful: factual knowledge, practical execution, exp
 | Visual art / drawing / art history | 1/5 | A genuine weak area. Do not make him an all-domain prodigy. |
 | Music knowledge / instrument skill | 1/5 unless separately established | Alex's cello skill is hers, not a capability Nathan receives through observation or memory. |
 | Other practical skills | UNKNOWN until established | Driving, cooking, first aid, repair, foreign languages and similar capabilities must not be invented when a scene needs them. |
+
+### Social inhibition: an action threshold, not hypersensitivity
+
+Nathan's immediate emotional response is usually ordinary and low-intensity: a little embarrassment, nerves, or a brief sting at the possibility of rejection. The main effect is behavioral. If the expected social cost appears greater than the likely benefit, he does not initiate; low-stakes interactions and familiar roles lower that barrier, while strong romantic feelings raise it. He is not automatically calm, unusually emotionally sensitive, or good at reading people. Once another person opens the conversation, he can still be relaxed, funny and natural.
 
 ## 3. Knowledge classes — keep them separate
 

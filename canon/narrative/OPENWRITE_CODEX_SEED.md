@@ -1,7 +1,7 @@
 # OpenWrite Codex Seed — Season 1 Foundation
 
 Status: WORKING / data-entry specification
-Updated: 2026-10-08
+Updated: 2026-10-13
 
 This is the first seed set for the OpenWrite Codex. It describes what should exist as reusable entities
 when the series project is populated.
@@ -52,11 +52,11 @@ Primary threads:
 ### Episode 2 chapter
 
 **Title:** Finish the Game
-**Story span:** 1–15 October 2009
+**Main story:** 1–15 October 2009; **public-launch coda:** 23 October 2009
 **Target:** 10k–14k words
 
 Primary threads:
-- game completion;
+- game completion, technical and peer playability tests, App Store submission and public launch after review;
 - Nathan/Alex relationship;
 - school integration;
 - football integration;

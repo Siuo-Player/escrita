@@ -23,8 +23,9 @@ O foco do projeto não é escrever tudo de uma vez. Primeiro construímos o **mo
 
 - `research/` — investigação externa e modelos narrativos.
 - `canon/` — contrato de continuidade, calendário e estado persistente.
-- `episodes/` — unidade principal da história; cada episódio contém acontecimentos e pastas dos personagens envolvidos.
-- `templates/` — estruturas repetíveis para episódios, acontecimentos e personagens.
+- `episodes/` — unidade principal da história; cada episódio mantém um outline cronológico e um ledger de estado por cena.
+
+Modelos reutilizáveis poderão ser acrescentados quando forem necessários; não há atualmente uma pasta `templates/` na árvore do repositório.
 
 ### Pesquisa narrativa atual
 

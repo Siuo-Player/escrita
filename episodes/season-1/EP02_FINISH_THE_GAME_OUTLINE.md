@@ -1,11 +1,11 @@
 # Season 1, Episode 2 — Finish the Game
 
 Status: DRAFT OUTLINE / expanded working draft
-Updated: 2026-10-08
+Updated: 2026-10-13
 
 ## Story window
 
-**1–15 October 2009**
+**Main story: 1–15 October 2009; public-launch coda: 23 October 2009**
 
 Drafting references: use [the dialogue naturalness standard](../../canon/narrative/DIALOGUE_NATURALNESS_STANDARD.md), [Season 1 relationship pacing](../../canon/narrative/SEASON_1_RELATIONSHIP_PACING.md), [Maxwell's working profile](../../canon/characters/MAXWELL_WHITAKER.md), and [the foreknowledge/intervention policy](../../canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md). Scene beats are constraints, not dialogue to expand mechanically; keep *The Incident* parallel unless an established, credible interaction gives Nathan a reason and a way to help.
 
@@ -26,7 +26,7 @@ Nathan and Alex become comfortable enough that their conversations no longer req
 ## Persistent threads
 
 ### A — Game
-Prediction field → integration → optimization → old-device testing → packaging and a private test build.
+Prediction field → integration → optimization → Nathan's technical tests → peer playability tests → App Store submission → public launch after review.
 
 ### B — Nathan + Alex
 Academic acquaintance → genuine friendship/interest.
@@ -351,11 +351,9 @@ Nathan hesitates because he fears imposing, then accepts. The milestone is that 
 #### Scene 28 — game
 Late afternoon/evening.
 
-Nathan tests the game with 20–24 enemies.
+Nathan first tests the game with 20–24 enemies; performance is now acceptable, though the remaining problems are optimization and polish.
 
-Performance is now acceptable.
-
-The remaining problems are optimization and polish.
+After the stress test, Maxwell and one teammate try a few rounds in the current Mac/simulator build during a short, parent-approved visit to the Callahan rental. Nathan watches without coaching them and records what is unclear as they play. Their feedback is a usability check, not evidence of real-device performance or a request to expand the game's scope. Any specific observation that affects later fixes must be recorded in the ledger.
 
 #### Scene 29 — Alex echo
 Alex does not need to appear.
@@ -549,9 +547,9 @@ The packaging/private-test process is deliberately small.
 
 No instant app-store celebrity.
 
-He packages a local test build and lets Wesley Moss, his technology/library acquaintance, try it on Nathan's second-generation iPod touch in a supervised private playtest. Clifford has already handled the parent-managed signing/provisioning route. Wesley notices that the enemies move less predictably than familiar game enemies.
+He packages the candidate and lets Wesley Moss, his technology/library acquaintance, try it on Nathan's second-generation iPod touch in a supervised final private playtest. Clifford has already handled the parent-managed signing/provisioning route. Wesley joins Maxwell's earlier playability feedback as a second peer test; he notices that the enemies move less predictably than familiar game enemies.
 
-Nathan explains one part of the architecture in accessible terms. Wesley's interest is modest and based only on what he actually saw. This is a first seed of future technical recognition, not a public launch. No App Store submission, broad external distribution or sudden fame occurs here.
+Nathan explains one part of the architecture in accessible terms. Wesley's interest is modest and based only on what he actually saw. Nathan folds in any actionable feedback, completes a last technical/regression pass and, with Clifford handling the adult account/submission administration, submits the candidate to the App Store on 15 October. Submission is not the same as publication; the story's working target is public availability after review on 23 October. No instant fame is assumed.
 
 #### Scene 48 — final emotional beat
 Nathan watches the finished game.
@@ -566,6 +564,19 @@ He closes the profiler.
 
 For tonight.
 
+The main action closes on 15 October with the candidate submitted for review; the game is not public yet.
+
+---
+
+## 23 October — public launch after review
+
+#### Scene 49 — the game goes public
+The App Store approves the submitted version under this working timeline, and the game becomes publicly available on 23 October, eight days after submission. The exact review duration is a working story date, not a claim that approval was guaranteed.
+
+Nathan has already run his own technical tests and had peers try the game before submission. The public launch is therefore a payoff to those checks, not an impulsive upload of an untested prototype. Clifford helped with the adult account and administrative steps; Nathan remains the author of the game.
+
+The first public availability does not make him famous. Downloads, reviews and wider recognition remain unknown until there is actual evidence. Nathan is pleased that people outside his small test circle can now get the game, while immediately noticing a possible future improvement.
+
 **End Episode 2.**
 
 ## State transfer after Episode 2
@@ -576,7 +587,7 @@ Nathan:
 - teacher beginning to identify his potential;
 - comfortable with Alex, with possible attraction still unnamed;
 - more willing to remain in ordinary social interactions;
-- game reaches a packaged private test/release-candidate build; public distribution remains undecided.
+- game is publicly available after Nathan's technical tests, peer playability sessions and App Store review. The working launch date is 23 October; reception and scale remain unknown.
 
 Alex:
 - knows Nathan socially, not just academically;
@@ -595,10 +606,10 @@ Callahan family:
 - permanent house search remains future material.
 
 Game:
-- a complete playable local build and small private test are achieved;
-- technically interesting but still has a recorded list of non-blocking polish issues;
-- performance has been checked on documented scenarios/devices, not declared universally optimized;
-- no public store release or fame.
+- a complete playable build passes documented technical checks and small peer playability tests;
+- the app is publicly available after review, with no assumption of instant fame or known download numbers;
+- technically interesting but still has a recorded list of possible polish improvements;
+- performance has been checked on documented scenarios/devices, not declared universally optimized.
 
 ## Parallel/background threads available
 

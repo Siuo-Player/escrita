@@ -1,7 +1,7 @@
 # Nathan's First Mobile Game — Technical/Narrative Design
 
 Status: WORKING / established design
-Updated: 2026-10-08
+Updated: 2026-10-13
 
 ## Purpose
 
@@ -117,7 +117,7 @@ still useful for rapid iteration, but a simulator run is not evidence of actual-
 Actual-device development needs a valid signing/provisioning route. Working assumption: Clifford, as the
 adult in the household and an experienced technology executive, handles any required developer-account
 enrollment/provisioning administratively with Nathan; Nathan writes the game, not the legal account
-agreement. This is not public App Store distribution, and it does not make the family famous. Record the
+agreement. Private ad-hoc builds are for controlled tests only. Once Nathan's technical checks and peer playability tests pass, Clifford can handle the adult account/submission administration for a public App Store release; publishing still requires Apple's review and does not make the family famous overnight. Record the
 device, OS version, build identifier, test scenario and actual outcome whenever a device test is shown.
 
 **Historical references:**
@@ -496,11 +496,7 @@ This keeps his advantage from becoming a cheat sheet.
 
 ## Development calendar and school-night workload
 
-The active prototype/build cycle runs from **3 September to 15 October 2009**: 43 calendar days,
-a little over six weeks. The story's first on-page scene is still 7 September. The four preceding days
-are only an internal foundation: framework setup, a tiny playable map, one enemy, and a basic A* baseline.
-They do not require a separate dramatic scene, but the work is recorded here so the opening code state has
-a cause.
+The active prototype/build cycle runs from **3 September to 15 October 2009**: 43 calendar days inclusive, a little over six weeks. The story's first on-page scene is still 7 September. During **3–4 September**, Nathan makes the high-level plan: core loop, enemy behavior, small scope and a simple map. During **5–6 September**, he sets up the period-appropriate framework/project skeleton and writes only the minimum functions needed to render a grid, accept player input, update a basic enemy and run a crude first loop. By the first on-page scene, this is a very early but genuinely running build—not a polished vertical slice. The A* baseline and the wider playable slice are developed and refined during the visible story. After submission on 15 October, App Store review runs separately; 23 October is the working public-launch target.
 
 This is deliberately fast because Nathan already knows C++, has studied game programming, uses an existing
 2D framework, keeps the game scope narrow, and does not attempt custom rendering, a large campaign or a
@@ -512,10 +508,9 @@ prototype period.
 
 ### Compressed development phases
 
-- **3–6 Sep (mostly off-page):** concept and project skeleton; period framework/setup; grid, input/rendering,
-  one enemy and patrol; A* baseline; one tiny test map. Budget roughly 8–10 focused hours.
-- **7–9 Sep:** visible opening; test the existing A* baseline with increasing enemy counts; repeated global
-  searches become the measurable bottleneck and profiling begins.
+- **3–4 Sep (off-page):** high-level game plan, deliberately small scope, core loop, enemy concept and first map.
+- **5–6 Sep (off-page):** framework/project skeleton and minimum runnable functions: render the grid, move the player, update one crude enemy and execute the first game loop. Budget roughly 8–10 focused hours across both days; the build is deliberately rough.
+- **7–9 Sep:** the first on-screen build runs, but is very early. Nathan extends the minimum loop, establishes/refines the A* baseline and tests increasing enemy counts; repeated global searches become the measurable bottleneck and profiling begins.
 - **10–13 Sep:** stress-test 10/15/20/24 enemies; cache/update-frequency experiments help but do not solve
   repeated global work; first playable map remains functional.
 - **14–15 Sep:** relocation interrupts work; technical work continues only in fragments.
@@ -524,7 +519,8 @@ prototype period.
   experiments.
 - **1–7 Oct:** player prediction/influence field becomes more useful and connects to goal selection.
 - **8–12 Oct:** profiling, caching, update-frequency reduction, device tests and balancing.
-- **13–15 Oct:** final playtest, cleanup, packaging and a private test build. Public distribution is not assumed.
+- **10–15 Oct:** Nathan's technical/regression tests and small playability sessions with peers identify the final changes. He packages the candidate and submits it for App Store review by 15 October.
+- **23 Oct (working target):** public launch after review approval. This is a release, not an instant industry breakthrough; audience size and response remain uncertain.
 
 ### Why the shorter schedule is credible
 

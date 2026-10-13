@@ -1,7 +1,7 @@
 # Season 1, Episode 1 — Before and After
 
 Status: DRAFT OUTLINE / expanded working draft
-Updated: 2026-10-08
+Updated: 2026-10-13
 
 ## Story window
 
@@ -66,14 +66,15 @@ Open quietly with action rather than explaining reincarnation.
 
 Nathan is thirteen today.
 
-He is working on the game. The project skeleton and first prototype were started in brief sessions over 3–6 September. His Intel Mac has the period-appropriate C++/iOS development environment already configured. A second-generation iPod touch, bought or gifted by his parents in 2008, sits beside the computer; he uses it for games, but has not yet ported this prototype to it.
+He is working on the game. On 3–4 September he planned the core loop, enemy behavior, small scope and first map; on 5–6 September he set up the project and wrote the minimum functions to get it running. His Intel Mac has the period-appropriate C++/iOS development environment already configured. A second-generation iPod touch, bought or gifted by his parents in 2008, sits beside the computer; he uses it for games, but has not yet ported this prototype to it.
 
-The current game build has:
-- a basic tile/grid map;
-- player movement;
-- one enemy archetype;
-- simple patrol behavior;
-- the first version of pathfinding.
+The build running on screen is a very early proof of life, not a polished game. It has:
+- a crude rendered tile/grid test map;
+- basic input and player movement;
+- one rudimentary enemy archetype with a simple update/patrol loop;
+- an initial, unmeasured route-finding attempt.
+
+Several functions are placeholders, enemy behavior is simple, and no performance or gameplay claim has been established yet. The important point is that Nathan can run the build and inspect a real result on his first on-page day.
 
 He is using A* because it is the sensible baseline, not because he lacks better ideas.
 
@@ -353,7 +354,7 @@ No huge farewell scene. The old life is ending through logistics rather than one
 ### 14 September
 
 #### Scene 23 — departure
-Compressed travel sequence.
+Compressed travel sequence. The family leaves Seattle and reaches the California rental on **14 September**; the travel and arrival are compressed into this one date, not spread over an implied overnight arrival.
 
 Use sensory details:
 - airport;
@@ -392,6 +393,9 @@ He also looks at his unfinished game.
 
 The two problems are suddenly connected:
 he is going to have to rebuild a life and finish a project simultaneously.
+
+### 15 September — settling-in day (mostly off-page)
+The family recovers from travel, unpacks the essentials, confirms the route and arrangements for Nathan's new school, and makes the rental functional. No new major event is required. The move-day neighbor introduction remains on 14 September.
 
 ---
 

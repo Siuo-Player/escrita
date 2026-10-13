@@ -2,18 +2,16 @@
 
 Status: WORKING
 Purpose: decisions needed before building the first durable episode/arc.
-Updated: 2026-10-08
+Updated: 2026-10-13
 
 The list is ordered by dependency. We do not need to decide every detail immediately. Resolved items
-are recorded so they are not asked again.
+are recorded so they are not asked again. The public game launch after technical and peer playability tests is author-confirmed; the exact 23 October launch date remains a WORKING timeline target under DEC-014.
 
 ## A. Resolved foundation
 
 1. **Protagonist:** Nathan Callahan (given name and family surname locked by the author on 2026-10-12), male, 13 at the story opening (having turned 13 that day); American;
    affluent technology-oriented family; A-level student; football/soccer captain; long-term physical
-   training in strength, speed, flexibility, football and martial arts; shy, embarrassed by initiating
-   interactions, perfectionist and emotionally sensitive; afraid of seeming arrogant; strongly afraid of
-   rejection; strongly self-undervaluing; and reluctant to seek new friendships.
+   training in strength, speed, flexibility, football and martial arts; shy, embarrassed by initiating interactions, perfectionist, afraid of seeming arrogant and rejection, strongly self-undervaluing, and reluctant to seek new friendships. His feelings are natural rather than unusually intense; he often does not act when the perceived risk of rejection exceeds his internal threshold, especially when romantic stakes are high.
 2. **Entry:** direct reincarnation into his twelve-year-old life, roughly two weeks before his thirteenth birthday, with previous-life memories. This transition precedes the story opening; it is not the opening date.
 3. **Starting point and calendar:** Season 1 begins on **Monday, 7 September 2009**, which is also Nathan's
    thirteenth birthday. LAUSD's 2009–10 school year begins on **Wednesday, 9 September 2009**. Nathan
@@ -48,9 +46,7 @@ are recorded so they are not asked again.
 10. **Season structure:** each story season represents roughly one year of Nathan's life. Season 1 begins
     on **7 September 2009**, while Nathan is still in his old city. Episode 1 covers **7–30 September**,
     compressing the old school, the father's sudden promotion, the family move, Nathan's first week in the
-    new school, first interactions with Alex, the Pilot in parallel, and the following week. Episode 2
-    covers **1–15 October** and completes the first mobile game around the middle or later part of the
-    episode. The long story runs through adolescence, university and early professional life, ending in
+    new school, first interactions with Alex, the Pilot in parallel, and the following week. Episode 2's main action covers **1–15 October** and completes/tests/submits the first mobile game; a short **23 October** coda shows public availability after App Store review. The long story runs through adolescence, university and early professional life, ending in
     Nathan's early-to-mid twenties.
 11. **Ending:** after Nathan and Alex are adults and established in education/work, the final scene is
     Alex telling Nathan that she is pregnant.

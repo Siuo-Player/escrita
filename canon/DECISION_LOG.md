@@ -1,7 +1,7 @@
 # Decision Log — Story, Naming and Causal Method
 
 Status: AUTHORITATIVE PROVENANCE LOG
-Updated: 2026-10-12
+Updated: 2026-10-13
 
 This file stores **what was decided, how the current answer was validated, and what remains revisable**. Consult it with the Character Name Registry, the story-decision file, the relevant character profile, timeline and any open PR before asking the author a question. Do not treat an assistant-generated suggestion as author approval.
 
@@ -168,10 +168,19 @@ When a decision is changed:
 - **Question:** how can Nathan credibly build and test a C++-logic mobile game targeting 2009 iPhone/iPod touch hardware over the opening 39 days?
 - **Current working result:** use an Intel Mac running Mac OS X 10.5 Leopard with period-appropriate Xcode 3.1.x / iPhone OS SDK 3.x tooling; use an Objective-C framework layer such as the period-appropriate cocos2d for iPhone, with game/pathfinding/prediction logic in C++ connected through a small Objective-C++ bridge.
 - **Working prop:** Nathan already has a second-generation iPod touch from the family before the story opens, plausibly bought/gifted in 2008. It supplies a real, conservative target for on-device tests. Do not introduce it for the first time on the day a test is needed; retain its provenance and OS/build version in the prop/test ledger.
-- **Working administrative route:** Clifford, as the adult, handles any required developer-account, signing and provisioning administration with Nathan. Nathan remains the author of the code. This enables private device testing but does not imply App Store publication or fame.
+- **Working administrative route:** Clifford, as the adult, handles any required developer-account, signing and provisioning administration with Nathan. Nathan remains the author of the code. This supports private device testing; a public launch is a separate milestone and must come only after technical/playability testing and App Store review.
 - **Status:** WORKING / provisional creative-technical decision. The author has not separately locked the exact computer model, point-release SDK or device gift date.
 - **Validation method:** compare the requirement against Apple's archived Xcode 3.1 release notes (iPhoneOS SDK cross-development requires an Intel Macintosh), Apple's 2008 announcement of the second-generation iPod touch, and Apple's support page listing its iPhone OS 3.1 documentation. See the technical design file for source links.
-- **Alternatives considered:** (A) unspecified Windows-only development is rejected for an actual 2009 iOS build because it lacks the native Apple toolchain; (B) Mac simulator only is insufficient to substantiate real-device performance; (C) modern cross-platform/automated mobile pipelines are anachronistic; (D) a public release by 15 October is not assumed and remains a separate decision.
+- **Alternatives considered:** (A) unspecified Windows-only development is rejected for an actual 2009 iOS build because it lacks the native Apple toolchain; (B) Mac simulator only is insufficient to substantiate real-device performance; (C) modern cross-platform/automated mobile pipelines are anachronistic; (D) immediate public release before private technical and playability testing is rejected; the public-launch sequence is recorded in DEC-014.
 - **Causal consequences:** the opening computer setup is a Mac-compatible iOS development environment; device tests require a named target/build and plausible signing route; game logic remains C++ while framework integration may use Objective-C/Objective-C++; a successful simulator test does not automatically count as a successful hardware test.
 - **Dependencies checked:** NATHAN_CALLAHAN profile; NATHAN_FIRST_MOBILE_GAME technical design; Episode 1 incoming inventory; Episode 2 old-device test and private playtest. Update them together if the author later selects a different target platform.
 - **Revisit trigger:** if later canon establishes a non-Apple platform, a different household computer, a specific device gift/history, or a constraint that makes a real-device build implausible.
+
+## DEC-014 — Public game launch follows technical and peer playability testing
+
+- **Date:** 2026-10-13.
+- **Author-confirmed rule:** Nathan does launch the game publicly, but not as soon as it first runs. He tests it technically himself and lets friends/classmates try the gameplay before the public release.
+- **Testing sequence:** technical/profile/device checks occur throughout development; Maxwell and one teammate try the playable Mac/simulator build in a short session on 10 October; Wesley performs a final private playtest on Nathan's second-generation iPod touch on 15 October. Nathan incorporates actionable feedback and runs a final regression check before Clifford handles the adult account/submission administration.
+- **Submission and release:** submit the candidate for App Store review by **15 October**. A public launch on **23 October 2009** is the current WORKING target, leaving an eight-day review interval. This exact date is a planning choice, not an author-locked date or a guarantee about historical review speed; contemporary reporting in August 2009 quoted Apple's response that 95% of submitted apps were approved within 14 days ([contemporary report](https://techcrunch.com/2009/08/21/apple-to-fcc-95-applications-approved-within-14-days/)). If later continuity or research warrants a different date, preserve the required order—technical tests, peer playability tests, submission/review, public launch—and propagate the date change.
+- **Outcome boundary:** public availability is established; download counts, revenue, reviews, virality, fame and industry recognition remain UNKNOWN until causally shown.
+- **Dependencies:** Episode 2 outline and ledger; Season 1 continuity and plot bank; first-game technical design; OpenWrite Codex seed.

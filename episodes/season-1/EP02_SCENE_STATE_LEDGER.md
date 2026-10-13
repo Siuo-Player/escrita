@@ -1,7 +1,7 @@
 # Episode 2 — Scene-State Ledger: Finish the Game
 
 Status: WORKING SCENE-STATE RECORD — required before prose  
-Story window: 1–15 October 2009  
+Main story window: 1–15 October 2009; public-launch coda: 23 October 2009  
 Updated: 2026-10-13
 
 ## Operating rule
@@ -232,13 +232,12 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Boundary:** invite Nathan to a defined low-stakes activity after the match (food/snack or brief time at the field entrance); don't introduce a large unscheduled party. Nathan hesitates because he fears imposing, then accepts.  
 **Carry forward:** record what he agreed to, when it ends, transport/parent permissions, and which teammate remembers it. This is a social milestone because he accepts, not because everyone becomes close.
 
-### Scene 28 — Game stress test / performance
-**Date:** 10 October late afternoon/evening, after the match and any stated rest.  
-**Cast:** Nathan.  
-**Pre-state:** full playthrough succeeded; six polish defects recorded.  
-**Boundary:** testing 20–24 enemies shows acceptable behavior only if the test and result support that claim. Performance spikes may remain. Do not imply Nathan simultaneously codes during the match or has unlimited stamina.  
-**Carry forward:** quantify only actual test evidence; prioritise the defects affecting playability.
-
+### Scene 28 — Game stress test / peer playability
+**Date:** Saturday 10 October, late afternoon/evening.
+**Cast:** Nathan; Maxwell; one California teammate kept unnamed unless the scene gives them a consequential individual action.
+**Pre-state:** the 20–24-enemy technical stress run is now acceptable on the recorded scenarios, though optimization/polish issues remain. The Mac/simulator build can be tried without treating it as a real-device benchmark.
+**Boundary:** Nathan tests the stress case, then watches Maxwell and one teammate play a few rounds without coaching them. This is a usability/playability check: record what controls they understand, what feedback they miss, and which concrete comment (if any) changes a later fix. Keep the session short and socially plausible after the accepted post-match invitation. No public distribution, download numbers or fame arise from it.
+**Carry forward:** Nathan now has his own technical observations plus peer gameplay feedback. Maxwell knows he has tried a build, but not private memories or every underlying technical detail. The specific feedback must be carried into the later polish/regression pass.
 ### Scene 29 — Alex echo
 **Date:** 10 October evening, Nathan alone.  
 **Cast:** Nathan.  
@@ -288,7 +287,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Boundary:** optimization work—update frequency, caching, compact state and fewer redundant calculations—must fix specific measured bottlenecks, not every bug at once.  
 **Carry forward:** update bug statuses individually; retain collision, UI/feedback or gameplay defects until each has a credible fix/test.
 
-### Scene 36 — School / academic opportunity accepted
+### Scene 36 — School / academic opportunity follow-up
 **Date:** Tuesday 13 October, school.  
 **Cast:** Nathan and CA-MATH-01; class aggregate.  
 **Pre-state:** CA-MATH-01 mentioned the optional maths-enrichment/competition group on 6 October. Nathan is interested but has not committed, and the exact meeting time has not yet been checked against football.  
@@ -378,7 +377,16 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Date:** 15 October evening. **Cast:** Nathan.  
 **Pre-state:** local test complete; school and social routines are more established; the game is an achievement but still imperfect.  
 **Boundary:** Nathan can enjoy seeing the guards move and still spot potential refinements. Closing the profiler for tonight is a choice to stop, not a permanent end to perfectionism.  
-**Carry forward to Episode 3:** Nathan has a packaged private build, one small tester feedback path, a growing friendship with Wesley/Maxwell, a stable but still young place in California football, a real developing friendship with Alex, a functional rental-home routine, and unresolved long-range opportunities. Do not overstate fame, team status or romantic progress.
+**Carry forward to Scene 49:** a candidate has been submitted to App Store review on 15 October; public availability is pending. Nathan has technical test results and feedback from Maxwell, a teammate and Wesley. Do not treat submission as a public launch.
+
+### Scene 49 — Public launch after App Store review
+**Date:** Friday, 23 October 2009.
+**Cast:** Nathan; Clifford for any account/admin step actually shown.
+**Pre-state:** private technical and peer playability tests are complete; the candidate was submitted for review on 15 October.
+**Boundary:** under this working timeline Apple approves the candidate and it becomes publicly available on 23 October. This eight-day review interval is a plausible working choice, not a guaranteed historical duration. Public release follows, rather than replaces, the private tests and review.
+**Carry forward:** public availability is established; audience size, downloads, reviews, commercial results and industry recognition remain UNKNOWN. A release is a meaningful achievement, not instant fame.
+
+**Carry forward to Episode 3:** the game is publicly available after technical tests, peer playability sessions and App Store review. The friendship with Maxwell is developing, Wesley knows what he personally tested, and public reception remains unknown.
 
 ## Episode 2 end-state gate
 
@@ -388,7 +396,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 - [ ] Maxwell earns selection/minutes through observable performance; Nathan does not become captain automatically.
 - [ ] Game defects remain distinct; a bug is closed only after an implementation/test supports closure.
 - [ ] Period hardware/toolchain is explicit before final prose; iOS device access and build tools are not magical.
-- [ ] Wesley's playtest grants him only the knowledge he personally gains; the game does not go public or make Nathan famous without a later decision.
+- [ ] Wesley's playtest grants him only the knowledge he personally gains; the public launch occurs only after technical checks, peer playability tests and App Store approval, without assuming fame.
 - [ ] Alex and Nathan are comfortable friends with possible attraction; this episode does not force a confession or date.
 - [ ] New props (bookshelf, if retained) have provenance and location. Blue bowl and family photo remain where last recorded.
 - [ ] All unknown injuries, allergies, illnesses and off-page promises remain unknown unless established.

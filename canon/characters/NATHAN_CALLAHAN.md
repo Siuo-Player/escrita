@@ -1,7 +1,7 @@
 # Protagonist — Nathan Callahan
 
 Status: WORKING / established from project decisions
-Updated: 2026-10-12
+Updated: 2026-10-13
 
 **Naming status:** Nathan Callahan is author-locked as of 2026-10-12. See `canon/DECISION_LOG.md` and `canon/characters/CHARACTER_NAME_REGISTRY.md` for the shortlist, selection method and validation.
 
@@ -90,7 +90,7 @@ Explicitly established traits:
 - shy;
 - embarrassed/uncomfortable initiating interactions;
 - perfectionist;
-- emotionally/socially sensitive;
+- has ordinary emotional responses rather than unusual emotional sensitivity or exceptional insight into other people's feelings;
 - prone to overthinking before acting;
 - cautious about exposing himself to rejection;
 - afraid of seeming arrogant;
@@ -103,6 +103,8 @@ explanations for positive evidence: someone may simply be polite, pity him, need
 with everyone. He underestimates his appearance, intelligence, competence and effect on other people.
 His humility is genuine, but the extreme version is partly defensive: believing he is "less than" others
 feels safer than discovering that someone valued him and being rejected.
+
+The emotion underneath is usually a mild, natural sting of embarrassment, uncertainty or anticipated rejection—not a constant heightened sensitivity. His behavior is governed by a practical threshold: when the perceived risk of initiating exceeds what he thinks the interaction is worth, he avoids acting. Familiar roles, low-stakes situations or someone else opening the conversation can let him behave naturally. Stronger feelings, especially romantic love, raise the perceived stakes and can make him hesitate much more; they do not make him unusually perceptive or emotionally fragile.
 
 He is socially functional rather than socially withdrawn. Once another person starts a conversation,
 Nathan can be open, friendly and quite sociable. As football captain he speaks to teammates naturally,
