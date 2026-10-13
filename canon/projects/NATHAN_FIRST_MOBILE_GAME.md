@@ -93,12 +93,40 @@ He does not need to write a complete rendering engine. A plausible 2009 workflow
 2D framework or engine for scene management, sprites, input, audio and tile maps, while keeping the AI and
 gameplay core under his control.
 
-cocos2d for iPhone is a period-appropriate example: it was already an established open-source framework
+cocos2d for iPhone is a period-appropriate example: it was already an open-source framework
 for 2D iPhone/iPod Touch games, with tile-map support, touch input, audio support and OpenGL ES
-integration.
+integration. The framework layer is Objective-C; Nathan's pathfinding, prediction and gameplay logic can
+remain C++ and be connected through a small Objective-C++ bridge. Do not describe this as a modern
+cross-platform build workflow.
+
+### 2009 toolchain and device constraints — working decision
+
+The story needs a real causal path from source code to a mobile build. The current working choice is an
+**Intel Mac running Mac OS X 10.5 Leopard with an era-appropriate Xcode 3.1.x / iPhone OS SDK 3.x
+installation**. Apple’s archived Xcode 3.1 notes state that the iPhoneOS SDK could target iPhone/iPod
+touch and simulator, but iPhone OS cross-development required a Macintosh with an Intel processor.
+Do not silently assume a Windows-only machine can compile and sign the historical iOS app. If later canon
+shows different hardware, reopen this decision and choose a technically credible toolchain.
+
+The working test device is a **second-generation iPod touch**, released in September 2008 and documented
+for iPhone OS 3.1, owned by Nathan before the opening. Its provenance should be a normal family gift/purchase
+before 7 September 2009, not a device that appears for the first time when a benchmark needs it. This gives
+Nathan a plausible personal device for music/games and a conservative real-hardware target. The simulator is
+still useful for rapid iteration, but a simulator run is not evidence of actual-device performance.
+
+Actual-device development needs a valid signing/provisioning route. Working assumption: Clifford, as the
+adult in the household and an experienced technology executive, handles any required developer-account
+enrollment/provisioning administratively with Nathan; Nathan writes the game, not the legal account
+agreement. This is not public App Store distribution, and it does not make the family famous. Record the
+device, OS version, build identifier, test scenario and actual outcome whenever a device test is shown.
+
+**Historical references:**
+- Apple, [Xcode 3.1 release notes](https://leopard-adc.pepas.com/releasenotes/DeveloperTools/RN-Xcode/index.html), archived developer documentation on Intel-Mac/iPhoneOS SDK requirements.
+- Apple, [2008 second-generation iPod touch announcement](https://www.apple.com/newsroom/2008/09/09Apple-Introduces-New-iPod-touch/).
+- Apple Support, [iPod touch (2nd generation)](https://support.apple.com/pt-pt/docs/ipod/132054), which lists documentation for iPhone OS 3.1.
 
 Nathan can therefore spend his limited time on the part he actually cares about: how the enemies move
-and decide.
+and decide, while the platform layer remains period-correct.
 
 ## First implementation: conventional pathfinding
 
