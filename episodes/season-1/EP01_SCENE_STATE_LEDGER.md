@@ -266,7 +266,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 ### Scene 45 — Alex acknowledges Nathan
 **Date:** Monday, 21 September 2009.
 **Date/location:** 21 Sep, shared school space. **Cast:** Alex and Nathan.  
-**Pre-state:** library conversation three days earlier. **Boundary:** Alex initiates a small greeting, Nathan responds. Add a second visible example of Nathan hedging/apologizing if Scene 60 is retained. **Carry forward:** natural recognition, not a romantic turn; Alex still knows nothing about reincarnation.
+**Pre-state:** library conversation three days earlier. **Boundary:** Alex initiates a small greeting, Nathan responds. Any hesitation is an ordinary moment, not yet an established pattern. **Carry forward:** natural recognition, not a romantic turn; Alex still knows nothing about reincarnation.
 
 ### Scene 46 — Flow-field stability
 **Date:** Monday, 21 September 2009.
@@ -276,7 +276,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 ### Scene 47 — Second Alex conversation
 **Date:** Tuesday, 22 September 2009.
 **Date/location:** 22 Sep, school. **Cast:** Alex and Nathan.  
-**Pre-state:** practical conversation plus greeting. **Boundary:** smaller reason to speak, slightly longer exchange; Nathan starts one sentence and feels self-conscious. This is one seed for Alex later noticing his apology/hedging habit. **Carry forward:** one incremental step toward comfort, no confession or promise.
+**Pre-state:** practical conversation plus greeting. **Boundary:** smaller reason to speak, slightly longer exchange; Nathan starts one sentence and feels self-conscious. This is another isolated data point, not yet a pattern Alex would verbalize. **Carry forward:** one incremental step toward comfort, no confession or promise.
 
 ### Scene 48 — Football/team trust
 **Date:** Tuesday, 22 September 2009.
@@ -338,10 +338,12 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Date/location:** 28–29 Sep, school/library. **Cast:** Nathan and Wesley Moss.  
 **Pre-state:** first meaningful exchange on 21 Sep; Wesley knows Nathan is capable but not a best friend. **Boundary:** recurring contact comes from shared school/technology routines; Wesley has independent interests and deadlines. **Carry forward:** developing acquaintance/friendship. Record how much Wesley has learned about the game.
 
-### Scene 60 — Alex notices the apology/hedging pattern
+### Scene 60 — Alex / ordinary exchange
 **Date:** Monday, 28 September 2009.
 **Date/location:** 28–29 Sep, school. **Cast:** Alex and Nathan.  
-**Pre-state:** Scenes 37, 45 and 47 must contain at least two visible examples of Nathan undercutting a correct answer or apologizing unnecessarily. If the final prose doesn't contain these seeds, revise the remark or remove it. **Boundary:** Alex notices behavior she witnessed; she has not diagnosed its cause. **Carry forward:** Alex has noticed a pattern; Nathan may deny it because acknowledgment feels exposing.
+**Pre-state:** Alex and Nathan have had a handful of short conversations, including the library exchange and later greetings. She may have seen an isolated hesitation or unnecessary apology, but she has not seen the habit consistently enough to call it a pattern.  
+**Boundary:** keep this as a brief, ordinary exchange. Nathan may underplay one small success or begin to apologize over a minor inconvenience; Alex does not challenge him, diagnose him, or make the reserved remark. Do not force a second or third confirming incident just to make an early payoff work.  
+**Carry forward:** no explicit conversation about Nathan's insecurity and no relationship milestone based on his self-undervaluation. Reserve "You know you don't have to apologize every time you're right" for much later, after many chapters have shown the habit repeatedly to Nathan and the reader and Alex has accumulated enough direct experience.
 
 ### Scene 61 — Vertical-slice/performance review
 **Date:** Monday, 28 September 2009.
