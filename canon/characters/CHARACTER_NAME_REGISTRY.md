@@ -265,11 +265,23 @@ These are WORKING names generated for the first-pass cast. Do not treat them as 
 | Julie Kendall | Haley's wider-circle friend | WORKING |
 | Leonard Holloway | Seattle coach | WORKING |
 | Lance Conley | Southern California coach | WORKING |
+| Connie Harrington | Southern California middle-school mathematics teacher / CA-MATH-01 | WORKING |
 | Tracey Wheeler | Claire's parent/community contact | WORKING |
 | Victoria Hutchinson | Claire's neighborhood contact | WORKING |
 | Vanessa Quinn | Claire's community contact | WORKING |
 
 Maxwell Whitaker remains the previously documented WORKING football peer and is not rerolled in this pass. Nathan Callahan remains USER-LOCKED. None of the working surnames above establishes ancestry. Their specific Census-frequency ranks must be checked before any name is made central or locked.
+
+## CA-MATH-01 — Connie Harrington naming draw (2026-10-13)
+
+- **Role:** recurring seventh/eighth-grade mathematics teacher at Nathan and Alex's Southern California middle school.
+- **Status:** WORKING; internal ID `CA-MATH-01` remains the stable continuity key. See [Connie Harrington's profile](CONNIE_HARRINGTON.md).
+- **First-name source:** U.S. Social Security Administration, [Top names of the 1970s](https://www.ssa.gov/oact/babynames/decades/names1970s.html). Filtered pool uses female names in source order from ranks 101–200, excluding active/registered names and close or confusing variants. **Frozen pool size: 82.**
+- **Exact first-name pool (SSA rank order):** Margaret (101), Jodi (104), Natalie (105), Brandi (106), Suzanne (108), Samantha (109), Beth (110), Regina (112), Carolyn (115), Yolanda (116), Deanna (117), Carla (118), Sheila (119), Laurie (120), Anne (121), Diane (123), Sabrina (124), Janet (125), Erika (126), Katrina (127), Courtney (128), Colleen (129), Carol (130), Julia (131), Jenny (132), Jaime (133), Kathy (134), Felicia (135), Alison (136), Lauren (137), Kelli (138), Leah (139), Ashley (140), Kim (141), Tricia (144), Joy (145), Kara (147), Terri (148), Sonya (149), Aimee (150), Natasha (151), Cassandra (152), Bridget (153), Anita (154), Kari (155), Nichole (156), Christie (157), Marie (158), Virginia (159), Connie (160), Martha (161), Carmen (162), Stacie (163), Lynn (164), Katie (165), Monique (166), Sherri (169), Angel (170), Bonnie (171), Mandy (172), Shawna (174), Kerry (175), Annette (176), Yvonne (177), Toni (178), Meredith (179), Molly (180), Kendra (181), Joanna (182), Janice (184), Robyn (185), Brooke (186), Sheri (188), Becky (189), Mindy (191), Angie (193), Claudia (195), Ruth (196), Wanda (197), Jeanette (198), Cathy (199), Adrienne (200).
+- **First-name draw:** secure seed `131759995`; `random.Random(seed).randrange(82)` returned zero-based index **49**, selecting **Connie** (SSA rank **160**).
+- **Surname source/pool:** 2020 Census surname-frequency ranks, in ascending rank order: Fleming (#350), Harrington (#515), Dorsey (#804), Benton (#954). See [Harrington surname data](https://namecensus.com/last-names/harrington-surname-popularity/) and the [U.S. Census Bureau names-data portal](https://www.census.gov/topics/population/genealogy/data/2020_names.html). No surname in this pool is currently assigned to another active character.
+- **Surname draw:** continuing the same seeded random stream, `randrange(4)` returned zero-based index **1**, selecting **Harrington** (#515).
+- **Result:** **Connie Harrington**, used as Ms. Harrington / `CA-MATH-01`. The choice is WORKING, not author-locked. The surname alone does not establish ancestry.
 
 ## Expanded state-reference index
 
