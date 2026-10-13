@@ -315,27 +315,26 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Boundary:** record device OS/build/scenario and actual results. A measured performance cliff prompts a targeted reduction in redundant work and a rerun of that scenario. The test does not close unrelated collision/UI/playability issues.
 **Carry forward:** the named performance issue is fixed only if the repeat test passes; other issues remain until their own verification.
 
-### Scene 40 — School on The Incident day
-**Date:** Wednesday 14 October, school.  
-**Cast:** Nathan and Alex; school participants aggregate unless individually active.  
-**Pre-state:** Alex's family has an ongoing canon relationship history that may be disrupted by the day's events, but Nathan is not present in private household scenes. Their recent growing ease means he can notice a change in her manner.  
-**Boundary:** Nathan asks a low-pressure question. Alex shares only what she chooses; he does not interrogate her or reveal knowledge from the show.  
-**Carry forward:** Nathan knows only the portion she tells him. If she gives no factual reason, his concern is an observation/interpretation, not knowledge of the family event.
+### Scene 40 — School, before DeDe's visit
+**Date/time:** Wednesday 14 October, 12:20–12:35, school lunch break.
+**Cast:** Alex and Nathan.
+**Pre-state:** they have grown comfortable through short school conversations, but Alex's family event has not happened yet.
+**Boundary:** Alex is distracted by a difficult ordinary school assignment she wants to finish before the next day. Nathan asks once, listens to the limited answer she gives, and does not try to diagnose her mood. This scene is before DeDe's first visit; Alex is not reacting to DeDe here.
+**Carry forward:** Nathan knows only that Alex is busy with schoolwork; he does not learn any family secret or anticipate the evening's events.
 
-### Scene 41 — Natural consequence / Phil
-**Date:** 14 October, neighborhood or street-level encounter after a plausible introduction.  
-**Cast:** Nathan and Phil.  
-**Pre-state:** Phil met the Callahans during the 14 September move-day scene; no intimate friendship is established. Phil is dealing with the emotional after-effects of the canon-family event, but Nathan does not know their cause.  
-**Chosen working beat:** Nathan sees Phil in the course of an ordinary real-estate errand or neighborhood arrival; Phil's attempt at his usual friendliness is a little strained or distracted, and an otherwise ordinary exchange doesn't land exactly as Nathan expected from his show memory.  
-**Boundary:** don't have Nathan intervene in The Incident or explain it to Phil. Nathan can notice a difference in behavior, not the private family argument.  
-**Carry forward:** this is a small example that his old script-based predictions are fallible; no new private fact about the Pritchetts is learned.
+### Scene 41 — Natural consequence / Phil after the dinner
+**Date/time:** Wednesday 14 October, approximately 20:40–20:50, shared front walk/driveway as the Dunphy dinner winds down.
+**Cast:** Nathan and Phil.
+**Pre-state:** Phil met the Callahans during the 14 September move-day introduction; they remain neighbors rather than confidants. The dinner and DeDe/Gloria confrontation have occurred by this time.
+**Boundary:** Nathan crosses paths with Phil during an ordinary small task as guests begin to leave. Phil's friendliness is strained; Nathan can notice the change but cannot know its cause unless Phil tells him. Keep the exchange brief and do not have Nathan intervene in the family argument.
+**Carry forward:** Nathan has evidence that Phil's mood is different from usual, not knowledge of DeDe's visit or the family conflict's private details.
 
 ### Scene 42 — Final heavy technical session
-**Date:** 14 October evening.  
-**Cast:** Nathan.  
-**Pre-state:** old-device test is nearly complete; residual bugs are tracked separately.  
-**Boundary:** a final test build can meet the target under recorded scenarios. Don't call it finished until Scene 47's package and private test are done.  
-**Carry forward:** record final outstanding defects and test evidence; no new code feature appears without implementation time.
+**Date/time:** Wednesday 14 October, 21:00–23:00, Callahan home.
+**Cast:** Nathan.
+**Pre-state:** old-device performance test from 13 October has removed its measured bottleneck; remaining gameplay issues are tracked individually. Nathan has just completed a socially unexpected but brief neighborhood exchange.
+**Boundary:** rerun the documented guard-count cases (1, 5, 10, 15, 20, 24) on the current build. Any release-blocking defect found is fixed and its affected test rerun before submission. Do not claim tests pass unless the ledger records results; do not leave a known critical defect in the candidate.
+**Carry forward:** the core technical acceptance gate is passed only after recorded results. The 15 October peer session checks playability and regression; it is not permission to ship a known critical bug.
 
 ### Scene 43 — Morning / ordinary school
 **Date/time:** Thursday 15 October, 08:05–08:20, before first lesson.
@@ -351,12 +350,12 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Boundary:** a specific harder problem, not generic praise. Any club participation still depends on the actual signup.
 **Carry forward:** teacher's expectations rise slightly; no enrollment is inferred.
 
-### Scene 45 — Alex initiates
+### Scene 45 — Alex initiates, the day after the dinner
 **Date/time:** Thursday 15 October, 12:20–12:30, school lunch break.
 **Cast:** Alex and Nathan.
-**Pre-state:** multiple brief conversations, a shared walk and ordinary jokes.
-**Boundary:** Alex starts a non-academic conversation; Nathan stays. No confession, assumed attraction or fixed romance deadline.
-**Carry forward:** friendship is growing; neither has labelled it.
+**Pre-state:** Alex was at the family dinner on 14 October and witnessed the awkward apology/confrontation, but has not necessarily told Nathan about it. Their prior conversations have built ordinary comfort.
+**Boundary:** Alex initiates a normal non-academic conversation, though she may be a little preoccupied after the previous evening. Nathan can notice her observable manner, not infer every private feeling. She shares details only if she chooses.
+**Carry forward:** Alex's state may be affected by the dinner, but Nathan's knowledge remains limited to what she actually says or shows. Their friendship progresses without forcing an exposition dump.
 
 ### Scene 46 — Football / Maxwell's weekend invitation
 **Date/time:** Thursday 15 October, 16:00–17:30 training; invitation 17:32–17:40 after training.
