@@ -90,7 +90,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ### Scene 14 — Family: promotion confirmed
 **Date/location:** 11 Sep, Callahan home. **Cast:** Nathan, Clifford, Heather.  
-**Pre-state:** parents knew the promotion was possible; Nathan noticed work pressure only. **Boundary:** this is Nathan's first clear confirmation; practical questions come before the emotional reaction. **Carry forward:** all three know the move is required. After the family conversation, Nathan sends a brief message in the Seattle team group chat so the coach and squad know before the Saturday match; this is the first team-wide notice.
+**Pre-state:** parents knew the promotion was possible; Nathan noticed work pressure only. **Boundary:** this is Nathan's first clear confirmation; practical questions come before the emotional reaction. **Carry forward:** all three Callahans know the move is required. Nathan has not yet told the football team; that message is an action in Scene 16, after he has had time alone.
 
 ### Scene 15 — Parents' explanation
 **Date/location:** 11 Sep, same conversation or immediate continuation. **Cast:** Nathan, Clifford, Heather.  
@@ -98,7 +98,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ### Scene 16 — Nathan alone
 **Date/location:** 11 Sep night. **Cast:** Nathan.  
-**Pre-state:** the move is known, and the team has received Nathan's brief group message after the family reveal. He has not yet had individual farewell conversations with teammates. **Boundary:** returning to coding is a way to focus on something controllable, not evidence he feels nothing. **Carry forward:** private sense of loss coexists with continuing work.
+**Pre-state:** the move is known to Nathan and his parents; the team has not yet been told, and he has not had individual farewell conversations. **Boundary:** Nathan returns to the game because it is a controllable problem. Before settling back into code for the night, he sends a short, plain message to the Seattle team group chat so Coach Leonard and the squad know before Saturday's match. It communicates the fact, not a dramatic farewell. **Carry forward:** team-wide knowledge of the move begins here; private sense of loss coexists with continuing work.
 
 ### Scene 17 — Final Seattle-team match
 **Date/location:** 12 Sep, Saturday field. **Cast:** Nathan, Coach Leonard, the Seattle roster.  
