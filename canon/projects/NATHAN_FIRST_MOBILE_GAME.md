@@ -496,27 +496,35 @@ This keeps his advantage from becoming a cheat sheet.
 
 ## Development calendar and school-night workload
 
-The complete development now runs from **7 September to approximately 15 October 2009**: about **39 days
-(5½ weeks)**.
+The active prototype/build cycle runs from **3 September to 15 October 2009**: 43 calendar days,
+a little over six weeks. The story's first on-page scene is still 7 September. The four preceding days
+are only an internal foundation: framework setup, a tiny playable map, one enemy, and a basic A* baseline.
+They do not require a separate dramatic scene, but the work is recorded here so the opening code state has
+a cause.
 
-This is deliberately faster than the earlier 7–8 week plan because Nathan already knows what he wants to
-build, has strong C++ skills, uses an existing 2D framework, and has no major failure besides the A* →
-flow-field redesign.
+This is deliberately fast because Nathan already knows C++, has studied game programming, uses an existing
+2D framework, keeps the game scope narrow, and does not attempt custom rendering, a large campaign or a
+network system. The A* → flow-field redesign is the important architectural detour, not his first contact
+with programming.
 
-A useful narrative target is roughly **60–85 focused development hours**.
+A useful narrative target is roughly **60–85 focused development hours**, including the short pre-opening
+prototype period.
 
 ### Compressed development phases
 
-- **7–9 Sep:** concept locked; grid, input/rendering and one enemy prototype.
-- **10–13 Sep:** conventional A* baseline; several enemies; first small playable map.
-- **14–15 Sep:** move interrupts work; technical work continues only in fragments.
-- **16–23 Sep:** stress test exposes repeated pathfinding cost; Nathan reviews material he has already
-  studied and adapts the shared flow field.
-- **24–30 Sep:** flow field stabilizes; local steering and shared navigation integrate; first prediction
+- **3–6 Sep (mostly off-page):** concept and project skeleton; period framework/setup; grid, input/rendering,
+  one enemy and patrol; A* baseline; one tiny test map. Budget roughly 8–10 focused hours.
+- **7–9 Sep:** visible opening; test the existing A* baseline with increasing enemy counts; repeated global
+  searches become the measurable bottleneck and profiling begins.
+- **10–13 Sep:** stress-test 10/15/20/24 enemies; cache/update-frequency experiments help but do not solve
+  repeated global work; first playable map remains functional.
+- **14–15 Sep:** relocation interrupts work; technical work continues only in fragments.
+- **16–23 Sep:** Nathan revisits material he has already studied and adapts shared flow-field navigation.
+- **24–30 Sep:** field navigation stabilizes; local steering and shared navigation integrate; first prediction
   experiments.
-- **1–7 Oct:** player prediction/influence field becomes reliable and connects to goal selection.
+- **1–7 Oct:** player prediction/influence field becomes more useful and connects to goal selection.
 - **8–12 Oct:** profiling, caching, update-frequency reduction, device tests and balancing.
-- **13–15 Oct:** final playtest, cleanup, packaging and release.
+- **13–15 Oct:** final playtest, cleanup, packaging and a private test build. Public distribution is not assumed.
 
 ### Why the shorter schedule is credible
 
