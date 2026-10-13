@@ -188,6 +188,8 @@ His practical advantage comes from:
 - having the resources to experiment;
 - gradually developing real competence.
 
+**Working possession/toolchain note (2009):** Nathan already has access to a capable Intel Mac development workstation and a second-generation iPod touch obtained by the family before the opening, plausibly as a 2008 birthday/holiday gift. The Mac has an era-appropriate Xcode/iPhone OS SDK setup for the iOS game. Clifford handles any adult developer-account/signing administration needed for on-device builds; Nathan does the programming. These are WORKING details established for technical continuity, not character-defining facts or a claim that the game is publicly distributed. See DEC-013 and the first-game design record.
+
 He may create games or other software whose AI-controlled opponents, adaptation, or behavior feel
 surprisingly advanced for the period, but the narrative should normally establish this simply as the
 result of things he learned, derived or combined successfully rather than inventing implausibly
