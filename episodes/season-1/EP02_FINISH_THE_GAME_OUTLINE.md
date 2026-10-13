@@ -338,16 +338,19 @@ Nathan's new California team plays a friendly/internal scrimmage or coach-run as
 Nathan performs well enough for Coach Lance to trust him with one tactical adjustment, but he is not made captain. The trust is evidence-based and limited to the moment. Record the selected players, roles/minutes, observed action, and any teammate/coach state change in the scene ledger.
 
 #### Scene 27 — post-match invitation
-Maxwell invites Nathan to a low-stakes activity after the scrimmage, such as getting a snack nearby or talking for a few minutes before they leave. Avoid creating an unplanned party or ignoring parent/transport constraints.
+**Time:** 11:20–11:35, immediately after the Saturday scrimmage.
+Maxwell invites Nathan to get a snack and asks what Nathan has been doing on the computer after school. Nathan mentions, without a technical lecture, that he is building a small game and asks whether Maxwell would like to try an early version. Nathan hesitates socially before accepting the idea of a short test visit; he does not assume he can invite people home without asking his parents.
 
-Nathan hesitates because he fears imposing, then accepts. The milestone is that he accepts the invitation, not that the whole team suddenly becomes close.
+Maxwell asks if Cory McBride can join. Nathan agrees, but the plan is conditional on all parents confirming transport and timing. By early afternoon, Heather has agreed to host for one hour; Maxwell's parent confirms the ride and Cory's parent separately confirms that he may join. The plan is a **16:00–17:00** visit to the Callahan rental, with adult drop-off/pick-up arranged. If that confirmation is not shown in prose, the visit must not be treated as automatic.
 
-#### Scene 28 — game
-Late afternoon/evening.
+#### Scene 28 — game / peer playability
+**Time:** 16:00–17:00, Callahan rental; Mac/simulator build only.
+Nathan first runs the 20–24-enemy stress scenario; the recorded performance target is acceptable, but gameplay defects still need attention. He then lets Maxwell and Cory play a short level without coaching them.
 
-Nathan first tests the game with 20–24 enemies; performance is now acceptable, though the remaining problems are optimization and polish.
+- Maxwell moves quickly and tests the same narrow route more than once. When several guards bunch in a tight corridor, his character appears unable to turn cleanly around them. He says, in his own practical way, that the controls feel as though they have stuck. This reports a movement/collision experience, not a diagnosis of the algorithm.
+- Cory rushes toward the obvious exit before confirming the objective. When the exit does not respond, he looks back at the room and says he cannot tell what he is supposed to have done first. This exposes unclear objective/exit feedback, not an AI flaw.
 
-After the stress test, Maxwell and one teammate try a few rounds in the current Mac/simulator build during a short, parent-approved visit to the Callahan rental. Nathan watches without coaching them and records what is unclear as they play. Their feedback is a usability check, not evidence of real-device performance or a request to expand the game's scope. Any specific observation that affects later fixes must be recorded in the ledger.
+Nathan does not defend the game or explain away the criticism. He asks them to repeat the situations once, records the actual steps and build version, and thanks them. The feedback maps to the existing corridor/collision and objective-feedback issues; he must fix and retest them before submission. This session is a usability check on the Mac/simulator, not evidence of device performance, and neither tester gains technical knowledge they were not shown.
 
 #### Scene 29 — Alex echo
 Alex does not need to appear.
