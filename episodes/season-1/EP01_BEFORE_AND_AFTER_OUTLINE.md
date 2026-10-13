@@ -358,7 +358,8 @@ Compressed travel sequence.
 Use sensory details:
 - airport;
 - luggage;
-- computer case;
+- Nathan's computer case and its peripherals;
+- Clifford's work bag and work laptop for the first remote transition call after arrival;
 - tired parents;
 - Nathan reading rather than watching something.
 
