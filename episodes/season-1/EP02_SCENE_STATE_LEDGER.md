@@ -77,12 +77,12 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Boundary:** the optional problem is challenging but age-appropriate for the course or an enrichment extension; solving it does not make Nathan infallible. The teacher asks what he does outside school because programming is a plausible answer, not because the teacher has been investigating him.  
 **Carry forward:** CA-MATH-01 knows Nathan programs. If the teacher offers an academic club/competition later, record the actual details and whether Nathan responds.
 
-### Scene 6 — Alex observes his reaction to praise
-**Date:** 2–3 October, school shared space.  
+### Scene 6 — Alex notices a small reaction to praise
+**Date:** Friday, 2 October, school shared space; place it during an ordinary school-day conversation, not after the evening scenes.  
 **Cast:** Alex and Nathan.  
-**Pre-state:** she has seen him hedge/apologize when answering her and has observed him downplay success at least once.  
-**Boundary:** she notices a visible reaction, asks lightly, and accepts his evasive answer without forcing a disclosure. She cannot diagnose its origin.  
-**Carry forward:** Alex has an observation about how Nathan handles praise, not certainty about his self-esteem or attraction.
+**Pre-state:** their contact since 18 September consists of several brief conversations and greetings. Alex has seen Nathan hesitate or downplay something at least once, but their relationship is still new.  
+**Boundary:** Alex makes a small positive comment; Nathan deflects it briefly. She notices the reaction but doesn't ask why, label it a pattern, or try to get him to disclose anything. This is an isolated observation, not a diagnosis.  
+**Carry forward:** Alex remembers the specific exchange only if it becomes relevant later. No explicit conversation about Nathan's insecurity or attraction occurs; the direct line about apologizing remains reserved for much later, after many chapters of repeated evidence.
 
 ### Scene 7 — Callahan household
 **Date:** 2–3 October, rental kitchen/common area.  
