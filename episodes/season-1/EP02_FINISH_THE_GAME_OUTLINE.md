@@ -270,6 +270,8 @@ Nathan integrates prediction and flow field:
 
 The architecture finally works end-to-end.
 
+## 8 October — continuing the school week
+
 #### Scene 19 — emotional echo (Thursday 8 October, morning)
 Before the other school beats on 8 October, Alex and Nathan have a short conversation about something unrelated to school. It is brief and ordinary; neither needs a new excuse to speak.
 
@@ -279,8 +281,6 @@ Nathan begins to realize he likes talking to her even when he has nothing to say
 
 ## MOVEMENT III — 8–11 OCTOBER
 ### The new normal and the first real weekend
-
-### 8 October
 
 #### Scene 20 — school
 CA-MATH-01 gives Nathan an unexpectedly difficult question.
