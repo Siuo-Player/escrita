@@ -101,14 +101,13 @@ Labor Day is a holiday, so do not stage a coach-led team practice or scheduled f
 
 Nathan is already captain of his regular Seattle team, although this scene itself is informal.
 
-Show the contrast:
-- in computing he works alone and overthinks;
-- once teammates talk to him, he jokes easily;
-- he makes a tactical suggestion;
-- a teammate follows it without drama.
+Show the contrast with **Calvin Baxter**, Nathan's usual midfield partner:
+- in computing Nathan works alone and overthinks;
+- in a familiar football context, he jokes easily once Calvin starts talking;
+- Nathan suggests a small adjustment to their passing/spacing;
+- Calvin follows it without drama because they have an established tactical shorthand.
 
-One teammate, **potential recurring peer**, is introduced as someone who trusts Nathan but also wants more
-playing time.
+Keep the interaction informal and brief. Calvin's wish to improve the team's play is not a new rivalry or a new friendship arc; his established profile already explains why he values practical, positional advice.
 
 #### Scene 4 — quiet family undercurrent
 A very small domestic detail:
@@ -168,10 +167,7 @@ The reader sees that he is **not socially awkward in conversation**.
 His problem is initiation.
 
 #### Scene 8 — football / captaincy outside practice
-A short conversation at school or in the team chat about the previous session:
-- a teammate asks whether they should change formation next time;
-- Nathan answers with one concrete adjustment;
-- the others accept it without drama.
+A short conversation at school or in the team chat about the previous session. **Calvin Baxter** asks whether the midfield should adjust its spacing next time; Nathan suggests one concrete change to the distance between the holding and attacking midfielders. The others accept it without drama. This is a follow-up to the 8 September practice, not another training session.
 
 This is not another training session; Wednesday is a school/programming day in the recurring rhythm. The point is that Nathan's leadership is already visible outside the pitch.
 
@@ -294,10 +290,12 @@ The team knows he is moving.
 
 Keep emotions restrained.
 
-A teammate tells him they will miss him.
+**Calvin Baxter**, who shares the midfield workload with Nathan, tells him the team will miss having him organize the transitions.
 
 Nathan immediately assumes:
 "They're being nice."
+
+Keep the line quiet and specific. Calvin's statement reflects their actual football partnership, not a generic farewell speech.
 
 This shows self-undervaluation outside romance.
 
@@ -455,7 +453,7 @@ He walks away.
 This is the first visible romantic self-sabotage.
 
 #### Scene 31 — after-school football contact
-Nathan speaks to Coach Lance Conley or the team's designated contact about joining the local side. The exchange establishes logistics and an invitation to a coach-approved assessment; it is not a full practice or match yet.
+Nathan speaks directly to **Coach Lance Conley** about joining the local side. Lance explains the next step and invites him to a coach-approved assessment; it is not a full practice or match yet.
 
 Nathan observes that the new group has different habits from his Seattle team, but he has not earned local trust yet and is not captain. The first assessment remains scheduled for Saturday, 19 September, as an internal scrimmage.
 
@@ -722,7 +720,7 @@ Nathan gives a deliberately simplified explanation.
 He is relieved she understands.
 
 #### Scene 53 — football
-The competitive teammate cooperates with Nathan.
+**Maxwell Whitaker** cooperates with Nathan on one specific attacking/defensive transition. Maxwell still wants to earn more playing time; he is willing to use Nathan's suggestion because it solves a real problem in the drill, not because he instantly admires the new arrival.
 
 Their relationship moves one step.
 
