@@ -133,7 +133,7 @@ When a decision is changed:
 - **Status:** USER-REQUESTED PROJECT RULE; individual skill ratings are WORKING estimates.
 - **Method:** start from the character profile, record a baseline and update only when learning, practice, injury, disuse, new evidence or a meaningful choice changes the state. Check whether a known capability would solve the problem before writing a less effective choice.
 - **Validation:** reflects Nathan's domain-specific academic/technical strength, soccer and physical training, social hesitation, arts weaknesses and imperfect access to future-world memories. It does not make him omniscient.
-- **Open issue:** source profile and Episode 1 currently conflict about whether 7 September is already Nathan's thirteenth birthday or whether he is still about two weeks away; see DEC-012.
+- **Continuity check (2026-10-13):** Nathan turns thirteen on 7 September 2009; the prior-life transition occurs roughly two weeks earlier, while he is still twelve. These are separate dates, not a contradiction. See DEC-012 for the audit trail.
 - **Dependencies:** Nathan's actions, mobile-game project, football, school scenes, social decisions and later scenes relying on previous-life knowledge.
 - **Revisit trigger:** a drafted scene contradicts a baseline rating or evidence establishes a more precise ability.
 
@@ -148,13 +148,15 @@ When a decision is changed:
 - **Dependencies:** Season 1 relationship pacing, series/season anchors, outlines and later relationship payoffs.
 - **Revisit trigger:** prose shows a faster/slower pace would be more believable; update the plan and every affected setup/payoff.
 
-## DEC-012 — Open continuity conflict: Nathan's age/birthday
+## DEC-012 — Resolved: apparent age/birthday conflict was a false positive
 
-- **Date discovered:** 2026-10-12.
-- **Conflict:** the opening outlines and profile use 7 September 2009 as Nathan's birthday, while the reincarnation passage says he begins life at twelve roughly two weeks before turning thirteen. These cannot all be true at once.
-- **Status:** OPEN / must resolve before prose locks the birthday scene.
-- **Why not silently fix it:** the opening date and birthday have been central planning anchors, and the author previously indicated that 6 or 8 September could be considered if needed. Preserve the conflict until the surrounding chronology is reconciled intentionally.
-- **Immediate guardrail:** use the calendar fact that 7 September 2009 is Labor Day; do not schedule normal school or football training that day. A birthday scene must not call Nathan thirteen if the age choice remains unresolved.
-- **Resolution options:** (A) birthday on 7 September and amend the "two weeks before" passage; (B) keep the two-weeks-before premise and move the birthday while preserving the opening start; (C) choose another date after checking episode and school chronology.
-- **Dependencies:** Nathan's age, birthday episode, school grade, physical comparison with peers, family dialogue, name-cohort assumptions and both opening outlines.
-- **Revisit trigger:** before Episode 1 prose is drafted.
+- **Date flagged:** 2026-10-12.
+- **Review date:** 2026-10-13.
+- **Initial concern:** one passage places the prior-life transition about two weeks before Nathan's thirteenth birthday, while the opening is on that birthday.
+- **Validation:** these are different dates/events. Nathan's birthday is 7 September 1996; the story opens on his thirteenth birthday, Monday 7 September 2009. The prior-life transition happens in his twelve-year-old life roughly two weeks before that birthday. Neither passage claims the story opens on the transition date, so the chronology is consistent.
+- **Status:** RESOLVED — FALSE POSITIVE; no birthday, opening-date or reincarnation retcon is required.
+- **Decision:** retain the established 7 September 2009 opening/birthday. Do not move it merely because it is Labor Day. The calendar affects how the day is staged, not Nathan's age/date.
+- **Scene guardrail:** 7 September 2009 is Labor Day. No ordinary school day or scheduled team practice; Nathan may celebrate his birthday, code, do solo conditioning or join an informal pickup/kickabout. The Seattle team's practice/match rhythm resumes on its normal non-holiday dates.
+- **Options considered:** moving the birthday to 6/8 September or rewriting the transition timing is unnecessary; those options are rejected for this review because they solve a conflict that does not exist.
+- **Dependencies checked:** profile, story-decision file, Nathan's knowledge/skill ledger, Episode 1 opening and football roster guardrails. Their statements now explicitly distinguish the transition date from the opening birthday.
+- **Revisit trigger:** only if the author intentionally changes the established birthday/opening date or the reincarnation premise; do not reopen through date-only confusion.
