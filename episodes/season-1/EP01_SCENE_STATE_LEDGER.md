@@ -45,8 +45,8 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Pre-state:** parents know it is his birthday and know his interests; promotion not yet confirmed. **Boundary:** Nathan's minimization of a gift is discomfort with praise, not ingratitude. **Carry forward:** any gift shown becomes a persistent object with owner and storage location; don't add a gift only for a later payoff without recording it. Parents remain unaware of reincarnation.
 
 ### Scene 3 — Informal football
-**Date/location:** 7 Sep, local park/yard. **Cast:** Nathan and Tristan Morrow, if retained.  
-**Pre-state:** Tristan is the established goalkeeper and knows Nathan's captaincy style. **Boundary:** Labor Day; informal kickabout/solo touches only, no coach-led practice, official attendance, lineup or fixture. Tristan's attendance is spontaneous, not a scheduled club event. **Carry forward:** Nathan is tactically comfortable in a familiar role. If Tristan is cut from prose, do not later claim they met that day.
+**Date/location:** 7 Sep, local park/yard. **Cast:** Nathan and Calvin Baxter.  
+**Pre-state:** Calvin is Nathan's established holding-midfield partner and respects concrete positional reasoning. **Boundary:** Labor Day; informal kickabout/solo touches only, no coach-led practice, official attendance, lineup or fixture. Calvin happens to be available and joins casually; this is not a scheduled club event. **Carry forward:** reinforce their existing midfield shorthand. Calvin remembers the specific spacing/passing adjustment only if it is made explicit in prose.
 
 ### Scene 4 — Quiet family undercurrent
 **Date/location:** 7 Sep, Callahan home. **Cast:** Clifford and Heather; Nathan only if he observes from nearby.  
@@ -65,8 +65,8 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Pre-state:** ordinary returning student. **Boundary:** he converses normally after another person starts; initiation is the difficulty. **Carry forward:** no specific friendship, promise, secret or recurring joke. Profile any classmate who gets a unique action or later callback.
 
 ### Scene 8 — Football/captaincy outside practice
-**Date/location:** 9 Sep, school or team-message exchange. **Cast:** Nathan and Calvin Baxter; others only if materially involved.  
-**Pre-state:** off-page 8 Sep practice occurred. Calvin and Nathan share midfield responsibilities. **Boundary:** conversation about the prior session, not a second practice on Wednesday. Nathan gives a concrete adjustment. **Carry forward:** record that adjustment and exactly who received/heard it; only those people may remember it.
+**Date/location:** 9 Sep, school or team-message exchange. **Cast:** Nathan and Calvin Baxter; other teammates only if named in the actual message.  
+**Pre-state:** off-page 8 Sep practice occurred; the two midfielders already share responsibility for linking defense and attack. **Boundary:** Calvin asks about midfield spacing. Nathan suggests one adjustment to the distance between holding and attacking midfield; this is a conversation about practice, not a second session. **Carry forward:** record the exact tactical change and message recipients. Calvin remembers it; other teammates do only if they received or witnessed it.
 
 ### Scene 9 — Game/profiling
 **Date/location:** 9 Sep evening. **Cast:** Nathan.  
@@ -102,7 +102,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ### Scene 17 — Final Seattle-team match
 **Date/location:** 12 Sep, Saturday field. **Cast:** Nathan, Coach Leonard, the Seattle roster.  
-**Pre-state:** after Scene 15, Nathan sends the coach/team a short message on 11 Sep; all named players taking part know he is moving before kickoff. Working availability is the named squad, with no injury created by the outline. **Boundary:** goodbye context, not guaranteed sentimental triumph. Score, scorers and minutes remain unfixed until prose; every player with dialogue or consequential play needs their individual state. **Carry forward:** relationships persist after the move; the squad is not emotionally uniform.
+**Pre-state:** after Scene 15, Nathan sends the coach/team a short message on 11 Sep; all named players taking part know he is moving before kickoff. Working availability is the named squad, with no injury created by the outline. **Boundary:** goodbye context, not guaranteed sentimental triumph. Score, scorers and minutes remain unfixed until prose; every player with dialogue or consequential play needs their individual state. Calvin tells Nathan the team will miss having him organize midfield transitions. **Carry forward:** relationships persist after the move; the squad is not emotionally uniform. Calvin's remark is a known, character-specific exchange rather than an interchangeable farewell line.
 
 ### Scene 18 — Coach advice
 **Date/location:** 12 Sep after the match. **Cast:** Nathan and Leonard.  
@@ -159,7 +159,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Pre-state:** Alex has not met Nathan; Nathan recognizes her privately from the show. **Boundary:** Nathan considers approaching and avoids it. Alex may notice a glance but cannot know why. **Carry forward:** Nathan knows who she is; Alex has at most a first impression of the transfer student.
 
 ### Scene 31 — After-school football contact
-**Date/location:** 16 Sep, office/field-side introduction. **Cast:** Nathan and Coach Lance Conley or the designated team contact; Maxwell only if explicitly introduced.  
+**Date/location:** 16 Sep, office/field-side introduction. **Cast:** Nathan and Coach Lance Conley; Maxwell only if explicitly introduced.  
 **Pre-state:** transfer is new; local trust absent. **Boundary:** logistics or invitation to an assessment, not a full training session or match. Nathan is not captain. **Carry forward:** set a coach-approved controlled scrimmage for Saturday 19 Sep; record any permission/form needed.
 
 ### Scene 32 — First flow-field attempt
@@ -252,8 +252,8 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Pre-state:** Alex knows him through the resource conversation and greetings. **Boundary:** she asks from curiosity; Nathan gives a simplified explanation and checks comprehension. She doesn't become a technical expert instantly. **Carry forward:** Alex knows the game has unusual enemy movement; she has not seen all code or future plans. Nathan gains evidence that talking can go well.
 
 ### Scene 53 — Football cooperation
-**Date/location:** 24–25 Sep, California practice/team activity. **Cast:** Nathan, Maxwell, coach and players who materially act.  
-**Pre-state:** first scrimmage and Scene 48 tactical exchange. Maxwell still wants minutes; coach makes selections. **Boundary:** cooperation shown through a specific run/pass/cover. **Carry forward:** update selection, minutes, trust and tactical shorthand only if it is explicitly agreed and used.
+**Date/location:** 24–25 Sep, California practice/team activity. **Cast:** Nathan and Maxwell Whitaker, with Coach Lance and other players only if they materially act.  
+**Pre-state:** first scrimmage and Scene 48 tactical exchange. Maxwell still wants minutes; coach makes selections. **Boundary:** show one specific attacking/defensive transition that works because Nathan and Maxwell coordinate; it is practical cooperation, not instant admiration. **Carry forward:** update selection, minutes, trust and tactical shorthand only if it is explicitly agreed and used.
 
 ### Scene 54 — Callahan household/blue bowl
 **Date/location:** 24–25 Sep, rental kitchen. **Cast:** Heather and Nathan; Clifford only if present in the final beat.  
