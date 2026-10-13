@@ -125,7 +125,7 @@ Stuart, Rickey, Shane, Franklin, Leon, Gregg, Bob, Darin, Leslie, Gene, Herbert
 
 ## Working surname draw
 
-Surname assignment used a separately frozen candidate pool to reduce name reuse. **The precise 2020 Census rank for each surname has not yet been cross-checked.** All surnames introduced in this pass remain WORKING and must not be treated as evidence of ancestry or author-locked choices. Before any surname is locked or becomes central, verify its 2020 Census rank/cultural fit and record the result.
+Surname assignment used a separately frozen candidate pool to reduce name reuse. A first validation pass checked the assigned names against the displayed 2020 U.S. Census top-1,000 surname table reproduced by Behind the Name, which identifies the U.S. Census Bureau as its data source. The official Census Bureau page provides both the top-1,000 file and a complete file of 156,621 surnames; five assigned surnames were not found by searching the displayed top-1,000 page, so their exact status/rank in the full dataset remains unverified. All surnames remain WORKING and none is evidence of ancestry or an author-locked choice. Sources: [official 2020 Census names data](https://www.census.gov/topics/population/genealogy/data/2020_names.html); [2020 U.S. Census top-surname table](https://surnames.behindthename.com/top/lists/united-states/2020?display=max&sort=rank).
 
 **Seed:** 98261013  
 **Method:** Python random.Random(seed).sample(sorted(pool), 38).
@@ -158,3 +158,54 @@ Assignment order:
 - Wesley Moss uses surname slot 38.
 
 This is a reproducibility trail, not a claim that every generated name must remain. If the author dislikes a name or a later character's birthplace/cohort makes it unsuitable, retain the old draw in the log, mark the rejected name RETIRED, make a reasoned change and rerun dependencies rather than silently swapping it.
+
+
+## 2020 Census surname validation pass — partial results
+
+**Method:** matched the assigned surnames against the 2020 U.S. Census top-1,000 table at the source above. The table reports one-based ranks. This pass confirms the entries actually returned by that table/search, rather than inferring missing ranks. “Unverified” means the displayed top-1,000 page search did not return a match; it does **not** prove that the surname is absent from the official complete dataset or establish a rank above 1,000.
+
+| Assigned surname | Displayed 2020 rank | Validation status |
+|---|---:|---|
+| Morrow | 609 | Verified in top-1,000 table |
+| Kramer | 547 | Verified in top-1,000 table |
+| Shepherd | 552 | Verified in top-1,000 table |
+| Vaughn | 370 | Verified in top-1,000 table |
+| Reeves | 399 | Verified in top-1,000 table |
+| Baxter | 712 | Verified in top-1,000 table |
+| Pruitt | 801 | Verified in top-1,000 table |
+| Phelps | 664 | Verified in top-1,000 table |
+| Perry | 109 | Verified in top-1,000 table |
+| Mercer | — | Not returned by displayed-page search; full-dataset rank unverified |
+| Henson | 741 | Verified in top-1,000 table |
+| Sloan | 808 | Verified in top-1,000 table |
+| Carver | — | Not returned by displayed-page search; full-dataset rank unverified |
+| Sutton | 351 | Verified in top-1,000 table |
+| Stanton | 997 | Verified in top-1,000 table |
+| Merritt | 772 | Verified in top-1,000 table |
+| Foster | 104 | Verified in top-1,000 table |
+| Fletcher | 397 | Verified in top-1,000 table |
+| Hendrix | — | Not returned by displayed-page search; full-dataset rank unverified |
+| Rios | 233 | Verified in top-1,000 table |
+| Baldwin | 411 | Verified in top-1,000 table |
+| McBride | 535 | Verified in top-1,000 table |
+| Abbott | 661 | Verified in top-1,000 table |
+| Pratt | 558 | Verified in top-1,000 table |
+| Lawson | 267 | Verified in top-1,000 table |
+| Keller | 329 | Verified in top-1,000 table |
+| Hodge | 655 | Verified in top-1,000 table |
+| Holloway | 585 | Verified in top-1,000 table |
+| Conley | 622 | Verified in top-1,000 table |
+| Barrett | 325 | Verified in top-1,000 table |
+| Cannon | 480 | Verified in top-1,000 table |
+| Vance | 754 | Verified in top-1,000 table |
+| Barlow | — | Not returned by displayed-page search; full-dataset rank unverified |
+| Kendall | — | Not returned by displayed-page search; full-dataset rank unverified |
+| Wheeler | 254 | Verified in top-1,000 table |
+| Hutchinson | 737 | Verified in top-1,000 table |
+| Quinn | 429 | Verified in top-1,000 table |
+| Moss | 436 | Verified in top-1,000 table |
+| Whitaker (Maxwell) | 610 | Verified in top-1,000 table |
+
+**Result:** 34 of the 39 assigned-surname uses are linked to an explicit top-1,000 rank in this pass (Whitaker is an existing separately assigned name); five distinct working surnames remain unverified in the full dataset: Mercer, Carver, Hendrix, Barlow and Kendall. Do not replace names solely to make the validation table appear complete. Revisit them only if a character becomes narratively important, the full dataset becomes directly accessible, or another source contradicts a name's suitability.
+
+A frequency rank is not evidence of a particular character's ancestry, ethnicity, religion or family history. Cultural background must be separately designed and justified only if the story needs it.
