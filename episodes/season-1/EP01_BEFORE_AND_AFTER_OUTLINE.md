@@ -66,7 +66,9 @@ Open quietly with action rather than explaining reincarnation.
 
 Nathan is thirteen today.
 
-He is working on the game. The machine is already configured for C++ development. The game currently has:
+He is working on the game. The project skeleton and first prototype were started in brief sessions over 3–6 September. His Intel Mac has the period-appropriate C++/iOS development environment already configured. A second-generation iPod touch, bought or gifted by his parents in 2008, sits beside the computer; he uses it for games, but has not yet ported this prototype to it.
+
+The current game build has:
 - a basic tile/grid map;
 - player movement;
 - one enemy archetype;
@@ -158,13 +160,9 @@ Teacher does not praise him as a genius. Instead:
 This teacher should be a possible recurring academic relationship.
 
 #### Scene 7 — lunch / classmates
-A classmate starts a conversation.
+Calvin Baxter, Nathan's regular midfield partner and a returning classmate at the same Seattle middle school in this working baseline, starts a low-stakes conversation about the new term's science/lab work.
 
-Nathan is normal once spoken to.
-
-The reader sees that he is **not socially awkward in conversation**.
-
-His problem is initiation.
+Nathan responds easily and makes one small joke. The reader sees that he is **not socially awkward in conversation**; his problem is initiating contact, especially with someone he does not already know. Calvin's pre-existing trust comes from their football partnership, not from an instant new friendship.
 
 #### Scene 8 — football / captaincy outside practice
 A short conversation at school or in the team chat about the previous session. **Calvin Baxter** asks whether the midfield should adjust its spacing next time; Nathan suggests one concrete change to the distance between the holding and attacking midfielders. The others accept it without drama. This is a follow-up to the 8 September practice, not another training session.
@@ -200,17 +198,12 @@ Teacher makes him justify why.
 
 He does so calmly.
 
-His classmates' reaction should be modest:
-"Okay, that actually makes sense."
+The class reaction should be modest: a couple of students follow the explanation or nod, but nobody treats him as a prodigy. Do not give an unnamed student a memorable line or a recurring role.
 
 #### Scene 11 — football
-Practice includes a small conflict:
-- one teammate wants more time on the field;
-- Nathan mediates practically;
-- he does not give the teammate a motivational speech;
-- he identifies what the player needs to improve.
+At the regular Thursday practice, **Devon Carver**, a central-midfield substitute, asks for more playing time after feeling overlooked. Coach **Leonard Holloway** still makes selection decisions; Nathan does not promise Devon minutes.
 
-This teammate can later become important.
+Nathan mediates practically, identifies one specific improvement Devon can work on, and avoids giving him a motivational speech. Leonard notices how the captain handles the disagreement. Devon's profile already explains why he values concrete feedback and wants the coach to trust him in more than one role.
 
 #### Scene 12 — evening / Clifford's news approaches
 Clifford's work day becomes more urgent.
@@ -244,7 +237,7 @@ the code is doing exactly what he told it to do.
 #### Scene 14 — family
 Clifford gets confirmation that the promotion has been approved and that the new role is California-based.
 
-Nathan learns the news.
+Nathan learns the news. Later that evening, he sends a short message to the Seattle team group chat so the coach and squad know before the Saturday match; keep their responses ordinary rather than giving every teammate the same reaction.
 
 The scene should begin with practical questions:
 - When?
@@ -300,13 +293,9 @@ Keep the line quiet and specific. Calvin's statement reflects their actual footb
 This shows self-undervaluation outside romance.
 
 #### Scene 18 — coach
-Coach tells Nathan he has leadership qualities.
+Coach Leonard Holloway tells Nathan that he has leadership qualities. Nathan is embarrassed.
 
-Nathan is embarrassed.
-
-Coach gives him practical advice for joining another team.
-
-Later, this advice can matter.
+Leonard gives him one practical piece of advice for joining another team: learn the new side's shape and habits before trying to change them. This is specific coaching advice, not a grand farewell speech. Later, Nathan remembers it when he first assesses the California team's routines.
 
 #### Scene 19 — moving logistics
 Boxes begin appearing.
@@ -350,11 +339,9 @@ A shared field could represent the reusable part.
 He makes rough notes.
 
 #### Scene 22 — school departure preparation
-Nathan sends a few messages to teammates / friends.
+Nathan sends brief follow-up messages to **Calvin Baxter, Tristan Morrow and Devon Carver**. They already know the move is happening from the team group message on 11 September; these private messages are about keeping in touch and saying goodbye, not revealing the news for the first time.
 
-No huge farewell scene.
-
-A sense that his old life is ending because of logistics rather than a dramatic decision.
+No huge farewell scene. The old life is ending through logistics rather than one dramatic decision. Record any specific promise only if the scene actually makes it.
 
 ---
 
@@ -373,12 +360,10 @@ Use sensory details:
 - tired parents;
 - Nathan reading rather than watching something.
 
-#### Scene 24 — Clifford starts California role
-Can be a short parallel scene.
+#### Scene 24 — Clifford's California role begins
+Use a short remote work-transition beat after the family's arrival, such as Clifford joining a scheduled handoff call from the rental once the laptop and connection are available. Do not show him simultaneously travelling with the family and physically working in a California office.
 
-He is already working.
-
-This makes the promotion feel real rather than "dad got a new title."
+The role is real and already demanding, but this first beat is a transition/check-in rather than a full office day. It makes the promotion consequential without breaking the travel chronology.
 
 #### Scene 25 — temporary rental
 The family enters the California rental.
@@ -566,9 +551,9 @@ Perfect.
 ### 19–20 September — weekend bridge
 
 #### Scene 40 — new football environment
-Saturday activity/match.
+On Saturday, Nathan attends a **coach-run internal assessment scrimmage**, not an official league match. This follows the contact with Coach Lance Conley on 16 September and gives the coach a reason to evaluate Nathan.
 
-Nathan earns respect.
+Nathan earns a little respect through how he adapts to the existing team's habits.
 
 Maxwell Whitaker is introduced as a possible friend. He wants more playing time and is wary of being overlooked, but he is not hostile. See [Maxwell's working profile](../../canon/characters/MAXWELL_WHITAKER.md).
 
@@ -583,8 +568,7 @@ Clifford spends long hours working.
 
 Nathan finds the kitchen / local street / route to school unfamiliar.
 
-Small detail:
-one item the family needs is bought for the rental.
+The family opens an essentials box and gets a few daily routines working, but most belongings remain packed. Do not add a new purchase here unless it is named and entered in the object ledger first.
 
 #### Scene 42 — Nathan + game
 He works on local steering.
@@ -671,7 +655,7 @@ Potential parallel snippets:
 Nathan is elsewhere.
 
 #### Nathan thread
-- school is now his third day in the building;
+- school is now his sixth school day in the building (16–18 and 21–23 September);
 - Alex is no longer a stranger;
 - he has a small football foothold;
 - at night he works on the game.
@@ -702,13 +686,9 @@ He has **not** finished the implementation.
 ### 24–25 September
 
 #### Scene 51 — school reputation
-A teacher asks Nathan a harder question based on earlier performance.
+CA-MATH-01, the same mathematics teacher who has seen Nathan's September work, asks a harder follow-up question. Nathan reasons through it.
 
-Nathan answers.
-
-Teacher asks whether he has considered an academic club/competition.
-
-Nathan assumes this is encouragement because he is new.
+The teacher then mentions the school's optional maths-enrichment/competition group as a possible next step. Nathan assumes the suggestion may be generic encouragement because he is new; he does not sign up on the spot. The exact meeting date and commitment are not fixed until the follow-up is developed and recorded.
 
 #### Scene 52 — Alex
 Brief conversation without homework.
