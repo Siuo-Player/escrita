@@ -24,7 +24,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ## Opening state on 7 September
 
-**Nathan:** turns 13 today. His prior-life transition roughly two weeks earlier is a separate event. He lives with Clifford and Heather in the Seattle area; he has a real school/football history and is captain of his established team. The game is a small C++ 2D prototype with grid map, player movement, one enemy archetype, simple patrol, and A* pathfinding. No flow field, prediction layer, release build, fame, or outside audience yet. He is advanced in maths/programming and football, but limited by time, tools available in 2009, debugging, fatigue, perfectionism, and social hesitation. No allergy, chronic condition, injury, or dominant foot has been established.
+**Nathan:** turns 13 today. His prior-life transition roughly two weeks earlier is a separate event. He lives with Clifford and Heather in the Seattle area; he has a real school/football history and is captain of his established team. He already has an Intel Mac development computer with a period-appropriate C++ environment and a second-generation iPod touch obtained by the family before the opening, plausibly a 2008 gift/purchase. Clifford handles any adult developer-account/signing administration needed for actual iOS device builds; these are WORKING technical details under DEC-013. The game is a small C++ 2D prototype with grid map, player movement, one enemy archetype, simple patrol, and A* pathfinding. No flow field, prediction layer, release build, fame, or outside audience yet. He is advanced in maths/programming and football, but limited by time, tools available in 2009, debugging, fatigue, perfectionism, and social hesitation. No allergy, chronic condition, injury, or dominant foot has been established.
 
 **Clifford and Heather:** love Nathan and understand his preference for practical gifts and quiet praise. Clifford's California leadership role has been discussed at work for weeks, but the final decision has not been confirmed to Nathan. Heather knows the option exists and is watching the work situation. Neither parent knows about reincarnation.
 
@@ -38,7 +38,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ### Scene 1 — Nathan at the computer
 **Date/location:** 7 Sep, Callahan home. **Cast:** Nathan.  
-**Pre-state:** opening game build and birthday as above; computer is already configured for C++ development. **Boundary:** competence appears through testing and decisions, not a reincarnation monologue. **Carry forward:** one and five enemies run acceptably; repeated path searches become a concrete question. No profiler diagnosis or flow field yet.
+**Pre-state:** opening game build and birthday as above; Intel Mac is already configured for period-appropriate C++/iOS development; the owned test iPod touch exists before this scene, even if it does not appear on-page. **Boundary:** competence appears through testing and decisions, not a reincarnation monologue. **Carry forward:** one and five enemies run acceptably; repeated path searches become a concrete question. No profiler diagnosis or flow field yet.
 
 ### Scene 2 — Birthday breakfast
 **Date/location:** 7 Sep, Callahan kitchen. **Cast:** Nathan, Clifford, Heather.  
