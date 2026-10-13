@@ -24,7 +24,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ## Opening state on 7 September
 
-**Nathan:** turns 13 today. His prior-life transition roughly two weeks earlier is a separate event. He lives with Clifford and Heather in the Seattle area; he has a real school/football history and is captain of his established team. He already has an Intel Mac development computer with a period-appropriate C++ environment and a second-generation iPod touch obtained by the family before the opening, plausibly a 2008 gift/purchase. Clifford handles any adult developer-account/signing administration needed for actual iOS device builds; these are WORKING technical details under DEC-013. The game is a small C++ 2D prototype with grid map, player movement, one enemy archetype, simple patrol, and A* pathfinding. No flow field, prediction layer, release build, fame, or outside audience yet. He is advanced in maths/programming and football, but limited by time, tools available in 2009, debugging, fatigue, perfectionism, and social hesitation. No allergy, chronic condition, injury, or dominant foot has been established.
+**Nathan:** turns 13 today. His prior-life transition roughly two weeks earlier is a separate event. He lives with Clifford and Heather in the Seattle area; he has a real school/football history and is captain of his established team. He already has an Intel Mac development computer with a period-appropriate C++ environment and a second-generation iPod touch obtained by the family before the opening, plausibly a 2008 gift/purchase. Clifford handles any adult developer-account/signing administration needed for actual iOS device builds; these are WORKING technical details under DEC-013. The project skeleton and first prototype were begun in short sessions from 3–6 September; the first on-page scene starts with an existing build. The game is a small C++ 2D prototype with grid map, player movement, one enemy archetype, simple patrol, and A* pathfinding. No flow field, prediction layer, release build, fame, or outside audience yet. He is advanced in maths/programming and football, but limited by time, tools available in 2009, debugging, fatigue, perfectionism, and social hesitation. No allergy, chronic condition, injury, or dominant foot has been established.
 
 **Clifford and Heather:** love Nathan and understand his preference for practical gifts and quiet praise. Clifford's California leadership role has been discussed at work for weeks, but the final decision has not been confirmed to Nathan. Heather knows the option exists and is watching the work situation. Neither parent knows about reincarnation.
 
@@ -38,7 +38,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ### Scene 1 — Nathan at the computer
 **Date/location:** 7 Sep, Callahan home. **Cast:** Nathan.  
-**Pre-state:** opening game build and birthday as above; Intel Mac is already configured for period-appropriate C++/iOS development; the owned test iPod touch exists before this scene, even if it does not appear on-page. **Boundary:** competence appears through testing and decisions, not a reincarnation monologue. **Carry forward:** one and five enemies run acceptably; repeated path searches become a concrete question. No profiler diagnosis or flow field yet.
+**Pre-state:** opening game build and birthday as above; Intel Mac is already configured for period-appropriate C++/iOS development; the second-generation iPod touch sits beside the computer as stated in the outline, but the prototype has not yet been ported to it. **Boundary:** competence appears through testing and decisions, not a reincarnation monologue. **Carry forward:** one and five enemies run acceptably; repeated path searches become a concrete question. No profiler diagnosis or flow field yet.
 
 ### Scene 2 — Birthday breakfast
 **Date/location:** 7 Sep, Callahan kitchen. **Cast:** Nathan, Clifford, Heather.  
@@ -60,9 +60,9 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Date/location:** 9 Sep, Seattle school. **Cast:** Nathan, SEA-MATH-01, class aggregate.  
 **Pre-state:** first formal school week; teacher has returning-student context but no private knowledge. **Boundary:** Nathan initially explains too abstractly, notices the mismatch and simplifies. Teacher asks one harder follow-up rather than calling him a genius. **Carry forward:** teacher has evidence of genuine reasoning and may later consider enrichment; Nathan worries he sounded arrogant.
 
-### Scene 7 — Lunch/classmates
-**Date/location:** 9 Sep, school. **Cast:** Nathan and classmates as aggregate.  
-**Pre-state:** ordinary returning student. **Boundary:** he converses normally after another person starts; initiation is the difficulty. **Carry forward:** no specific friendship, promise, secret or recurring joke. Profile any classmate who gets a unique action or later callback.
+### Scene 7 — Lunch/Calvin
+**Date/location:** 9 Sep, school. **Cast:** Nathan and Calvin Baxter.  
+**Pre-state:** Calvin is Nathan's regular midfield partner and, in the working school assignment, a returning classmate in the same year group. They have known each other since the previous school year, but their bond is primarily practical football trust. **Boundary:** Calvin starts a low-stakes conversation about the new term's science/lab work; Nathan responds easily and makes a small joke. This shows that initiation is harder with unfamiliar people, not that Nathan cannot converse. No new promise or deep friendship is created. **Carry forward:** Calvin knows Nathan is still the same capable, approachable teammate; he does not know about reincarnation or the move yet.
 
 ### Scene 8 — Football/captaincy outside practice
 **Date/location:** 9 Sep, school or team-message exchange. **Cast:** Nathan and Calvin Baxter; other teammates only if named in the actual message.  
@@ -90,7 +90,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ### Scene 14 — Family: promotion confirmed
 **Date/location:** 11 Sep, Callahan home. **Cast:** Nathan, Clifford, Heather.  
-**Pre-state:** parents knew the promotion was possible; Nathan noticed work pressure only. **Boundary:** this is Nathan's first clear confirmation; practical questions come before the emotional reaction. **Carry forward:** all three know the move is required; teammates have not yet been told unless a later message is recorded.
+**Pre-state:** parents knew the promotion was possible; Nathan noticed work pressure only. **Boundary:** this is Nathan's first clear confirmation; practical questions come before the emotional reaction. **Carry forward:** all three know the move is required. After the family conversation, Nathan sends a brief message in the Seattle team group chat so the coach and squad know before the Saturday match; this is the first team-wide notice.
 
 ### Scene 15 — Parents' explanation
 **Date/location:** 11 Sep, same conversation or immediate continuation. **Cast:** Nathan, Clifford, Heather.  
@@ -98,19 +98,19 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ### Scene 16 — Nathan alone
 **Date/location:** 11 Sep night. **Cast:** Nathan.  
-**Pre-state:** the move is known; teammates haven't heard from him yet. **Boundary:** returning to coding is a way to focus on something controllable, not evidence he feels nothing. **Carry forward:** private sense of loss coexists with continuing work.
+**Pre-state:** the move is known, and the team has received Nathan's brief group message after the family reveal. He has not yet had individual farewell conversations with teammates. **Boundary:** returning to coding is a way to focus on something controllable, not evidence he feels nothing. **Carry forward:** private sense of loss coexists with continuing work.
 
 ### Scene 17 — Final Seattle-team match
 **Date/location:** 12 Sep, Saturday field. **Cast:** Nathan, Coach Leonard, the Seattle roster.  
-**Pre-state:** after Scene 15, Nathan sends the coach/team a short message on 11 Sep; all named players taking part know he is moving before kickoff. Working availability is the named squad, with no injury created by the outline. **Boundary:** goodbye context, not guaranteed sentimental triumph. Score, scorers and minutes remain unfixed until prose; every player with dialogue or consequential play needs their individual state. Calvin tells Nathan the team will miss having him organize midfield transitions. **Carry forward:** relationships persist after the move; the squad is not emotionally uniform. Calvin's remark is a known, character-specific exchange rather than an interchangeable farewell line.
+**Pre-state:** the team group message was sent after Scene 14 on 11 Sep; all players who participate and have received/checked the team message know Nathan is moving before kickoff. Do not give any individual a specific reaction unless it is shown. Working availability is the named squad, with no injury created by the outline. **Boundary:** goodbye context, not guaranteed sentimental triumph. Score, scorers and minutes remain unfixed until prose; every player with dialogue or consequential play needs their individual state. Calvin tells Nathan the team will miss having him organize midfield transitions. **Carry forward:** relationships persist after the move; the squad is not emotionally uniform. Calvin's remark is a known, character-specific exchange rather than an interchangeable farewell line.
 
 ### Scene 18 — Coach advice
 **Date/location:** 12 Sep after the match. **Cast:** Nathan and Leonard.  
-**Pre-state:** Leonard has watched Nathan lead through the season and knows he is moving; Nathan is embarrassed by praise. **Boundary:** practical coaching advice, not a grand speech. **Carry forward:** write down any advice reused later so Nathan does not remember a different version.
+**Pre-state:** Leonard has watched Nathan lead through the season and knows he is moving; Nathan is embarrassed by praise. **Boundary:** Leonard advises Nathan to learn the new side's shape and habits before trying to change them; this is practical coaching, not a grand speech. **Carry forward:** Nathan remembers this principle when he first assesses the California team, but still has to observe and learn their actual routines.
 
 ### Scene 19 — Moving logistics
 **Date/location:** 12 Sep, Callahan home. **Cast:** Nathan, Clifford, Heather; movers as aggregate.  
-**Pre-state:** move around 14 Sep; computer/peripherals, books, football gear and notebook are owned items. **Boundary:** selective physical detail, not a shopping documentary. **Carry forward:** fragile computer gear and cables travel together; note what is kept accessible versus packed.
+**Pre-state:** move around 14 Sep; Intel Mac, peripherals/cables, second-generation iPod touch and its cable, books, football gear and notebook are owned items. **Boundary:** selective physical detail, not a shopping documentary. **Carry forward:** fragile computer gear and cables travel together; keep the iPod and its cable accessible enough for the first unpacking, without implying that the unfinished game is already installed on it.
 
 ### Scene 20 — Family planning
 **Date/location:** 13 Sep, Callahan kitchen/table. **Cast:** Nathan, Clifford, Heather.  
@@ -120,17 +120,17 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Date/location:** 13 Sep, Nathan's study area. **Cast:** Nathan.  
 **Pre-state:** profiler proves repeated searches; he has previously read about pathfinding/field-based methods. **Boundary:** a promising recognition, not a finished algorithm. **Carry forward:** notebook has the rough idea of sharing global navigation information; implementation incomplete.
 
-### Scene 22 — Departure messages
-**Date/location:** 13 Sep, Nathan's room. **Cast:** Nathan; Calvin, Tristan, Devon only if directly messaged.  
-**Pre-state:** team already knows the move; recipients have their own school/family commitments. **Boundary:** create only the exact replies/promises shown. Nathan may discount sincere responses, but that is his interpretation. **Carry forward:** record who replied, what they know, and any specific keep-in-touch promise.
+### Scene 22 — Follow-up messages
+**Date/location:** 13 Sep, Nathan's room. **Cast:** Nathan; Calvin Baxter, Tristan Morrow and Devon Carver.  
+**Pre-state:** the team already knows the move from the 11 Sep group message; these three have separate relationships and home/school commitments. **Boundary:** the messages are individual follow-ups, not the first reveal. Nathan may discount sincere replies, but that is his interpretation. **Carry forward:** record who replied, the exact knowledge shared, and any promise to keep in touch; do not invent promises if the scene does not make them.
 
 ### Scene 23 — Departure
 **Date/location:** 14 Sep, travel from Seattle to Southern California. **Cast:** Nathan, Clifford, Heather; public crowd as aggregate.  
-**Pre-state:** named possessions packed; rental and school logistics arranged. **Boundary:** travel fatigue/location order must be plausible; teammates don't travel with them. **Carry forward:** California arrival, no permanent house yet, computer setup only available after unpacking.
+**Pre-state:** Intel Mac and peripherals, iPod touch/cable, books, football gear and notebook are packed; rental and school logistics arranged. **Boundary:** travel fatigue/location order must be plausible; teammates don't travel with them. **Carry forward:** California arrival, no permanent house yet; home coding resumes only after the computer is set up.
 
 ### Scene 24 — Clifford starts California role
-**Date/location:** 14 Sep, work-transition beat. **Cast:** Clifford; coworkers aggregate unless named.  
-**Pre-state:** promotion/relocation confirmed. **Boundary:** if work happens during travel, establish a call/remote setup; no simultaneous presence in two locations. Exact employer/title remains provisional. **Carry forward:** work demands are real and contribute to long hours, but do not make the family settled.
+**Date/location:** 14 Sep, after arrival at the rental. **Cast:** Clifford; coworkers aggregate unless named.  
+**Pre-state:** promotion/relocation confirmed and the family has arrived in California. **Boundary:** Clifford makes a short remote work-transition/handoff call once his laptop and connection are available; he is not also physically at an office while travelling with the family. Exact employer/title remains provisional. **Carry forward:** work demands are real and contribute to long hours, but do not make the family settled.
 
 ### Scene 25 — Temporary rental
 **Date/location:** 14 Sep, California rental. **Cast:** Nathan, Clifford, Heather; movers aggregate.  
@@ -185,9 +185,9 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ### Scene 37 — Practical first Alex conversation
 **Date/location:** 18 Sep, school-library reference area. **Cast:** Alex, Nathan.  
-**Pre-state:** two distant sightings, no conversation. Alex needs the reference resource for an academic task; Nathan is using it at a common table. Nathan knows her identity privately; she does not know why.  
-**Boundary:** the request is practical. Nathan answers, adds a clarification, then hedges/apologizes unnecessarily. Alex's impression is based on this brief exchange only.  
-**Carry forward:** they meaningfully meet; Alex learns his name through an ordinary introduction, Nathan already knows hers. Record whether the resource is shared, returned, or another copy found.
+**Pre-state:** two distant sightings, no conversation. Nathan is consulting the library's reference copy of a problem-solving book with mathematical maze/logic puzzles because he is thinking about grid pathfinding. Alex has come to check one section for an optional class problem-solving challenge and asks how long he needs the book. Nathan knows her identity privately; she does not know why.  
+**Boundary:** the request is practical, not a contrived romantic setup. Nathan gives her a useful answer, adds a clarification, then hedges/apologizes unnecessarily. Alex's impression is based on this brief exchange only.  
+**Carry forward:** they meaningfully meet; Alex learns his name through an ordinary introduction, Nathan already knows hers. The book is library property, shared briefly and returned to the correct place the same day; neither character owns it.
 
 ### Scene 38 — After the conversation
 **Date/location:** 18 Sep, corridor/walk home. **Cast:** Nathan only.  
@@ -241,11 +241,11 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ### Scene 50 — Technical realization
 **Date/location:** 23 Sep after school/evening. **Cast:** Nathan.  
-**Pre-state:** stable navigation field, no robust predictor; school/team footholds remain new. **Boundary:** weighted guess from last sighting, direction, likely exits and recent choices is a design concept/rough representation. The Pilot occurs separately; Nathan is not a witness. **Carry forward:** prediction prototype exists on paper or in code, not finished.
+**Pre-state:** this is Nathan's sixth school day at the California school (16–18 and 21–23 Sep); stable navigation field, no robust predictor; school/team footholds remain new. **Boundary:** weighted guess from last sighting, direction, likely exits and recent choices is a design concept/rough representation. The Pilot occurs separately; Nathan is not a witness. **Carry forward:** prediction prototype exists on paper or in code, not finished.
 
 ### Scene 51 — School reputation/academic opportunity
 **Date/location:** 24–25 Sep, CA-MATH-01's class. **Cast:** Nathan, teacher, class aggregate.  
-**Pre-state:** teacher has observed several pieces of work, not just one answer. **Boundary:** a harder question and optional club/competition offer are evidence-based. Nathan may misread it as generic encouragement; no enrollment occurs unless he agrees. **Carry forward:** record the actual opportunity, deadline and meeting date before later scenes assume membership.
+**Pre-state:** teacher has observed several pieces of work, not just one answer. **Boundary:** CA-MATH-01 poses a harder follow-up and mentions the school's optional maths-enrichment/competition group based on several observed pieces of work. Nathan may misread the suggestion as generic encouragement; no enrollment occurs here. **Carry forward:** exact meeting date/deadline and Nathan's commitment remain undecided until the follow-up is developed; do not assume membership.
 
 ### Scene 52 — Alex asks about the project
 **Date/location:** 24–25 Sep, shared school space. **Cast:** Alex and Nathan.  
