@@ -19,7 +19,7 @@ Every named player below has a first-pass causal background: what he wants, what
 - The current outline schedules the old school's first formal week beginning Wednesday, 9 September. The squad's ordinary practice pattern is Tuesday/Thursday and a match or team event on Saturday.
 - The family move is expected around 14 September; the old team's goodbye context is around the 12 September activity/match. Keep the exact score, opponent, individual goal-scorers and any injury unset until the scene requires them.
 - The new-team scene around 19 September is best treated as a controlled training game/scrimmage unless the outline establishes that player registration and competition rules permit an official fixture. That lets the coach assess Nathan without making him captain or guaranteeing his long-term starting place on day one.
-- Current source documents disagree about whether 7 September is Nathan's thirteenth birthday or whether he is still roughly two weeks away from it. See DEC-012 in the [Decision Log](../DECISION_LOG.md). Do not use another player's age as a reason to silently resolve that conflict.
+- The age/date concern was reviewed and closed under DEC-012: Nathan turns thirteen on 7 September 2009, while the prior-life transition roughly two weeks earlier is a separate event. Do not reopen it as a contradiction.
 
 ## A. Seattle-area team — Nathan's old team
 
