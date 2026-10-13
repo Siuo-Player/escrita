@@ -303,11 +303,11 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** log role/minutes/tactical communication and who initiated the casual interaction.
 
 ### Scene 38 — Old-device test
-**Date:** 13 October evening, test of conservative 2009 mobile hardware or a faithful period-equivalent profile.  
+**Date:** 13 October evening, on Nathan's existing second-generation iPod touch running a documented period-appropriate iPhone OS 3.x setup.  
 **Cast:** Nathan.  
-**Pre-state:** game target is conservative iPhone 3G-class hardware; target around 30 FPS and normal scenarios with roughly 10–20 enemies, with 24 as a stress test.  
-**Boundary:** record device/profile, measured result and test scenario. If Nathan uses an actual iPhone/iPod touch, state how he has access to it; do not assume magical emulator fidelity or a public release.  
-**Carry forward:** a successful test removes only the defects actually measured. If a performance cliff appears, he fixes it by reducing redundant work or limiting the relevant workload, not by demanding newer hardware.
+**Pre-state:** the device was acquired before the story opened; Clifford handles the adult signing/provisioning route established under DEC-013. Target is conservative iPhone 3G-class hardware, around 30 FPS under normal scenarios with roughly 10–20 enemies and 24 as a stress test.  
+**Boundary:** record OS version, build identifier, actual measured result and scenario; don't substitute a Mac simulator run for a device result and don't invent frame-rate numbers before testing. This is a private development build, not a public release.  
+**Carry forward:** a successful test removes only the defects actually measured. If a performance cliff appears, Nathan fixes it by reducing redundant work or limiting the relevant workload, not by demanding newer hardware.
 
 ### Scene 39 — Alex conversation / Nathan initiates
 **Date:** 13 October, shared school space.  
@@ -370,8 +370,8 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Date:** 15 October after school/evening, Callahan home or supervised school-approved setting.  
 **Cast:** Nathan and Wesley Moss only if the outline explicitly has the test; parent present if needed for device/access.  
 **Pre-state:** game target tests have passed for the recorded cases; remaining issues and build version are documented. Wesley is a technology/library acquaintance, not a professional reviewer.  
-**Chosen working beat:** Nathan packages a small local build and lets Wesley play on Nathan's own development/test setup after school. Wesley notices that guards move less predictably than the usual enemy AI; Nathan explains one concept simply. There is no public App Store launch, fame, or uncontrolled external distribution.  
-**Boundary:** if the build is iOS-specific, the target device and toolchain must be accessible and period-appropriate. The demo gives Wesley firsthand knowledge only of what he plays/sees.  
+**Chosen working beat:** Nathan packages a small local build and lets Wesley play on Nathan's second-generation iPod touch after school, with the device/build already prepared through the parent-managed signing route. Wesley notices that guards move less predictably than the usual enemy AI; Nathan explains one concept simply. There is no public App Store launch, fame, or uncontrolled external distribution.  
+**Boundary:** the build uses the period-correct Mac/Xcode/iPhone OS toolchain. The demo gives Wesley firsthand knowledge only of what he plays/sees; don't claim a measured performance result here unless the scene records it.  
 **Carry forward:** a private build is packaged and shown to one trusted tester. Record build identifier, what Wesley tested, feedback, device/tool used, and any remaining bugs. Public release/distribution stays UNDECIDED.
 
 ### Scene 48 — Final emotional beat
