@@ -259,61 +259,61 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Boundary:** he stops at a reasonable hour because tomorrow's assignment/school routine is a real constraint. This is one successful prioritization, not a permanent cure for perfectionism.  
 **Carry forward:** sleep/rest state on 12 October is better than if he worked until 2 a.m.; don't describe him as exhausted without a later cause.
 
-### Scene 32 — Schoolwork and game conflict
-**Date:** Monday 12 October, after school/evening.  
-**Cast:** Nathan.  
-**Pre-state:** school assignment due soon and optional game-polish work compete. He has demonstrated both strong ability and perfectionism.  
-**Boundary:** he tries to do both perfectly, discovers time is finite, and must choose.  
-**Carry forward:** note exactly which assignment and game task are deferred, and the deadline. Don't make him forget a school obligation in order to force the scene.
+### Scene 32 — Alex notices a little fatigue
+**Date/time:** Monday, 12 October, 12:20–12:30, school lunch break.
+**Cast:** Alex and Nathan.
+**Pre-state:** busy weekend; Nathan followed Sunday's plan and did not code all night. He is only mildly tired.
+**Boundary:** Alex notices slower responses/less-rested appearance and asks whether he slept enough. Nathan says he did sleep. She notices fatigue, not a proven lie, and does not know the cause. No link to events of 14 October exists.
+**Carry forward:** Alex has observed mild tiredness only; she does not know Nathan's workload or game schedule unless he tells her.
 
-### Scene 33 — Heather notices / prioritization
-**Date:** 12 October, home.  
-**Cast:** Nathan and Heather.  
-**Pre-state:** Heather is handling household logistics and sees Nathan's actual study/work behavior; she knows his habits but not necessarily every game bug.  
-**Boundary:** Heather asks what is due and helps him choose a priority; she doesn't order him to abandon the game or deliver generic wisdom.  
-**Carry forward:** Nathan selects one task for the evening and explicitly defers another. Record this choice and its consequence.
+### Scene 33 — Schoolwork and game conflict
+**Date/time:** Monday, 12 October, 15:20–16:20, after school.
+**Cast:** Nathan.
+**Pre-state:** an ordinary school assignment is due Wednesday 14 October; game polish remains optional.
+**Boundary:** Nathan tries to optimize both commitments, sees the limited time and chooses to complete the assignment first. Record the exact assignment and the optional game task deferred; the due date must remain active until completed.
+**Carry forward:** schoolwork gets the first priority tonight; the named game task remains open, not forgotten.
 
-### Scene 34 — Alex notices he is tired
-**Date:** 12 October, school.  
-**Cast:** Nathan and Alex.  
-**Pre-state:** workload conflict began the previous evening; exact sleep must agree with Scene 31 and any late work after it.  
-**Boundary:** Alex notices a visible sign (yawn, slower response, unfinished work), asks if he slept, and hears his dishonest "yes." She can suspect, not know, why.  
-**Carry forward:** she has evidence he sometimes hides difficulty; he knows she noticed. Don't claim she knows his coding hours unless he told her.
+### Scene 34 — Heather helps prioritize
+**Date/time:** Monday, 12 October, 17:00–17:20, Callahan rental.
+**Cast:** Heather and Nathan.
+**Pre-state:** Heather sees the actual assignment and Nathan's stated plan; she knows his study behavior, not every technical issue.
+**Boundary:** she helps him compare the deadline with optional polish. Nathan completes the school task before the evening coding block and limits coding to one measured task.
+**Carry forward:** record completion of the assignment and the exact game task deferred. Do not repeat the same deadline as still pending after completion.
 
 ### Scene 35 — Game optimization
-**Date:** 12 October evening.  
-**Cast:** Nathan.  
-**Pre-state:** six issues logged; the previous night's prioritization determines what he can work on.  
-**Boundary:** optimization work—update frequency, caching, compact state and fewer redundant calculations—must fix specific measured bottlenecks, not every bug at once.  
-**Carry forward:** update bug statuses individually; retain collision, UI/feedback or gameplay defects until each has a credible fix/test.
+**Date/time:** Monday, 12 October, 20:00–22:00, Nathan's computer.
+**Cast:** Nathan.
+**Pre-state:** school assignment completed; deferred optional polish item still open.
+**Boundary:** one measured optimization and its regression test, not an implied fix for all six issues. Do not use later test results before those tests occur.
+**Carry forward:** update only the issue actually fixed/tested; retain the other bug states.
 
 ### Scene 36 — School / academic opportunity follow-up
-**Date:** Tuesday 13 October, school.  
-**Cast:** Nathan and CA-MATH-01; class aggregate.  
-**Pre-state:** CA-MATH-01 mentioned the optional maths-enrichment/competition group on 6 October. Nathan is interested but has not committed, and the exact meeting time has not yet been checked against football.  
-**Boundary:** CA-MATH-01 gives Nathan the information and next steps. Nathan says he intends to pursue it, but checks the meeting time against football before committing to attendance. This is the first time he initiates a concrete next step himself; it does not mean he is already enrolled.  
-**Carry forward:** no membership or attendance is established yet. A later scene must record the meeting time, parental/transport arrangements and actual signup before treating him as a member.
+**Date/time:** Tuesday 13 October, 10:20–10:30, outside CA-MATH-01's classroom after a lesson.
+**Cast:** Nathan and CA-MATH-01; classmates aggregate.
+**Pre-state:** teacher mentioned the optional maths-enrichment/competition group on 6 October. Nathan is interested but not enrolled; he has not checked the meeting time against football.
+**Boundary:** the teacher supplies actual next steps. Nathan says he intends to pursue it but makes no attendance commitment before checking the schedule. The teacher knows Nathan programs only if an earlier explicit conversation or observable work is recorded; this scene does not grant hidden knowledge.
+**Carry forward:** club identity and deadline must be recorded when supplied; enrollment, attendance, transport and parent permission remain unresolved.
 
-### Scene 37 — Football / casual inclusion
-**Date:** 13 October, scheduled California practice.  
-**Cast:** Nathan, Maxwell, Coach Lance and players participating.  
-**Pre-state:** the team has several weeks of shared training/scrimmage experience. Maxwell's trust has risen but he's still an independent teammate, not merely Nathan's sidekick.  
-**Boundary:** Maxwell includes Nathan in a drill and uses the team's shorthand with him without explaining every routine. Nathan remains non-captain.  
-**Carry forward:** log role/minutes/tactical communication and who initiated the casual interaction.
+### Scene 37 — Alex / Nathan initiates
+**Date/time:** Tuesday 13 October, 12:20–12:30, school lunch break.
+**Cast:** Alex and Nathan.
+**Pre-state:** several short interactions across three weeks; possible attraction remains unspoken.
+**Boundary:** Nathan initiates a short joke. Alex laughs; Nathan considers the possibility that she is merely polite, but the story does not confirm that interpretation.
+**Carry forward:** Nathan has initiated one non-academic interaction; Alex has had another normal positive exchange with him.
 
-### Scene 38 — Old-device test
-**Date:** 13 October evening, on Nathan's existing second-generation iPod touch running a documented period-appropriate iPhone OS 3.x setup.  
-**Cast:** Nathan.  
-**Pre-state:** the device was acquired before the story opened; Clifford handles the adult signing/provisioning route established under DEC-013. Target is conservative iPhone 3G-class hardware, around 30 FPS under normal scenarios with roughly 10–20 enemies and 24 as a stress test.  
-**Boundary:** record OS version, build identifier, actual measured result and scenario; don't substitute a Mac simulator run for a device result and don't invent frame-rate numbers before testing. This is a private development build, not a public release.  
-**Carry forward:** a successful test removes only the defects actually measured. If a performance cliff appears, Nathan fixes it by reducing redundant work or limiting the relevant workload, not by demanding newer hardware.
+### Scene 38 — Football / casual inclusion
+**Date/time:** Tuesday 13 October, 16:00–17:30, scheduled California practice.
+**Cast:** Nathan, Maxwell, Coach Lance and participating players.
+**Pre-state:** team shorthand and trust have developed through the 19 September scrimmage and subsequent training.
+**Boundary:** Maxwell includes Nathan in a drill. Nathan remains non-captain; Coach Lance chooses the roles and minutes.
+**Carry forward:** record the specific drill/action and who witnessed it; no generalized whole-team admiration.
 
-### Scene 39 — Alex conversation / Nathan initiates
-**Date:** 13 October, shared school space.  
-**Cast:** Alex and Nathan.  
-**Pre-state:** they have repeated contact, enough for a small joke but not a confession. She has seen his discomfort with praise and signs of overwork; she doesn't know all causes.  
-**Boundary:** Nathan initiates a short joke. Alex's laughter is a real social response, but he immediately misreads it as politeness because he discounts himself. That interpretation belongs to him, not the narration as objective fact.  
-**Carry forward:** he has initiated one non-academic interaction; Alex has another positive/ordinary exchange with him.
+### Scene 39 — Old-device technical test
+**Date/time:** Tuesday 13 October, 19:15–21:15, Callahan home.
+**Cast:** Nathan.
+**Pre-state:** the second-generation iPod touch and parent-managed signing route exist; the candidate has already passed the documented Mac/simulator stress case.
+**Boundary:** record device OS/build/scenario and actual results. A measured performance cliff prompts a targeted reduction in redundant work and a rerun of that scenario. The test does not close unrelated collision/UI/playability issues.
+**Carry forward:** the named performance issue is fixed only if the repeat test passes; other issues remain until their own verification.
 
 ### Scene 40 — School on The Incident day
 **Date:** Wednesday 14 October, school.  
@@ -338,46 +338,48 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** record final outstanding defects and test evidence; no new code feature appears without implementation time.
 
 ### Scene 43 — Morning / ordinary school
-**Date:** Thursday 15 October, morning/school.  
-**Cast:** Nathan, classmates and teacher as active.  
-**Pre-state:** game is nearly complete; Nathan has recent test fatigue and has been balancing an assignment and programming.  
-**Boundary:** he is tired but functional; school feeling routine is an emotional change, not a claim that every social problem is solved.  
-**Carry forward:** retain any assignment deadline/result and fatigue state for the day's later scenes.
+**Date/time:** Thursday 15 October, 08:05–08:20, before first lesson.
+**Cast:** Nathan; classmates only as active.
+**Pre-state:** late-stage testing is nearly complete; the 12 October school assignment has been completed.
+**Boundary:** Nathan is a little tired but functional; routine at school does not mean all social difficulties are gone.
+**Carry forward:** any fatigue must be consistent with the previous night's finish time; no school deadline is silently erased.
 
 ### Scene 44 — Teacher / harder follow-up
-**Date:** 15 October, class.  
-**Cast:** Nathan and CA-MATH-01.  
-**Pre-state:** teacher has observed consistent work over weeks and knows Nathan programs.  
-**Boundary:** offer a harder follow-up or next-step problem rather than praise alone. Nathan is motivated by having something to solve.  
-**Carry forward:** teacher's academic expectations rise. Any future competition/club opportunity must connect to what Nathan actually accepted at Scene 36.
+**Date/time:** Thursday 15 October, 10:10–10:25, class.
+**Cast:** Nathan and CA-MATH-01.
+**Pre-state:** the teacher has observed several weeks of reasoning; any knowledge of Nathan's programming must have an explicit prior source.
+**Boundary:** a specific harder problem, not generic praise. Any club participation still depends on the actual signup.
+**Carry forward:** teacher's expectations rise slightly; no enrollment is inferred.
 
-### Scene 45 — Maxwell's weekend invitation
-**Date:** Thursday 15 October, after scheduled California training.  
-**Cast:** Nathan and Maxwell; Coach Lance and the training group are present during the session, but the conversation happens after it.  
-**Pre-state:** several shared activities and tactical conversations; not best friends; Nathan is not captain. The post-match invitation from 10 October has already been accepted.  
-**Boundary:** Maxwell asks whether Nathan would like to get a snack with a couple of teammates after their usual Saturday team activity. It extends the existing social contact; it is not a new official fixture or a promise about playing time. Nathan says he is interested but will check with his parents about transport.  
-**Carry forward:** a tentative invitation exists, but attendance is not confirmed. Maxwell knows only that Nathan is interested; parent permission, transport and the exact Saturday activity must be resolved before the plan becomes fact.
+### Scene 45 — Alex initiates
+**Date/time:** Thursday 15 October, 12:20–12:30, school lunch break.
+**Cast:** Alex and Nathan.
+**Pre-state:** multiple brief conversations, a shared walk and ordinary jokes.
+**Boundary:** Alex starts a non-academic conversation; Nathan stays. No confession, assumed attraction or fixed romance deadline.
+**Carry forward:** friendship is growing; neither has labelled it.
 
-### Scene 46 — Alex initiates
-**Date:** 15 October, school shared space.  
-**Cast:** Alex and Nathan.  
-**Pre-state:** multiple conversations, shared walk, jokes, and each side's observable knowledge as recorded earlier.  
-**Boundary:** Alex starts a non-academic conversation; Nathan stays instead of searching for an exit. It signals real comfort, but neither labels the relationship.  
-**Carry forward:** friendship is real and growing; no fixed Year-2 dating deadline, no assumption that Nathan and Alex have discussed attraction.
+### Scene 46 — Football / Maxwell's weekend invitation
+**Date/time:** Thursday 15 October, 16:00–17:30 training; invitation 17:32–17:40 after training.
+**Cast:** Nathan and Maxwell; Coach Lance and players during training.
+**Pre-state:** shared scrimmage and training experiences; the earlier 10 October invitation has already been accepted.
+**Boundary:** Maxwell asks whether Nathan wants a snack with two teammates after the usual Saturday activity. Nathan is interested but checks parental permission/transport before confirming.
+**Carry forward:** a tentative social plan exists; attendance remains unconfirmed.
 
-### Scene 47 — Package and private test build
-**Date:** 15 October after school/evening, Callahan home or supervised school-approved setting.  
-**Cast:** Nathan and Wesley Moss. Clifford has already handled the parent-managed signing/provisioning route; no parent needs to be present unless the scene introduces a practical reason.  
-**Pre-state:** game target tests have passed for the recorded cases; remaining issues and build version are documented. Wesley is a technology/library acquaintance, not a professional reviewer.  
-**Chosen working beat:** Nathan packages the candidate and lets Wesley play on Nathan's second-generation iPod touch after school, with the device/build already prepared through the parent-managed signing route. Wesley notices that guards move less predictably than the usual enemy AI; Nathan explains one concept simply. This is the final private device/playability check, not the public launch. After incorporating any actionable feedback, Nathan runs the last technical/regression pass and Clifford handles the adult account/submission administration for App Store review.  
-**Boundary:** the build uses the period-correct Mac/Xcode/iPhone OS toolchain. The demo gives Wesley firsthand knowledge only of what he plays/sees; don't claim a measured performance result here unless the scene records it.  
-**Carry forward:** Wesley has tested the candidate on the real device and knows only what he observed. Record the build identifier, his feedback, device/OS, and any remaining bugs. Nathan completes the final checks and submits the candidate for App Store review on 15 October; public launch is the next planned milestone after approval, with 23 October as the current working target.
+### Scene 47 — Package, final private playtest and submission
+**Date/time:** Thursday 15 October, 18:30–20:00, Callahan home; final regression/admin 20:00–21:30.
+**Cast:** Nathan and Wesley Moss; Clifford for the adult signing/submission route.
+**Pre-state:** technical issues have individual statuses; candidate build identifier, OS and target scenarios are recorded.
+**Boundary:** Wesley tries a short level without coaching. His feedback must be tied to something he actually does/notices. Nathan fixes and retests any release-blocking issue; no known critical defect ships. He runs the documented final regression cases. Clifford submits the validated candidate for App Store review by about 21:30. Submission is not publication.
+**Carry forward:** all release-blocking defects are closed with evidence; non-blocking polish opportunities may remain. Public availability is still pending review.
 
 ### Scene 48 — Final emotional beat
-**Date:** 15 October evening. **Cast:** Nathan.  
-**Pre-state:** local test complete; school and social routines are more established; the game is an achievement but still imperfect.  
-**Boundary:** Nathan can enjoy seeing the guards move and still spot potential refinements. Closing the profiler for tonight is a choice to stop, not a permanent end to perfectionism.  
-**Carry forward to Scene 49:** a candidate has been submitted to App Store review on 15 October; public availability is pending. Nathan has technical test results and feedback from Maxwell, a teammate and Wesley. Do not treat submission as a public launch.
+**Date/time:** Thursday 15 October, 21:45–22:00, Nathan's room.
+**Cast:** Nathan.
+**Pre-state:** candidate has been submitted after technical and peer playability checks; no critical issue remains in the submitted version.
+**Boundary:** Nathan can be satisfied and still notice non-blocking improvements. Closing the profiler is a choice to stop tonight, not permanent loss of perfectionism.
+**Carry forward:** public launch after review is the next planned milestone; don't describe the app as already available.
+
+
 
 ### Scene 49 — Public launch after App Store review
 **Date:** Friday, 23 October 2009.
