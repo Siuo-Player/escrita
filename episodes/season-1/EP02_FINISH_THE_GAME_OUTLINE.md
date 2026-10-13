@@ -387,78 +387,39 @@ This shows discipline.
 
 ### 12 October
 
-#### Scene 32 — school pressure
-A normal assignment collides with game testing.
+#### Scene 32 — Alex notices a little fatigue
+**Time:** 12:20–12:30, during the school lunch break.
+Alex notices that Nathan is a little slower to answer and seems less rested than usual. She asks whether he slept enough. Nathan says he did sleep; she notices a small sign of fatigue but does not know its cause, and the narration must not claim she can read a lie. The tiredness is mild and cumulative after a busy weekend, not the result of an all-night coding session. This is a brief check-in, not an intimate diagnosis.
 
-Nathan tries to do both perfectly.
+#### Scene 33 — school pressure after classes
+**Time:** 15:20–16:20, after the school day.
+A normal assignment due Wednesday 14 October competes with game work. Nathan initially tries to do both perfectly, then works out what the assignment actually requires. He must choose which optional game-polish task to defer; do not let the assignment or its deadline vanish after this scene.
 
-He cannot.
+#### Scene 34 — Heather helps him prioritize
+**Time:** 17:00–17:20, Callahan rental.
+Heather sees the assignment and asks about the real deadline. She helps Nathan compare the school requirement with the optional polish task without ordering him to abandon the game. Nathan commits to finishing the assignment first and limiting tonight's programming to one measured task. Record the exact deferred game task and keep the choice in continuity.
 
-#### Scene 33 — Heather notices
-Heather notices Nathan trying to juggle the assignment and game work, asks what is due, and helps him compare the actual deadline with the optional polish task. She does not order him to abandon the game or give a generic motivational speech.
-
-Nathan chooses one priority and explicitly defers the other. Record which assignment/task is deferred and its real deadline so it cannot vanish later.
-
-#### Scene 34 — Alex
-Alex notices he is tired.
-
-She asks if he slept.
-
-Nathan says yes.
-
-She knows he is lying.
-
-Not because she has magical insight.
-
-Because she has now spent enough time around him.
-
-This is a relationship milestone.
-
-#### Scene 35 — game
-Optimization:
-- update frequencies;
-- caching;
-- compact state;
-- fewer redundant calculations;
-- device profiling.
-
-The story should show the work through decisions rather than code.
-
----
+#### Scene 35 — targeted game optimization
+**Time:** 20:00–22:00, Nathan's computer.
+After dinner and the school assignment, Nathan spends his normal two-hour programming block on one measured bottleneck, such as a redundant update or cache lookup. He tests the change against a recorded scenario. This is not the whole bug list being magically fixed in one evening; unresolved issues remain for the later test/regression pass.
 
 ### 13 October
 
 #### Scene 36 — school / academic opportunity
-CA-MATH-01 follows up on the optional maths-enrichment/competition group and gives Nathan the information and next steps.
+**Time:** 10:20–10:30, outside CA-MATH-01's classroom after a lesson.
+The teacher follows up on the optional maths-enrichment/competition group and gives Nathan the information and next steps. Nathan asks for details and says he intends to pursue it, but still needs to check the meeting time against football before committing to attendance. No enrollment is implied.
 
-Nathan asks for the details and says he intends to pursue it, but checks the meeting time against football before committing to attendance. This is the first time he initiates a concrete next step himself; it does not mean he is already enrolled.
+#### Scene 37 — Alex / Nathan initiates
+**Time:** 12:20–12:30, school lunch break.
+Nathan starts a short conversation with a small joke. Alex laughs naturally; Nathan briefly wonders whether she is only being polite, but that is his interpretation, not the narration's verdict. This is an incremental social step, not a sign that Alex has confessed or that he now reads her feelings accurately.
 
-#### Scene 37 — Tuesday football practice
-At the scheduled California training session on 13 October, Maxwell includes Nathan in a drill and uses the team's shorthand with him without explaining every routine. Nathan is not captain; his role and minutes still depend on Coach Lance.
+#### Scene 38 — Tuesday football practice
+**Time:** 16:00–17:30, California team's scheduled training.
+Maxwell includes Nathan in a drill and uses the team's shorthand without explaining every routine. Nathan is not captain; his role and minutes remain Coach Lance's decision. The interaction shows accumulated familiarity rather than a sudden promotion.
 
-No ceremony. That is the point. Record who initiated the interaction and what the others observed.
-
-#### Scene 38 — game
-Old-device test.
-
-The game runs.
-
-One last performance cliff appears.
-
-Nathan fixes it by reducing work, not by demanding more hardware.
-
-#### Scene 39 — Alex
-A short conversation.
-
-Nathan makes a joke first.
-
-Alex laughs.
-
-He immediately thinks maybe she was just being polite.
-
-The reader sees the mismatch.
-
----
+#### Scene 39 — old-device technical test
+**Time:** 19:15–21:15, Callahan home.
+Nathan tests the private build on his existing second-generation iPod touch. He records OS, build identifier, scenario and actual result. A performance cliff appears under the stress case; he reduces redundant work and verifies that the measured case now passes. Other gameplay issues stay open until separately tested. This is still private testing, not a public release.
 
 ## 14 October — The Incident
 
@@ -512,61 +473,29 @@ It holds.
 
 ### 15 October — package and private test
 
-#### Scene 43 — morning
-Nathan is tired but functioning.
+#### Scene 43 — morning / ordinary school
+**Time:** 08:05–08:20, before the first lesson.
+Nathan is tired but functioning. School feels normal, showing how far he has settled in without implying that every problem has disappeared.
 
-School feels normal.
+#### Scene 44 — teacher / harder follow-up
+**Time:** 10:10–10:25, class.
+CA-MATH-01 offers a harder follow-up instead of giving praise alone. Nathan responds well to having something specific to solve. Any later club opportunity still depends on the actual follow-up and signup, not this moment alone.
 
-That matters.
+#### Scene 45 — Alex initiates
+**Time:** 12:20–12:30, school lunch break.
+Alex starts a non-academic conversation. Nathan stays rather than looking for an exit. It signals growing comfort, but neither labels the relationship.
 
-The reader should feel how far he has come in one month.
+#### Scene 46 — football and Maxwell's weekend invitation
+**Time:** 16:00–17:30, scheduled California training; invitation at 17:32–17:40 after the session.
+After Thursday's training, Maxwell asks whether Nathan would like to get a snack with a couple of teammates after their usual Saturday team activity. It extends the earlier post-match invitation; it is not a new official fixture or a promise about playing time. Nathan is interested but needs to check parent permission and transport.
 
-#### Scene 44 — teacher
-CA-MATH-01 sees a strong piece of work.
-
-Instead of praise alone, the teacher gives Nathan a harder follow-up.
-
-Nathan likes that more than a compliment.
-
-#### Scene 45 — football
-After Thursday's scheduled California training, Maxwell asks whether Nathan would like to get a snack with a couple of teammates after their usual Saturday team activity. It extends the earlier post-match invitation; it is a tentative social plan, not a new official fixture or a promise about playing time. Nathan says he is interested but will check with his parents about transport. He is no longer treated simply as "the new kid."
-
-#### Scene 46 — Alex
-Alex initiates another conversation.
-
-Nathan stays without searching for an exit.
-
-The conversation contains no academic excuse.
-
-Their relationship is now clearly real even if neither calls it anything.
-
-#### Scene 47 — final build
-Nathan packages the game.
-
-The packaging/private-test process is deliberately small.
-
-No instant app-store celebrity.
-
-He packages the candidate and lets Wesley Moss, his technology/library acquaintance, try it on Nathan's second-generation iPod touch in a supervised final private playtest. Clifford has already handled the parent-managed signing/provisioning route. Wesley joins Maxwell's earlier playability feedback as a second peer test; he notices that the enemies move less predictably than familiar game enemies.
-
-Nathan explains one part of the architecture in accessible terms. Wesley's interest is modest and based only on what he actually saw. Nathan folds in any actionable feedback, completes a last technical/regression pass and, with Clifford handling the adult account/submission administration, submits the candidate to the App Store on 15 October. Submission is not the same as publication; the story's working target is public availability after review on 23 October. No instant fame is assumed.
+#### Scene 47 — Wesley's final private playtest and submission
+**Time:** 18:30–20:00, Callahan home, with Clifford available for the device/account administration.
+Wesley tests the candidate on Nathan's second-generation iPod touch. The test must have a concrete purpose: Wesley attempts a short level without Nathan coaching him, and Nathan records any point where the objective, controls or enemy feedback is unclear. Nathan then makes any release-blocking fix and reruns the affected test, followed by a final regression pass against the documented guard-count scenarios. No known critical defect is left in the version submitted. Clifford handles the adult account/submission steps; the candidate is submitted for App Store review by approximately 21:30. This is a small, controlled test, not an audience launch.
 
 #### Scene 48 — final emotional beat
-Nathan watches the finished game.
-
-Several guards move through the level.
-
-He likes it.
-
-Then spots something he would still change.
-
-He closes the profiler.
-
-For tonight.
-
-The main action closes on 15 October with the candidate submitted for review; the game is not public yet.
-
----
+**Time:** 21:45–22:00, Nathan's room.
+Nathan watches the final tested build. He is pleased that it works and still notices non-blocking improvements he could make later. He closes the profiler for tonight. The main action ends with the candidate submitted for review, not yet public.
 
 ## 23 October — public launch after review
 
