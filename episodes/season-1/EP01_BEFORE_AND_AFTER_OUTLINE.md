@@ -505,13 +505,9 @@ the expensive information should be shared; the cheap differences can stay indiv
 ### 18 September — first Alex conversation
 
 #### Scene 37 — practical reason
-Alex needs a book/reference/resource.
+Nathan is consulting the library's reference copy of a problem-solving book with mathematical maze/logic puzzles because he is thinking about grid pathfinding. Alex has come to check one section for an optional class problem-solving challenge and asks how long he needs the book.
 
-She notices Nathan has it.
-
-She asks.
-
-Nathan knows exactly who she is.
+The request is ordinary and practical, not a contrived romantic setup. Nathan knows exactly who she is.
 
 Alex does not know that.
 
