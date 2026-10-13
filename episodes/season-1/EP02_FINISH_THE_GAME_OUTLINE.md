@@ -26,7 +26,7 @@ Nathan and Alex become comfortable enough that their conversations no longer req
 ## Persistent threads
 
 ### A — Game
-Prediction field → integration → optimization → old-device testing → release.
+Prediction field → integration → optimization → old-device testing → packaging and a private test build.
 
 ### B — Nathan + Alex
 Academic acquaintance → genuine friendship/interest.
@@ -522,7 +522,7 @@ It holds.
 
 ---
 
-## 15 October — release
+## 15 October — package and private test
 
 ### Scene 43 — morning
 Nathan is tired but functioning.
@@ -559,11 +559,11 @@ Their relationship is now clearly real even if neither calls it anything.
 ### Scene 47 — final build
 Nathan packages the game.
 
-The release process is deliberately small.
+The packaging/private-test process is deliberately small.
 
 No instant app-store celebrity.
 
-He packages a local test build and lets Wesley Moss, his technology/library acquaintance, try it on Nathan's own development/test setup in a supervised private playtest. Wesley notices that the enemies move less predictably than familiar game enemies.
+He packages a local test build and lets Wesley Moss, his technology/library acquaintance, try it on Nathan's second-generation iPod touch in a supervised private playtest. Clifford has already handled the parent-managed signing/provisioning route. Wesley notices that the enemies move less predictably than familiar game enemies.
 
 Nathan explains one part of the architecture in accessible terms. Wesley's interest is modest and based only on what he actually saw. This is a first seed of future technical recognition, not a public launch. No App Store submission, broad external distribution or sudden fame occurs here.
 
