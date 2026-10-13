@@ -66,7 +66,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ### Scene 8 — Football/captaincy outside practice
 **Date/location:** 9 Sep, school or team-message exchange. **Cast:** Nathan and Calvin Baxter; other teammates only if named in the actual message.  
-**Pre-state:** off-page 8 Sep practice occurred; the two midfielders already share responsibility for linking defense and attack. **Boundary:** Calvin asks about midfield spacing. Nathan suggests one adjustment to the distance between holding and attacking midfield; this is a conversation about practice, not a second session. **Carry forward:** record the exact tactical change and message recipients. Calvin remembers it; other teammates do only if they received or witnessed it.
+**Pre-state:** off-page 8 Sep practice occurred; the two midfielders already share responsibility for linking defense and attack. **Boundary:** Calvin asks about midfield spacing. Nathan suggests one adjustment to the distance between holding and attacking midfield; this is a conversation about practice, not a second session. Calvin says the adjustment should help the midfield keep its shape. Nathan credits the team's execution rather than taking the praise for himself. **Carry forward:** record the exact tactical change and message recipients. Calvin remembers it; other teammates do only if they received or witnessed it.
 
 ### Scene 9 — Game/profiling
 **Date/location:** 9 Sep evening. **Cast:** Nathan.  
