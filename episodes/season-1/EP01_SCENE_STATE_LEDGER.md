@@ -126,7 +126,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ### Scene 23 — Departure
 **Date/location:** 14 Sep, travel from Seattle to Southern California. **Cast:** Nathan, Clifford, Heather; public crowd as aggregate.  
-**Pre-state:** Intel Mac and peripherals, iPod touch/cable, books, football gear and notebook are packed; rental and school logistics arranged. **Boundary:** travel fatigue/location order must be plausible; teammates don't travel with them. **Carry forward:** California arrival, no permanent house yet; home coding resumes only after the computer is set up.
+**Pre-state:** Nathan's Intel Mac and peripherals, iPod touch/cable, books, football gear and notebook are packed. Clifford's work laptop and charger travel in his work bag for the first transition call after arrival; rental and school logistics are arranged. **Boundary:** travel fatigue/location order must be plausible; teammates don't travel with them. **Carry forward:** California arrival, no permanent house yet; home coding resumes only after the computer is set up.
 
 ### Scene 24 — Clifford starts California role
 **Date/location:** 14 Sep, after arrival at the rental. **Cast:** Clifford; coworkers aggregate unless named.  
