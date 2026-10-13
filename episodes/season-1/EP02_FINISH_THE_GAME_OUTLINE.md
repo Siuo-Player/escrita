@@ -111,16 +111,10 @@ Teacher stores the information.
 
 This is the seed for a future academic opportunity.
 
-#### Scene 6 — Alex / observation
-Alex notices Nathan reacts strangely when praised.
+#### Scene 6 — Alex / a small observation
+During an ordinary conversation, Alex makes a small positive comment about something Nathan has done. He immediately downplays it, then carries on talking.
 
-She asks why.
-
-He gives an evasive answer.
-
-Alex does not push.
-
-This is important because she is beginning to observe him.
+Alex notices the reaction but doesn't ask him to explain it or treat it as a pattern. They have had several short conversations, not enough for her to understand the cause or call out a habit. This is another quiet data point, not a confrontation or a relationship milestone.
 
 #### Scene 7 — family
 Short Callahan-family domestic sequence:
