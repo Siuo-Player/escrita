@@ -371,7 +371,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 - [ ] Seattle teammates know of the move before the 12 September match; only message recipients know the exact message content.
 - [ ] The Seattle and California teams remain separate; Nathan's captaincy does not transfer.
 - [ ] The 19 September assessment is an internal scrimmage; later official eligibility is not assumed.
-- [ ] Alex's observation in Scene 60 has visible earlier examples; her interpretation is not presented as omniscience.
+- [ ] Scene 60 stays an ordinary early interaction: no premature diagnosis or direct comment about Nathan's habit. Keep the reserved line for a much later point after repeated examples across many chapters.
 - [ ] Phil, Claire and Luke meet the Callahans only through the 14 September intro; Alex's school contact is independent.
 - [ ] Nathan's private show memories remain private; Pilot and 30 September canon scenes are parallel, not witnessed by him.
 - [ ] The game advances cumulatively: A* baseline → profiling/stress failure → field movement → local steering → early prediction → integrated vertical slice; release is in Episode 2.
