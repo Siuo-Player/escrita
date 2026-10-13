@@ -394,6 +394,29 @@ The phone is not made faster.
 
 The workload is made smaller.
 
+## Pre-release defect closure record
+
+The game must not be submitted with any of the known reproducible defects below. The dates are the current story plan and must be mirrored in Episode 2's scene ledger. A fix is not considered complete until the relevant reproducer passes on the current build. Peer feedback is a report of experience, not a diagnosis of code.
+
+| ID / first observed | User-visible problem | Fix and causal work window | Required retest and closure condition |
+|---|---|---|---|
+| BUG-01 — 9 Oct; Maxwell reproduces it on 10 Oct | Guards bunch in a narrow corridor and make player movement feel stuck. | On 11 Oct, Nathan adjusts local steering so agents yield/space themselves at a bottleneck instead of repeatedly contesting the same immediate tile. The shared navigation field remains; the fix is local behavior, not a new global pathfinder. | Replay the same corridor with opposing guards and the player approaching from either end. No permanent pile-up; player movement remains responsive; guards can clear the bottleneck without becoming identical or psychic. |
+| BUG-02 — 9 Oct | A guard switches from chase to search too abruptly when line of sight is briefly interrupted. | By 14 Oct, add a short, bounded lost-sight grace interval, then search around the last observed position. Old information must expire, so guards cannot track the player indefinitely without seeing them. | Break line of sight briefly and then for a longer interval. A brief interruption does not cause an implausible instant reset; a longer escape eventually ends the chase and begins a search of the last known area. |
+| BUG-03 — 9 Oct | At a tight corner, collision handling and local steering disagree; movement can stick or clip into a blocked cell. | By 14 Oct, validate the proposed next position against walkable-cell/collision constraints before committing movement, then resolve the local-steering choice without repeatedly pushing into the same obstacle. | Repeat the original corner case with player and guards. No blocked-cell entry, visible clipping, permanent jitter or stuck input. Retest the corridor case too, since the fixes interact. |
+| BUG-04 — 9 Oct; Cory's 10 Oct playtest confirms it | Objective completion and exit state are unclear. A player can reach the exit and not know whether an objective remains or the game failed to register an action. | On 11 Oct, add a simple period-appropriate visual state change: the objective has a clear completed state and the exit visibly changes when it becomes available. Use existing/simple assets; do not add a large UI system. | Cory's reported route is replayed without coaching. A player can tell whether the objective is complete and why the exit is or is not available. The indicator changes only when the underlying state changes. |
+| BUG-05 — 9 Oct | Restart feels slow and can leave the player waiting before another attempt. | On 11 Oct, reset transient player/guard/objective state while keeping static map and asset resources loaded; show an immediate, clear restart response. | Repeat restart ten times across the test map. Every run starts from the defined initial state with no stale guard memory, old objective state or delayed input lock. |
+| BUG-06 — 9 Oct; measured again on 13 Oct device test | Rebuilding the shared path field creates small performance spikes, especially with many guards. | On 12 Oct, cache fields against the map version and target cell, and coalesce redundant rebuild requests. On 13 Oct, use the iPod touch stress test to find any remaining device-specific redundant work and reduce it before retesting. | Run the documented 1/5/10/15/20/24-guard scenarios on simulator and actual iPod touch. Record build, OS, scenario and measured outcome; all target cases pass without a recurring rebuild spike that disrupts play. A simulator result never substitutes for the device run. |
+
+### Acceptance state before public submission
+
+- **10 Oct:** Maxwell and Cory confirm BUG-01 and BUG-04 from their own play experience; Nathan records reproduction steps instead of dismissing the feedback.
+- **11 Oct:** BUG-01, BUG-04 and BUG-05 receive targeted fixes and their specified regression checks.
+- **12–13 Oct:** BUG-06 is optimized and checked first on the current build and then on the real device. Any fresh, reproducible failure blocks closure until fixed and rerun.
+- **14 Oct:** BUG-02 and BUG-03 are fixed and retested alongside the full guard-count scenarios. Cross-test the corridor/collision changes rather than considering them independent.
+- **15 Oct:** Wesley's supervised real-device playtest confirms that the submitted candidate still behaves correctly, including objective/exit feedback, movement and restart. Any release-blocking or reproducible defect exposed in this final pass is fixed and retested before submission; the schedule must move if required time exceeds the evening window.
+
+**Release rule:** the 15 October candidate has no known reproducible defect remaining. Later wishes such as extra levels, additional polish or more content may be recorded as future ideas, but must not be used as a euphemism for a known broken control, unclear required objective, stuck guard, bad restart, or failing performance test. Do not invent numeric benchmark results unless the scene records the actual measured number.
+
 ## The visual effect
 
 The player does not see the algorithm.
