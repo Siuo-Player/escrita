@@ -61,7 +61,7 @@ He knows the building.
 
 He knows where to sit.
 
-CA-MATH-01, the mathematics teacher who has seen Nathan's work since his transfer, remembers the stronger answer he gave in September.
+Ms. Connie Harrington (the teacher tracked internally as `CA-MATH-01`) has seen Nathan's work since his transfer and remembers the stronger answer he gave in September.
 
 This immediately tells the reader that the previous episode happened.
 
@@ -97,7 +97,7 @@ He needs uncertainty.
 ### 2–3 October
 
 #### Scene 5 — school
-CA-MATH-01 gives Nathan an optional harder exercise.
+Ms. Harrington gives Nathan an optional harder exercise.
 
 Nathan finishes it.
 
@@ -212,7 +212,7 @@ Maxwell earns more playing time because he executes the work consistently in tra
 Nathan is happy for him. Maxwell realizes Nathan is not trying to take his place. Their friendship develops by one step.
 
 #### Scene 15 — school
-CA-MATH-01 mentions the school's optional maths-enrichment/competition group, following up on the earlier suggestion.
+Ms. Harrington mentions the school's optional maths-enrichment/competition group, following up on the earlier suggestion.
 
 Nathan is interested.
 
@@ -252,7 +252,7 @@ Otherwise parallel-cut.
 ### Nathan thread
 
 #### Scene 17 — ordinary school day
-Nathan has his normal classes. During an ordinary encounter in a shared school space, he mentions that CA-MATH-01 suggested the school's optional maths-enrichment/competition group. Alex makes an offhand, encouraging comment that it sounds like something he would be good at. She knows about the suggestion because Nathan tells her; she has not heard it from the teacher or anyone else.
+Nathan has his normal classes. During an ordinary encounter in a shared school space, he mentions that Ms. Harrington suggested the school's optional maths-enrichment/competition group. Alex makes an offhand, encouraging comment that it sounds like something he would be good at. She knows about the suggestion because Nathan tells her; she has not heard it from the teacher or anyone else.
 
 Alex still has her own opinions and problems. Their lives intersect without merging, and this conversation doesn't insert Nathan into the private events of the canon episode.
 
@@ -277,7 +277,7 @@ Nathan begins to realize he likes talking to her even when he has nothing to say
 ### The new normal and the first real weekend
 
 #### Scene 20 — school
-CA-MATH-01 gives Nathan an unexpectedly difficult question.
+Ms. Harrington gives Nathan an unexpectedly difficult question.
 
 Nathan answers.
 
@@ -400,7 +400,7 @@ After dinner and the school assignment, Nathan spends his normal two-hour progra
 ### 13 October
 
 #### Scene 36 — school / academic opportunity
-**Time:** 10:20–10:30, outside CA-MATH-01's classroom after a lesson.
+**Time:** 10:20–10:30, outside Ms. Harrington's classroom after a lesson.
 The teacher follows up on the optional maths-enrichment/competition group and gives Nathan the information and next steps. Nathan asks for details and says he intends to pursue it, but still needs to check the meeting time against football before committing to attendance. No enrollment is implied.
 
 #### Scene 37 — Alex / Nathan initiates
@@ -446,7 +446,7 @@ Nathan is tired but functioning. School feels normal, showing how far he has set
 
 #### Scene 44 — teacher / harder follow-up
 **Time:** 10:10–10:25, class.
-CA-MATH-01 offers a harder follow-up instead of giving praise alone. Nathan responds well to having something specific to solve. Any later club opportunity still depends on the actual follow-up and signup, not this moment alone.
+Ms. Harrington offers a harder follow-up instead of giving praise alone. Nathan responds well to having something specific to solve. Any later club opportunity still depends on the actual follow-up and signup, not this moment alone.
 
 #### Scene 45 — Alex initiates, the day after the dinner
 **Time:** Thursday 15 October, 12:20–12:30, school lunch break.
