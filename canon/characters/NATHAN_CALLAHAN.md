@@ -32,7 +32,9 @@ being written as implausibly wealthy.
 ## Reincarnation and current life
 
 Nathan's previous life ends and he is reincarnated directly into his twelve-year-old life in the
-*Modern Family* world, roughly two weeks before his thirteenth birthday.
+*Modern Family* world, roughly two weeks before his thirteenth birthday. This transition is a separate
+earlier event; the story itself opens on his birthday, Monday 7 September 2009. The precise transition
+date is not fixed unless a later scene needs it.
 
 He is not replacing a canon child. He is the biological son of his own parents in this world and has
 a normal childhood history, relationships and memories from that life. His previous-life memories
