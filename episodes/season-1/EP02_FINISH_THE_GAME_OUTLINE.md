@@ -276,10 +276,10 @@ Nathan integrates prediction and flow field:
 
 The architecture finally works end-to-end.
 
-#### Scene 19 — emotional echo
-Alex and Nathan have a short conversation the next day about something unrelated to school.
+#### Scene 19 — emotional echo (Thursday 8 October, morning)
+Before the other school beats on 8 October, Alex and Nathan have a short conversation about something unrelated to school. It is brief and ordinary; neither needs a new excuse to speak.
 
-Nathan begins to realize he likes talking to her even when he has nothing to say.
+Nathan begins to realize he likes talking to her even when he has nothing to say. This is his realization, not evidence that Alex has already identified her feelings.
 
 ---
 
@@ -321,21 +321,15 @@ old scripts are not enough.
 
 ### 9 October
 
-#### Scene 23 — football
-Maxwell asks Nathan to help outside formal practice.
+#### Scene 23 — football invitation (Friday 9 October)
+No formal team practice is assumed on Friday. Maxwell asks Nathan after school to look over one tactical situation or help him prepare for the next session/match. It is the first direct invitation to spend time together outside the normal team setting.
 
-This is the first real invitation.
+Nathan hesitates briefly, then says yes. Record the exact time and place they agree on; this is a small but meaningful social step, not an instant best-friend declaration.
 
-Nathan says yes without overthinking.
+#### Scene 24 — family / study area
+Heather arranges a narrow second-hand bookshelf for Nathan's study area. It is acquired locally and placed beside his desk; choose the actual source in prose and record a price only if it is stated. The bowl from Seattle and the framed Washington-coast family photograph are already unpacked; this shelf is an additional item, not a replacement for the earlier props.
 
-Small but important.
-
-#### Scene 24 — family
-Heather buys/arranges something for the rental.
-
-The house acquires another normal household detail.
-
-No exposition needed.
+No exposition is needed. The shelf gives the household a practical sign of settling in.
 
 #### Scene 25 — game
 First complete playthrough.
@@ -350,25 +344,15 @@ Then finds six things he dislikes.
 
 ### 10 October — Saturday
 
-#### Scene 26 — football match
-Nathan's team plays.
+#### Scene 26 — Saturday football event
+Nathan's new California team plays a friendly/internal scrimmage or coach-run assessment. Do not call it an official league fixture unless player registration, eligibility, opponent and competition are separately established.
 
-He performs well.
+Nathan performs well enough for Coach Lance to trust him with one tactical adjustment, but he is not made captain. The trust is evidence-based and limited to the moment. Record the selected players, roles/minutes, observed action, and any teammate/coach state change in the scene ledger.
 
-The coach publicly trusts him with a tactical adjustment.
+#### Scene 27 — post-match invitation
+Maxwell, or the specific teammate identified in the scene-state ledger, invites Nathan to a low-stakes activity after the scrimmage (a snack or a short conversation near the field). Avoid creating an unplanned party or ignoring parent/transport constraints.
 
-Nathan does not become captain.
-
-He is simply becoming important.
-
-#### Scene 27 — post-match
-Teammate invites him to do something afterward.
-
-Nathan hesitates.
-
-Then accepts.
-
-This is probably his biggest social action of the episode.
+Nathan hesitates because he fears imposing, then accepts. The milestone is that he accepts the invitation, not that the whole team suddenly becomes close.
 
 #### Scene 28 — game
 Late afternoon/evening.
@@ -422,14 +406,10 @@ Nathan tries to do both perfectly.
 
 He cannot.
 
-#### Scene 33 — parent interaction
-Clifford or Heather notices.
+#### Scene 33 — Heather notices
+Heather notices Nathan trying to juggle the assignment and game work, asks what is due, and helps him compare the actual deadline with the optional polish task. She does not order him to abandon the game or give a generic motivational speech.
 
-The parent does not tell him to abandon the game.
-
-They tell him to choose what actually matters tonight.
-
-Nathan learns prioritization.
+Nathan chooses one priority and explicitly defers the other. Record which assignment/task is deferred and its real deadline so it cannot vanish later.
 
 #### Scene 34 — Alex
 Alex notices he is tired.
@@ -460,19 +440,15 @@ The story should show the work through decisions rather than code.
 
 ### 13 October
 
-#### Scene 36 — school
-Teacher gives Nathan a small academic opportunity.
+#### Scene 36 — school / academic opportunity
+CA-MATH-01, the same mathematics teacher who has observed Nathan's work since September, offers a specific next step related to the optional club/competition mentioned earlier. Nathan accepts after confirming the practical details.
 
-Nathan accepts.
+Record whether this means signing up, agreeing to attend an introductory meeting, or merely expressing interest. Do not write him as an enrolled member unless he has completed the required step.
 
-He now initiates the "yes" himself.
+#### Scene 37 — Tuesday football practice
+At the scheduled California training session on 13 October, Maxwell or another established teammate includes Nathan in a drill or uses the team's shorthand with him without explaining every routine. Nathan is not captain; his role and minutes still depend on Coach Lance.
 
-#### Scene 37 — football
-Teammate casually treats him as part of the group.
-
-No ceremony.
-
-That is the point.
+No ceremony. That is the point. Record who initiated the interaction and what the others observed.
 
 #### Scene 38 — game
 Old-device test.
@@ -522,14 +498,12 @@ He does not force it.
 
 This is a good contrast with his future temptation to rely on canon knowledge.
 
-#### Scene 41 — consequence
-Later, Nathan encounters a natural consequence of the family event through an ordinary contact.
+#### Scene 41 — consequence through Phil
+Later on 14 October, Nathan sees Phil during an ordinary neighborhood or real-estate errand. Phil met the Callahans during the move-day introduction, so this contact has a plausible route; they are acquaintances, not confidants.
 
-He does not solve anything.
+Phil's attempt at his usual friendliness is a little strained or distracted, and an ordinary exchange does not land exactly as Nathan expected from his memory of the show. Nathan does not know that the cause is DeDe's visit and does not intervene in private family fallout.
 
-He simply realizes that his memory predicted one reaction and reality produced another.
-
-This should be an early butterfly-effect marker.
+This is an early butterfly-effect marker: Nathan observes a difference, but has not gained the private explanation.
 
 #### Scene 42 — game
 Final heavy technical session.
@@ -589,16 +563,9 @@ The release process is deliberately small.
 
 No instant app-store celebrity.
 
-He sends a test/release build to a few people.
+He packages a local test build and lets Wesley Moss, his technology/library acquaintance, try it on Nathan's own development/test setup in a supervised private playtest. Wesley notices that the enemies move less predictably than familiar game enemies.
 
-One technically inclined tester notices:
-"The enemies move differently."
-
-Nathan explains the architecture.
-
-The tester becomes interested.
-
-This is the first seed of later technical recognition.
+Nathan explains one part of the architecture in accessible terms. Wesley's interest is modest and based only on what he actually saw. This is a first seed of future technical recognition, not a public launch. No App Store submission, broad external distribution or sudden fame occurs here.
 
 ### Scene 48 — final emotional beat
 Nathan watches the finished game.
@@ -618,12 +585,12 @@ For tonight.
 ## State transfer after Episode 2
 
 Nathan:
-- established enough at school;
-- one genuine new teammate/friend;
+- established enough at school to have recurring acquaintances;
+- one genuine teammate friendship beginning, not a whole team of best friends;
 - teacher beginning to identify his potential;
-- comfortable with Alex;
-- no longer actively trying to escape every social interaction;
-- game released.
+- comfortable with Alex, with possible attraction still unnamed;
+- more willing to remain in ordinary social interactions;
+- game reaches a packaged private test/release-candidate build; public distribution remains undecided.
 
 Alex:
 - knows Nathan socially, not just academically;
@@ -642,12 +609,10 @@ Callahan family:
 - permanent house search remains future material.
 
 Game:
-- complete;
-- playable;
-- technically interesting;
-- optimized;
-- modest in scale;
-- no fame.
+- a complete playable local build and small private test are achieved;
+- technically interesting but still has a recorded list of non-blocking polish issues;
+- performance has been checked on documented scenarios/devices, not declared universally optimized;
+- no public store release or fame.
 
 ## Parallel/background threads available
 
@@ -695,9 +660,9 @@ A week can be represented by:
 The underlying timeline is deliberately richer than the visible story.
 
 
-## Scene-state and cast continuity gate (added 12 October)
+## Scene-state and cast continuity gate (updated 13 October)
 
-Before prose drafting, complete or link a scene-state header for everyone who speaks, makes a choice or changes an outcome under [Character State Continuity Standard](../../canon/characters/CHARACTER_STATE_CONTINUITY_STANDARD.md). Keep the [Knowledge and Skill Ledger](../../canon/characters/NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md) current as the game and relationships evolve.
+Before prose drafting, use the [Episode 2 Scene-State Ledger](EP02_SCENE_STATE_LEDGER.md) for each scene's dated pre-state and carry-forward delta. Consult [Character State Continuity Standard](../../canon/characters/CHARACTER_STATE_CONTINUITY_STANDARD.md), [Modern Family Core Character State Baselines](../../canon/characters/MODERN_FAMILY_CORE_STATE_BASELINES.md), [Football Teams and Player Backgrounds](../../canon/characters/FOOTBALL_TEAMS_AND_PLAYERS.md), and the [Knowledge and Skill Ledger](../../canon/characters/NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md).
 
 Specific controls for this episode:
 - The California football group has a shared history before Nathan arrives. Use the [Football Teams and Player Backgrounds](../../canon/characters/FOOTBALL_TEAMS_AND_PLAYERS.md); do not give every player the same voice or make Maxwell instantly intimate with Nathan.
