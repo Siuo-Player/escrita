@@ -163,9 +163,11 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Carry forward:** Monday's airport transfer is arranged; the MacBook/iPod/notebook and football kit remain accessible to Nathan. The family car and bulk household goods are not available as personal luggage on arrival.
 
 ### Scene 21 — Technical reading
-**Date:** Sunday, 13 September 2009.
-**Date/location:** 13 Sep, Nathan's study area. **Cast:** Nathan.  
-**Pre-state:** profiler proves repeated searches; he has previously read about pathfinding/field-based methods. **Boundary:** a promising recognition, not a finished algorithm. **Carry forward:** notebook has the rough idea of sharing global navigation information; implementation incomplete.
+**Date/time/location:** Sunday 13 September 2009, 10:00–11:00, Nathan's study area.
+**Cast:** Nathan.
+**Pre-state:** profiling has shown repeated A* work; Nathan has previously read technical material on flow fields and field-based navigation. His MacBook and saved notes remain accessible; no extra physical reference book needs to be invented.
+**Boundary:** he connects the measured repeated-search cost with the technique he has already studied. A shared cost/direction field could be computed toward a chosen target and sampled locally by multiple guards. He sketches a target, walkable cells and arrows toward lower accumulated cost, but has not settled the update scheme, dynamic obstacle handling or implementation.
+**Carry forward:** the notebook records a hypothesis and rough diagram, not working code. Flow-field implementation remains future work; fragmented future memories are not a complete recipe.
 
 ### Scene 22 — Follow-up messages
 **Date:** Sunday, 13 September 2009.
