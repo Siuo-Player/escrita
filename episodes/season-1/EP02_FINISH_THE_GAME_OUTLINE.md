@@ -321,12 +321,14 @@ He repeats the exact reproducer for each change and records all three as closed 
 Alex notices that Nathan is a little slower to answer and seems less rested than usual. She asks whether he slept enough. Nathan says he did sleep; she notices a small sign of fatigue but does not know its cause, and the narration must not claim she can read a lie. The tiredness is mild and cumulative after a busy weekend, not the result of an all-night coding session. This is a brief check-in, not an intimate diagnosis.
 
 #### Scene 33 — school pressure after classes
-**Time:** 15:20–16:20, after the school day.
-A normal assignment due Wednesday 14 October competes with game work. Nathan initially tries to do both perfectly, then works out what the assignment actually requires. He must choose which optional game-polish task to defer; do not let the assignment or its deadline vanish after this scene.
+**Time:** 15:20–16:20, Monday 12 October, Nathan's desk at the rental.
+An English assignment is due Wednesday 14 October: a one-page response explaining how a narrator's point of view shapes the reader's understanding of a character, supported by two examples from the class text. Nathan initially over-edits the opening and considers rebuilding the whole response, then checks the rubric and realizes the teacher asked for one defensible claim, two relevant examples and a clear paragraph—not a perfect essay. The deadline remains active until he actually finishes the work.
+
+He also has an optional title-screen polish idea—adjusting spacing and color balance in the original geometric artwork—but it is not a release blocker. He explicitly defers that visual refinement rather than letting it displace the known technical defects. The game work does not vanish; it is sequenced around the school deadline.
 
 #### Scene 34 — Heather helps him prioritize
 **Time:** 17:00–17:20, Callahan rental.
-Heather sees the assignment and asks about the real deadline. She helps Nathan compare the school requirement with the optional polish task without ordering him to abandon the game. Nathan commits to finishing the assignment first and limiting tonight's programming to one measured task. Record the exact deferred game task and keep the choice in continuity.
+Heather reads the actual prompt and rubric with Nathan. She doesn't write the response for him; she asks him to point to the two examples that support his claim and reminds him that the assignment's standard is the stated rubric, not his imagined ideal version. Nathan finishes and checks the one-page response between 17:20 and 18:35, before dinner. He defers the title-screen spacing/color pass until after submission and keeps the evening's two-hour programming block for BUG-06, a measured release-blocking performance issue. Schoolwork is complete before the coding session; the technical bug remains open until the device test on Tuesday.
 
 #### Scene 35 — field-rebuild optimization
 **Time:** Monday 12 October, 20:00–22:00, Nathan's computer; resulting build **0.8.1 (build 16)**.
