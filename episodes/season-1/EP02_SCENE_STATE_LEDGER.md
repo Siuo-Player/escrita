@@ -176,18 +176,18 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** Nathan notices that talking to Alex is becoming enjoyable for its own sake. His interpretation remains private; Alex's internal state cannot be inferred from the fact she talked to him.
 
 ### Scene 20 — School / difficult question
-**Date:** Thursday 8 October, school.  
-**Cast:** Nathan, CA-MATH-01, class aggregate.  
-**Pre-state:** teacher knows Nathan's earlier performance and sees him regularly.  
-**Boundary:** the harder question should be novel rather than a duplicate; Nathan reasons through it and may still make a small mistake. A classmate's impressed look is only that classmate's visible reaction.  
-**Carry forward:** another example of Nathan's capability and discomfort with public praise; no instant whole-school reputation.
+**Date/time:** Thursday 8 October, 10:10–10:25, Nathan's mathematics class.
+**Cast:** Nathan, Ms. Connie Harrington (internal ID CA-MATH-01), class aggregate.
+**Pre-state:** Ms. Harrington knows Nathan's earlier work and sees him regularly.
+**Boundary:** the harder question should be novel rather than a duplicate; Nathan reasons through it and may still make a small mistake. A nearby classmate's impressed look is only that student's visible reaction; Ms. Harrington moves the class on rather than turning it into public praise.
+**Carry forward:** another example of Nathan's capability and discomfort with public attention; no instant whole-school reputation.
 
-### Scene 21 — Alex teases lightly
-**Date:** 8 October, later school encounter.  
-**Cast:** Alex and Nathan.  
-**Pre-state:** she has seen more than one episode of Nathan undercutting himself and has spent increasing time around him.  
-**Boundary:** light teasing is evidence of comfort, not permission for Nathan to assume romantic interest. His laughter can be natural rather than immediately followed by an elaborate internal analysis.  
-**Carry forward:** one relatively uncomplicated exchange. Do not make them emotionally intimate beyond their accumulated contact.
+### Scene 21 — Alex / situational joke
+**Date/time:** Thursday 8 October, 12:05–12:15, shared lunch area.
+**Cast:** Alex and Nathan.
+**Pre-state:** they have had several short conversations, but Alex has not observed Nathan's self-undervaluation often enough to identify it as a pattern.
+**Boundary:** Alex notices that Nathan is awkward after the classroom attention and makes a small joke about the question or the class's reaction. She is not teasing him about a personality trait, diagnosing him, or commenting on recurring apologies. Nathan laughs naturally; the conversation moves on without requiring an elaborate internal analysis.
+**Carry forward:** one relatively uncomplicated exchange. This is situational familiarity, not evidence that Alex understands Nathan's insecurity or that he should assume romantic interest.
 
 ### Scene 22 — Predictor's memory weighting
 **Date:** 8 October evening.  
