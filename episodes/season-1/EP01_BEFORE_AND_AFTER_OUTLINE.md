@@ -238,15 +238,12 @@ He realizes:
 - he was not looking for a new life.
 
 #### Scene 15 — parents' explanation
-Clifford explains that the company had been negotiating the move quietly.
+**Time:** 19:00–19:20, Friday 11 September, the same family conversation.
+Clifford explains that the company has been discussing the California role and preparing contingencies for weeks, but the final approval was only received today. The relocation coordinator can move quickly because a temporary rental, movers and a vehicle were shortlisted or held conditionally; the family did not secretly settle every detail before the offer was confirmed.
 
-Important:
-- the promotion is sudden in its final confirmation;
-- the logistics are unusually fast because the company already has a relocation provider;
-- they will initially rent a house;
-- they will buy later after the family knows the area.
+They will initially use an employer-arranged furnished rental. Buying a home later is only a possibility if Clifford's role proves stable and the family likes the area; nobody promises or decides to buy now. Heather may express that hope, but the temporary lease is not a purchase plan.
 
-This resolves the house problem.
+This explains the short logistics window without making the family's future housing a settled fact.
 
 #### Scene 16 — Nathan alone
 Nathan returns to the game instead of talking.
