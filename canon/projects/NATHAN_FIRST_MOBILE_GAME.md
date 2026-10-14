@@ -567,7 +567,8 @@ prototype period.
 - **24–30 Sep:** field navigation stabilizes; local steering and shared navigation integrate; first prediction
   experiments.
 - **1–7 Oct:** player prediction/influence field becomes more useful and connects to goal selection.
-- **8–12 Oct:** profiling, caching, update-frequency reduction, device tests and balancing.
+- **8–12 Oct:** profiling, caching, update-frequency reduction and simulator testing/balancing. No successful physical-device test is established in this interval.
+- **13 Oct:** first explicit second-generation iPod touch stress test; the simulator improvement is not accepted as sufficient, and BUG-06 closes only after the device-specific fix and the full recorded guard-count matrix pass.
 - **10–15 Oct:** Nathan's technical/regression tests and small playability sessions with peers identify the final changes. He packages the candidate and submits it for App Store review by 15 October.
 - **23 Oct (working target):** public launch after review approval. This is a release, not an instant industry breakthrough; audience size and response remain uncertain.
 
