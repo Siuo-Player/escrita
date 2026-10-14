@@ -319,7 +319,7 @@ He repeats the exact reproducer for each change and records all three as closed 
 ### 12 October
 
 #### Scene 32 — Alex notices a little fatigue
-**Time:** 12:20–12:30, during the school lunch break.
+**Time:** 12:10–12:20, during the school lunch break.
 Alex notices that Nathan is a little slower to answer and seems less rested than usual. She asks whether he slept enough. Nathan says he did sleep; she notices a small sign of fatigue but does not know its cause, and the narration must not claim she can read a lie. The tiredness is mild and cumulative after a busy weekend, not the result of an all-night coding session. This is a brief check-in, not an intimate diagnosis.
 
 #### Scene 33 — school pressure after classes
