@@ -318,8 +318,8 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 ### Scene 40 — School, before DeDe's visit
 **Date/time:** Wednesday 14 October, 12:20–12:35, school lunch break.
 **Cast:** Alex and Nathan.
-**Pre-state:** they have grown comfortable through short school conversations, but Alex's family event has not happened yet.
-**Boundary:** Alex is distracted by a difficult ordinary school assignment she wants to finish before the next day. Nathan asks once, listens to the limited answer she gives, and does not try to diagnose her mood. This scene is before DeDe's first visit; Alex is not reacting to DeDe here.
+**Pre-state:** they have grown comfortable through short school conversations, but Alex's family event has not happened yet. The author has also identified a Cece encounter whose timing must determine Cece's later state; no Cece profile or dated encounter is currently present in the working tree, so do not infer that it happened before this scene.
+**Boundary:** Alex is distracted by a difficult ordinary school assignment she wants to finish before the next day. Nathan asks once, listens to the limited answer she gives, and does not try to diagnose her mood. This scene is before DeDe's first visit; Alex is not reacting to DeDe here. Do not silently treat Cece as DeDe. If a Cece encounter is added before 12:20, update the affected character state and this scene; if it occurs later, do not let it influence this earlier moment.
 **Carry forward:** Nathan knows only that Alex is busy with schoolwork; he does not learn any family secret or anticipate the evening's events.
 
 ### Scene 41 — Natural consequence / Phil after the dinner
