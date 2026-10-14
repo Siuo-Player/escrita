@@ -351,7 +351,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** teacher's expectations rise slightly; no enrollment is inferred.
 
 ### Scene 45 — Alex initiates, the day after the dinner
-**Date/time:** Thursday 15 October, 12:20–12:30, school lunch break.
+**Date/time:** Thursday 15 October, 12:10–12:20, school lunch break.
 **Cast:** Alex and Nathan.
 **Pre-state:** Alex was at the family dinner on 14 October and witnessed the awkward apology/confrontation, but has not necessarily told Nathan about it. Their prior conversations have built ordinary comfort.
 **Boundary:** Alex initiates a normal non-academic conversation, though she may be a little preoccupied after the previous evening. Nathan can notice her observable manner, not infer every private feeling. She shares details only if she chooses.
