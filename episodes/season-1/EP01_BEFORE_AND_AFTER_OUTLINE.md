@@ -381,8 +381,11 @@ By the end, Phil and Claire know the Callahans' names and that they have moved n
 **Time:** 19:00–20:00, rental.
 After the main unloading activity has ended and a simple dinner is possible, Nathan checks the provisional school route and the instructions Heather has received. He also opens the unfinished game on the MacBook and reviews the current build without pretending that moving day offered a full programming session. The two problems are suddenly connected: he must rebuild a life and finish a project at the same time.
 
-### 15 September — settling-in day (mostly off-page)
-The family recovers from travel, unpacks the essentials, confirms the route and arrangements for Nathan's new school, and makes the rental functional. No new major event is required. The move-day neighbor introduction remains on 14 September.
+### 15 September — settling-in and school registration (mostly off-page)
+**Working time:** 09:00–10:15, school office; later, back at the rental.
+Heather and Nathan take the signed temporary lease, transfer documents and health/immunization paperwork to the school office. The address and initial enrollment have already been checked provisionally; this visit completes the in-person records review, confirms the timetable and first-day instructions, and ensures the previous school has been asked to forward any remaining records. Nathan is expected on campus on Wednesday 16 September. This is administrative preparation, not a school day or an early meeting with Alex.
+
+Clifford uses the morning for the first in-person transition with the Southern California office; the 14 September remote handoff was only a short check-in, not his first full workday. Heather continues the relocation leave until her approved transfer begins on Monday 21 September. Back at the rental, they unpack immediate school essentials and make the route practical. The family car and most nonessential household goods are still not assumed available until their delivery is confirmed. No new major event is required; the move-day neighbor introduction remains on 14 September.
 
 ---
 
