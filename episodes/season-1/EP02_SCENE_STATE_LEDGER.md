@@ -267,14 +267,26 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** Alex has observed mild tiredness only; she does not know Nathan's workload or game schedule unless he tells her.
 
 ### Scene 33 — Schoolwork and game conflict
-**Date/time:** Monday, 12 October, 15:20–16:20, after school.
+**Date/time:** Monday 12 October, 15:20–16:20, Nathan's desk at the rental.
+**Cast:** Nathan.
+**Pre-state:** an English assignment is due Wednesday 14 October; game defects BUG-01 to BUG-06 have recorded states, and optional title-screen refinement is not a release blocker.
+**Boundary:** the assignment is a one-page response explaining how the narrator's point of view shapes a reader's understanding of a character, supported by two examples from the class text. Nathan over-edits the opening before comparing the prompt with the rubric and sees that the task requires a clear claim and two relevant examples, not a perfect essay. He decides to finish the assignment before the evening coding session. He defers a non-blocking title-screen spacing/color refinement; the known BUG-06 performance issue remains open and must still be addressed.
+**Carry forward:** the assignment remains due until completed; title-screen polish is explicitly deferred, not forgotten; BUG-06 remains open.
+
+
 **Cast:** Nathan.
 **Pre-state:** an ordinary school assignment is due Wednesday 14 October; game polish remains optional.
 **Boundary:** Nathan tries to optimize both commitments, sees the limited time and chooses to complete the assignment first. Record the exact assignment and the optional game task deferred; the due date must remain active until completed.
 **Carry forward:** schoolwork gets the first priority tonight; the named game task remains open, not forgotten.
 
 ### Scene 34 — Heather helps prioritize
-**Date/time:** Monday, 12 October, 17:00–17:20, Callahan rental.
+**Date/time:** Monday 12 October, 17:00–17:20, Callahan rental.
+**Cast:** Heather and Nathan.
+**Pre-state:** Heather sees the exact English prompt/rubric and Nathan's draft; she knows his perfectionism and study habits, not the game's implementation details.
+**Boundary:** Heather asks Nathan to identify the two examples that support his claim; she does not write the response for him. From 17:20–18:35 Nathan finishes and checks the one-page response, then has dinner before his normal two-hour coding block. He keeps the optional title-screen spacing/color pass deferred and uses the evening for BUG-06, the release-blocking performance issue.
+**Carry forward:** the English assignment is COMPLETED on 12 October, two days before its deadline. BUG-06 remains open until the iPod test on 13 October; the deferred visual polish remains non-blocking.
+
+
 **Cast:** Heather and Nathan.
 **Pre-state:** Heather sees the actual assignment and Nathan's stated plan; she knows his study behavior, not every technical issue.
 **Boundary:** she helps him compare the deadline with optional polish. Nathan completes the school task before the evening coding block and limits coding to one measured task.
