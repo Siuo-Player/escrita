@@ -135,9 +135,11 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Carry forward:** a team SMS has been sent. Players who receive/read it know the move before Saturday's match; do not assume every player has reacted or even read it until the scene establishes that. Nathan's private sense of loss coexists with continuing work.
 
 ### Scene 17 — Final Seattle-team match
-**Date:** Saturday, 12 September 2009.
-**Date/location:** 12 Sep, Saturday field. **Cast:** Nathan, Coach Leonard, the Seattle roster.  
-**Pre-state:** Nathan sent the team group message during Scene 16 on 11 Sep; all players who participate and have received/checked the message know Nathan is moving before kickoff. Do not give any individual a specific reaction unless it is shown. Working availability is the named squad, with no injury created by the outline. **Boundary:** goodbye context, not guaranteed sentimental triumph. Score, scorers and minutes remain unfixed until prose; every player with dialogue or consequential play needs their individual state. Calvin tells Nathan the team will miss having him organize midfield transitions. **Carry forward:** relationships persist after the move; the squad is not emotionally uniform. Calvin's remark is a known, character-specific exchange rather than an interchangeable farewell line.
+**Date/time/location:** Saturday 12 September 2009, 09:00–10:25, Seattle field.
+**Cast:** Nathan, Coach Leonard Holloway and the active Seattle squad; individual players gain scene-level detail only when they speak or affect the result.
+**Pre-state:** Nathan sent the team's existing group SMS during Scene 16 on Friday night. Before warm-up, Leonard confirms the move to the squad and checks that everyone knows Nathan leaves Monday; no one needs to have read the SMS for the fact to reach them. Nathan's final match has not yet started.
+**Boundary:** goodbye context, not guaranteed sentimental triumph. Do not assign a score, scorer, minutes or individual reaction until drafting establishes it; no injury is created by the outline. After the final whistle, Calvin tells Nathan the team will miss having him organize midfield transitions. This reflects their established partnership, not a generic farewell speech.
+**Carry forward:** all active players and the coach know Nathan is moving before kickoff; individual emotions remain varied and only become canon if shown. Calvin's remark is a specific known exchange, and the squad's relationships persist after the move.
 
 ### Scene 18 — Coach advice
 **Date:** Saturday, 12 September 2009.
