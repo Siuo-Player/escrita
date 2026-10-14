@@ -121,18 +121,14 @@ A very small domestic detail:
 This plants the promotion before the reveal.
 
 #### Scene 5 — evening coding
-Nathan runs the prototype.
+Nathan resumes the benchmark from the small baseline he checked in Scene 1; he does not need to repeat the one- and five-guard cases without a reason.
 
-One guard = fine.
+He increases the same scenario to ten guards, then fifteen. The game still runs, but Nathan notices that multiple guards repeatedly calculate routes through the same corridors toward the same region. He records the count and what he sees rather than declaring the cause proven.
 
-Five guards = fine.
-
-He decides to try more.
-
-The benchmark is not introduced as exposition. We see the number on his screen increase.
+The benchmark is not introduced as exposition. We see the number on his screen increase and watch him compare the behavior.
 
 End beat:
-**"Why are five different guards all spending time finding essentially the same road?"**
+**"Why are fifteen different guards all spending time finding essentially the same road?"**
 
 ---
 
