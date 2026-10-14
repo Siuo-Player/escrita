@@ -223,3 +223,37 @@ The author specified that Cece's state at the relevant school scene must reflect
 In the current Episode 2 ledger, Scene 40 is Wednesday **14 October, 12:20–12:35**, with Alex distracted by an ordinary school assignment before DeDe's later visit; Scene 41 is a separate Nathan/Phil encounter at approximately **20:40–20:50** after the Dunphy dinner. Those timings are internally explicit but do not establish the missing Cece event. Until her intended profile/scene is restored or created, do not give a school scene consequences from an unrecorded encounter. Before prose, record Cece's background, exact event time, what she knows/feels afterward, and any corresponding state change in the affected scene ledger.
 
 This is an unresolved implementation dependency, not a new author decision.
+
+
+
+## Author revision instructions — 2026-10-14
+
+These are explicit author directions for the current continuity/revision pass. Apply them unless the author explicitly overrides them. They govern implementation choices; they do not silently promote provisional story facts to canon.
+
+### REV-001 — Reserve Alex's observation about Nathan's apologies
+
+The line **"You know you don't have to apologize every time you're right."** is liked and should be preserved for possible use much later in the story. Do not use it when Alex has only just met Nathan. Save it until both Alex and the reader have witnessed the habit repeatedly across many chapters, so the line is recognition of an established pattern rather than premature insight. Early scenes may show ordinary hesitation or one isolated apology, but must not have Alex diagnose the habit yet.
+
+### REV-002 — Give CA-MATH-01 a complete human profile
+
+Replace the internal-only teacher label with a plausible person's name and build a coherent background: teaching experience, mathematical interests, classroom manner, strengths, flaws, habits, motivations, family/personal context and boundaries of what the teacher knows. Keep the profile proportionate to the story, but detailed enough to make classroom choices and dialogue consistent. The teacher must respond to evidence actually observed and information actually shared by Nathan.
+
+### REV-003 — Use clock times to protect scene causality
+
+Where the order within a day affects what a character knows or feels, record specific local times (hours and minutes), not just a date or vague morning/evening label. In particular, Alex's school state must follow the actual timing of her encounter with Cece if that encounter is established. If it occurs before school, it may affect her later state; if it occurs afterward, it cannot. A school scene may instead be affected by a different, already established cause. Do not invent a causal link or silently equate Cece with another character.
+
+### REV-004 — The game must be release-ready
+
+The game should launch without known blocking or reproducible defects. Any defect Nathan discovers must be corrected and retested before release/submission; do not leave a known launch blocker open and then launch anyway. Non-blocking polish may be consciously deferred, but state why it is non-blocking and preserve the distinction between simulator and physical-device results. If a required fix cannot be completed, the release date must move rather than ignoring the defect.
+
+### REV-005 — Testers need independent lives and personality-consistent feedback
+
+Develop recurring testers' personalities, family/background context, interests, habits, skills, blind spots and reasons for trying the game. Their feedback must arise naturally from those traits and the game's actual mechanics; do not make them interchangeable sources of generic praise or bug reports. Record what each tester notices, misses, misunderstands or enjoys and whether Nathan changes the game in response.
+
+### REV-006 — Program with the established time budget, not an invented pacing problem
+
+Do not treat the earlier estimate of 10–14 focused programming hours per week as a hard limit or use it to manufacture a rhythm problem. On an ordinary/casual day Nathan can use about 2 hours; on a free day he can use up to 8 hours; Friday and weekend sessions may run 4–5 hours per day when appropriate. A few such days can supply roughly 9–15 hours, and 60–85 total hours across six weeks is plausible. Schedule against his actual schoolwork, football/training and personal obligations. Increase or reduce work only when that week's story provides a concrete reason (for example, a match, extra training, school pressure or a personal problem). Do not force late nights; they are possible only when the plot and consequences justify them.
+
+### REV-007 — Audit the remaining gaps instead of assuming they are errors
+
+Resolve genuine contradictions and missing causal steps, but do not label a workable schedule or workload a problem without demonstrating a conflict. Keep changes incremental: each batch should cover one or two closely related issues, followed by a fresh check of adjacent outlines, ledgers, timeline, profiles and cross-references. Track what is fixed, what remains unresolved, and any new inconsistency introduced. The author has authorized these corrections unless explicitly countermanded.
