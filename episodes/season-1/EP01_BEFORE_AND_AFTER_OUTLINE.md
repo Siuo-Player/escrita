@@ -272,16 +272,12 @@ Coach Leonard Holloway tells Nathan that he has leadership qualities. Nathan is 
 Leonard gives him one practical piece of advice: "When you join a new side, learn where their holding midfielder drops and when their wide players expect the ball before you start changing the distances." It comes from Nathan's habit of giving useful instructions to a familiar team. This is a brief, specific coaching note, not a grand farewell speech. Nathan remembers it when he first assesses the California team's routines on 19 September.
 
 #### Scene 19 — moving logistics
-Boxes begin appearing.
+**Time:** 11:15–14:30, Saturday 12 September, Callahan home.
+The movers began packing at 08:00 while Nathan was at his final match. When he gets home after Coach Leonard's advice, the house is already changing around him; the crew continues inventorying, wrapping and loading the household shipment.
 
-Do not turn this into a shopping documentary.
+Nathan sorts books into a small personal-luggage selection ("must have now") and the larger shipment ("can wait"). The external monitor and bulky peripherals are packed with the household goods. His Intel MacBook, charger, compact input peripherals, essential notes, second-generation iPod touch and its cable stay together in his personal luggage, so the working project remains accessible until he leaves on Monday. The unfinished game is not installed on the iPod yet.
 
-Select details:
-- computer equipment carefully packed;
-- books divided into "must have" and "can wait";
-- football gear;
-- the essentials box Heather wants opened first after arrival;
-- moving company contact.
+Heather labels an **essentials box** containing first-night kitchen items, basic linens and school/move documents, and ensures it will be accessible when unloaded in California. The movers keep an inventory and prepare the household shipment for its planned southbound leg; this is packing and logistics, not a shopping sequence or a new purchase.
 
 ---
 
