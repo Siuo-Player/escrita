@@ -306,3 +306,14 @@ This audit note records current findings; it does not authorize merging PR #11 o
 - **Math Enrichment Group:** the planned first meeting on 27 October, 15:20–16:15 overlaps the 16:00 Tuesday football-training start. Nathan remains interested but not enrolled. Decide coach/parent permission, transport, and what happens to training before showing attendance.
 
 These notes record the state of this pass; they do not merge PR #11 or promote working names, device details, or the 23 October launch target to immutable canon.
+
+
+## Follow-up: timeline and decision-list synchronization (2026-10-14)
+
+- `SEASON_1_CONTINUITY.md` now agrees with the opening scene and technical design: the crude A* baseline exists by 7 September; 7–13 September covers testing, refinement and scaling measurements; the flow-field work then adapts a previously studied technique rather than first discovering the performance issue.
+- `SEASON_1_CONTINUITY.md` and `SEASON_1_OPENING_PLOT_BANK.md` now place simulator profiling/optimization on 8–12 October and the first explicit physical iPod touch stress test on 13 October, aligned with Episode 2 Scene 39 and the technical defect register.
+- `STORY_DECISIONS_TO_MAKE.md` no longer labels the whole mixed list as still-to-decide. Its new status note distinguishes resolved/established material from working proposals and future questions.
+- The outline/ledger scene-number check was repeated after these changes: Episode 1 has 62 numbered scenes in each file; Episode 2 has 49 in each. The time-range differences found by a broad extraction were due to adjacent unnumbered calendar and parallel-canon material being included with a scene block; the relevant clock windows in the outlines and ledgers agree.
+- The author-approved workload remains unchanged: ordinary day about 2 focused hours; a longer 4–5-hour block on a mostly free Friday/weekend day; up to 8 hours on a genuinely free day when obligations allow; exceptional 04:00–05:00 finish only if needed and followed by a recorded state consequence.
+
+Cece remains the one material chronology dependency not resolved by the available repository text: the current and relevant earlier planning branches do not contain a dated encounter/profile. Episode 2 Scene 40 therefore keeps the independently established school-assignment cause and must not be rewritten to imply a Cece-related mood change unless that encounter is first documented with identity and exact time.
