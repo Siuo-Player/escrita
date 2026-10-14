@@ -336,12 +336,12 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Boundary:** close BUG-02 by adding a short, bounded lost-sight grace interval before a guard searches around the last observed position; prolonged loss of sight still ends the chase. Close BUG-03 by validating the next position against walkable-cell/collision constraints before movement is committed. Rerun the original tight-corner and corridor reproducers, brief and prolonged broken-line-of-sight cases, and the 1/5/10/15/20/24-guard regression set. The recorded cases pass on the current build.
 **Carry forward:** save **version 0.9.0 (build 18)**. BUG-02 and BUG-03 are FIXED after their explicit reproducers pass; BUG-01/04/05/06 remain fixed, subject to final regression. All six identified defects now have a closure route and no known reproducible blocker is being deferred to public release. The 15 October device session verifies that these fixes survived integration; it is not permission to ship a failing regression.
 
-### Scene 43 — Morning / ordinary school
-**Date/time:** Thursday 15 October, 08:05–08:20, before first lesson.
-**Cast:** Nathan; classmates only as active.
-**Pre-state:** late-stage testing is nearly complete; the 12 October school assignment has been completed.
-**Boundary:** Nathan is a little tired but functional; routine at school does not mean all social difficulties are gone.
-**Carry forward:** any fatigue must be consistent with the previous night's finish time; no school deadline is silently erased.
+### Scene 43 — Morning / Wesley's final test arrangement
+**Date/time:** Thursday 15 October, 08:05–08:20 before first lesson; parent confirmation by 15:40.
+**Cast:** Nathan, Wesley Moss; Heather only for the breakfast permission check.
+**Pre-state:** late-stage testing is nearly complete; the 12 October school assignment has been completed. Wesley is a technology/library acquaintance who has not yet tested the current game on the iPod touch.
+**Boundary:** Heather agrees at breakfast to host a short supervised test that evening. At school, Nathan asks Wesley whether he can try the final build without coaching for a brief playability check. Wesley checks with his parent instead of assuming permission; by 15:40 he messages that his parent can drop him at 18:30 and collect him at 20:00. Nathan confirms the time and lets Heather know. This does not presume that Wesley already knows the final game build or its internals.
+**Carry forward:** the 18:30–20:00 visit is arranged with adult permission, hosting and transport. If the prose omits the confirmation, the visit is not automatically available. Nathan remains a little tired but functional; no school deadline is silently erased.
 
 ### Scene 44 — Teacher / harder follow-up
 **Date/time:** Thursday 15 October, 10:10–10:25, class.
@@ -365,9 +365,9 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** a tentative social plan exists; attendance remains unconfirmed.
 
 ### Scene 47 — Package, final private playtest and submission
-**Date/time:** Thursday 15 October, 18:30–20:00, Callahan home; final regression/admin 20:00–21:30.
-**Cast:** Nathan and Wesley Moss; Clifford for the adult signing/submission route.
-**Pre-state:** version **0.9.0 (build 18)** has BUG-01 through BUG-06 closed with recorded regression evidence. Nathan builds **Current 1.0 (build 19)** from that validated code; the bundle ID and SKU are prepared and the title/icon art and store listing draft already exist.
+**Date/time:** Thursday 15 October, 18:30–20:00, Callahan home; final regression/submission 20:00–21:30.
+**Cast:** Nathan and Wesley Moss; Heather is the responsible adult at home; Clifford handles the adult signing/submission route.
+**Pre-state:** the visit was arranged in Scene 43: Heather agreed to host at breakfast, and Wesley's parent confirmed drop-off at 18:30 and pickup at 20:00. Version **0.9.0 (build 18)** has BUG-01 through BUG-06 closed with recorded regression evidence. Nathan builds **Current 1.0 (build 19)** from that validated code; the bundle ID and SKU are prepared and the title/icon art and store listing draft already exist.
 **Boundary:** Wesley tests the iPod touch build without coaching. He navigates the formerly troublesome corridor, understands from the objective/exit state when the route is available, and restarts without the former delay. Nathan captures three screenshots from this exact build only after verifying the title/start screen, gameplay with guards, and completed-objective/open-exit state. He records device/build and runs the final test matrix: corridor, collision, brief/prolonged line-of-sight loss, objective/exit state, ten restarts and the 1/5/10/15/20/24-guard cases. He fixes and reruns any reproducible release-blocking issue; if a code change creates a new build, affected tests must run again before submission. Clifford checks the final iTunes Connect packet, signs and submits only after all six bug records have passing evidence.
 **Submission metadata — working continuity values:** public title Current; marketing version/build 1.0/19; bundle/App ID `com.cliffordcallahan.current`; SKU `CALLAHAN-CURRENT-001`; free Games/Puzzle listing, English, initial U.S. storefront, provisional 9+ rating. Clifford is the adult seller/account holder and handles signing/submission; listing and in-game credits identify Nathan Callahan as designer/programmer and Clifford as account/submission administrator. The prepared listing uses original assets, a short description and required support contact/page. Clifford submits the validated binary by about 21:30. This is App Store review submission, not publication.
 **Carry forward:** version **1.0 (build 19)** has been submitted; BUG-01 to BUG-06 are CLOSED for that exact build, with iPhone OS 3.1.2, scenarios, reproducers and results recorded. Any later regression reopens the issue and may move the planned launch date. Public availability is pending review; audience size and reception are still UNKNOWN.
