@@ -1,7 +1,7 @@
 # OpenWrite Codex Seed — Season 1 Foundation
 
 Status: WORKING / data-entry specification
-Updated: 2026-10-13
+Updated: 2026-10-14
 
 This is the first seed set for the OpenWrite Codex. It describes what should exist as reusable entities
 when the series project is populated.
@@ -84,10 +84,11 @@ Create once:
 - Cameron Tucker
 - DeDe Pritchett
 - Dylan Marshall
-- recurring teachers
-- recurring football teammates
+- **Connie Harrington** (new-school mathematics teacher; internal ID `CA-MATH-01`; see [full profile](../characters/CONNIE_HARRINGTON.md))
+- recurring football teammates with stable profiles, including Maxwell Whitaker, Cory McBride and Wesley Moss
+- `CA-ENG-01` English teacher remains a role-only reference; do not invent a name unless later recurrence makes a stable profile useful
 
-Maxwell Whitaker is the first working original peer with a stable profile; retain his identity and goals across episodes. Further teachers and teammates should gain stable identities only when their repeated narrative role has become useful enough to justify naming them.
+Maxwell Whitaker is the first working original peer with a stable profile; retain his identity and goals across episodes. Connie Harrington now also has a stable profile and dated knowledge history. Assign names/backgrounds to additional teachers or teammates when a repeated narrative role warrants them, and propagate any new identity to the registry and affected scene ledgers.
 
 ## Project-level locations
 
