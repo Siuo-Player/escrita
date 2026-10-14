@@ -257,3 +257,22 @@ Do not treat the earlier estimate of 10–14 focused programming hours per week 
 ### REV-007 — Audit the remaining gaps instead of assuming they are errors
 
 Resolve genuine contradictions and missing causal steps, but do not label a workable schedule or workload a problem without demonstrating a conflict. Keep changes incremental: each batch should cover one or two closely related issues, followed by a fresh check of adjacent outlines, ledgers, timeline, profiles and cross-references. Track what is fixed, what remains unresolved, and any new inconsistency introduced. The author has authorized these corrections unless explicitly countermanded.
+
+
+## Continuity audit follow-up — 2026-10-14
+
+### Corrections verified in the current working branch
+
+- **Opening football assessment:** Episode 1's outline and scene-state ledger now state the 16 September coach contact, explicit parent permission, coach confirmation, family-car delivery on 17 September, and the Saturday 19 September **09:30–11:05** assessment. It remains a controlled evaluation, not an official fixture or a promised roster place.
+- **Episode 1 scene parity:** the outline and state ledger each contain 62 numbered scenes. The explicitly recorded time windows match; the one apparent difference at school arrival is only that the ledger includes the **08:00** school start in its timing line while the outline states it in the following sentence.
+- **Episode 2 scene parity:** the outline and state ledger each contain 49 numbered scenes. The explicit time windows match after aligning the October 9 shelf/home beat (**18:30–19:00**) before the **19:30–21:00** coding session, fixing the 10 October scrimmage at **09:30–11:05** before Maxwell's **11:20** invitation, and adding the 11 October family outing (**10:00–12:00**) to the ledger.
+- **Workload:** the current rule is 2 focused hours on ordinary school days, up to 8 hours on free days, and 60–85 hours over roughly six weeks. The 10–14-hour weekly figure is an average, not a cap. On a justified late night during 12–15 October, Nathan may work until **04:00–05:00**; this is optional, and any such use must affect next-day sleep/fatigue. No document should describe this as a four-to-five-hour session.
+- **Game scope/release:** the Current 1.0 asset plan consistently uses simple original geometric art and simple original/generated tones. BUG-01–BUG-06 have specific closure/retest gates; do not submit a candidate with a known blocking defect. Public launch remains conditional on App Store review, with 23 October only the working target.
+- **Math teacher/Codex:** Connie Harrington is named and has a professional/personal background, a dated knowledge history, a registry entry and a profile reference in the OpenWrite Codex seed. The teacher learns about the game only after Nathan explicitly tells her on 2 October.
+
+### Still deliberately unresolved
+
+- **Cece:** the actual character profile and dated encounter are absent from the working outlines/ledgers. The Scene 40 guardrail prevents an unrecorded encounter from becoming an emotional cause; create/update the profile and timestamped event before writing a scene that relies on it. Do not identify her as DeDe without evidence.
+- **Math Enrichment Group:** the first meeting is **27 October, 15:20–16:15**, overlapping the Tuesday football training start at 16:00. Nathan remains interested but not enrolled. Before showing him attending, establish his choice, Coach Lance's agreement, parent/transport arrangements, and the resulting football state.
+
+This audit note records current findings; it does not authorize merging PR #11 or convert any WORKING decision into author-locked canon.
