@@ -170,9 +170,11 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Carry forward:** the notebook records a hypothesis and rough diagram, not working code. Flow-field implementation remains future work; fragmented future memories are not a complete recipe.
 
 ### Scene 22 — Follow-up messages
-**Date:** Sunday, 13 September 2009.
-**Date/location:** 13 Sep, Nathan's room. **Cast:** Nathan; Calvin Baxter, Tristan Morrow and Devon Carver.  
-**Pre-state:** the team already knows the move from the 11 Sep group message; these three have separate relationships and home/school commitments. **Boundary:** the messages are individual follow-ups, not the first reveal. Nathan may discount sincere replies, but that is his interpretation. **Carry forward:** record who replied, the exact knowledge shared, and any promise to keep in touch; do not invent promises if the scene does not make them.
+**Date/time/location:** Sunday 13 September 2009, 18:30–19:00, Nathan's room.
+**Cast:** Nathan by SMS; Calvin Baxter, Tristan Morrow and Devon Carver as separate remote correspondents, not physically present.
+**Pre-state:** the team was told in the 11 September group SMS, and Coach Leonard confirmed the move to active players before Saturday's match. These three have separate relationships and home/school commitments.
+**Boundary:** Nathan sends three separate messages. Calvin asks how the new team sets up its midfield and says he'd be interested to hear how its shape compares; this is practical curiosity, not a promise of constant contact. Tristan notes that the back line will need to get used to organizing without Nathan's familiar cues; he does not turn it into a speech or ask Nathan to solve the replacement plan remotely. Devon says he'll try Nathan's scanning/first-touch advice at the next practice and asks when to play the safe pass; Nathan answers briefly and leaves selection decisions with Coach Leonard. Nathan is glad they reply but discounts some warmth as ordinary politeness. Do not give any player a fixed call schedule or promise future minutes/friendship/results.
+**Carry forward:** all three now know the move was personally acknowledged, but the conversations remain brief and distinct. Calvin has asked about the new team's shape; Tristan has voiced a practical adjustment concern; Devon intends to try the specific technical cue. No further promise is created.
 
 ### Scene 23 — Travel from Seattle to the rental
 **Date/time:** Monday 14 September 2009, 05:30–11:30.
