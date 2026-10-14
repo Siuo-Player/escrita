@@ -155,11 +155,11 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** record what benchmark was run and its result; avoid fake precision without a test log.
 
 ### Scene 17 — Ordinary school day during Come Fly with Me
-**Date:** Wednesday 7 October, daytime.  
-**Cast:** Nathan, Alex if the outline shows a conversation, and active school participants only.  
-**Pre-state:** Nathan's school routine is established; Alex has her own family/canon day and can be distracted or tired for reasons unrelated to him.  
-**Boundary:** during a brief ordinary school-space conversation, Nathan mentions that CA-MATH-01 suggested the optional maths-enrichment/competition group. Alex says it sounds like something he would be good at. She learns about the opportunity only because Nathan tells her, not from the teacher or another source. Do not make Nathan participate in the private events of the canon episode.  
-**Carry forward:** Nathan knows Alex offered encouragement; Alex knows he is considering an academic opportunity. The canon-family plot remains elsewhere.
+**Date/time:** Wednesday 7 October, 12:05–12:15, shared lunch area.
+**Cast:** Nathan and Alex.
+**Pre-state:** Nathan has the group's name and a basic handout from Ms. Harrington, but no meeting date or deadline yet.
+**Boundary:** Nathan tells Alex he is considering the Math Enrichment and Competition Group. She says it sounds like something he would be good at. She knows about the opportunity only because Nathan tells her, not from the teacher or another source. Do not make Nathan participate in the private events of the canon episode.
+**Carry forward:** Nathan knows Alex offered a small encouragement; Alex knows he is considering an academic opportunity, not that he has joined. No meeting, registration or promise is implied; the canon-family plot remains elsewhere.
 
 ### Scene 18 — Integrate prediction and flow field
 **Date:** 7 October evening, Callahan home.  
