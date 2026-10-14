@@ -707,6 +707,8 @@ The architecture finally feels coherent.
 
 ### 28–29 September
 
+**Calendar constraint:** the adopted LAUSD traditional calendar marks Monday 28 September as an Unassigned Day. Place Scenes 59–60, which require school to be open, on **Tuesday 29 September**. Scene 61's technical evening review also falls on Tuesday so it follows those school beats; Scene 62 is Alex's independent parallel evening.
+
 #### Scene 59 — school
 Nathan now has one classmate who regularly talks to him.
 
