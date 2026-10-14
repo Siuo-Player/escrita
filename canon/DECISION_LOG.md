@@ -287,3 +287,22 @@ This audit note records current findings; it does not authorize merging PR #11 o
 - **Still open:** no Cece identity/profile or dated encounter exists in the working scene material, so her causal effect cannot yet be resolved without inventing facts. The Math Enrichment Group/football overlap is documented; Nathan remains interested but not enrolled, so no future attendance is assumed.
 - **Repository workflow:** PR #11 remains open and unmerged. No CI status checks are reported for the current head. No merge was performed.
 
+
+
+## Continuity audit follow-up — incremental pass (2026-10-14)
+
+### Changes made and rechecked
+
+- **Opening game state:** aligned `NATHAN_FIRST_MOBILE_GAME.md` with Episode 1's 7 September opening. The rough A* baseline and minimum playable loop already exist by then; 7–9 September is testing/refinement and measurement of repeated searches, not the first implementation of A*.
+- **Device-test chronology:** the technical calendar now distinguishes simulator work during 8–12 October from the first explicit physical iPod touch stress test on 13 October. The episode outline and scene ledger both identify the build-16 failure and build-17 retest before closing BUG-06.
+- **Programming capacity:** recurring schedules explicitly permit longer blocks on Friday and each genuinely free weekend day, with a 4–5-hour block reasonable when obligations allow and up to 8 hours possible on a free day. The 10–14-hour weekly average is not a cap. A late finish at 04:00–05:00 is a separate clock-time exception and must affect the following day's state.
+- **Decision register:** `STORY_DECISIONS_TO_MAKE.md` now labels its mixed section as “Remaining decisions and working choices” and explains that Resolved/Established entries are not open questions. The existing “First-arc readiness” section remains intact.
+- **Scene recheck:** Episode 1's outline and ledger each contain 62 numbered scenes; Episode 2's outline and ledger each contain 49. Rechecked the flagged October 12–15 school, training, device-test and playtest windows. The apparent differences in a broad text extraction came from nearby unnumbered calendar/parallel-canon details included in an outline block, not from those scenes being reordered. Preserve their explicit clock times during prose drafting.
+- **Teacher and testers:** Ms. Connie Harrington's profile and her dated first disclosure of the game are already in place. Maxwell Whitaker, Cory McBride and Wesley Moss already have independent family backgrounds, habits, player perspectives and knowledge boundaries; retain their distinct playtest feedback rather than rewriting them as interchangeable testers.
+
+### Still unresolved — do not fill gaps by guessing
+
+- **Cece encounter:** no dated event or matching character profile was located in the current working outlines/ledgers and the relevant earlier planning branches. Keep Episode 2 Scene 40's established school-assignment cause for Alex's distraction; it occurs at 12:20–12:35 before DeDe's later visit. Do not attribute the mood to Cece unless her identity, encounter, exact time and effect are documented. If the intended encounter is placed before 12:20, update Alex's state; if after, it cannot affect this scene.
+- **Math Enrichment Group:** the planned first meeting on 27 October, 15:20–16:15 overlaps the 16:00 Tuesday football-training start. Nathan remains interested but not enrolled. Decide coach/parent permission, transport, and what happens to training before showing attendance.
+
+These notes record the state of this pass; they do not merge PR #11 or promote working names, device details, or the 23 October launch target to immutable canon.
