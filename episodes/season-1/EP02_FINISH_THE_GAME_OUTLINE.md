@@ -218,7 +218,8 @@ The architecture finally works end-to-end.
 ## 8 October — continuing the school week
 
 #### Scene 19 — emotional echo (Thursday 8 October, morning)
-Before the other school beats on 8 October, Alex and Nathan have a short conversation about something unrelated to school. It is brief and ordinary; neither needs a new excuse to speak.
+**Time:** 07:40–07:50, school arrival/locker area, before the 08:00 first lesson.
+Alex and Nathan have a short conversation about something unrelated to school. It is brief and ordinary; neither needs a new excuse to speak.
 
 Nathan begins to realize he likes talking to her even when he has nothing to say. This is his realization, not evidence that Alex has already identified her feelings.
 
@@ -228,7 +229,7 @@ Nathan begins to realize he likes talking to her even when he has nothing to say
 ### The new normal and the first real weekend
 
 #### Scene 20 — school
-**Time:** 10:10–10:25, Thursday 8 October, Nathan's mathematics class.
+**Time:** 08:10–08:25, Thursday 8 October, Nathan's mathematics class.
 Ms. Harrington gives Nathan an unexpectedly difficult question based on the reasoning she has seen in earlier lessons. Nathan answers correctly, and a nearby student briefly looks impressed. Nathan becomes uncomfortable with the attention. Ms. Harrington moves the class on rather than turning the moment into praise or a public performance.
 
 #### Scene 21 — Alex
