@@ -213,9 +213,11 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Carry forward:** the move feels real; Nathan has to rebuild his routine while keeping the existing project alive.
 
 ### Scene 28 — First school arrival
-**Date:** Wednesday, 16 September 2009.
-**Date/location:** 16 Sep, middle school. **Cast:** Nathan, school staff/classmates aggregate.  
-**Pre-state:** timetable from transfer paperwork, layout unfamiliar. California team hasn't practiced with him. **Boundary:** early arrival and schedule-checking; his Seattle reputation has not transferred. **Carry forward:** new-school status starts at zero; retain 8th/7th grade separation.
+**Date/time/location:** Wednesday 16 September 2009, Heather leaves the rental with Nathan at 07:20; campus arrival 07:40, before the 08:00 start.
+**Cast:** Nathan, Heather for transport, school staff and classmates as aggregate.
+**Pre-state:** Heather and Nathan completed the records/timetable visit on 15 September. The family car remains in transit until 17 September; Heather is on relocation leave and has the employer-provided temporary vehicle.
+**Boundary:** Heather drops Nathan at the school entrance and returns to the rental. Nathan has the timetable and first-day instructions but has not toured the campus. He checks the schedule and asks staff for directions instead of pretending he knows the rooms. His Seattle reputation has not transferred; preserve the 8th/7th-grade separation from Alex.
+**Carry forward:** Nathan's first day starts with a confirmed, plausible ride and a new-school status of zero. Heather has the temporary vehicle for the day; do not treat the family car as delivered yet.
 
 ### Scene 29 — New-school mathematics
 **Date:** Wednesday, 16 September 2009.
