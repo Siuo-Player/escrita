@@ -582,7 +582,7 @@ He already has:
 - a clear design target;
 - experience with the tools he is using;
 - a narrow game scope;
-- purchased/commissioned assets instead of creating all art himself.
+- simple original geometric assets and simple original/generated tones for the first release, avoiding a third-party art/audio pipeline.
 
 The work is accelerated by the absence of large side systems:
 
@@ -598,9 +598,15 @@ The one important architectural detour is **A* → flow field**. Once Nathan rec
 part of his prototype is repeated global navigation for agents sharing destinations, progress becomes much
 faster.
 
-During school periods, the default workload is roughly **10–14 focused programming hours per week**,
-with somewhat denser work possible before/around the move and during weekends. The move itself is treated
-as a temporary interruption rather than a reason to pretend he can code normally every day.
+Treat **10–14 focused programming hours per week as an approximate average, not a ceiling or fixed quota**.
+On an ordinary school day, Nathan has about **2 focused programming hours available**; on a genuinely
+free day, he can devote **up to 8 hours**. Availability is an upper bound, not an obligation: schoolwork,
+football training and matches, relocation, family plans and fatigue can use that time. Across roughly six
+weeks, **60–85 focused hours is feasible** without requiring every day to be a long session. Friday/weekend
+blocks can be longer when the calendar permits, and during a genuine late-stage crunch (including
+12–15 October) a **4–5 hour session is possible** if competing responsibilities allow it. Adjust a given
+day's work only when a specific event or constraint explains the change; do not treat a long session as
+implausible merely because it is long.
 
 The story should therefore present the achievement as:
 
