@@ -69,21 +69,11 @@ The game does not need dozens of weapons, inventory systems, dialogue trees or a
 
 ## Art and asset strategy
 
-Nathan is deliberately not responsible for producing high-quality art himself.
+**Actual choice for Current 1.0:** Nathan uses simple original geometric shapes for the title screen, tiles, guards, objective/exit indicators and icons, with simple original/generated tones for sound. The visual presentation is intentionally restrained rather than professional-looking. This is the asset set represented in the release packet; no third-party sprite pack, borrowed music, or unlicensed typeface enters build 19.
 
-He knows he is weak in visual arts and does not waste months trying to become an illustrator.
+Other options—buying inexpensive commercial sprite packs, commissioning art, using licensed sound libraries or purchasing interface assets—remain things Nathan could choose for a later version, but none is part of the 15 October candidate. If he adds any external asset later, record its source and license before it enters a build, and generate a new version with affected regression tests.
 
-He can:
-- buy inexpensive commercial sprite packs or commissions;
-- use period-appropriate public or commercial sound libraries;
-- purchase interface assets;
-- adapt simple placeholder graphics during development;
-- eventually pay a small amount for better title-screen and character art.
-
-He creates the technical architecture, gameplay rules and important AI systems himself.
-
-This reinforces a recurring characterization point: Nathan knows where he is weak and spends money or
-asks for help instead of pretending he is equally good at everything.
+Nathan knows he is weak in visual arts and does not waste months trying to become an illustrator. He creates the technical architecture, gameplay rules and important AI systems himself and keeps the first release's art scope deliberately small. This reinforces a recurring characterization point: Nathan knows where he is weak and does not pretend to be equally good at everything.
 
 ## Development environment
 
