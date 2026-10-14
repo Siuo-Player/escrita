@@ -2,7 +2,7 @@
 
 Status: WORKING
 Purpose: decisions needed before building the first durable episode/arc.
-Updated: 2026-10-13
+Updated: 2026-10-14
 
 The list is ordered by dependency. We do not need to decide every detail immediately. Resolved items
 are recorded so they are not asked again. The public game launch after technical and peer playability tests is author-confirmed; the exact 23 October launch date remains a WORKING timeline target under DEC-014.
