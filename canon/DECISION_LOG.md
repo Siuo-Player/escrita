@@ -1,7 +1,7 @@
 # Decision Log — Story, Naming and Causal Method
 
 Status: AUTHORITATIVE PROVENANCE LOG
-Updated: 2026-10-13
+Updated: 2026-10-14
 
 This file stores **what was decided, how the current answer was validated, and what remains revisable**. Consult it with the Character Name Registry, the story-decision file, the relevant character profile, timeline and any open PR before asking the author a question. Do not treat an assistant-generated suggestion as author approval.
 
