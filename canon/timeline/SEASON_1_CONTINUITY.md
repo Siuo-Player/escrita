@@ -120,9 +120,9 @@ while only a small number of school moments need to be shown in any given episod
 | **Tuesday** | Normal school day. | **Football training: ~1.5–2 h**; light study afterwards. | Team leadership and peer interaction. Little or no serious coding. |
 | **Wednesday** | Normal school day; library/lab when useful. | **Programming: 1.5–2.5 h** | Main bridge between school and technology. The **23 Sep Pilot** falls here. |
 | **Thursday** | Normal school day. | **Football training: ~1.5–2 h**; family evening afterwards. | Recurring team/social material. |
-| **Friday** | Lighter end-of-week mood. | **Programming: 2–3 h** | Longest uninterrupted school-night coding session. |
-| **Saturday** | **Football match / team activity in the morning.** | **Programming: 2–4 h** or social/family activity. | Strong day for physical, social and technical threads. |
-| **Sunday** | Family day; reading and preparation. | **Planning + programming: 1–2 h** | Nathan reviews the week and decides what to test next. |
+| **Friday** | Lighter end-of-week mood; schoolwork still applies. | **Usually ~2 h; 4–5 h if the evening is mostly free** | Often the longest uninterrupted school-night session; duration depends on deadlines and fatigue, not a fixed cap. |
+| **Saturday** | **Football match / team activity in the morning**, with travel and recovery time. | **About 2 h casually; 4–5 h or more if the rest of the day is free** | A long work block is possible, but must leave room for matches, martial arts, friends and family. |
+| **Sunday** | Family day, unless plans leave a genuinely free block. | **About 2 h casually; 4–5 h, up to 8 h on a genuinely free day** | Nathan reviews the week and decides what to test next; a long session is available capacity, not an obligation. |
 
 Nathan normally sleeps at a sensible hour. The point is that he is unusually disciplined, not that he works
 through every night until dawn.
