@@ -287,12 +287,12 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Boundary:** Nathan works on BUG-06 by caching shared fields against the map version/target cell and coalescing redundant rebuild requests. The recorded simulator scenario shows less repeated work, but the iPod stress test has not yet passed. This is a partial optimization, not closure of the device-performance gate.
 **Carry forward:** BUG-06 is IMPROVED ON SIMULATOR but remains OPEN pending the 13 October device test. BUG-02/03 remain OPEN; BUG-01/04/05 remain fixed unless a later regression reproduces them.
 
-### Scene 36 — School / academic opportunity follow-up
-**Date/time:** Tuesday 13 October, 10:20–10:30, outside CA-MATH-01's classroom after a lesson.
-**Cast:** Nathan and CA-MATH-01; classmates aggregate.
-**Pre-state:** teacher mentioned the optional maths-enrichment/competition group on 6 October. Nathan is interested but not enrolled; he has not checked the meeting time against football.
-**Boundary:** the teacher supplies actual next steps. Nathan says he intends to pursue it but makes no attendance commitment before checking the schedule. The teacher knows Nathan programs only if an earlier explicit conversation or observable work is recorded; this scene does not grant hidden knowledge.
-**Carry forward:** club identity and deadline must be recorded when supplied; enrollment, attendance, transport and parent permission remain unresolved.
+### Scene 36 — School / academic opportunity logistics
+**Date/time:** Tuesday 13 October, 15:15–15:25, outside Ms. Harrington's classroom after the school day.
+**Cast:** Nathan and Ms. Connie Harrington (internal ID CA-MATH-01).
+**Pre-state:** Ms. Harrington has named the group and given a basic handout on 6 October. Nathan is interested but not enrolled; he has not checked the practical schedule against football.
+**Boundary:** Ms. Harrington confirms the next steps for the Math Enrichment and Competition Group: first meeting Tuesday 27 October, 15:20–16:15, in school library room 112; later meetings are planned for alternate Tuesdays. The expression-of-interest form, with parent/guardian signature, is due Friday 23 October. A regional competition is tentatively planned for 14 November, but transport and participation requirements are not guaranteed. Nathan says he intends to pursue it, but notices that the meeting overlaps the 16:00 football training start and must check with Coach Lance and his parents before committing.
+**Carry forward:** Nathan knows the meeting date/time and form deadline, but is not enrolled and has made no attendance promise. Coach/parent permission and transport remain unresolved. This is a real opportunity and schedule conflict, not another generic encouragement.
 
 ### Scene 37 — Alex / Nathan initiates
 **Date/time:** Tuesday 13 October, 12:20–12:30, school lunch break.
