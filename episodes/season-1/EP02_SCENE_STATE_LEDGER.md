@@ -260,7 +260,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** BUG-01/04/05 are FIXED on **version 0.8.0 (build 15)** after their reproduction and regression results are recorded; BUG-02/03/06 remain OPEN. Nathan plans the school assignment and remaining technical tasks and stops at a reasonable hour. This three-hour block is within his available Sunday time and does not imply an all-night session.
 
 ### Scene 32 — Alex notices a little fatigue
-**Date/time:** Monday, 12 October, 12:20–12:30, school lunch break.
+**Date/time:** Monday, 12 October, 12:10–12:20, school lunch break.
 **Cast:** Alex and Nathan.
 **Pre-state:** busy weekend; Nathan followed Sunday's plan and did not code all night. He is only mildly tired.
 **Boundary:** Alex notices slower responses/less-rested appearance and asks whether he slept enough. Nathan says he did sleep. She notices fatigue, not a proven lie, and does not know the cause. No link to events of 14 October exists.
