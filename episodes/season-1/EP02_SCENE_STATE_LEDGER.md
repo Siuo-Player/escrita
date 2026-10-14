@@ -204,7 +204,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** one reciprocal action toward friendship; record the exact plan, time and place.
 
 ### Scene 24 — Heather and a household detail
-**Date:** 9 October, Callahan rental.  
+**Date/time:** Friday 9 October, 18:30–19:00, Callahan rental / study area.  
 **Cast:** Heather, Nathan if he helps.  
 **Chosen working object:** a narrow second-hand bookshelf for Nathan's study area, acquired from a local second-hand shop or community listing; choose one source in prose and record the actual cost only if stated. It is placed beside the desk and does not replace the computer or packed book boxes without reason.  
 **Pre-state:** blue bowl and framed photo are already unpacked; household routines are mostly working.  
@@ -219,7 +219,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward — defect register opened on version 0.7.0 (build 14):** all six items are OPEN after the 9 October playthrough: BUG-01 corridor crowding/steering; BUG-02 abrupt chase-to-search transition; BUG-03 tight-corner collision/steering edge case; BUG-04 unclear objective/exit feedback; BUG-05 slow/incomplete restart state; BUG-06 path-field rebuild performance spikes. The 10 October playtest later reproduces BUG-01 and BUG-04 with named users. No defect is considered fixed merely because a complete playthrough succeeded.
 
 ### Scene 26 — Saturday football event
-**Date:** Saturday 10 October, field.  
+**Date/time:** Saturday 10 October, 09:30–11:05, field; friendly/internal scrimmage and short coach debrief.  
 **Cast:** Nathan, Coach Lance, Maxwell and the players actually selected/participating.  
 **Pre-state:** Tuesday training and Friday tactical invitation exist.  
 **Boundary:** treat this as a friendly/internal scrimmage unless the story establishes registration, eligibility, opponent, and official competition. Nathan can perform well and be trusted with a tactical adjustment without becoming captain. Record minutes, role, useful actions and injuries (none unless shown).  
