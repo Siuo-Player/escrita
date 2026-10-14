@@ -317,3 +317,20 @@ These notes record the state of this pass; they do not merge PR #11 or promote w
 - The author-approved workload remains unchanged: ordinary day about 2 focused hours; a longer 4–5-hour block on a mostly free Friday/weekend day; up to 8 hours on a genuinely free day when obligations allow; exceptional 04:00–05:00 finish only if needed and followed by a recorded state consequence.
 
 Cece remains the one material chronology dependency not resolved by the available repository text: the current and relevant earlier planning branches do not contain a dated encounter/profile. Episode 2 Scene 40 therefore keeps the independently established school-assignment cause and must not be rewritten to imply a Cece-related mood change unless that encounter is first documented with identity and exact time.
+
+
+## Follow-up — school-calendar and bell-time audit (2026-10-14)
+
+### Corrections verified
+
+- **LAUSD unassigned day:** the adopted 2009–10 single-track calendar lists Monday **28 September 2009** as an Unassigned Day; a contemporary LAUSD school calendar explicitly labels it “Unassigned Day/No School.” With the California school using the LAUSD traditional-calendar baseline for this planning pass, Episode 1 Scenes 59–60 are now dated **Tuesday 29 September**. Scene 61's technical evening review and Scene 62's independent Alex cutaway also sit on the evening of 29 September, before the *Bicycle Thief* parallel thread on 30 September. See `research/narrative/OPENING_CALENDAR_AUDIT.md`.
+- **Bell schedule:** the recurring California-school baseline has arrival/lockers **07:35–07:55**, Nathan's maths period **08:00–08:50**, and lunch **11:55–12:25**. Episode 2's 8 October morning exchange now runs **07:40–07:50**, followed by the maths scene **08:10–08:25**. On 15 October, Wesley's arrangement is **07:40–07:55** and Connie's maths follow-up **08:10–08:25**. The outline, ledger and Connie's profile agree.
+- **Lunch transitions:** Episode 2 school-lunch scenes on 12, 13, 14 and 15 October now end by **12:20**, leaving time to transition before the next class; the outline and scene ledger were updated and re-read.
+- **Workload rhythm:** the weekly schedule table now presents 4–5-hour Friday/weekend blocks as plausible when obligations allow, with up to 8 hours available on a genuinely free day. These are options, not quotas; the 10–14-hour weekly estimate remains descriptive, and a 04:00–05:00 finish remains a separate exceptional clock-time case with next-day consequences.
+
+### Still unresolved
+
+- **Cece:** the dated encounter/profile is still absent from the working repository and reviewed discussion threads. Do not infer an identity or let this unrecorded event cause Alex's 14 October school mood; Scene 40's independent school-assignment cause remains valid unless the event is properly documented.
+- **Math Enrichment Group:** the future meeting still overlaps football training. Nathan remains interested but not enrolled; resolve the choice, coach/parent agreement and transportation before showing attendance.
+
+This note records documentation and chronology checks only; no CI run is claimed and PR #11 has not been merged.
