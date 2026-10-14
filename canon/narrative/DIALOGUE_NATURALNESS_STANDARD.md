@@ -1,7 +1,7 @@
 # Natural Dialogue Standard
 
 Status: ESTABLISHED WRITING STANDARD
-Updated: 2026-10-12
+Updated: 2026-10-13
 
 ## Purpose
 
@@ -72,7 +72,7 @@ No character should sound as though they have read the character bible. The outl
 
 Voice is more than catchphrases, slang or sentence length. It comes from what a person notices, which question they ask first, how they handle uncertainty, what they choose not to say and how they react when a conversation goes badly.
 
-- **Nathan:** hesitant to initiate with unfamiliar peers; once engaged, he can become friendly and talk freely about football or computing. He softens correct answers, underplays praise and sometimes over-explains a technical point because it is safer than speaking about himself. Do not make him apologize in every scene or constantly narrate his own insecurity.
+- **Nathan:** hesitant to initiate with unfamiliar peers; once engaged, he can become friendly and talk freely about football or computing. He softens correct answers, underplays praise and sometimes over-explains a technical point because it is safer than speaking about himself. His feelings are natural, not abnormally intense: a mild sting or nervousness does not automatically make him act. He initiates when the expected value clears his internal risk threshold; fear of rejection raises that threshold, especially when strong romantic feelings make the outcome matter more. Do not make him apologize in every scene, act super-sensitive, or constantly narrate his own insecurity.
 - **Alex:** precise, curious, academically direct and sometimes dry. Her humor should arise from a concrete observation, frustration or the mismatch between what someone said and did. She is not obliged to produce a witty response every time. At first, she talks to Nathan for ordinary reasons and should not immediately behave as if she understands his attraction.
 - **Haley:** socially fluent and sensitive to status and group dynamics, but not automatically shallow or infallible. She can use shorthand with family and miss details that matter to someone else.
 - **Luke:** concrete, associative and occasionally unexpectedly perceptive. He can be wrong or silly without being written as uniformly stupid.

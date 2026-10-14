@@ -1,7 +1,7 @@
 # OpenWrite Codex Seed — Season 1 Foundation
 
 Status: WORKING / data-entry specification
-Updated: 2026-10-08
+Updated: 2026-10-14
 
 This is the first seed set for the OpenWrite Codex. It describes what should exist as reusable entities
 when the series project is populated.
@@ -52,11 +52,11 @@ Primary threads:
 ### Episode 2 chapter
 
 **Title:** Finish the Game
-**Story span:** 1–15 October 2009
+**Main story:** 1–15 October 2009; **public-launch coda:** 23 October 2009
 **Target:** 10k–14k words
 
 Primary threads:
-- game completion;
+- game completion, technical and peer playability tests, App Store submission and public launch after review;
 - Nathan/Alex relationship;
 - school integration;
 - football integration;
@@ -84,10 +84,12 @@ Create once:
 - Cameron Tucker
 - DeDe Pritchett
 - Dylan Marshall
-- recurring teachers
-- recurring football teammates
+- **Connie Harrington** (new-school mathematics teacher; internal ID `CA-MATH-01`; see [full profile](../characters/CONNIE_HARRINGTON.md))
+- Cory McBride (football teammate and playtester; see [profile](../characters/CORY_MCBRIDE.md))
+- Wesley Moss (technology/library peer and playtester; see [profile](../characters/WESLEY_MOSS.md))
+- `CA-ENG-01` English teacher remains a role-only reference; do not invent a name unless later recurrence makes a stable profile useful
 
-Maxwell Whitaker is the first working original peer with a stable profile; retain his identity and goals across episodes. Further teachers and teammates should gain stable identities only when their repeated narrative role has become useful enough to justify naming them.
+Maxwell Whitaker is the first working original peer with a stable profile; retain his identity and goals across episodes. Connie Harrington now also has a stable profile and dated knowledge history. Assign names/backgrounds to additional teachers or teammates when a repeated narrative role warrants them, and propagate any new identity to the registry and affected scene ledgers.
 
 ## Project-level locations
 

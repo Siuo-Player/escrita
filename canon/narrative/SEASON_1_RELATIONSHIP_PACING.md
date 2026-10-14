@@ -48,3 +48,20 @@ For every Nathan/Alex interaction, answer privately:
 7. Could this conversation still feel plausible if the reader did not know they were the endgame pairing?
 
 If the only reason a scene exists is to remind the reader that Nathan likes Alex, cut it, combine it with another purpose, or let the attraction remain off-page.
+
+
+## Pacing status: hypothesis to test, not a date lock
+
+The first-season friendship target is a working pacing hypothesis, not a command that Nathan and Alex must wait until a particular year to date. There is no fixed "Year 2 romance" decision in the current canon. The long-range outline gives us something to test, while the first episodes show what the relationship actually feels like at scene level.
+
+After drafting Episodes 1–2 (and preferably a small sample of Episode 3), assess:
+- how often they have believable access to one another;
+- whether each interaction changes their shared knowledge, trust or ease;
+- whether initiative comes from both sides over time, not only Nathan noticing Alex;
+- whether attraction becomes visible without skipping friendship, embarrassment or uncertainty;
+- whether pacing feels slow because routine life is being compressed too aggressively, or slow because the relationship genuinely needs more shared experience;
+- whether a stronger romantic beat would follow from established behavior or merely satisfy an outline expectation.
+
+If the written story supports faster development, revise the season/series anchor and add the missing setup. If it supports slower development, preserve the slower pace rather than inserting a date to meet a target. The relationship should feel natural when read forward and inevitable-enough in hindsight after backpropagation—not inevitable because a calendar says so.
+
+Any change to the relationship target must be logged with the reason, alternatives considered and affected outlines. Do not let romance outrank scene quality or the independent lives of Nathan and Alex.

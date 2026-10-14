@@ -1,7 +1,7 @@
 # Nathan's First Mobile Game — Technical/Narrative Design
 
 Status: WORKING / established design
-Updated: 2026-10-08
+Updated: 2026-10-14
 
 ## Purpose
 
@@ -69,21 +69,11 @@ The game does not need dozens of weapons, inventory systems, dialogue trees or a
 
 ## Art and asset strategy
 
-Nathan is deliberately not responsible for producing high-quality art himself.
+**Actual choice for Current 1.0:** Nathan uses simple original geometric shapes for the title screen, tiles, guards, objective/exit indicators and icons, with simple original/generated tones for sound. The visual presentation is intentionally restrained rather than professional-looking. This is the asset set represented in the release packet; no third-party sprite pack, borrowed music, or unlicensed typeface enters build 19.
 
-He knows he is weak in visual arts and does not waste months trying to become an illustrator.
+Other options—buying inexpensive commercial sprite packs, commissioning art, using licensed sound libraries or purchasing interface assets—remain things Nathan could choose for a later version, but none is part of the 15 October candidate. If he adds any external asset later, record its source and license before it enters a build, and generate a new version with affected regression tests.
 
-He can:
-- buy inexpensive commercial sprite packs or commissions;
-- use period-appropriate public or commercial sound libraries;
-- purchase interface assets;
-- adapt simple placeholder graphics during development;
-- eventually pay a small amount for better title-screen and character art.
-
-He creates the technical architecture, gameplay rules and important AI systems himself.
-
-This reinforces a recurring characterization point: Nathan knows where he is weak and spends money or
-asks for help instead of pretending he is equally good at everything.
+Nathan knows he is weak in visual arts and does not waste months trying to become an illustrator. He creates the technical architecture, gameplay rules and important AI systems himself and keeps the first release's art scope deliberately small. This reinforces a recurring characterization point: Nathan knows where he is weak and does not pretend to be equally good at everything.
 
 ## Development environment
 
@@ -93,12 +83,40 @@ He does not need to write a complete rendering engine. A plausible 2009 workflow
 2D framework or engine for scene management, sprites, input, audio and tile maps, while keeping the AI and
 gameplay core under his control.
 
-cocos2d for iPhone is a period-appropriate example: it was already an established open-source framework
+cocos2d for iPhone is a period-appropriate example: it was already an open-source framework
 for 2D iPhone/iPod Touch games, with tile-map support, touch input, audio support and OpenGL ES
-integration.
+integration. The framework layer is Objective-C; Nathan's pathfinding, prediction and gameplay logic can
+remain C++ and be connected through a small Objective-C++ bridge. Do not describe this as a modern
+cross-platform build workflow.
+
+### 2009 toolchain and device constraints — working decision
+
+The story needs a real causal path from source code to a mobile build. The current working choice is an
+**Intel Mac running Mac OS X 10.5 Leopard with an era-appropriate Xcode 3.1.x / iPhone OS SDK 3.x
+installation**. Apple’s archived Xcode 3.1 notes state that the iPhoneOS SDK could target iPhone/iPod
+touch and simulator, but iPhone OS cross-development required a Macintosh with an Intel processor.
+Do not silently assume a Windows-only machine can compile and sign the historical iOS app. If later canon
+shows different hardware, reopen this decision and choose a technically credible toolchain.
+
+The working test device is a **second-generation iPod touch**, released in September 2008 and documented
+for iPhone OS 3.1, owned by Nathan before the opening. Its provenance should be a normal family gift/purchase
+before 7 September 2009, not a device that appears for the first time when a benchmark needs it. This gives
+Nathan a plausible personal device for music/games and a conservative real-hardware target. The simulator is
+still useful for rapid iteration, but a simulator run is not evidence of actual-device performance.
+
+Actual-device development needs a valid signing/provisioning route. Working assumption: Clifford, as the
+adult in the household and an experienced technology executive, handles any required developer-account
+enrollment/provisioning administratively with Nathan; Nathan writes the game, not the legal account
+agreement. Private ad-hoc builds are for controlled tests only. Once Nathan's technical checks and peer playability tests pass, Clifford can handle the adult account/submission administration for a public App Store release; publishing still requires Apple's review and does not make the family famous overnight. Record the
+device, OS version, build identifier, test scenario and actual outcome whenever a device test is shown.
+
+**Historical references:**
+- Apple, [Xcode 3.1 release notes](https://leopard-adc.pepas.com/releasenotes/DeveloperTools/RN-Xcode/index.html), archived developer documentation on Intel-Mac/iPhoneOS SDK requirements.
+- Apple, [2008 second-generation iPod touch announcement](https://www.apple.com/newsroom/2008/09/09Apple-Introduces-New-iPod-touch/).
+- Apple Support, [iPod touch (2nd generation)](https://support.apple.com/pt-pt/docs/ipod/132054), which lists documentation for iPhone OS 3.1.
 
 Nathan can therefore spend his limited time on the part he actually cares about: how the enemies move
-and decide.
+and decide, while the platform layer remains period-correct.
 
 ## First implementation: conventional pathfinding
 
@@ -366,6 +384,65 @@ The phone is not made faster.
 
 The workload is made smaller.
 
+## Pre-release defect closure record
+
+The game must not be submitted with any of the known reproducible defects below. The dates are the current story plan and must be mirrored in Episode 2's scene ledger. A fix is not considered complete until the relevant reproducer passes on the current build. Peer feedback is a report of experience, not a diagnosis of code.
+
+| ID / first observed | User-visible problem | Fix and causal work window | Required retest and closure condition |
+|---|---|---|---|
+| BUG-01 — 9 Oct; Maxwell reproduces it on 10 Oct | Guards bunch in a narrow corridor and make player movement feel stuck. | On 11 Oct, Nathan adjusts local steering so agents yield/space themselves at a bottleneck instead of repeatedly contesting the same immediate tile. The shared navigation field remains; the fix is local behavior, not a new global pathfinder. | Replay the same corridor with opposing guards and the player approaching from either end. No permanent pile-up; player movement remains responsive; guards can clear the bottleneck without becoming identical or psychic. |
+| BUG-02 — 9 Oct | A guard switches from chase to search too abruptly when line of sight is briefly interrupted. | By 14 Oct, add a short, bounded lost-sight grace interval, then search around the last observed position. Old information must expire, so guards cannot track the player indefinitely without seeing them. | Break line of sight briefly and then for a longer interval. A brief interruption does not cause an implausible instant reset; a longer escape eventually ends the chase and begins a search of the last known area. |
+| BUG-03 — 9 Oct | At a tight corner, collision handling and local steering disagree; movement can stick or clip into a blocked cell. | By 14 Oct, validate the proposed next position against walkable-cell/collision constraints before committing movement, then resolve the local-steering choice without repeatedly pushing into the same obstacle. | Repeat the original corner case with player and guards. No blocked-cell entry, visible clipping, permanent jitter or stuck input. Retest the corridor case too, since the fixes interact. |
+| BUG-04 — 9 Oct; Cory's 10 Oct playtest confirms it | Objective completion and exit state are unclear. A player can reach the exit and not know whether an objective remains or the game failed to register an action. | On 11 Oct, add a simple period-appropriate visual state change: the objective has a clear completed state and the exit visibly changes when it becomes available. Use existing/simple assets; do not add a large UI system. | Cory's reported route is replayed without coaching. A player can tell whether the objective is complete and why the exit is or is not available. The indicator changes only when the underlying state changes. |
+| BUG-05 — 9 Oct | Restart feels slow and can leave the player waiting before another attempt. | On 11 Oct, reset transient player/guard/objective state while keeping static map and asset resources loaded; show an immediate, clear restart response. | Repeat restart ten times across the test map. Every run starts from the defined initial state with no stale guard memory, old objective state or delayed input lock. |
+| BUG-06 — 9 Oct; measured again on 13 Oct device test | Rebuilding the shared path field creates small performance spikes, especially with many guards. | On 12 Oct, cache fields against the map version and target cell, and coalesce redundant rebuild requests. On 13 Oct, use the iPod touch stress test to find any remaining device-specific redundant work and reduce it before retesting. | Run the documented 1/5/10/15/20/24-guard scenarios on simulator and actual iPod touch. Record build, OS, scenario and measured outcome; all target cases pass without a recurring rebuild spike that disrupts play. A simulator result never substitutes for the device run. |
+
+### Acceptance state before public submission
+
+- **10 Oct:** Maxwell and Cory confirm BUG-01 and BUG-04 from their own play experience; Nathan records reproduction steps instead of dismissing the feedback.
+- **11 Oct:** BUG-01, BUG-04 and BUG-05 receive targeted fixes and their specified regression checks.
+- **12–13 Oct:** BUG-06 is optimized and checked first on the current build and then on the real device. Any fresh, reproducible failure blocks closure until fixed and rerun.
+- **14 Oct:** BUG-02 and BUG-03 are fixed and retested alongside the full guard-count scenarios. Cross-test the corridor/collision changes rather than considering them independent.
+- **15 Oct:** Wesley's supervised real-device playtest confirms that the submitted candidate still behaves correctly, including objective/exit feedback, movement and restart. Any release-blocking or reproducible defect exposed in this final pass is fixed and retested before submission; the schedule must move if required time exceeds the evening window.
+
+**Release rule:** the 15 October candidate has no known reproducible defect remaining. Later wishes such as extra levels, additional polish or more content may be recorded as future ideas, but must not be used as a euphemism for a known broken control, unclear required objective, stuck guard, bad restart, or failing performance test. Do not invent numeric benchmark results unless the scene records the actual measured number.
+
+## Candidate build history and public submission packet
+
+These identifiers make the testing chain concrete. The numbers are working continuity values; don't describe a test as passing on a build different from the one the scene says was tested. If code changes after a passing test, issue a new build and rerun the affected tests.
+
+| Date | Version/build | State and evidence |
+|---|---|---|
+| **9 Oct** | **0.7.0 (build 14)** | First complete playthrough. The game reaches an end-to-end win, but BUG-01 through BUG-06 are recorded as open. A completed playthrough is not release approval. |
+| **10 Oct** | **0.7.0 (build 14)** | Maxwell and Cory test this Mac/simulator build. They reproduce corridor movement crowding (BUG-01) and unclear objective/exit feedback (BUG-04). Nathan records the build and reproduction steps. |
+| **11 Oct** | **0.8.0 (build 15)** | Local steering, objective/exit state feedback and restart behavior are changed. BUG-01, BUG-04 and BUG-05 close only after their reproducers and restart repetition test pass. |
+| **12 Oct** | **0.8.1 (build 16)** | Shared-field caching and coalescing reduce repeated rebuild work in the simulator. BUG-06 improves, but stays open until the actual-device stress test passes. |
+| **13 Oct** | **0.8.2 (build 17)** | The iPod touch test of build 16 exposes remaining redundant work. Nathan changes the code, compiles build 17, then reruns the original device reproducer and the 1/5/10/15/20/24-guard matrix on build 17. The build-16 run diagnoses the issue; only the passing build-17 retests close BUG-06. |
+| **14 Oct** | **0.9.0 (build 18)** | Nathan corrects lost-sight grace/search handling and tight-corner collision validation, compiles build 18, then retests brief/prolonged loss of line of sight, the original corner and corridor reproducers, and the guard-count matrix on build 18. BUG-02 and BUG-03 close only after these build-18 tests pass. |
+| **15 Oct** | **1.0 (build 19)** | Versioned release candidate compiled from the validated code, tested on the real iPod touch by Wesley without coaching, then run through the final acceptance matrix. This exact binary is the one Clifford submits for review. No known reproducible blocker remains. |
+
+### App Store record — working choices
+
+- **Public title:** Current.
+- **Marketing version / build:** 1.0 / 19.
+- **Bundle/App ID:** `com.cliffordcallahan.current`.
+- **SKU:** `CALLAHAN-CURRENT-001`. Treat it as fixed after the record is created.
+- **Developer/seller display name:** Clifford Callahan, using his already-active adult developer membership. Clifford handles the signing, provisioning, iTunes Connect record and submission. The seller name is not a claim that he wrote the game.
+- **Creator credit:** the title/credits screen and the listing description attribute design and programming to Nathan Callahan and note that Clifford provided account/submission administration. This avoids pretending the thirteen-year-old independently contracts with the store, while preserving his authorship.
+- **Primary language:** English. **Initial distribution:** U.S. storefront. **Price:** Free. No ads, in-app purchases, network access, user account or external service are included.
+- **Category:** Games / Puzzle. **Working age rating:** 9+ because the game uses stylized guard pursuit/stealth tension; the actual 2009 rating questionnaire must match the submitted content. No graphic violence, blood, gambling or sexual content is included.
+- **Working store description:** “A compact single-player stealth puzzle. Read the guards' patrols, find a route through the room, and reach the exit. Built around simple controls and adaptive guard behavior.”
+- **Required submission materials:** correctly sized 57×57 PNG device icon; matching 512×512 store icon created from the same artwork; simple 320×480 launch image; three real screenshots from build 19 (title/start screen, mid-level with guards, and the completed-objective/open-exit state); description, category, copyright/version, SKU, application/support URLs, monitored support email, age rating and signed distribution binary. Never depict features or results from an untested build.
+- **Asset provenance:** the title art, tiles, guards and objective/exit indicators use original simple shapes made for this project. Sound uses simple original/generated tones. No borrowed music, third-party sprite pack or unlicensed typeface is included. Record any later external asset and license before it enters a build.
+- **Administrative checklist:** Clifford confirms the developer membership/agreements, app record and distribution profile already exist; checks the App ID/bundle ID, version, SKU, rating, asset dimensions and binary signature; answers export-compliance questions truthfully (the game itself has no networking or custom encryption); chooses 23 October as the availability date; and submits the binary for review by about 21:30 on 15 October.
+- **Support details:** a monitored project support mailbox and a minimal support page on a domain Clifford already controls are entered in the store record. Their literal addresses are admin metadata, not dialogue, unless a later scene needs them.
+
+### Release acceptance gate
+
+Submission requires all six known defects to be closed on the tested code and the final build 19 to pass the documented matrix. A new reproducible defect reopens the relevant item; code or resource changes after build 19 require another build and affected regression tests. If a fix or review outcome pushes the date, the public launch moves—the story must not preserve 23 October by skipping a necessary test or implying approval before it happens.
+
+The 2009-specific App Store details above follow Apple's period presentation, [WWDC 2009 — Publishing on the App Store](https://nonstrict.eu/wwdcindex/wwdc2009/702/), including its metadata, rating, icon and screenshot requirements. The identity, pricing and release date are working creative choices, not facts from that source.
+
 ## The visual effect
 
 The player does not see the algorithm.
@@ -468,27 +545,32 @@ This keeps his advantage from becoming a cheat sheet.
 
 ## Development calendar and school-night workload
 
-The complete development now runs from **7 September to approximately 15 October 2009**: about **39 days
-(5½ weeks)**.
+The active prototype/build cycle runs from **3 September to 15 October 2009**: 43 calendar days inclusive, a little over six weeks. The story's first on-page scene is still 7 September. During **3–4 September**, Nathan makes the high-level plan: core loop, enemy behavior, small scope and a simple map. During **5–6 September**, he sets up the period-appropriate framework/project skeleton, builds the minimum runnable loop, and implements a deliberately crude A* route-finding baseline. By the first on-page scene, the build genuinely runs and includes basic grid rendering, player input/movement, one simple enemy loop, and rough A* navigation; it is not a polished vertical slice. The visible story measures and refines this baseline, then develops the shared flow-field, steering and prediction layers. After submission on 15 October, App Store review runs separately; 23 October is the working public-launch target.
 
-This is deliberately faster than the earlier 7–8 week plan because Nathan already knows what he wants to
-build, has strong C++ skills, uses an existing 2D framework, and has no major failure besides the A* →
-flow-field redesign.
+This is deliberately fast because Nathan already knows C++, has studied game programming, uses an existing
+2D framework, keeps the game scope narrow, and does not attempt custom rendering, a large campaign or a
+network system. The A* → flow-field redesign is the important architectural detour, not his first contact
+with programming.
 
-A useful narrative target is roughly **60–85 focused development hours**.
+A useful narrative target is roughly **60–85 focused development hours**, including the short pre-opening
+prototype period.
 
 ### Compressed development phases
 
-- **7–9 Sep:** concept locked; grid, input/rendering and one enemy prototype.
-- **10–13 Sep:** conventional A* baseline; several enemies; first small playable map.
-- **14–15 Sep:** move interrupts work; technical work continues only in fragments.
-- **16–23 Sep:** stress test exposes repeated pathfinding cost; Nathan reviews material he has already
-  studied and adapts the shared flow field.
-- **24–30 Sep:** flow field stabilizes; local steering and shared navigation integrate; first prediction
+- **3–4 Sep (off-page):** high-level game plan, deliberately small scope, core loop, enemy concept and first map.
+- **5–6 Sep (off-page):** framework/project skeleton and minimum runnable functions: render the grid, accept player movement, update one crude enemy, execute the game loop, and implement the first simple A* route. Budget roughly 8–10 focused hours across both days; the build is deliberately rough.
+- **7–9 Sep:** the first on-screen scenes show that rough build already running. Nathan tests one and then five enemies, checks that the baseline routes work, and refines/debugs the simplest cases. Repeated independent global searches become a measurable scaling concern; profiling and comparisons begin. Do not describe A* itself as first implemented after 7 September.
+- **10–13 Sep:** stress-test 10/15/20/24 enemies; cache/update-frequency experiments help but do not solve
+  repeated global work; first playable map remains functional.
+- **14–15 Sep:** relocation interrupts work; technical work continues only in fragments.
+- **16–23 Sep:** Nathan revisits material he has already studied and adapts shared flow-field navigation.
+- **24–30 Sep:** field navigation stabilizes; local steering and shared navigation integrate; first prediction
   experiments.
-- **1–7 Oct:** player prediction/influence field becomes reliable and connects to goal selection.
-- **8–12 Oct:** profiling, caching, update-frequency reduction, device tests and balancing.
-- **13–15 Oct:** final playtest, cleanup, packaging and release.
+- **1–7 Oct:** player prediction/influence field becomes more useful and connects to goal selection.
+- **8–12 Oct:** profiling, caching, update-frequency reduction and simulator testing/balancing. No successful physical-device test is established in this interval.
+- **13 Oct:** first explicit second-generation iPod touch stress test; the simulator improvement is not accepted as sufficient, and BUG-06 closes only after the device-specific fix and the full recorded guard-count matrix pass.
+- **10–15 Oct:** Nathan's technical/regression tests and small playability sessions with peers identify the final changes. He packages the candidate and submits it for App Store review by 15 October.
+- **23 Oct (working target):** public launch after review approval. This is a release, not an instant industry breakthrough; audience size and response remain uncertain.
 
 ### Why the shorter schedule is credible
 
@@ -501,7 +583,7 @@ He already has:
 - a clear design target;
 - experience with the tools he is using;
 - a narrow game scope;
-- purchased/commissioned assets instead of creating all art himself.
+- simple original geometric assets and simple original/generated tones for the first release, avoiding a third-party art/audio pipeline.
 
 The work is accelerated by the absence of large side systems:
 
@@ -517,9 +599,16 @@ The one important architectural detour is **A* → flow field**. Once Nathan rec
 part of his prototype is repeated global navigation for agents sharing destinations, progress becomes much
 faster.
 
-During school periods, the default workload is roughly **10–14 focused programming hours per week**,
-with somewhat denser work possible before/around the move and during weekends. The move itself is treated
-as a temporary interruption rather than a reason to pretend he can code normally every day.
+Treat **10–14 focused programming hours per week as an approximate average, not a ceiling or fixed quota**.
+On an ordinary school day, Nathan has about **2 focused programming hours available**; on a genuinely
+free day, he can devote **up to 8 hours**. Availability is an upper bound, not an obligation: schoolwork,
+football training and matches, relocation, family plans and fatigue can use that time. Across roughly six
+weeks, **60–85 focused hours is feasible** without requiring every day to be a long session. Friday/weekend
+blocks can be longer when the calendar permits, and during a genuine late-stage crunch (including
+12–15 October) Nathan may, when needed, work until **04:00–05:00** on a particular night. This is possible,
+not mandatory every night. If a late finish is used, the following day's sleep, fatigue and school/training
+state must reflect it. Adjust a given day's work only when a specific event or constraint explains the
+change; do not treat a late finish as inherently implausible.
 
 The story should therefore present the achievement as:
 

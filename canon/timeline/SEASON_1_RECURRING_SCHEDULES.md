@@ -1,7 +1,7 @@
 # Season 1 Recurring Schedules — School, Work, Training and Weekly Habits
 
 Status: WORKING / continuity reference
-Updated: 2026-10-08
+Updated: 2026-10-14
 
 ## How to use this document
 
@@ -110,13 +110,15 @@ Do not write piano lessons for Alex unless the story explicitly establishes a la
 ### Nathan
 
 WORKING:
-- programming: Monday, Wednesday and Friday evenings;
-- longer programming block Saturday or Sunday;
+- programming is commonly scheduled for Monday, Wednesday and Friday; Friday evening and **each** genuinely free weekend day can become longer blocks, with the actual choice depending on schoolwork, matches, training, family plans and fatigue;
+- on a casual/ordinary day Nathan can usually spend about **2 focused hours** programming; when Friday or a weekend day is mostly free, a **4–5-hour session** is reasonable; on a genuinely free day he has capacity for **up to 8 hours**, but neither 4–5 nor 8 hours is a quota. Fixed school, football, family and personal obligations still take priority;
+- the first mobile-game project has a working budget of **60–85 focused hours over roughly six weeks**; the 10–14-hour school-week average is descriptive, not a weekly cap;
+- during the late-stage crunch window of **12–15 October**, Nathan may work until **04:00–05:00** on a particular night if the story needs it; this is an option, not a routine or a requirement. If used, propagate the shortened sleep/fatigue and its effects into the next day's scene state;
 - football training Tuesday/Thursday;
 - Saturday match/activity;
 - two short conditioning/running sessions per week;
 - martial-arts training every 1–2 weeks, normally Saturday afternoon;
-- schoolwork completed before serious late-night programming whenever possible.
+- schoolwork is a real competing responsibility; record what is postponed and its actual deadline if a scene makes Nathan choose programming over it.
 
 ### Haley
 
@@ -263,3 +265,16 @@ When planning a scene, check three things:
 
 Only then decide whether the meeting is worth showing.
 
+
+
+## Football rosters and state continuity
+
+Use [Football Teams and Player Backgrounds](../characters/FOOTBALL_TEAMS_AND_PLAYERS.md) for the complete provisional Seattle and Southern California squads, positions, individual motivations and coach profiles. Nathan's Seattle captaincy does not carry over automatically to the California team.
+
+Schedule rule: Monday 7 September 2009 is Labor Day. Nathan can do solo conditioning or have an informal kickabout in Episode 1, but a normal scheduled team practice on that day would be an inconsistency. Keep the established Tuesday/Thursday practice and Saturday match/activity rhythm unless the timeline records a special event.
+
+The California team's first activity around 19 September should remain a working training game/scrimmage unless competition eligibility and player registration are established. Keep minutes, starting/substitute status, injuries, attendance and who witnessed each tactical moment in the timeline.
+
+## Lead-character social circles
+
+Use [Secondary Social Circles](../characters/SECONDARY_SOCIAL_CIRCLES.md) for Alex's pre-existing school peers, Haley's high-school friends and Claire's parent/neighborhood contacts. These circles exist before a particular scene needs them. Their own school, family and social routines continue off-page. Claire is a stay-at-home mother during Season 1; do not create office colleagues for her until the story reaches a canon-supported change in work status.

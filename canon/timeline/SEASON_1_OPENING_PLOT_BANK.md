@@ -1,7 +1,7 @@
 # Season 1 Opening Plot Bank — September/October 2009
 
 Status: WORKING / rich underlying timeline
-Updated: 2026-10-08
+Updated: 2026-10-13
 
 This is a reservoir of events, goals and continuity seeds. It is deliberately richer than the final prose.
 The drafting process selects from it.
@@ -10,14 +10,15 @@ The drafting process selects from it.
 
 ### Technology
 - 7 Sep: Nathan turns 13; the game project becomes the main personal project for the opening arc.
-- 7–13 Sep: establishes the prototype, one map, enemy movement and conventional A* baseline.
+- 7 Sep: opens with a crude runnable prototype and conventional A* baseline; through 13 Sep Nathan extends, tests and refines it, measuring the cost of repeated independent searches.
 - 14–15 Sep: move disrupts the development routine.
 - 16–23 Sep: profiler exposes repeated pathfinding work; Nathan recognizes the flow-field technique he has
   already studied and adapts it.
 - 24–30 Sep: flow field, steering and early prediction layer become integrated.
 - 1–7 Oct: prediction/influence map becomes reliable.
-- 8–12 Oct: optimization and constrained-device testing.
-- 13–15 Oct: final playtest and release.
+- 8–12 Oct: simulator profiling and optimization; the first explicit physical iPod touch stress test is on 13 Oct.
+- 10–15 Oct: peer playability tests alongside Nathan's own technical/device tests; address feedback, package and submit the candidate for App Store review by 15 Oct.
+- 23 Oct (working target): public launch after review. Initial reception is uncertain; there is no instant fame.
 - Recurring character beat: whenever something works, Nathan immediately notices another imperfection.
 
 ### School
@@ -57,7 +58,9 @@ The drafting process selects from it.
 - 9 Sep: Seattle Public Schools and LAUSD both begin instruction; Nathan starts the school term at his old school. The school-calendar basis is documented in `research/narrative/OPENING_CALENDAR_AUDIT.md`.
 - 10–13 Sep: Clifford receives/learns of promotion and California role; timing can be sudden from Nathan's
   perspective.
-- 12–15 Sep: move preparation, packing, relocation travel and arrival in an employer-arranged temporary rental.
+- 12–13 Sep: final move preparation.
+- 14 Sep: travel, arrival at the California rental and move-day neighbor introduction.
+- 15 Sep: unpack essentials, recover from travel and establish school-ready routines.
 - 16–30 Sep: temporary-house setup, local errands, new routines and work demands; permanent home purchase remains a later subplot.
 - 1–15 Oct: family starts acquiring favorite places, routines and objects even though the house itself is still temporary.
 

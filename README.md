@@ -23,8 +23,9 @@ O foco do projeto não é escrever tudo de uma vez. Primeiro construímos o **mo
 
 - `research/` — investigação externa e modelos narrativos.
 - `canon/` — contrato de continuidade, calendário e estado persistente.
-- `episodes/` — unidade principal da história; cada episódio contém acontecimentos e pastas dos personagens envolvidos.
-- `templates/` — estruturas repetíveis para episódios, acontecimentos e personagens.
+- `episodes/` — unidade principal da história; cada episódio mantém um outline cronológico e um ledger de estado por cena.
+
+Modelos reutilizáveis poderão ser acrescentados quando forem necessários; não há atualmente uma pasta `templates/` na árvore do repositório.
 
 ### Pesquisa narrativa atual
 
@@ -44,9 +45,9 @@ O aviso identifica a natureza do projeto; **não constitui uma licença, não de
 
 ## Estado atual
 
-**Fase 0 — Fundação.**
+**Fase 0 — Fundação e arquitetura narrativa pré-prosa, em consolidação.**
 
-Ainda não existe uma história em prosa. Estamos a decidir o mundo, o protagonista, o ponto de entrada, o horizonte temporal e as regras de continuidade.
+As premissas centrais e o calendário de abertura estão documentados em versões de trabalho. O esforço atual é consolidar o elenco secundário, os horários e estados por cena, a causalidade entre episódios e o percurso verificável do primeiro jogo. **Ainda não existe prosa narrativa final**: outlines, cronologias e ledgers são instrumentos de planeamento, não capítulos prontos. As decisões que ainda dependem de informação ou validação devem continuar assinaladas como WORKING/INCERTAS, não ser preenchidas silenciosamente.
 
 ## Regra de confiança
 
@@ -70,3 +71,18 @@ Investigação → decisão → registo → perguntas específicas → construç
 - `canon/DECISION_LOG.md` — decisões escolhidas, alternativas, evidência, processo de validação e dependências.
 - `canon/characters/CHARACTER_NAME_REGISTRY.md` — nomes escolhidos, nomes rejeitados e seleção aleatória reproduzível.
 - `canon/narrative/NARRATIVE_AND_CAUSAL_METHOD.md` — arquitetura top-down recursiva, construção causal linear, registo de estado e backpropagation.
+
+
+## Character state, supporting cast and ability continuity
+
+- [Character state continuity standard](canon/characters/CHARACTER_STATE_CONTINUITY_STANDARD.md) — life-to-scene state, recent-past detail, knowledge limits, skills, props and backpropagation rules.
+- [Nathan's knowledge and skill ledger](canon/characters/NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md) — the protagonist's internal skills, factual knowledge, previous-life memories and limitations.
+- [Football teams and player backgrounds](canon/characters/FOOTBALL_TEAMS_AND_PLAYERS.md) — the Seattle team, the new Southern California team and each player's working background.
+- [Secondary social circles](canon/characters/SECONDARY_SOCIAL_CIRCLES.md) — recurring classmates/friends around Alex and Haley and Claire's community contacts.
+- [Cast naming draw audit](canon/characters/CAST_NAMING_DRAW_AUDIT.md) — reproducible name-generation pools, seeds, selections and a partial 2020 Census rank audit.
+- [Modern Family core-character state baselines](canon/characters/MODERN_FAMILY_CORE_STATE_BASELINES.md) — canon starting states, character-specific behavior, and limits on what they know about Nathan.
+- [Episode 1 scene-state ledger](episodes/season-1/EP01_SCENE_STATE_LEDGER.md) — dated pre-state, knowledge boundaries, props, causes and carry-forward changes for the September opening.
+- [Episode 2 scene-state ledger](episodes/season-1/EP02_SCENE_STATE_LEDGER.md) — dated knowledge/relationship/football/game states and the private test-build endpoint.
+- [First mobile game technical design](canon/projects/NATHAN_FIRST_MOBILE_GAME.md) — game architecture, 2009 hardware constraints and the working Mac/iPod touch build path.
+
+The relationship calendar is not a rigid deadline: early episode drafts test the pacing, and the top-down plan and forward scene sequence may both be revised if the finished story needs it.

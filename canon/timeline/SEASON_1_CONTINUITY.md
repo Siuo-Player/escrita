@@ -1,7 +1,7 @@
 # Season 1 Opening Continuity — School, Football, Alex and Nathan's Game
 
 Status: ESTABLISHED / reusable continuity baseline
-Updated: 2026-10-08
+Updated: 2026-10-14
 
 This document defines the recurring weekly rhythm and the opening two-episode timeline. It is meant to let
 the story skip ordinary days without making Nathan's life feel paused between scenes.
@@ -58,7 +58,7 @@ August, so Clifford and Heather already know the relocation is possible even tho
 promotion is confirmed, the company activates relocation support and arranges a temporary rental, movers and
 travel. A few strong scenes and time-compressed transitions carry Nathan from his old routine to the new house.
 
-**15 September** is mainly an arrival/setup day.
+**14 September** is the travel and arrival day: the family reaches the temporary rental and meets Phil, Claire and Luke during move-day unloading. **15 September** is for recovering from travel, unpacking essentials and establishing school-ready routines before Nathan starts on 16 September.
 
 The second movement, roughly **16–23 September**, covers Nathan's first week in the new school:
 
@@ -87,7 +87,7 @@ The episode ends with the game clearly alive but unfinished.
 
 ### Episode 2 — Finish the Game
 
-**Story span: 1–15 October 2009**
+**Main story span: 1–15 October 2009; public-launch coda: 23 October 2009**
 
 Episode 2 is not a new beginning. Nathan starts on **1 October** with the same school, teammates, teachers,
 family and Alex relationship established by Episode 1.
@@ -101,13 +101,13 @@ The main arc is the final development push:
 - small bugs and balance issues are fixed;
 - school, football and family scenes continue in parallel;
 - somebody outside Nathan's immediate circle can begin to notice that the enemies behave unusually well;
-- the finished game is packaged and reaches a real playable release around **15 October**.
+- the game passes Nathan's own technical checks and small peer playability tests; he packages the candidate and submits it for App Store review by **15 October**;
+- the planned public launch is **23 October**, after the review interval, without sudden fame.
 
 The game should finish around the **middle or later part of Episode 2**, depending on episode length and how
 much space the school/Alex material needs.
 
-The important ending beat is not fame. It is Nathan looking at a finished, playable game and immediately
-seeing several things he could still improve.
+The payoff is a small real public release after testing, not instant fame. Nathan can feel proud of shipping something and still notice what he wants to improve next.
 
 ## Recurring weekly rhythm
 
@@ -120,16 +120,21 @@ while only a small number of school moments need to be shown in any given episod
 | **Tuesday** | Normal school day. | **Football training: ~1.5–2 h**; light study afterwards. | Team leadership and peer interaction. Little or no serious coding. |
 | **Wednesday** | Normal school day; library/lab when useful. | **Programming: 1.5–2.5 h** | Main bridge between school and technology. The **23 Sep Pilot** falls here. |
 | **Thursday** | Normal school day. | **Football training: ~1.5–2 h**; family evening afterwards. | Recurring team/social material. |
-| **Friday** | Lighter end-of-week mood. | **Programming: 2–3 h** | Longest uninterrupted school-night coding session. |
-| **Saturday** | **Football match / team activity in the morning.** | **Programming: 2–4 h** or social/family activity. | Strong day for physical, social and technical threads. |
-| **Sunday** | Family day; reading and preparation. | **Planning + programming: 1–2 h** | Nathan reviews the week and decides what to test next. |
+| **Friday** | Lighter end-of-week mood; schoolwork still applies. | **Usually ~2 h; 4–5 h if the evening is mostly free** | Often the longest uninterrupted school-night session; duration depends on deadlines and fatigue, not a fixed cap. |
+| **Saturday** | **Football match / team activity in the morning**, with travel and recovery time. | **About 2 h casually; 4–5 h or more if the rest of the day is free** | A long work block is possible, but must leave room for matches, martial arts, friends and family. |
+| **Sunday** | Family day, unless plans leave a genuinely free block. | **About 2 h casually; 4–5 h, up to 8 h on a genuinely free day** | Nathan reviews the week and decides what to test next; a long session is available capacity, not an obligation. |
 
 Nathan normally sleeps at a sensible hour. The point is that he is unusually disciplined, not that he works
 through every night until dawn.
 
-During the first two episodes, a school-week average of roughly **10–14 focused programming hours** is the
-default. The early period before/around the move can be somewhat denser, while the move itself temporarily
-reduces available time.
+During the first two episodes, roughly **10–14 focused programming hours per school week** is a useful
+average, not a ceiling or fixed quota. An ordinary school day normally leaves about **2 focused hours**;
+a genuinely free day can provide **up to 8 hours**. The table describes Nathan's usual rhythm, not the
+maximum time available. His total target for this small project is **60–85 focused hours over roughly six
+weeks**, which fits this schedule. During the late-stage crunch window of **12–15 October**, Nathan may
+work until **04:00–05:00** on a particular night if needed; this is an option, not a required daily pattern.
+If used, reflect the resulting sleep loss/fatigue in the next day's scene state. Adjust individual days for
+concrete competing demands; do not treat late-night work as inherently implausible.
 
 ## School continuity
 
@@ -310,21 +315,20 @@ day-by-day diary.
 
 ## Nathan's first game — compressed development calendar
 
-The complete development now runs from **7 September to approximately 15 October 2009**: about **39 days
-(5½ weeks)**. It is deliberately faster than the earlier 7–8 week plan because Nathan already knows what he
+The visible development period runs from **7 September to 15 October 2009**: 39 calendar days inclusive. The full project cycle starts on 3 September with four off-page planning/setup days; App Store review then runs to the working public-launch target of 23 October. It is deliberately faster than the earlier 7–8 week plan because Nathan already knows what he
 wants to build, has strong C++ skills, uses an existing 2D framework and has no major failure besides the
 A* → flow-field redesign.
 
 | Period | Game milestone | Narrative integration |
 | --- | --- | --- |
-| **7–9 Sep** | Concept locked; grid, input/rendering and one enemy prototype already underway. | Opens Episode 1 with Nathan's technical identity and old-school life. |
-| **10–13 Sep** | Conventional **A*** baseline; several enemies; first small playable map. | Nathan deliberately starts with the normal solution. |
+| **7–9 Sep** | A very early runnable build already contains the crude grid, controls, one enemy loop and A* baseline; Nathan checks the simplest one/five-enemy cases and begins measuring the cost of repeated searches. | Opens Episode 1 with Nathan's technical identity and old-school life. |
+| **10–13 Sep** | Nathan refines and stress-tests the existing A* baseline with more enemies and a small playable map; repeated independent searches and simple cache/update tweaks reveal scaling limits. | The normal solution is useful, measurable and imperfect. |
 | **14–15 Sep** | Move interrupts work; short transition to California. | Technical work continues only in fragments while family logistics dominate. |
-| **16–23 Sep** | Stress test reveals repeated pathfinding cost; Nathan reviews his flow-field material and adapts the shared field. | New school, first Alex interaction, birthday and Pilot happen alongside the technical pivot. |
+| **16–23 Sep** | Nathan applies flow-field material he already studied, builds a shared navigation field and iterates through integration/debugging; further testing refines rather than first discovers the repeated-search cost. | New school, Alex's first interaction and the Pilot run alongside the technical pivot. |
 | **24–30 Sep** | Flow field stabilizes; local steering and shared navigation are integrated; first prediction experiments. | Week-after-Pilot school and football material alternates with increasingly focused programming. |
 | **1–7 Oct** | Player prediction/influence field becomes reliable; goal selection and navigation connect cleanly. | Episode 2 opens with the project already technically mature. |
-| **8–12 Oct** | Profiling, caching, update-frequency reduction, device tests and balancing. | Nathan's perfectionism becomes the main technical pressure. |
-| **13–15 Oct** | Final playtest, cleanup, packaging and release. | Game finishes around the middle/later part of Episode 2. |
+| **8–12 Oct** | Simulator profiling, caching, update-frequency reduction and balancing. No physical-device test is established in this interval. | Nathan's perfectionism becomes the main technical pressure. |
+| **13–15 Oct** | First explicit iPod touch stress test, remaining defect fixes and regressions, final peer playability check, packaging and App Store submission. | Core development finishes; public availability follows review, with 23 October as the working target. |
 
 ### Why this faster duration works
 
@@ -338,7 +342,7 @@ The work is accelerated by:
 - one compact game;
 - one or two small maps at first, then a few variants;
 - few enemy archetypes;
-- simple purchased/commissioned art;
+- simple original geometric art and simple original/generated tones for the first release;
 - a period-appropriate 2D framework;
 - no custom engine;
 - no network system;

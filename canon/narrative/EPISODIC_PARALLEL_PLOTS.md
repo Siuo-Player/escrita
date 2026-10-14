@@ -1,7 +1,7 @@
 # Episodic Parallel Plot and World-Liveliness Rules
 
 Status: ESTABLISHED / reusable narrative rule
-Updated: 2026-10-08
+Updated: 2026-10-13
 
 ## Core principle
 
@@ -144,14 +144,15 @@ This rule applies especially to:
 
 ## Episode 2 — required parallel threads
 
-Episode 2 covers **1–15 October 2009** and should not become "the episode where Nathan finishes the game."
+Episode 2's main action covers **1–15 October 2009**, with a short public-launch coda on **23 October** and should not become "the episode where Nathan finishes the game."
 
 The following threads should coexist:
 
 ### A. Game — primary technical thread
 
-Nathan completes the player-prediction layer, integrates it with navigation, profiles the result on constrained
-hardware, tunes the update frequency, fixes the remaining problems and packages the release.
+Nathan completes the player-prediction layer, integrates it with navigation, runs technical tests on his own and playability tests with peers, profiles the result on constrained hardware, fixes observed problems, and submits a candidate for App Store review by 15 October. A short 23 October coda covers the public launch after review. This is a real release, but not instant fame.
+
+The review interval passes off-page unless it produces a real consequence; the public launch is the outcome of the testing, not a substitute for it.
 
 This is the spine, not the only plot.
 

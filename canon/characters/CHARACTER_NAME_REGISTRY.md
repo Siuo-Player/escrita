@@ -222,3 +222,72 @@ The author selected **Callahan**, the second candidate in the generated shortlis
 - Previous name: Pierce remains only in the historical record as the provisional placeholder that was superseded.
 
 For the rationale and full decision trace, see [Decision Log](../DECISION_LOG.md).
+
+
+## Supporting cast introduced on 12 October 2026
+
+These are WORKING names generated for the first-pass cast. Do not treat them as user-locked or canon-locked. Read [Cast Naming Draw Audit](CAST_NAMING_DRAW_AUDIT.md) for exact seed, source-order pools, selected order and validation limits; read the cast files for background.
+
+| Name | Current role | Status |
+|---|---|---|
+| Tristan Morrow | Seattle team, goalkeeper | WORKING |
+| Tanner Kramer | Seattle team, right back | WORKING |
+| Colton Shepherd | Seattle team, centre back | WORKING |
+| Brady Vaughn | Seattle team, centre back | WORKING |
+| Alec Reeves | Seattle team, left back | WORKING |
+| Calvin Baxter | Seattle team, holding midfielder | WORKING |
+| Chad Pruitt | Seattle team, attacking midfielder | WORKING |
+| Andres Phelps | Seattle team, right winger | WORKING |
+| Elijah Perry | Seattle team, striker | WORKING |
+| Xavier Mercer | Seattle team, left winger | WORKING |
+| Ruben Henson | Seattle team, reserve goalkeeper | WORKING |
+| Marco Sloan | Seattle team, utility defender | WORKING |
+| Devon Carver | Seattle team, midfield substitute | WORKING |
+| Johnny Sutton | Seattle team, forward substitute | WORKING |
+| Omar Stanton | Southern California team, goalkeeper | WORKING |
+| Fernando Merritt | Southern California team, right back | WORKING |
+| Hector Foster | Southern California team, centre back | WORKING |
+| Javier Fletcher | Southern California team, centre back | WORKING |
+| Derrick Hendrix | Southern California team, left back | WORKING |
+| Larry Rios | Southern California team, holding midfielder | WORKING |
+| Mason Baldwin | Southern California team, central/attacking midfielder | WORKING |
+| Cory McBride | Southern California team, right winger | WORKING |
+| Mario Abbott | Southern California team, striker | WORKING |
+| Andre Pratt | Southern California team, left winger | WORKING |
+| Alejandro Lawson | Southern California team, utility defender | WORKING |
+| Allen Keller | Southern California team, midfield substitute | WORKING |
+| Cesar Hodge | Southern California team, forward substitute | WORKING |
+| [Wesley Moss](WESLEY_MOSS.md) | Nathan/Alex school technology-library peer | WORKING |
+| Cynthia Barrett | Alex's academic classmate | WORKING |
+| Kaitlin Cannon | Alex's project/library peer | WORKING |
+| Desiree Vance | Haley's high-school friend | WORKING |
+| Kristina Barlow | Haley's high-school friend | WORKING |
+| Julie Kendall | Haley's wider-circle friend | WORKING |
+| Leonard Holloway | Seattle coach | WORKING |
+| Lance Conley | Southern California coach | WORKING |
+| Connie Harrington | Southern California middle-school mathematics teacher / CA-MATH-01 | WORKING |
+| Tracey Wheeler | Claire's parent/community contact | WORKING |
+| Victoria Hutchinson | Claire's neighborhood contact | WORKING |
+| Vanessa Quinn | Claire's community contact | WORKING |
+
+Maxwell Whitaker remains the previously documented WORKING football peer and is not rerolled in this pass. Nathan Callahan remains USER-LOCKED. None of the working surnames above establishes ancestry. Their specific Census-frequency ranks must be checked before any name is made central or locked.
+
+## CA-MATH-01 — Connie Harrington naming draw (2026-10-13)
+
+- **Role:** recurring seventh/eighth-grade mathematics teacher at Nathan and Alex's Southern California middle school.
+- **Status:** WORKING; internal ID `CA-MATH-01` remains the stable continuity key. See [Connie Harrington's profile](CONNIE_HARRINGTON.md).
+- **First-name source:** U.S. Social Security Administration, [Top names of the 1970s](https://www.ssa.gov/oact/babynames/decades/names1970s.html). Filtered pool uses female names in source order from ranks 101–200, excluding active/registered names and close or confusing variants. **Frozen pool size: 82.**
+- **Exact first-name pool (SSA rank order):** Margaret (101), Jodi (104), Natalie (105), Brandi (106), Suzanne (108), Samantha (109), Beth (110), Regina (112), Carolyn (115), Yolanda (116), Deanna (117), Carla (118), Sheila (119), Laurie (120), Anne (121), Diane (123), Sabrina (124), Janet (125), Erika (126), Katrina (127), Courtney (128), Colleen (129), Carol (130), Julia (131), Jenny (132), Jaime (133), Kathy (134), Felicia (135), Alison (136), Lauren (137), Kelli (138), Leah (139), Ashley (140), Kim (141), Tricia (144), Joy (145), Kara (147), Terri (148), Sonya (149), Aimee (150), Natasha (151), Cassandra (152), Bridget (153), Anita (154), Kari (155), Nichole (156), Christie (157), Marie (158), Virginia (159), Connie (160), Martha (161), Carmen (162), Stacie (163), Lynn (164), Katie (165), Monique (166), Sherri (169), Angel (170), Bonnie (171), Mandy (172), Shawna (174), Kerry (175), Annette (176), Yvonne (177), Toni (178), Meredith (179), Molly (180), Kendra (181), Joanna (182), Janice (184), Robyn (185), Brooke (186), Sheri (188), Becky (189), Mindy (191), Angie (193), Claudia (195), Ruth (196), Wanda (197), Jeanette (198), Cathy (199), Adrienne (200).
+- **First-name draw:** secure seed `131759995`; `random.Random(seed).randrange(82)` returned zero-based index **49**, selecting **Connie** (SSA rank **160**).
+- **Surname source/pool:** 2020 Census surname-frequency ranks, in ascending rank order: Fleming (#350), Harrington (#515), Dorsey (#804), Benton (#954). See [Harrington surname data](https://namecensus.com/last-names/harrington-surname-popularity/) and the [U.S. Census Bureau names-data portal](https://www.census.gov/topics/population/genealogy/data/2020_names.html). No surname in this pool is currently assigned to another active character.
+- **Surname draw:** continuing the same seeded random stream, `randrange(4)` returned zero-based index **1**, selecting **Harrington** (#515).
+- **Result:** **Connie Harrington**, used as Ms. Harrington / `CA-MATH-01`. The choice is WORKING, not author-locked. The surname alone does not establish ancestry.
+
+## Expanded state-reference index
+
+- [Football teams and player backgrounds](FOOTBALL_TEAMS_AND_PLAYERS.md)
+- [Wesley Moss — technology/library peer](WESLEY_MOSS.md)
+- [Secondary social circles](SECONDARY_SOCIAL_CIRCLES.md)
+- [Character state continuity standard](CHARACTER_STATE_CONTINUITY_STANDARD.md)
+- [Nathan's knowledge and skill ledger](NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md)
+- [Cast naming draw audit](CAST_NAMING_DRAW_AUDIT.md)

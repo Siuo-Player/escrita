@@ -1,7 +1,7 @@
 # Protagonist — Nathan Callahan
 
 Status: WORKING / established from project decisions
-Updated: 2026-10-12
+Updated: 2026-10-13
 
 **Naming status:** Nathan Callahan is author-locked as of 2026-10-12. See `canon/DECISION_LOG.md` and `canon/characters/CHARACTER_NAME_REGISTRY.md` for the shortlist, selection method and validation.
 
@@ -32,7 +32,9 @@ being written as implausibly wealthy.
 ## Reincarnation and current life
 
 Nathan's previous life ends and he is reincarnated directly into his twelve-year-old life in the
-*Modern Family* world, roughly two weeks before his thirteenth birthday.
+*Modern Family* world, roughly two weeks before his thirteenth birthday. This transition is a separate
+earlier event; the story itself opens on his birthday, Monday 7 September 2009. The precise transition
+date is not fixed unless a later scene needs it.
 
 He is not replacing a canon child. He is the biological son of his own parents in this world and has
 a normal childhood history, relationships and memories from that life. His previous-life memories
@@ -88,7 +90,7 @@ Explicitly established traits:
 - shy;
 - embarrassed/uncomfortable initiating interactions;
 - perfectionist;
-- emotionally/socially sensitive;
+- has ordinary emotional responses rather than unusual emotional sensitivity or exceptional insight into other people's feelings;
 - prone to overthinking before acting;
 - cautious about exposing himself to rejection;
 - afraid of seeming arrogant;
@@ -101,6 +103,8 @@ explanations for positive evidence: someone may simply be polite, pity him, need
 with everyone. He underestimates his appearance, intelligence, competence and effect on other people.
 His humility is genuine, but the extreme version is partly defensive: believing he is "less than" others
 feels safer than discovering that someone valued him and being rejected.
+
+The emotion underneath is usually a mild, natural sting of embarrassment, uncertainty or anticipated rejection—not a constant heightened sensitivity. His behavior is governed by a practical threshold: when the perceived risk of initiating exceeds what he thinks the interaction is worth, he avoids acting. Familiar roles, low-stakes situations or someone else opening the conversation can let him behave naturally. Stronger feelings, especially romantic love, raise the perceived stakes and can make him hesitate much more; they do not make him unusually perceptive or emotionally fragile.
 
 He is socially functional rather than socially withdrawn. Once another person starts a conversation,
 Nathan can be open, friendly and quite sociable. As football captain he speaks to teammates naturally,
@@ -185,6 +189,8 @@ His practical advantage comes from:
 - combining things he has learned;
 - having the resources to experiment;
 - gradually developing real competence.
+
+**Working possession/toolchain note (2009):** Nathan already has access to a capable Intel Mac development workstation and a second-generation iPod touch obtained by the family before the opening, plausibly as a 2008 birthday/holiday gift. The Mac has an era-appropriate Xcode/iPhone OS SDK setup for the iOS game. Clifford handles any adult developer-account/signing administration needed for on-device builds; Nathan does the programming. These are WORKING details established for technical continuity, not character-defining facts or a claim that the game is publicly distributed. See DEC-013 and the first-game design record.
 
 He may create games or other software whose AI-controlled opponents, adaptation, or behavior feel
 surprisingly advanced for the period, but the narrative should normally establish this simply as the
@@ -483,3 +489,10 @@ The story should not be a reproduction of the original episodes.
 The original series supplies a recognizable world and starting conditions. The fanfic's real subject is
 what happens when Nathan's independent life enters that world and the people involved are forced to
 live with the consequences.
+
+
+## Operational knowledge and skill state
+
+Use [Nathan's Knowledge and Skill Ledger](NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md) for internal proficiency estimates, current knowledge, previous-life memory fragments, established limitations and scene-by-scene capability updates. Those levels are a writer's continuity tool and must never be presented as an in-world numerical system.
+
+Nathan's fear of rejection and embarrassment is established, but it should not be generalized into supernatural empathy or constant hypersensitivity. He can be socially ordinary, misread others, remain imperfectly adaptable and still speak naturally when someone has opened the conversation or when he is acting in a familiar role.
