@@ -316,7 +316,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** save **version 0.8.2 (build 17)**. BUG-06 is FIXED only after the build-17 iPod touch reproducer and full guard-count matrix pass. BUG-02/03 remain open until the 14 October regression; BUG-01/04/05 remain closed pending final playtest confirmation.
 
 ### Scene 40 — School, before DeDe's visit
-**Date/time:** Wednesday 14 October, 12:20–12:35, school lunch break.
+**Date/time:** Wednesday 14 October, 12:05–12:20, school lunch break.
 **Cast:** Alex and Nathan.
 **Pre-state:** they have grown comfortable through short school conversations, but Alex's family event has not happened yet. The author has also identified a Cece encounter whose timing must determine Cece's later state; no Cece profile or dated encounter is currently present in the working tree, so do not infer that it happened before this scene.
 **Boundary:** Alex is distracted by a difficult ordinary school assignment she wants to finish before the next day. Nathan asks once, listens to the limited answer she gives, and does not try to diagnose her mood. This scene is before DeDe's first visit; Alex is not reacting to DeDe here. Do not silently treat Cece as DeDe. If a Cece encounter is added before 12:20, update the affected character state and this scene; if it occurs later, do not let it influence this earlier moment.
