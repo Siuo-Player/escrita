@@ -45,9 +45,9 @@ O aviso identifica a natureza do projeto; **não constitui uma licença, não de
 
 ## Estado atual
 
-**Fase 0 — Fundação.**
+**Fase 0 — Fundação e arquitetura narrativa pré-prosa, em consolidação.**
 
-Ainda não existe uma história em prosa. Estamos a decidir o mundo, o protagonista, o ponto de entrada, o horizonte temporal e as regras de continuidade.
+As premissas centrais e o calendário de abertura estão documentados em versões de trabalho. O esforço atual é consolidar o elenco secundário, os horários e estados por cena, a causalidade entre episódios e o percurso verificável do primeiro jogo. **Ainda não existe prosa narrativa final**: outlines, cronologias e ledgers são instrumentos de planeamento, não capítulos prontos. As decisões que ainda dependem de informação ou validação devem continuar assinaladas como WORKING/INCERTAS, não ser preenchidas silenciosamente.
 
 ## Regra de confiança
 
