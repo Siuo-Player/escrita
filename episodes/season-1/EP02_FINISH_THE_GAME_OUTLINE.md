@@ -1,7 +1,7 @@
 # Season 1, Episode 2 — Finish the Game
 
 Status: DRAFT OUTLINE / expanded working draft
-Updated: 2026-10-13
+Updated: 2026-10-14
 
 ## Story window
 
