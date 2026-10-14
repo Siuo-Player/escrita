@@ -162,17 +162,15 @@ Now the system feels like the game he imagined.
 
 ### 6 October
 
-#### Scene 14 — football
-Maxwell and Nathan cooperate successfully on a concrete tactical situation.
-
-Maxwell earns more playing time because he executes the work consistently in training; Nathan's advice is one contribution, not the sole reason for the coach's decision.
-
-Nathan is happy for him. Maxwell realizes Nathan is not trying to take his place. Their friendship develops by one step.
-
-#### Scene 15 — school / enrichment follow-up
+#### Scene 14 — school / first enrichment follow-up
 **Time:** 08:40–08:50, Tuesday 6 October, final minutes of Nathan's mathematics class.
-Following her initial suggestion in late September, Ms. Harrington gives Nathan the proper name and purpose of the school's optional **Math Enrichment and Competition Group**. She has the basic handout but is still waiting for the co-sponsor to confirm the next meeting and paperwork deadline; she tells Nathan she will bring him the practical details once confirmed. This is a follow-up, not a fresh suggestion or an acceptance.
-Nathan is interested but hesitates because joining something new means initiating contact. He takes the handout, makes no commitment and is not enrolled. Alex's separate encouraging comment occurs on 7 October, after Nathan tells her about the opportunity; it is not part of this teacher conversation.
+Following her initial suggestion in late September, Ms. Harrington gives Nathan the proper name and purpose of the school's optional **Math Enrichment and Competition Group**. She has the basic handout but is still waiting for the co-sponsor to confirm the next meeting and paperwork deadline; she will pass on those details once confirmed. This is a follow-up, not a fresh suggestion or an acceptance.
+Nathan is interested but hesitates because joining something new means initiating contact. He takes the handout, makes no commitment and is not enrolled. Alex's separate encouraging comment occurs on 7 October, after Nathan tells her about the opportunity.
+
+#### Scene 15 — football / Maxwell earns more playing time
+**Time:** 16:00–17:30, Tuesday 6 October, scheduled California training.
+Maxwell and Nathan cooperate successfully on a concrete tactical situation. Maxwell earns more playing time because he executes the work consistently in training; Nathan's advice is one contribution, not the sole reason for the coach's decision. Coach Lance retains authority over roles/minutes; Nathan is not captain.
+Nathan is happy for Maxwell. Maxwell sees that Nathan is not trying to take his place. Their friendship develops by one step.
 
 #### Scene 16 — game
 Nathan compares:
@@ -336,14 +334,14 @@ After dinner and completing the assignment, Nathan works on **BUG-06**, the meas
 
 ### 13 October
 
-#### Scene 36 — school / academic opportunity logistics
+#### Scene 36 — Alex / Nathan initiates
+**Time:** 12:20–12:30, Tuesday 13 October, school lunch break.
+Nathan starts a short conversation with a small joke. Alex laughs naturally; Nathan briefly wonders whether she is only being polite, but that is his interpretation, not the narration's verdict. This is an incremental social step, not a sign that Alex has confessed or that he now reads her feelings accurately.
+
+#### Scene 37 — school / academic opportunity logistics
 **Time:** 15:15–15:25, Tuesday 13 October, outside Ms. Harrington's classroom after the school day.
 Ms. Harrington has now confirmed the practical details for the Math Enrichment and Competition Group: the first meeting is Tuesday 27 October, 15:20–16:15, in the school library's room 112; later meetings are planned for alternate Tuesdays. The expression-of-interest form, including parent/guardian signature, is due Friday 23 October. The first regional competition is tentatively scheduled for 14 November, but transport and participation requirements are not yet guaranteed.
 Nathan is interested and says he intends to pursue it, but the meeting overlaps the start of Tuesday football training at 16:00. He must check with Coach Lance and his parents before committing; he is not enrolled, has not promised to attend, and does not assume he can simply miss part of practice. This gives him a real decision to make rather than repeating the same encouragement.
-
-#### Scene 37 — Alex / Nathan initiates
-**Time:** 12:20–12:30, school lunch break.
-Nathan starts a short conversation with a small joke. Alex laughs naturally; Nathan briefly wonders whether she is only being polite, but that is his interpretation, not the narration's verdict. This is an incremental social step, not a sign that Alex has confessed or that he now reads her feelings accurately.
 
 #### Scene 38 — Tuesday football practice
 **Time:** 16:00–17:30, California team's scheduled training.
