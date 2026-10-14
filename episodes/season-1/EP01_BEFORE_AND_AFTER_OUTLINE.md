@@ -183,15 +183,10 @@ Important visual/narrative point: the computer is doing work Nathan considers wa
 ### 10 September — school and relocation pressure
 
 #### Scene 10 — science/lab
-Science/lab.
+**Time:** 09:00–09:55, Thursday 10 September, Nathan's scheduled science class.
+The class is comparing how quickly sugar dissolves in water at different temperatures. Nathan points out that the groups also need to keep the sugar mass, water volume and stirring method consistent, and they need one shared rule for when the sugar counts as dissolved. Otherwise they will change several variables at once.
 
-Nathan proposes a cleaner experiment.
-
-Teacher makes him justify why.
-
-He does so calmly.
-
-The class reaction should be modest: a couple of students follow the explanation or nod, but nobody treats him as a prodigy. Do not give an unnamed student a memorable line or a recurring role.
+The teacher asks him to justify which variable each group is testing and how they will compare results. Nathan explains calmly, using the experiment in front of them rather than giving a lecture. The class reaction is modest: a couple of students follow the explanation or nod, but nobody treats him as a prodigy. Do not give an unnamed student a memorable line or a recurring role.
 
 #### Scene 11 — football / playing-time tension
 At the regular Thursday practice, **Devon Carver**, a central-midfield substitute, asks for more playing time after feeling overlooked. Coach **Leonard Holloway** still makes selection decisions; Nathan does not promise Devon minutes.
