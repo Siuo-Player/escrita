@@ -155,10 +155,12 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Boundary:** the crew continues inventorying, wrapping and loading the household shipment. Nathan sorts books into a small personal-luggage selection and the larger "can wait" shipment. The external monitor and bulky peripherals are packed; the Intel MacBook, charger, compact input peripherals, essential notes, second-generation iPod touch and its cable stay together in his personal luggage so he can continue using the existing project until departure. The prototype is not yet installed on the iPod. Heather labels the first-arrival essentials box with linens, simple kitchen items and school/move papers and ensures it is accessible when unloaded. No object is bought here.
 **Carry forward:** all listed items retain ownership and location; the MacBook and current project remain accessible before travel, while the monitor/books/furniture travel separately. The essentials box must be findable at the rental on 14 September.
 
-### Scene 20 — Family planning
-**Date:** Sunday, 13 September 2009.
-**Date/location:** 13 Sep, Callahan kitchen/table. **Cast:** Nathan, Clifford, Heather.  
-**Pre-state:** confirmed move and approximate schedule. **Boundary:** Nathan can choose room/equipment priorities while parents manage adult logistics. **Carry forward:** packing priorities are known; equipment access is limited by what is unpacked.
+### Scene 20 — Final travel check
+**Date/time/location:** Sunday 13 September 2009, 09:00–09:45, Callahan kitchen/table.
+**Cast:** Nathan, Clifford and Heather.
+**Pre-state:** household goods have been inventoried and loaded on Saturday; the truck is on its southbound schedule. The family car is being transported separately. The family leaves for the airport early Monday and will collect the relocation vehicle in Los Angeles.
+**Boundary:** this is a final check, not a second decision about what is shipped. They verify personal luggage: travel/school/relocation documents, chargers, Nathan's notebook and a book for the flight. Nathan confirms his football kit stays in a separate tagged personal bag, accessible for later training, not in the bulk shipment. Clifford and Heather have prebooked an airport car for 05:30 on Monday. Nathan chooses which personal items he wants to unpack first; adult transport/housing arrangements remain with his parents.
+**Carry forward:** Monday's airport transfer is arranged; the MacBook/iPod/notebook and football kit remain accessible to Nathan. The family car and bulk household goods are not available as personal luggage on arrival.
 
 ### Scene 21 — Technical reading
 **Date:** Sunday, 13 September 2009.
