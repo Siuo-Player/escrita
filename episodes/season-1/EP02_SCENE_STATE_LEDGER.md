@@ -140,12 +140,12 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Boundary:** Maxwell earns a more useful role through a specific observed improvement in training. Nathan's good advice is not the cause by itself; Maxwell's execution and Lance's decision matter.  
 **Carry forward:** record the role/minutes in the team state. Maxwell has evidence Nathan isn't trying to take his place.
 
-### Scene 15 — School / club opportunity
-**Date:** 6 October, school.  
-**Cast:** Nathan and CA-MATH-01; Alex only if the later offhand comment is on-page.  
-**Pre-state:** the teacher has observed advanced reasoning and knows Nathan programs; no club membership yet.  
-**Boundary:** opportunity, deadline and commitment are separate facts. Alex's comment that the club sounds suited to him is casual encouragement, not a formal invitation or evidence of attraction. Nathan hesitates because joining involves initiating contact.  
-**Carry forward:** record what club/competition was named, who gave the details, the next meeting/deadline, and Nathan's actual response. Do not later write him as enrolled if he only expressed interest.
+### Scene 15 — School / first enrichment follow-up
+**Date/time:** Tuesday 6 October, 08:40–08:50, final minutes of Nathan's mathematics class.
+**Cast:** Nathan and Ms. Connie Harrington (internal ID CA-MATH-01).
+**Pre-state:** Ms. Harrington first raised the optional opportunity in late September. She now knows Nathan programs from the 2 October conversation, but that is not why she initially noticed his mathematics.
+**Boundary:** she gives the proper name and general purpose of the Math Enrichment and Competition Group and a basic handout. The co-sponsor has not yet confirmed the next meeting or form deadline, so she promises to pass on the practical details. Nathan takes the information but does not commit or enroll.
+**Carry forward:** the group name and purpose are known; the exact meeting schedule, form deadline and transport requirements remain pending. Alex's encouragement is a separate conversation on 7 October, after Nathan tells her about it.
 
 ### Scene 16 — Compare the game architectures
 **Date:** 6 October evening.  
