@@ -200,10 +200,10 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 ### Scene 26 — Neighborhood introduction
 **Date/time:** Monday 14 September 2009, 14:20–14:35, driveway during unloading.
 **Cast:** Nathan, Clifford, Heather, Phil, Claire and Luke; moving crew as aggregate.
-**Pre-state:** movers are unloading the household shipment. The Callahans were placed in this rental through the corporate-relocation process and have no prior knowledge of the Dunphys.
-**Chosen beat:** Phil introduces himself and offers to carry one light box; Claire joins; Luke is nearby and asks Nathan about the football he brought outside. The crew continues unloading, giving the conversation a natural setting.
-**Knowledge limit:** Phil and Claire know only the names and ordinary details exchanged; Luke knows Nathan as the new neighbor and has seen his football gear. Alex and Haley need not be present. No one learns Nathan's school performance, private memories or attraction to Alex.
-**Carry forward:** three plausible pre-Pilot acquaintances are established. No friendship, invitation or promise about football is implied unless the scene actually creates it.
+**Pre-state:** movers are unloading the household shipment. The Callahans were placed in this rental through the corporate-relocation process and have no prior knowledge of the Dunphys. Phil is returning from a nearby real-estate appointment; Claire is at home, and Luke is already outside with a football.
+**Chosen beat:** Phil notices the movers, introduces himself and offers to carry one light box. Claire comes to the driveway after hearing the greeting. Clifford gives the family names—Clifford, Heather and Nathan—and Phil and Claire give their names in return. Luke hears Nathan's name and asks about the football he brought outside.
+**Knowledge limit:** Phil and Claire know the Callahans' names and that they have moved next door; Luke knows Nathan's name and has seen his football gear. Alex and Haley are not present. No one learns Nathan's school performance, private memories or attraction to Alex.
+**Carry forward:** three plausible pre-Pilot acquaintances are established through an ordinary move-day encounter. No friendship, invitation or promise about football is implied unless the scene actually creates it.
 
 ### Scene 27 — First California evening
 **Date/time:** Monday 14 September 2009, 19:00–20:00, rental.
