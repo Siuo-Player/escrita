@@ -288,7 +288,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** save **version 0.8.1 (build 16)**. BUG-06 is IMPROVED ON SIMULATOR but remains OPEN pending the 13 October device test. BUG-02/03 remain OPEN; BUG-01/04/05 remain fixed unless a later regression reproduces them.
 
 ### Scene 36 — Alex / Nathan initiates
-**Date/time:** Tuesday 13 October, 12:20–12:30, school lunch break.
+**Date/time:** Tuesday 13 October, 12:10–12:20, school lunch break.
 **Cast:** Alex and Nathan.
 **Pre-state:** several short interactions across three weeks; possible attraction remains unspoken.
 **Boundary:** Nathan initiates a short joke. Alex laughs; Nathan considers the possibility that she is merely polite, but the story does not confirm that interpretation.
