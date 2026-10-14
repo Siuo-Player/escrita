@@ -246,7 +246,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** a private expectation. No new fact enters Alex's state.
 
 ### Scene 30 — Sunday family/local life
-**Date:** Sunday 11 October.  
+**Date/time:** Sunday 11 October, 10:00–12:00, neighborhood outing.  
 **Cast:** Clifford, Heather, Nathan as chosen.  
 **Pre-state:** rental now feels more familiar; blue bowl, photograph, and new bookshelf have established locations. Family still rents and has not decided the permanent home.  
 **Boundary:** outing is ordinary; don't imply a property purchase or a permanent move is settled.  
