@@ -128,9 +128,11 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Carry forward:** temporary move remains scheduled for 14 September; computer/books/football-kit packing must now happen quickly. Nathan understands why logistics can proceed fast without believing the family had secretly finalized the move weeks earlier.
 
 ### Scene 16 — Nathan alone
-**Date:** Friday, 11 September 2009.
-**Date/location:** 11 Sep night. **Cast:** Nathan.  
-**Pre-state:** the move is known to Nathan and his parents; the team has not yet been told, and he has not had individual farewell conversations. **Boundary:** Nathan returns to the game because it is a controllable problem. Before settling back into code for the night, he sends a short, plain message to the Seattle team group chat so Coach Leonard and the squad know before Saturday's match. It communicates the fact, not a dramatic farewell. **Carry forward:** team-wide knowledge of the move begins here; private sense of loss coexists with continuing work.
+**Date/time/location:** Friday 11 September 2009, 19:30–20:15, Nathan's room/computer area.
+**Cast:** Nathan.
+**Pre-state:** Nathan, Clifford and Heather know the promotion is confirmed; the Seattle team has not yet been told. Nathan has already spent two focused hours testing the game from 16:00–18:00.
+**Boundary:** Nathan withdraws briefly and returns to the game because it is a controllable problem. He sends a plain group SMS through the team's existing text-message distribution list used for practice updates, telling Coach Leonard and the squad that the family leaves Monday. This is information, not a dramatic farewell or an invitation to a long chat. He then reviews existing test notes for a short block; he does not start a major coding task or add another lengthy session.
+**Carry forward:** a team SMS has been sent. Players who receive/read it know the move before Saturday's match; do not assume every player has reacted or even read it until the scene establishes that. Nathan's private sense of loss coexists with continuing work.
 
 ### Scene 17 — Final Seattle-team match
 **Date:** Saturday, 12 September 2009.
