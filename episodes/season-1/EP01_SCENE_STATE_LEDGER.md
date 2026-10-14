@@ -121,9 +121,11 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Carry forward:** all three Callahans know the move is required. Nathan has not yet told the football team; that message happens in Scene 16 after he has had time alone.
 
 ### Scene 15 — Parents' explanation
-**Date:** Friday, 11 September 2009.
-**Date/location:** 11 Sep, same conversation or immediate continuation. **Cast:** Nathan, Clifford, Heather.  
-**Pre-state:** promotion confirmed, deadline short. **Boundary:** parents explain that negotiations and relocation support predated the final decision. **Carry forward:** move scheduled around 14 Sep, initial rental, computer/book/football-kit packing. Do not portray the choice as a long-settled secret.
+**Date/time/location:** Friday 11 September 2009, 19:00–19:20, Callahan home; immediate continuation of Scene 14.
+**Cast:** Nathan, Clifford and Heather.
+**Pre-state:** Nathan has just learned that the promotion is approved; the family needs the move to happen on 14 September.
+**Boundary:** parents explain that negotiations and relocation preparation predated the final approval. The coordinator had conditionally shortlisted a temporary furnished rental, movers and a vehicle, making the short timetable plausible. The family will initially rent; buying later is only a possibility if the role proves stable and they like the area. No purchase decision or promise is made.
+**Carry forward:** temporary move remains scheduled for 14 September; computer/books/football-kit packing must now happen quickly. Nathan understands why logistics can proceed fast without believing the family had secretly finalized the move weeks earlier.
 
 ### Scene 16 — Nathan alone
 **Date:** Friday, 11 September 2009.
