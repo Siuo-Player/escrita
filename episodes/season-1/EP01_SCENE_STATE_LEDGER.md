@@ -80,10 +80,12 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Boundary:** Calvin asks about the previous practice's spacing. Nathan proposes one adjustment to the distance between holding and attacking midfield. Calvin agrees it may help, but no whole-team adoption or coach approval occurs in this scene. They may try it at Thursday's scheduled practice; do not write that as already successful.
 **Carry forward:** Calvin knows the proposal and can raise it at practice. Other teammates and Coach Holloway do not yet know unless one of them is told or directly observes the test. Nathan's captaincy remains established, but he has not made an official formation/lineup decision.
 
-### Scene 9 — Game/profiling
-**Date:** Wednesday, 9 September 2009.
-**Date/location:** 9 Sep evening. **Cast:** Nathan.  
-**Pre-state:** repeated-search issue. **Boundary:** profiling produces evidence, not a finished solution. **Carry forward:** redundant A* calls are now observed; performance at higher enemy counts remains inadequate.
+### Scene 9 — Game / first profiling pass
+**Date/time/location:** Wednesday 9 September 2009, 19:30–20:30, Callahan home computer.
+**Cast:** Nathan.
+**Pre-state:** Scene 5 has already raised the same scenario to fifteen guards and recorded repeated path calculations as a suspected source of wasted work. No code changed between Scenes 5 and 9.
+**Boundary:** Nathan re-runs the fifteen-guard scenario with the profiler enabled and compares it against the one- and five-guard baselines. The profiler now provides evidence that repeated A* path searches account for measurable work; it does not yet give him a complete redesign or solution. Only record timings/call counts that the eventual prose explicitly shows him measuring.
+**Carry forward:** independent repeated A* calls are a measured bottleneck to investigate; flow fields and prediction are still absent, and performance under larger guard counts remains inadequate.
 
 ### Scene 10 — Science/lab
 **Date:** Thursday, 10 September 2009.
