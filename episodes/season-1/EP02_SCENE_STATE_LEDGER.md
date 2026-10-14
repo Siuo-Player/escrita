@@ -337,14 +337,14 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** save **version 0.9.0 (build 18)**. BUG-02 and BUG-03 are FIXED only after their explicit build-18 reproducers and regression cases pass; BUG-01/04/05/06 remain fixed, subject to final regression. All six identified defects now have a closure route and no known reproducible blocker is being deferred to public release. The 15 October device session verifies that these fixes survived integration; it is not permission to ship a failing regression.
 
 ### Scene 43 — Morning / Wesley's final test arrangement
-**Date/time:** Thursday 15 October, 08:05–08:20 before first lesson; parent confirmation by 15:40.
+**Date/time:** Thursday 15 October, 07:40–07:55, before the 08:00 first lesson; parent confirmation by 15:40.
 **Cast:** Nathan, Wesley Moss; Heather only for the breakfast permission check.
 **Pre-state:** late-stage testing is nearly complete; the 12 October school assignment has been completed. Wesley is a technology/library acquaintance who has not yet tested the current game on the iPod touch.
 **Boundary:** Heather agrees at breakfast to host a short supervised test that evening. At school, Nathan asks Wesley whether he can try the final build without coaching for a brief playability check. Wesley checks with his parent instead of assuming permission; by 15:40 he messages that his parent can drop him at 18:30 and collect him at 20:00. Nathan confirms the time and lets Heather know. This does not presume that Wesley already knows the final game build or its internals.
 **Carry forward:** the 18:30–20:00 visit is arranged with adult permission, hosting and transport. If the prose omits the confirmation, the visit is not automatically available. Nathan remains a little tired but functional; no school deadline is silently erased.
 
 ### Scene 44 — Teacher / harder follow-up
-**Date/time:** Thursday 15 October, 10:10–10:25, class.
+**Date/time:** Thursday 15 October, 08:10–08:25, Nathan's mathematics class.
 **Cast:** Nathan and CA-MATH-01.
 **Pre-state:** the teacher has observed several weeks of reasoning; any knowledge of Nathan's programming must have an explicit prior source.
 **Boundary:** a specific harder problem, not generic praise. Any club participation still depends on the actual signup.
