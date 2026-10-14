@@ -58,8 +58,10 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ### Scene 5 — Evening coding
 **Date:** Monday, 7 September 2009.
-**Date/location:** 7 Sep, computer area. **Cast:** Nathan.  
-**Pre-state:** Scenes 1 and 4; one/five-enemy tests are comfortable. **Boundary:** the inefficiency comes from testing, not supernatural intuition. **Carry forward:** the redundant path-search problem becomes active; the A* baseline still works.
+**Date/location:** 7 Sep, computer area. **Cast:** Nathan.
+**Pre-state:** Scene 1 already established that one and five instances of the same enemy archetype run acceptably; Scenes 2–4 introduced no code changes.
+**Boundary:** Nathan resumes the benchmark instead of pointlessly repeating the same tests. He raises the count to ten and fifteen guards on the same small scenario and observes repeated route calculations through shared corridors toward the same region. He records this as a suspected source of wasted work, not a profiler-confirmed diagnosis.
+**Carry forward:** repeated independent A* searches become the next question to measure; the crude baseline still works and no flow field or prediction system exists yet.
 
 ### Scene 6 — Mathematics
 **Date:** Wednesday, 9 September 2009.
