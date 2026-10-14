@@ -391,7 +391,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ### Scene 62 — Alex's independent evening
 **Date:** Tuesday, 29 September 2009.
-**Date/location:** 28–29 Sep, Dunphy home. **Cast:** Alex; Claire only if actually active. Nathan absent.  
+**Date/location:** 29 Sep evening, Dunphy home. **Cast:** Alex; Claire only if actually active. Nathan absent.  
 **Chosen beat:** Alex practices cello, becomes frustrated with a passage, then returns to homework. This is about her own standards and school routine. **Pre-state:** she has spoken to Nathan several times but hasn't presented him to the family as a romantic interest. **Carry forward:** no Nathan knowledge changes unless she actually mentions him. Nathan learns nothing from a scene he does not witness.
 
 ### Episode-ending canon parallel — 30 September
