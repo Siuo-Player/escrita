@@ -362,14 +362,11 @@ Clifford uses the morning for the first in-person transition with the Southern C
 
 ### 16 September — first school day
 
-#### Scene 28 — arrival
-Nathan is early.
+#### Scene 28 — first school arrival
+**Time:** 07:20 departure from the rental; Heather drops Nathan at campus at 07:40, Wednesday 16 September.
+Heather is still on relocation leave and uses the employer-provided temporary vehicle, since the family car is being transported separately until 17 September. Nathan has the timetable and first-day instructions confirmed at the school-office visit on Tuesday, but has not toured the campus.
 
-He knows where the classrooms are only in theory.
-
-He checks his schedule.
-
-His new timetable differs enough from Seattle that the day feels unfamiliar.
+He checks the schedule and tries to locate the first classroom before the 08:00 start. He is early enough to ask staff for directions rather than pretending he already knows the building. The timetable and campus routines differ enough from Seattle that the morning feels unfamiliar.
 
 #### Scene 29 — mathematics
 Ms. Connie Harrington (the teacher tracked internally as `CA-MATH-01`) is teaching this eighth-grade section. She has transfer paperwork but no prior personal knowledge of Nathan.
