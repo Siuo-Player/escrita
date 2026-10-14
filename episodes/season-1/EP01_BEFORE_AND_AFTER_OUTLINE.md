@@ -331,9 +331,11 @@ The rental was chosen by the relocation coordinator for availability, commute an
 
 #### Scene 25 — temporary rental / moving crew arrives
 **Time:** 13:00–14:15, rental house.
-The moving crew starts unloading the household shipment. Boxes fill the rooms, the kitchen is only partly usable, and the family can find essentials but is far from settled. Nathan puts his carried MacBook on a stable table and checks that the existing project opens; he does not need to wait for the bulky monitor or the moving truck to resume limited coding. No substantial new feature is built on moving day—the relocation has interrupted his normal work block.
+The moving crew starts unloading the household shipment. The employer-arranged furnished rental already has beds, basic seating, a dining table and enough kitchen basics for the first days. The Callahans do not immediately replace every rented item with their own: bulky furniture, duplicate kitchen boxes, most books and nonessential cartons are staged in the garage/secondary storage area, while the essentials box and clothes/school items are brought into accessible rooms. A few boxes still block passageways and the family is far from settled.
 
-Heather checks the inventory and keeps the documents needed for the next day's school enrollment together. Utilities and internet were active before arrival, but the family car, bulk books and peripherals are still in transit/boxes.
+Nathan puts his carried MacBook on the existing dining table and checks that the current project opens. He does not need the bulky monitor or to unpack the main computer setup to verify the build, and he makes no substantial new feature on moving day. Relocation interrupts his normal work block.
+
+Heather checks the moving inventory and keeps the documents needed for the next day's school enrollment together. Utilities and internet were active before arrival, but the family car, bulk books and most peripherals remain out of normal use until delivery/unpacking.
 
 #### Scene 26 — neighborhood introduction
 **Time:** 14:20–14:35, driveway during unloading.
