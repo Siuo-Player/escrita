@@ -43,59 +43,59 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 ## Scene-by-scene state
 
 ### Scene 1 — School continuity
-**Date:** Thursday 1 October, school.  
-**Cast:** Nathan, CA-MATH-01, classmates as aggregate.  
-**Pre-state:** teacher saw Nathan's first-week work and later answers; he is no longer anonymous in that classroom.  
-**Boundary:** do not reintroduce the school or pretend Nathan knows every social routine. Teacher remembers one specific September answer or method.  
+**Date/time:** Thursday 1 October, 08:00–08:50, Nathan's mathematics class.
+**Cast:** Nathan, Ms. Connie Harrington (internal ID CA-MATH-01), classmates as aggregate.
+**Pre-state:** the teacher saw Nathan's first-week work and later answers; he is no longer anonymous in that classroom.
+**Boundary:** do not reintroduce the school or pretend Nathan knows every social routine. Ms. Harrington recalls a specific September answer and gives a normal follow-up based on it.
 **Carry forward:** Nathan feels slightly more settled; the teacher has reason to offer work beyond the standard assignment. No club membership is implied.
 
 ### Scene 2 — Alex starts a conversation
-**Date:** 1 October, shared campus area.  
-**Cast:** Alex and Nathan.  
-**Pre-state:** they have spoken several times since 18 September; they have not made a promise or confession.  
-**Boundary:** Alex can start a brief conversation because the previous interactions made it ordinary to do so, not because a romance outline requires it. Nathan may almost exit, then stay.  
+**Date/time:** Thursday 1 October, 12:05–12:15, shared lunch area.
+**Cast:** Alex and Nathan.
+**Pre-state:** they have spoken several times since 18 September; they have made no promise or confession.
+**Boundary:** Alex starts a brief conversation because prior exchanges have made that ordinary, not because a romance outline requires it. Nathan may nearly exit, then stay.
 **Carry forward:** evidence of increased conversational ease; no assumption that Alex is consciously courting him.
 
 ### Scene 3 — Football / Maxwell asks for advice
-**Date:** 1 October, after-school football context or team-area conversation consistent with the schedule.  
-**Cast:** Nathan, Maxwell Whitaker; Coach Lance or other players only if present in the actual scene.  
-**Pre-state:** they have shared the 19 September assessment and later tactical exchanges; Maxwell still wants more meaningful minutes.  
-**Boundary:** Maxwell asks about a concrete tactical situation. Nathan's advice doesn't override the coach or automatically give Maxwell minutes.  
-**Carry forward:** Maxwell learns that Nathan can help without undermining him; note the exact tactical detail if it will be used again.
+**Date/time:** Thursday 1 October, 16:10–16:25, at the start of scheduled training.
+**Cast:** Nathan, Maxwell Whitaker; Coach Lance/players only if actively present.
+**Pre-state:** they have shared the 19 September assessment and later tactical exchanges; Maxwell still wants more meaningful minutes.
+**Boundary:** Maxwell asks about a concrete tactical situation. Nathan listens and offers a limited answer. Coach Lance retains all selection/minutes decisions; advice does not guarantee Maxwell playing time.
+**Carry forward:** Maxwell sees that Nathan can help without undermining him; record the tactical detail if it will be used again.
 
 ### Scene 4 — Predictor is too precise
-**Date:** 1 October evening, Callahan computer.  
-**Cast:** Nathan.  
-**Pre-state:** flow-field navigation and local steering are present; the influence/prediction map can bias toward likely player routes.  
-**Boundary:** one successful test is not proof of robust AI. Guards that know the player's destination too perfectly look psychic because the prediction is overconfident.  
-**Carry forward:** add excessive certainty/stale history to the bug list. Nathan needs uncertainty and decay; keep this defect active until a test demonstrates improvement.
+**Date/time:** Thursday 1 October, 19:45–21:00, Nathan's computer after dinner.
+**Cast:** Nathan.
+**Pre-state:** flow-field navigation and local steering are present; the influence/prediction map can bias toward likely player routes.
+**Boundary:** one test is not proof of robust AI. The guards seem psychic because the prediction is overconfident.
+**Carry forward:** record the reproduction and add excessive certainty/stale history to the bug list. Nathan needs uncertainty and decay; keep the defect open until a later test demonstrates improvement.
 
 ### Scene 5 — School / optional harder exercise
-**Date:** 2 October, school.  
-**Cast:** Nathan, CA-MATH-01, aggregate classmates.  
-**Pre-state:** teacher has seen more than one piece of above-level work.  
-**Boundary:** the optional problem is challenging but age-appropriate for the course or an enrichment extension; solving it does not make Nathan infallible. The teacher asks what he does outside school because programming is a plausible answer, not because the teacher has been investigating him.  
-**Carry forward:** CA-MATH-01 knows Nathan programs. If the teacher offers an academic club/competition later, record the actual details and whether Nathan responds.
+**Date/time:** Friday 2 October, 08:40–08:50, final minutes of Nathan's mathematics class.
+**Cast:** Nathan, Ms. Connie Harrington (internal ID CA-MATH-01), aggregate classmates.
+**Pre-state:** the teacher has seen more than one piece of above-level work.
+**Boundary:** the optional problem is challenging but age-appropriate for the course or an enrichment extension; solving it does not make Nathan infallible. After he finishes, Ms. Harrington asks what he does outside school. Nathan says he is building a small game as a personal programming project; he does not explain the architecture.
+**Carry forward:** this is the first explicit route by which CA-MATH-01 learns Nathan programs. She knows he is writing a small game, not its design, private motivation or full technical details.
 
 ### Scene 6 — Alex notices a small reaction to praise
-**Date:** Friday, 2 October, school shared space; place it during an ordinary school-day conversation, not after the evening scenes.  
-**Cast:** Alex and Nathan.  
-**Pre-state:** their contact since 18 September consists of several brief conversations and greetings. Alex has seen Nathan hesitate or downplay something at least once, but their relationship is still new.  
-**Boundary:** Alex makes a small positive comment; Nathan deflects it briefly. She notices the reaction but doesn't ask why, label it a pattern, or try to get him to disclose anything. This is an isolated observation, not a diagnosis.  
-**Carry forward:** Alex remembers the specific exchange only if it becomes relevant later. No explicit conversation about Nathan's insecurity or attraction occurs; the direct line about apologizing remains reserved for much later, after many chapters of repeated evidence.
+**Date/time:** Friday 2 October, 12:05–12:15, shared school lunch area.
+**Cast:** Alex and Nathan.
+**Pre-state:** their contact since 18 September consists of several brief conversations and greetings. Alex has seen an isolated hesitation or deflection, but the relationship is still new.
+**Boundary:** Alex makes a small positive comment; Nathan briefly downplays it and carries on. She notices but does not ask why, label it a pattern or seek a disclosure. This is an isolated observation, not a diagnosis.
+**Carry forward:** Alex may remember the exchange if it later becomes relevant. No explicit conversation about Nathan's insecurity or attraction occurs; the direct apology line remains reserved for much later, after many chapters of repeated evidence.
 
 ### Scene 7 — Callahan household
-**Date:** 2–3 October, rental kitchen/common area.  
-**Cast:** Nathan, Heather, Clifford if present in the chosen moment.  
-**Pre-state:** move completed more than two weeks ago. Boxes are mostly gone but the house remains a rental; the blue bowl and family photo are already unpacked. Clifford's longer work hours persist.  
-**Boundary:** no one should act as if every item is unpacked or the house has been bought. Parents know Nathan is working on a game but may not know the details of every subsystem.  
-**Carry forward:** household routine is easier; don't relocate or rebuy established props without a reason.
+**Date/time:** Friday 2 October, 18:30–19:00, rental kitchen/common area.
+**Cast:** Nathan, Heather and Clifford only if present in the chosen moment.
+**Pre-state:** the move was over two weeks ago. Most boxes are gone, though some personal items can remain boxed; the blue bowl and family photo are already unpacked. Clifford's longer work hours persist.
+**Boundary:** no one acts as if every item is unpacked or the house has been bought. Parents know Nathan is working on a game but not necessarily its subsystems.
+**Carry forward:** routine is easier; maintain established prop locations.
 
 ### Scene 8 — Predictor decay
-**Date:** 2–3 October evening, Nathan's computer.  
-**Cast:** Nathan.  
-**Pre-state:** overconfident prediction from Scene 4; prior player movement remains represented.  
-**Boundary:** add decay to old information so recent evidence matters more; it should reduce the psychic effect rather than magically make the model perfect.  
+**Date/time:** Friday 2 October, 19:45–21:15, Nathan's computer.
+**Cast:** Nathan.
+**Pre-state:** overconfident prediction from Scene 4; prior player movement remains represented.
+**Boundary:** add decay to old information so recent evidence matters more. The targeted replay of the 1 October case improves behavior but does not make the model perfect.
 **Carry forward:** stale influence diminishes. Keep edge cases and local-steering defects open until separately tested.
 
 ### Scene 9 — Independent households / Sunday texture
