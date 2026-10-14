@@ -113,7 +113,7 @@ WORKING:
 - programming is commonly scheduled for Monday, Wednesday and Friday evenings, with a longer block on Saturday or Sunday when the day is genuinely free;
 - on an ordinary school day Nathan can usually spend about **2 focused hours** programming; a free day can provide **up to 8 hours**, but that is available capacity rather than a target he must fill;
 - the first mobile-game project has a working budget of **60–85 focused hours over roughly six weeks**; the 10–14-hour school-week average is descriptive, not a weekly cap;
-- a deadline-driven **4–5-hour session can happen on 12–15 October** if that particular day's schoolwork, football, family schedule and fatigue leave room for it; otherwise shorten/rearrange work for a concrete reason rather than calling the workload inherently implausible;
+- during the late-stage crunch window of **12–15 October**, Nathan may work until **04:00–05:00** on a particular night if the story needs it; this is an option, not a routine or a requirement. If used, propagate the shortened sleep/fatigue and its effects into the next day's scene state;
 - football training Tuesday/Thursday;
 - Saturday match/activity;
 - two short conditioning/running sessions per week;
