@@ -400,9 +400,12 @@ He walks away.
 This is the first visible romantic self-sabotage.
 
 #### Scene 31 — after-school football contact
-Nathan speaks directly to **Coach Lance Conley** about joining the local side. Lance explains the next step and invites him to a coach-approved assessment; it is not a full practice or match yet.
+**Time:** Wednesday 16 September, 15:20–15:35, school field-side; parent check that evening around 18:35–18:45 at the rental.
+Nathan speaks directly to **Coach Lance Conley** about joining the local side. Lance explains that the next step is a supervised assessment, not immediate roster membership or an official fixture. He gives Nathan the proposed time, field location and a parent contact route; the assessment is conditional on a parent confirming permission.
 
-Nathan observes that the new group has different habits from his Seattle team, but he has not earned local trust yet and is not captain. The first assessment remains scheduled for Saturday, 19 September, as an internal scrimmage.
+That evening Nathan asks Clifford and Heather. They check the practical details, agree that he can attend, and Heather sends Lance a short confirmation. Lance acknowledges the permission and confirms the **Saturday 19 September, 09:30–11:05** assessment/scrimmage. The family's car is due on 17 September, so transport is available by then; the family will not have to rely on the temporary relocation vehicle.
+
+Nathan observes that the new group has different habits from his Seattle team, but he has not earned local trust yet and is not captain. The assessment remains an internal, coach-run evaluation; there is no official competition registration, promised place or guaranteed playing time.
 
 #### Scene 32 — game
 Evening coding.
@@ -509,7 +512,8 @@ Perfect.
 ### 19–20 September — weekend bridge
 
 #### Scene 40 — new football environment
-On Saturday, Nathan attends a **coach-run internal assessment scrimmage**, not an official league match. This follows the contact with Coach Lance Conley on 16 September and gives the coach a reason to evaluate Nathan.
+**Time:** Saturday 19 September, 09:30–11:05, local field; controlled scrimmage, assessment and brief coach debrief.
+The parent permission and coach confirmation were established after the 16 September contact, and the family car was delivered on 17 September. Nathan attends a **coach-run internal assessment scrimmage**, not an official league match. This follows the contact with Coach Lance Conley on 16 September and gives the coach a reason to evaluate Nathan.
 
 Nathan remembers Coach Leonard Holloway's advice to learn a new side's shape before trying to change it. He first watches how the California midfield and back line move together, then makes one useful adjustment only when a clear opportunity appears. His small gain in respect comes from adapting to the existing team's habits, not from immediately taking control.
 
