@@ -257,7 +257,7 @@ These are WORKING names generated for the first-pass cast. Do not treat them as 
 | Alejandro Lawson | Southern California team, utility defender | WORKING |
 | Allen Keller | Southern California team, midfield substitute | WORKING |
 | Cesar Hodge | Southern California team, forward substitute | WORKING |
-| Wesley Moss | Nathan/Alex school technology-library peer | WORKING |
+| [Wesley Moss](WESLEY_MOSS.md) | Nathan/Alex school technology-library peer | WORKING |
 | Cynthia Barrett | Alex's academic classmate | WORKING |
 | Kaitlin Cannon | Alex's project/library peer | WORKING |
 | Desiree Vance | Haley's high-school friend | WORKING |
@@ -286,6 +286,7 @@ Maxwell Whitaker remains the previously documented WORKING football peer and is 
 ## Expanded state-reference index
 
 - [Football teams and player backgrounds](FOOTBALL_TEAMS_AND_PLAYERS.md)
+- [Wesley Moss — technology/library peer](WESLEY_MOSS.md)
 - [Secondary social circles](SECONDARY_SOCIAL_CIRCLES.md)
 - [Character state continuity standard](CHARACTER_STATE_CONTINUITY_STANDARD.md)
 - [Nathan's knowledge and skill ledger](NATHAN_KNOWLEDGE_AND_SKILL_LEDGER.md)
