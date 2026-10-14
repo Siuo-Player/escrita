@@ -55,82 +55,40 @@ Objects, hobbies, classmates, teammates and family goals continue.
 ### 1 October
 
 #### Scene 1 — school continuity
-Do not reintroduce Nathan.
-
-He knows the building.
-
-He knows where to sit.
-
-Ms. Connie Harrington (the teacher tracked internally as `CA-MATH-01`) has seen Nathan's work since his transfer and remembers the stronger answer he gave in September.
-
-This immediately tells the reader that the previous episode happened.
+**Time:** 08:00–08:50, Thursday 1 October, Nathan's mathematics class.
+Do not reintroduce Nathan. He knows the building and where to sit. Ms. Connie Harrington (tracked internally as `CA-MATH-01`) has seen his work since the transfer and remembers a specific September answer. She gives him a normal follow-up that builds on that work; it is evidence of continuity, not an announcement of a special reputation.
 
 #### Scene 2 — Alex
-Alex starts a conversation without needing a book or assignment.
-
-The conversation is short.
-
-Nathan almost leaves, then stays.
-
-This is a small victory.
+**Time:** 12:05–12:15, Thursday 1 October, shared school lunch area.
+Alex starts a conversation without needing a book or assignment, because several prior exchanges now make that ordinary. The conversation is short. Nathan nearly finds an exit from the interaction, then stays. This is a small, private victory; Alex is simply talking to him, not making a romantic declaration.
 
 #### Scene 3 — football
-Maxwell asks Nathan for help on a tactical situation.
-
-Nathan gives a useful answer.
-
-Maxwell calls him by name casually.
-
-The social bridge is now real.
+**Time:** 16:10–16:25, Thursday 1 October, at the start of scheduled training.
+Maxwell asks Nathan for help with a concrete tactical situation. Nathan listens first and gives a useful, limited answer; Coach Lance still makes all selection/minutes decisions. Maxwell calls Nathan by name casually. The social bridge is real but still developing.
 
 #### Scene 4 — game
-Prediction field produces a destination that is plausible but too precise.
-
-A guard appears psychic.
-
-Nathan hates it.
-
-He needs uncertainty.
+**Time:** 19:45–21:00, Thursday 1 October, Nathan's computer after dinner.
+The prediction field chooses a plausible but overconfident destination. A guard seems psychic because it predicts the player's route too precisely. Nathan treats this as a concrete defect, records the scenario and decides the model needs uncertainty and decay. One test is not proof of robust AI.
 
 ---
 
-### 2–3 October
+### 2 October — Friday
 
-#### Scene 5 — school
-Ms. Harrington gives Nathan an optional harder exercise.
-
-Nathan finishes it.
-
-The same teacher asks what he does outside school.
-
-Nathan mentions programming.
-
-Nothing dramatic.
-
-Teacher stores the information.
-
-This is the seed for a future academic opportunity.
+#### Scene 5 — school / optional harder exercise
+**Time:** 08:40–08:50, the final minutes of Nathan's mathematics class.
+Ms. Harrington gives Nathan an optional harder exercise after he finishes the assigned work. He finishes the follow-up within the available time. In an ordinary teacher-student exchange, she asks what he does outside school. Nathan mentions that he is building a small game as a programming project; he gives only a brief answer, not a full technical presentation. This is the first explicit route by which she learns he programs. She stores the fact, not an assumption that she understands his game or full ability.
 
 #### Scene 6 — Alex / a small observation
-During an ordinary conversation, Alex makes a small positive comment about something Nathan has done. He immediately downplays it, then carries on talking.
-
-Alex notices the reaction but doesn't ask him to explain it or treat it as a pattern. They have had several short conversations, not enough for her to understand the cause or call out a habit. This is another quiet data point, not a confrontation or a relationship milestone.
+**Time:** 12:05–12:15, Friday 2 October, shared school lunch area.
+During an ordinary conversation, Alex makes a small positive comment about something Nathan has done. He immediately downplays it, then carries on talking. Alex notices the reaction but doesn't ask why, label it a pattern or push him to disclose anything. They have had several short conversations, not enough for her to understand the cause or call out a habit. This is another quiet data point, not a confrontation or relationship milestone.
 
 #### Scene 7 — family
-Short Callahan-family domestic sequence:
-- boxes are mostly gone;
-- kitchen routine is established;
-- Heather knows where things are;
-- Clifford is working longer hours.
-
-The temporary rental begins to have ordinary life.
+**Time:** 18:30–19:00, Friday 2 October, Callahan rental.
+A short domestic sequence shows that the boxes are mostly gone, the kitchen routine is established and Heather knows where ordinary things are. Clifford's longer work hours remain a practical pressure, not a new family crisis. The temporary rental begins to feel lived-in, but the family has not bought a house and some personal items can still be boxed.
 
 #### Scene 8 — game
-Nathan adds decay to prediction memory.
-
-Old information fades.
-
-The guards stop behaving like psychics.
+**Time:** 19:45–21:15, Friday 2 October, Nathan's computer.
+Nathan adds decay to prediction memory in response to the overconfident result from 1 October. Old sightings and route guesses lose influence rather than remaining permanently authoritative. He reruns the scenario that made the guards seem psychic; the behavior improves but is not declared perfect. Keep edge cases and local-steering defects open until their own tests.
 
 ---
 
