@@ -347,7 +347,7 @@ By the end, Phil and Claire know the Callahans' names and that they have moved n
 
 #### Scene 27 — first night in California
 **Time:** 19:00–20:00, rental.
-After the main unloading activity has ended and a simple dinner is possible, Nathan checks the provisional school route and the instructions Heather has received. He also opens the unfinished game on the MacBook and reviews the current build without pretending that moving day offered a full programming session. The two problems are suddenly connected: he must rebuild a life and finish a project at the same time.
+After the main unloading activity has eased and a simple dinner is possible, Nathan checks the provisional address of the target school and the time Heather has arranged for their records/enrollment visit the next morning. He has not yet received the confirmed timetable or first-day instructions and has not seen the campus. He also opens the unfinished game on the MacBook and reviews the current build without pretending moving day offered a full programming session. The two problems are suddenly connected: he must rebuild a life and finish a project at the same time.
 
 ### 15 September — settling-in and school registration (mostly off-page)
 **Working time:** 09:00–10:15, school office; later, back at the rental.
