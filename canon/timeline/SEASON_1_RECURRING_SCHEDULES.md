@@ -1,7 +1,7 @@
 # Season 1 Recurring Schedules — School, Work, Training and Weekly Habits
 
 Status: WORKING / continuity reference
-Updated: 2026-10-08
+Updated: 2026-10-14
 
 ## How to use this document
 
