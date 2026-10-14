@@ -300,9 +300,15 @@ He recognizes a technique he has studied before. A* is solving a useful problem,
 He sketches only the concept—a target, walkable cells and arrows pointing toward lower accumulated cost. He has not chosen the exact update scheme, solved dynamic obstacles or implemented a working flow field. This is a promising design hypothesis, not a finished answer.
 
 #### Scene 22 — follow-up messages
-Nathan sends brief follow-up messages to **Calvin Baxter, Tristan Morrow and Devon Carver**. They already know the move is happening from the team group message on 11 September; these private messages are about keeping in touch and saying goodbye, not revealing the news for the first time.
+**Time:** 18:30–19:00, Sunday 13 September, Nathan's room.
+Nathan sends three separate SMS messages to **Calvin Baxter, Tristan Morrow and Devon Carver**. They already know about the move from Friday's team message and Saturday's pre-match confirmation; these messages are individual follow-ups, not a second announcement.
 
-No huge farewell scene. The old life is ending through logistics rather than one dramatic decision. Record any specific promise only if the scene actually makes it.
+The replies reflect the boys' different concerns:
+- **Calvin** asks how the new team sets up its midfield and says he would be interested to hear how its shape compares. This is practical curiosity from his usual midfield partner, not a promise to stay in constant contact.
+- **Tristan** says the back line will take time to get used to organizing without Nathan's familiar cues. He does not turn it into a speech or ask Nathan to solve the replacement plan from another state.
+- **Devon** says he is going to try Nathan's scanning/first-touch advice at the next practice. He asks one concrete question about when to play the safe pass; Nathan answers briefly and leaves selection decisions to Coach Leonard.
+
+Nathan is glad they replied but discounts some of the warmth as ordinary politeness. No one promises a fixed call schedule or guarantees future minutes, friendship or results. The old life is ending through ordinary logistics rather than one dramatic farewell.
 
 ---
 
