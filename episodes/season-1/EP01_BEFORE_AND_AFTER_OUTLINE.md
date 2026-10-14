@@ -324,7 +324,7 @@ The family leaves home early, checks in at Seattle–Tacoma airport around 06:15
 The movers packed and inventoried the household goods on Saturday 12 September; their truck travelled south on Sunday 13 September and is expected at the rental in the early afternoon. The family's personal luggage is separate from the moving shipment. Nathan carries his Intel MacBook, charger, compact peripherals, notebook, school/relocation folder and second-generation iPod touch with him; his football kit travels in its own tagged personal bag, not in the moving truck. Clifford carries his company laptop, credentials and handoff notes. The MacBook already has the current project and development tools. The main monitor, bulk books, furniture, kitchen boxes and most other belongings are in the moving truck. The family car is being transported separately and is not available yet.
 
 #### Scene 24 — Clifford's California role begins
-**Time:** 11:45–12:30, temporary rental.
+**Time:** 12:00–12:30, temporary rental, after key handoff and entry.
 Once the family has entered the furnished house, Clifford uses the already-active internet connection and his company laptop for a short scheduled remote handoff call. The call confirms the transition plan, immediate priorities and the next day's contacts; it is not a full office day and he is not simultaneously working in a California office. Heather and Nathan handle the rental keys, relocation paperwork and immediate practical questions nearby.
 
 The rental was chosen by the relocation coordinator for availability, commute and school-boundary reasons, not because anyone knew the Dunphys. The next-door location is coincidence.
