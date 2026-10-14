@@ -146,32 +146,41 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Date/location:** 13 Sep, Nathan's room. **Cast:** Nathan; Calvin Baxter, Tristan Morrow and Devon Carver.  
 **Pre-state:** the team already knows the move from the 11 Sep group message; these three have separate relationships and home/school commitments. **Boundary:** the messages are individual follow-ups, not the first reveal. Nathan may discount sincere replies, but that is his interpretation. **Carry forward:** record who replied, the exact knowledge shared, and any promise to keep in touch; do not invent promises if the scene does not make them.
 
-### Scene 23 — Departure
-**Date:** Monday, 14 September 2009.
-**Date/location:** 14 Sep, travel from Seattle to Southern California. **Cast:** Nathan, Clifford, Heather; public crowd as aggregate.  
-**Pre-state:** Nathan's Intel Mac and peripherals, iPod touch/cable, books, football gear and notebook are packed. Clifford's work laptop and charger travel in his work bag for the first transition call after arrival; rental and school logistics are arranged. **Boundary:** travel fatigue/location order must be plausible; teammates don't travel with them. **Carry forward:** California arrival, no permanent house yet; home coding resumes only after the computer is set up.
+### Scene 23 — Travel from Seattle to the rental
+**Date/time:** Monday 14 September 2009, 05:30–11:30.
+**Location/cast:** Seattle–Tacoma airport, flight, Los Angeles airport and transfer to the rental; Nathan, Clifford and Heather, with public travellers as aggregate.
+**Pre-state:** relocation coordinator has arranged temporary housing, transport and mover dates; household goods were packed/inventoried on 12 September and the truck travelled south on 13 September.
+**Boundary:** working schedule: leave home 05:30, airport check-in around 06:15, flight around 07:30–10:15, temporary vehicle and drive to rental by around 11:30. Nathan carries the Intel MacBook, charger, compact peripherals, notes and second-generation iPod touch; Clifford carries his work laptop/credentials. Main monitor, books, furniture, kitchen boxes and the family car travel separately.
+**Carry forward:** family arrives in California without the bulk of its property. The MacBook and project copy remain accessible; the house is not yet unpacked and the family car is still in transit.
 
-### Scene 24 — Clifford starts California role
-**Date:** Monday, 14 September 2009.
-**Date/location:** 14 Sep, after arrival at the rental. **Cast:** Clifford; coworkers aggregate unless named.  
-**Pre-state:** promotion/relocation confirmed and the family has arrived in California. **Boundary:** Clifford makes a short remote work-transition/handoff call once his laptop and connection are available; he is not also physically at an office while travelling with the family. Exact employer/title remains provisional. **Carry forward:** work demands are real and contribute to long hours, but do not make the family settled.
+### Scene 24 — Clifford's California role begins
+**Date/time:** Monday 14 September 2009, 11:45–12:30, furnished rental.
+**Cast:** Clifford; coworkers aggregate unless a named person is introduced.
+**Pre-state:** family has reached the rental; internet is active; Clifford's work laptop and credentials travelled with him.
+**Boundary:** Clifford makes a short remote handoff call confirming immediate priorities and next-day contacts. This is a transition check-in, not a full office day; he is not also physically present in a California office. Heather and Nathan handle keys, paperwork and immediate questions nearby.
+**Carry forward:** promotion has practical demands, but the family has not started normal work/school routines. The rental was selected for availability, commute and school-boundary reasons; adjacency to the Dunphys is coincidence.
 
-### Scene 25 — Temporary rental
-**Date:** Monday, 14 September 2009.
-**Date/location:** 14 Sep, California rental. **Cast:** Nathan, Clifford, Heather; movers aggregate.  
-**Pre-state:** recent arrival, boxes remain. **Boundary:** usable but unfamiliar home, not a permanent purchase. **Carry forward:** note room/box states; computer must be reassembled before coding at home.
+### Scene 25 — Temporary rental and moving crew
+**Date/time:** Monday 14 September 2009, 13:00–14:15, rental house.
+**Cast:** Nathan, Clifford, Heather and moving crew as aggregate.
+**Pre-state:** family has arrived with personal luggage; the truck carrying household goods is due in the early afternoon.
+**Boundary:** movers unload boxes, books, furniture, kitchen goods and the main monitor/peripherals. Boxes block several rooms; essentials are findable but the house is far from settled. Nathan opens his carried MacBook on a stable table and checks that the existing project runs; relocation interrupts his normal programming block and he adds no substantial feature that day. Heather keeps the school documents together for the 15 September enrollment check.
+**Carry forward:** project is accessible on the MacBook; bulky gear and most books remain boxed, and the family car is still being transported. Do not require a monitor or unpacked desktop for coding.
 
 ### Scene 26 — Neighborhood introduction
-**Date:** Monday, 14 September 2009.
-**Date/location:** 14 Sep, driveway during unloading. **Cast:** Nathan, Clifford, Heather, Phil, Claire, Luke.  
-**Chosen working beat:** Phil introduces himself and offers to carry one light box; Claire joins; Luke is nearby and asks Nathan about the football he has brought outside. Alex and Haley need not be present.  
-**Knowledge limit:** Phil/Claire know the names and ordinary details actually exchanged; Luke knows Nathan as the new neighbor and has seen his football gear. None knows his school performance, private memories, or attraction to Alex.  
-**Carry forward:** this creates three plausible pre-Pilot acquaintances. Record exact names heard and any promise about playing football.
+**Date/time:** Monday 14 September 2009, 14:20–14:35, driveway during unloading.
+**Cast:** Nathan, Clifford, Heather, Phil, Claire and Luke; moving crew as aggregate.
+**Pre-state:** movers are unloading the household shipment. The Callahans were placed in this rental through the corporate-relocation process and have no prior knowledge of the Dunphys.
+**Chosen beat:** Phil introduces himself and offers to carry one light box; Claire joins; Luke is nearby and asks Nathan about the football he brought outside. The crew continues unloading, giving the conversation a natural setting.
+**Knowledge limit:** Phil and Claire know only the names and ordinary details exchanged; Luke knows Nathan as the new neighbor and has seen his football gear. Alex and Haley need not be present. No one learns Nathan's school performance, private memories or attraction to Alex.
+**Carry forward:** three plausible pre-Pilot acquaintances are established. No friendship, invitation or promise about football is implied unless the scene actually creates it.
 
-### Scene 27 — First California night
-**Date:** Monday, 14 September 2009.
-**Date/location:** 14 Sep, Nathan's room. **Cast:** Nathan.  
-**Pre-state:** new house; school transfer set for 16 Sep; computer setup only to the extent unpacked. **Boundary:** planning a route is not the same as knowing the school by experience. **Carry forward:** Nathan has to rebuild routine and resume the unfinished game; don't use packed tools before they are unpacked.
+### Scene 27 — First California evening
+**Date/time:** Monday 14 September 2009, 19:00–20:00, rental.
+**Cast:** Nathan.
+**Pre-state:** the main unloading has progressed; the MacBook is accessible, while books, larger peripherals and many household items remain boxed. School enrollment paperwork is provisionally arranged for 15 September.
+**Boundary:** Nathan checks the provisional school route and the first-day information Heather has received, then opens his unfinished game on the MacBook to review the current build. He does not treat moving day as a full coding session or claim to know the school layout before attending.
+**Carry forward:** the move feels real; Nathan has to rebuild his routine while keeping the existing project alive.
 
 ### Scene 28 — First school arrival
 **Date:** Wednesday, 16 September 2009.
