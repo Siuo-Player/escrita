@@ -85,7 +85,8 @@ Create once:
 - DeDe Pritchett
 - Dylan Marshall
 - **Connie Harrington** (new-school mathematics teacher; internal ID `CA-MATH-01`; see [full profile](../characters/CONNIE_HARRINGTON.md))
-- recurring football teammates with stable profiles, including Maxwell Whitaker, Cory McBride and Wesley Moss
+- Cory McBride (football teammate and playtester; see [profile](../characters/CORY_MCBRIDE.md))
+- Wesley Moss (technology/library peer and playtester; see [profile](../characters/WESLEY_MOSS.md))
 - `CA-ENG-01` English teacher remains a role-only reference; do not invent a name unless later recurrence makes a stable profile useful
 
 Maxwell Whitaker is the first working original peer with a stable profile; retain his identity and goals across episodes. Connie Harrington now also has a stable profile and dated knowledge history. Assign names/backgrounds to additional teachers or teammates when a repeated narrative role warrants them, and propagate any new identity to the registry and affected scene ledgers.
