@@ -180,7 +180,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Date/time:** Monday 14 September 2009, 05:30–11:30.
 **Location/cast:** Seattle–Tacoma airport, flight, Los Angeles airport and transfer to the rental; Nathan, Clifford and Heather, with public travellers as aggregate.
 **Pre-state:** relocation coordinator has arranged temporary housing, transport and mover dates; household goods were packed/inventoried on 12 September and the truck travelled south on 13 September.
-**Boundary:** working schedule: leave home 05:30, airport check-in around 06:15, flight around 07:30–10:15, temporary vehicle and drive to rental by around 11:30. Nathan carries the Intel MacBook, charger, compact peripherals, notes and second-generation iPod touch; Clifford carries his work laptop/credentials. Main monitor, books, furniture, kitchen boxes and the family car travel separately.
+**Boundary:** working schedule: leave home 05:30, airport check-in around 06:15, flight around 07:30–10:15, temporary vehicle and drive to rental by around 11:30. Nathan carries the Intel MacBook, charger, compact peripherals, notebook, school/relocation folder and second-generation iPod touch; his football kit travels in a separate tagged personal bag. Clifford carries his work laptop/credentials. The main monitor, bulk books, furniture, kitchen boxes and family car travel separately.
 **Carry forward:** family arrives in California without the bulk of its property. The MacBook and project copy remain accessible; the house is not yet unpacked and the family car is still in transit.
 
 ### Scene 24 — Clifford's California role begins
