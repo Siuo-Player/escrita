@@ -339,9 +339,11 @@ Heather checks the moving inventory and keeps the documents needed for the next 
 
 #### Scene 26 — neighborhood introduction
 **Time:** 14:20–14:35, driveway during unloading.
-Phil introduces himself to the new neighbors and offers to carry one light box. Claire joins the introduction; Luke is nearby and asks Nathan about the football he has brought outside. Keep the exchange short, friendly and ordinary. The moving crew continues its work in the background, giving the encounter a practical reason to happen.
+Phil returns from a nearby real-estate appointment and notices the movers unloading next door. He introduces himself to the new neighbors and offers to carry one light box; the crew is still working, so the offer is friendly rather than necessary for the move to succeed. Claire comes to the driveway after hearing Phil greet them, and Luke is already outside with a football.
 
-By the end, Phil and Claire know the Callahans' names and that they have moved next door. Luke knows Nathan as the new neighbor and has seen his football gear. Alex and Haley need not be present, and none of the three discovers anything about Nathan's private memories or feelings. The relocation company did not arrange the introduction; the neighbors simply notice the unloading.
+Clifford introduces himself, Heather and Nathan by name; Phil and Claire give their names in return. Luke hears Nathan's name and asks about the football Nathan has brought outside. Keep the exchange short, friendly and ordinary.
+
+By the end, Phil and Claire know the Callahans' names and that they have moved next door; Luke knows Nathan's name and has seen his football gear. Alex and Haley are not present. None of them learns Nathan's school performance, private memories or feelings about Alex. The relocation company did not arrange the introduction; the neighbors simply notice the unloading.
 
 #### Scene 27 — first night in California
 **Time:** 19:00–20:00, rental.
