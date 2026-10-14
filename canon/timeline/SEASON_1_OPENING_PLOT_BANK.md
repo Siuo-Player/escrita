@@ -10,13 +10,13 @@ The drafting process selects from it.
 
 ### Technology
 - 7 Sep: Nathan turns 13; the game project becomes the main personal project for the opening arc.
-- 7–13 Sep: establishes the prototype, one map, enemy movement and conventional A* baseline.
+- 7 Sep: opens with a crude runnable prototype and conventional A* baseline; through 13 Sep Nathan extends, tests and refines it, measuring the cost of repeated independent searches.
 - 14–15 Sep: move disrupts the development routine.
 - 16–23 Sep: profiler exposes repeated pathfinding work; Nathan recognizes the flow-field technique he has
   already studied and adapts it.
 - 24–30 Sep: flow field, steering and early prediction layer become integrated.
 - 1–7 Oct: prediction/influence map becomes reliable.
-- 8–12 Oct: optimization and constrained-device testing.
+- 8–12 Oct: simulator profiling and optimization; the first explicit physical iPod touch stress test is on 13 Oct.
 - 10–15 Oct: peer playability tests alongside Nathan's own technical/device tests; address feedback, package and submit the candidate for App Store review by 15 Oct.
 - 23 Oct (working target): public launch after review. Initial reception is uncertain; there is no instant fame.
 - Recurring character beat: whenever something works, Nathan immediately notices another imperfection.
