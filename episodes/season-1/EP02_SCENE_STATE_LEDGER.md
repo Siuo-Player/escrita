@@ -197,7 +197,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** the model's history has a defined decay/weight rule and the original title/icon/listing draft exists. Any later algorithm change must have a test reason; final store screenshots must come from validated version 1.0 build 19. The metaphor of stale history is for the reader, not an in-world conclusion about Alex or any other person.
 
 ### Scene 23 — Maxwell invites Nathan to help
-**Date:** Friday 9 October, after school; no formal team practice assumed.  
+**Date/time:** Friday 9 October, 15:20–15:30, outside the middle-school exit; no formal team practice assumed.  
 **Cast:** Nathan and Maxwell.  
 **Pre-state:** a concrete tactical exchange and training evidence have made it plausible that Maxwell approaches Nathan voluntarily. Maxwell still wants playing time and has other friendships.  
 **Boundary:** this is a short invitation to review a situation or help with a specific drill before Saturday, not a formal practice or a sudden best-friend declaration. Nathan says yes after a brief hesitation.  
@@ -212,7 +212,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** shelf location fixed; books begin to move from boxes to shelf. Any later move or damage must be tracked.
 
 ### Scene 25 — First complete playthrough
-**Date/time:** Friday 9 October, evening; version **0.7.0 (build 14)**.  
+**Date/time:** Friday 9 October, 19:30–21:00, Nathan's computer; version **0.7.0 (build 14)**.  
 **Cast:** Nathan.  
 **Pre-state:** version **0.7.0 (build 14)** works end-to-end; the predictor is less psychic but still imperfect; the game has not been publicly released.  
 **Boundary:** a complete playthrough can succeed while exposing polish issues. Working issues found: (1) narrow-corridor guard crowding, (2) chase-to-search transition too abrupt, (3) a collision/steering edge case, (4) objective/exit feedback is unclear, (5) level restart feedback feels slow, (6) small performance spikes during path-field rebuild. These are separate from already fixed prediction decay unless testing reopens it for a documented reason.  
@@ -226,7 +226,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** coach has observed another performance; local trust rises by evidence, not title.
 
 ### Scene 27 — Post-match invitation and playtest arrangement
-**Date/time:** Saturday 10 October, 11:20–11:35, beside the field after the internal scrimmage.
+**Date/time:** Saturday 10 October, 11:20–11:35, field-side, 15 minutes after the 09:30–11:05 scrimmage/debrief.
 **Cast:** Nathan and Maxwell Whitaker; Cory McBride joins the plan only after Maxwell asks and Nathan agrees.
 **Pre-state:** Maxwell has shown growing but still limited trust in Nathan through training and the scrimmage. The boys do not yet know the game's technical design.
 **Boundary:** Maxwell invites Nathan to get a snack and asks what he works on at home. Nathan briefly says he is building a small game and offers a short test, without presenting himself as an expert. He hesitates before accepting the social plan. Maxwell asks to include Cory; Nathan agrees conditional on adult permission. By early afternoon, Heather agrees to host for one hour, Maxwell's parent confirms drop-off/pick-up, and Cory's parent separately agrees he may attend. The visit is fixed for 16:00–17:00; if the permission/transport check is omitted in prose, the visit is not established.
