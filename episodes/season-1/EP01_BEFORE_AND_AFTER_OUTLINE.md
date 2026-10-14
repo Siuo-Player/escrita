@@ -246,13 +246,10 @@ They will initially use an employer-arranged furnished rental. Buying a home lat
 This explains the short logistics window without making the family's future housing a settled fact.
 
 #### Scene 16 — Nathan alone
-Nathan returns to the game instead of talking.
+**Time:** 19:30–20:15, Friday 11 September, Nathan's room/computer area.
+Nathan withdraws for a little while after the family conversation. He returns to the game because it is the one problem he can still control; this is a coping choice, not a melodramatic refusal to talk.
 
-This is not avoidance of the move in a melodramatic way.
-
-It is simply the one problem he can still control.
-
-Before returning to the code for the night, he sends a short, plain message to the Seattle team group chat so Coach Leonard and the squad know before Saturday's match. This is information, not a dramatic announcement; individual reactions should be shown only if they matter to a later scene.
+Before resuming a short, familiar task, he sends a plain group SMS using the team's existing text-message distribution list for practice updates. It tells Coach Leonard and the squad that he is moving on Monday. He does not make a speech or start separate farewell conversations. The message is information; any teammate's specific reaction should be shown only if it matters to a later scene. Nathan then spends a short block reviewing the existing test notes rather than beginning another major coding task.
 
 ---
 
