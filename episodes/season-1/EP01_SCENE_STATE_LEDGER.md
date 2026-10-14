@@ -230,9 +230,8 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Pre-state:** Alex has not met Nathan; Nathan recognizes her privately from the show. **Boundary:** Nathan considers approaching and avoids it. Alex may notice a glance but cannot know why. **Carry forward:** Nathan knows who she is; Alex has at most a first impression of the transfer student.
 
 ### Scene 31 — After-school football contact
-**Date:** Wednesday, 16 September 2009.
-**Date/location:** 16 Sep, office/field-side introduction. **Cast:** Nathan and Coach Lance Conley; Maxwell only if explicitly introduced.  
-**Pre-state:** transfer is new; local trust absent. **Boundary:** logistics or invitation to an assessment, not a full training session or match. Nathan is not captain. **Carry forward:** set a coach-approved controlled scrimmage for Saturday 19 Sep; record any permission/form needed.
+**Date/time:** Wednesday 16 September, 15:20–15:35, school field-side; parent permission follow-up 18:35–18:45 at the rental. **Cast:** Nathan, Coach Lance Conley, Clifford and Heather during the brief permission check.
+**Pre-state:** transfer is new; local trust absent; the family's own car is still in transit but due on 17 September. **Boundary:** Lance offers a supervised assessment rather than immediate roster membership, official competition or guaranteed minutes. He supplies the proposed date, location and parent-contact route. That evening Nathan asks his parents; they confirm the logistics, agree he may attend, and Heather sends Lance a brief permission message. Lance acknowledges it and confirms Saturday 19 September, 09:30–11:05. **Carry forward:** parent consent and coach confirmation are both established; the family car will be available for transport by the assessment date. No official registration or permanent place is implied.
 
 ### Scene 32 — First flow-field attempt
 **Date:** Wednesday, 16 September 2009.
@@ -278,9 +277,8 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Pre-state:** better flow-field movement; steering defect still open. **Boundary:** improvement reveals another defect, not automatic complete collision avoidance. **Carry forward:** log symptom and reproduction conditions.
 
 ### Scene 40 — New California football environment
-**Date:** Saturday, 19 September 2009.
-**Date/location:** 19 Sep, local field, controlled internal scrimmage. **Cast:** Nathan, Coach Lance, Maxwell Whitaker, California roster/substitutes who take part.  
-**Pre-state:** only introductions/logistics so far; local squad has a shared history without Nathan. **Boundary:** assessment scrimmage, not official competition unless eligibility is independently established. Nathan is a new midfielder, not captain. He remembers Coach Leonard Holloway's advice to learn the new side's shape before trying to change it, so he observes how the California midfield and back line move together before proposing one adjustment. Coach Lance assesses communication/adaptation as well as skill.  
+**Date/time:** Saturday 19 September, 09:30–11:05, local field; controlled internal scrimmage, assessment and brief coach debrief. **Cast:** Nathan, Coach Lance, Maxwell Whitaker, California roster/substitutes who take part.
+**Pre-state:** Coach Lance's invitation and Heather's explicit parent permission were confirmed on 16 September; the family car was delivered on 17 September and provides transport. The local squad has a shared history without Nathan. **Boundary:** assessment scrimmage, not official competition unless eligibility is independently established. Nathan is a new midfielder, not captain. He remembers Coach Leonard Holloway's advice to learn the new side's shape before trying to change it, so he observes how the California midfield and back line move together before proposing one adjustment. Coach Lance assesses communication/adaptation as well as skill.  
 **Carry forward:** record attendance, sides/roles, approximate minutes, physical state, tactical exchanges and what each player learns. Maxwell wants playing time but isn't hostile by default; trust remains preliminary.
 
 ### Scene 41 — Home/family adjustment
