@@ -115,12 +115,14 @@ reluctance to seek new friendships. The broader self-undervaluation is a recurri
 Nathan/Alex slow burn.
 
 ### 3. Parents' final occupations and family history
-**Sufficiently bounded for the opening episodes.** Clifford (randomly selected given name; SSA 1960s male rank 159) remains a senior technology executive/early co-founder; Heather (randomly selected given name; SSA 1960s female rank 127) has a demanding, well-paid professional career outside core software engineering. Their roles, relationship with Nathan, and reason for the move are recorded in `canon/characters/CALLAHAN_FAMILY.md`. Keep exact employer/title and work subplots unspecified until the story needs them; both parents are supportive background, not a second main plot.
+**Core roles and relocation effects are established; employer brand names and work subplots remain optional.** Clifford is a senior technology executive and early co-founder promoted into a Southern California regional technology/operations leadership role, effective 14 September 2009. Heather is a senior contracts manager for a national healthcare-supply company; her internal transfer to its Southern California regional office starts 21 September, after relocation leave on 14–18 September. The family/relocation file records the practical consequences, normal schedules and limits of what the parents do for the plot. Keep both parents supportive background rather than a second main plot.
 
 ### 4. Nathan's first concrete technology project
 **Resolved in design:** a small 2D mobile game for conservative 2009 hardware. Nathan builds the important
-game logic himself in C++, but may use period-appropriate public/commercial frameworks and libraries and
-purchased/commissioned art. The game's defining feature is advanced enemy movement and prediction:
+game logic himself in C++, and may use period-appropriate public/commercial frameworks and libraries.
+For **Current 1.0**, use simple original geometric art and simple original/generated tones; do not put
+purchased/commissioned third-party art or audio into the initial release. External assets are a possible
+later option only after their source and licence are recorded. The game's defining feature is advanced enemy movement and prediction:
 a reusable grid-based flow field handles shared navigation efficiently, while a separate lightweight
 player-behaviour memory creates a prediction/influence field that changes where enemies search or
 intercept. The first implementation begins conventionally and becomes progressively more unusual as
