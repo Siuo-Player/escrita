@@ -253,7 +253,8 @@ No formal team practice is assumed on Friday. Maxwell asks Nathan after school t
 Nathan hesitates briefly, then says yes. Record the exact time and place they agree on; this is a small but meaningful social step, not an instant best-friend declaration.
 
 #### Scene 24 — family / study area
-Heather arranges a narrow second-hand bookshelf for Nathan's study area. It is acquired locally and placed beside his desk; choose the actual source in prose and record a price only if it is stated. The bowl from Seattle and the framed Washington-coast family photograph are already unpacked; this shelf is an additional item, not a replacement for the earlier props.
+**Time:** Friday 9 October, 18:30–19:00, Callahan rental / study area.
+This is a short household beat before Nathan's 19:30 programming session, not another computer session. Heather arranges a narrow second-hand bookshelf for Nathan's study area. It is acquired locally and placed beside his desk; choose the actual source in prose and record a price only if it is stated. The bowl from Seattle and the framed Washington-coast family photograph are already unpacked; this shelf is an additional item, not a replacement for the earlier props.
 
 No exposition is needed. The shelf gives the household a practical sign of settling in.
 
@@ -266,12 +267,13 @@ Nathan completes a full playthrough and reaches the win state. This proves the i
 ### 10 October — Saturday
 
 #### Scene 26 — Saturday football event
+**Time:** Saturday 10 October, 09:30–11:05, field; friendly/internal scrimmage and short coach debrief.
 Nathan's new California team plays a friendly/internal scrimmage or coach-run assessment. Do not call it an official league fixture unless player registration, eligibility, opponent and competition are separately established.
 
 Nathan performs well enough for Coach Lance to trust him with one tactical adjustment, but he is not made captain. The trust is evidence-based and limited to the moment. Record the selected players, roles/minutes, observed action, and any teammate/coach state change in the scene ledger.
 
 #### Scene 27 — post-match invitation
-**Time:** 11:20–11:35, immediately after the Saturday scrimmage.
+**Time:** Saturday 10 October, 11:20–11:35, field-side, 15 minutes after the scrimmage/debrief ends.
 Maxwell invites Nathan to get a snack and asks what Nathan has been doing on the computer after school. Nathan mentions, without a technical lecture, that he is building a small game and asks whether Maxwell would like to try an early version. Nathan hesitates socially before accepting the idea of a short test visit; he does not assume he can invite people home without asking his parents.
 
 Maxwell asks if Cory McBride can join. Nathan agrees, but the plan is conditional on all parents confirming transport and timing. By early afternoon, Heather has agreed to host for one hour; Maxwell's parent confirms the ride and Cory's parent separately confirms that he may join. The plan is a **16:00–17:00** visit to the Callahan rental, with adult drop-off/pick-up arranged. If that confirmation is not shown in prose, the visit must not be treated as automatic.
