@@ -367,7 +367,7 @@ These clock times are a **working AU schedule**, not times established by the or
 ### Nathan thread
 
 #### Scene 40 — school, before DeDe's visit
-**Time:** 12:20–12:35, school lunch break.
+**Time:** 12:05–12:20, Wednesday 14 October, school lunch break.
 Nathan notices Alex is distracted and asks a low-pressure question. Her immediate concern is an ordinary school assignment she has been struggling to finish before the next day; she tells him only that she has a lot to do. **This scene happens before DeDe's arrival**, so Alex cannot be reacting to that encounter yet. Nathan sees a small, observable change, not a private family cause, and does not interrogate her.
 
 #### Scene 41 — consequence through Phil, after the dinner
