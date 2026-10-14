@@ -276,3 +276,14 @@ Resolve genuine contradictions and missing causal steps, but do not label a work
 - **Math Enrichment Group:** the first meeting is **27 October, 15:20–16:15**, overlapping the Tuesday football training start at 16:00. Nathan remains interested but not enrolled. Before showing him attending, establish his choice, Coach Lance's agreement, parent/transport arrangements, and the resulting football state.
 
 This audit note records current findings; it does not authorize merging PR #11 or convert any WORKING decision into author-locked canon.
+
+
+## Final verification pass — 2026-10-14
+
+- **Scene coverage:** Episode 1 outline and ledger each contain 62 scene IDs; Episode 2 outline and ledger each contain 49. IDs match in both pairs. A targeted comparison of recorded clock times found no unexplained scene-order conflict; where a ledger timestamp also names a preceding event (e.g. the scrimmage before Maxwell's invitation) or an explicitly described follow-up (Wesley's 15:40 confirmation), the outline supplies the same dependency in its scene text.
+- **Build lineage:** Episode 2 outline, state ledger and technical design now agree that the 13 October test diagnoses the issue on build 16, then code changes create build 17, whose retests close BUG-06. On 14 October, code changes create build 18 before the BUG-02/03 closure suite is run. The 15 October candidate remains build 19 and must pass final acceptance before submission.
+- **Link check:** 11 key README, decision, technical, continuity, Codex and Episode 1–2 documents were checked against the current branch tree; no broken local Markdown links were found.
+- **Current project documentation:** README describes the actual pre-prose architecture phase. Connie Harrington and the Cory/Wesley profiles are linked from the OpenWrite Codex seed.
+- **Still open:** no Cece identity/profile or dated encounter exists in the working scene material, so her causal effect cannot yet be resolved without inventing facts. The Math Enrichment Group/football overlap is documented; Nathan remains interested but not enrolled, so no future attendance is assumed.
+- **Repository workflow:** PR #11 remains open and unmerged. No CI status checks are reported for the current head. No merge was performed.
+
