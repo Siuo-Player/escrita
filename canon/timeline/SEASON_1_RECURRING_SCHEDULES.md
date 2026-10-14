@@ -111,7 +111,7 @@ Do not write piano lessons for Alex unless the story explicitly establishes a la
 
 WORKING:
 - programming is commonly scheduled for Monday, Wednesday and Friday evenings, with a longer block on Saturday or Sunday when the day is genuinely free;
-- on an ordinary school day Nathan can usually spend about **2 focused hours** programming; a free day can provide **up to 8 hours**, but that is available capacity rather than a target he must fill;
+- on a casual/ordinary day Nathan can usually spend about **2 focused hours** programming; when Friday or a weekend day is mostly free, a **4–5-hour session** is reasonable; on a genuinely free day he has capacity for **up to 8 hours**, but neither 4–5 nor 8 hours is a quota. Fixed school, football, family and personal obligations still take priority;
 - the first mobile-game project has a working budget of **60–85 focused hours over roughly six weeks**; the 10–14-hour school-week average is descriptive, not a weekly cap;
 - during the late-stage crunch window of **12–15 October**, Nathan may work until **04:00–05:00** on a particular night if the story needs it; this is an option, not a routine or a requirement. If used, propagate the shortened sleep/fatigue and its effects into the next day's scene state;
 - football training Tuesday/Thursday;
