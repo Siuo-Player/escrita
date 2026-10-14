@@ -211,19 +211,12 @@ This means the later "sudden" news is sudden **to Nathan**, not magically produc
 ### 11 September — game + first emotional disruption
 
 #### Scene 13 — A* stress test
-Nathan runs 10, 15, 20, 24 enemies.
+**Time:** 16:00–18:00, Friday 11 September, Nathan's computer, before the family announcement.
+Nathan reruns the benchmark at 10, 15, 20 and 24 guards. The first serious performance degradation appears in the larger cases.
 
-The first serious performance degradation occurs.
+He experiments with fewer path/update refreshes, a simple cache and different destinations. The cache only helps when a request can actually be reused, and reducing update frequency makes some movement feel less responsive. The result is better in one or two cases but not good enough; the trade-offs create work for a later design pass rather than a finished fix.
 
-He experiments with:
-- fewer updates;
-- cached paths;
-- different destinations.
-
-The result is better but not good enough.
-
-He gets irritated at the program rather than himself:
-the code is doing exactly what he told it to do.
+He gets irritated at the program rather than himself: the code is doing exactly what he told it to do. He records the test cases and the trade-offs instead of inventing a frame-rate number.
 
 #### Scene 14 — family
 Clifford gets confirmation that the promotion has been approved and that the new role is California-based.
