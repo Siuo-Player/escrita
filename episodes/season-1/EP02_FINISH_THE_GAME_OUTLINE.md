@@ -204,7 +204,8 @@ Otherwise parallel-cut.
 ### Nathan thread
 
 #### Scene 17 — ordinary school day
-Nathan has his normal classes. During an ordinary encounter in a shared school space, he mentions that Ms. Harrington suggested the school's optional maths-enrichment/competition group. Alex makes an offhand, encouraging comment that it sounds like something he would be good at. She knows about the suggestion because Nathan tells her; she has not heard it from the teacher or anyone else.
+**Time:** 12:05–12:15, Wednesday 7 October, shared lunch area.
+Nathan has his normal classes. During an ordinary conversation, he tells Alex that Ms. Harrington followed up on the school's optional Math Enrichment and Competition Group and gave him a handout, although he is still waiting for the exact meeting schedule. Alex makes an offhand, encouraging comment that it sounds like something he would be good at. She knows about the opportunity because Nathan tells her, not from the teacher or another source. The exchange remains outside the private events of the canon episode.
 
 Alex still has her own opinions and problems. Their lives intersect without merging, and this conversation doesn't insert Nathan into the private events of the canon episode.
 
