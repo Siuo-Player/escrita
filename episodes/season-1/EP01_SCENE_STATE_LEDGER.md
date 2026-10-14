@@ -373,20 +373,20 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Pre-state:** flow field, local steering and preliminary prediction integrated. **Boundary:** 20-plus enemies demonstrate architectural coherence but not release readiness. **Carry forward:** three separate components—shared navigation, destination prediction, local steering—plus remaining performance/collision/testing defects.
 
 ### Scene 59 — Recurring classmate
-**Date:** Monday, 28 September 2009.
-**Date/location:** 28–29 Sep, school/library. **Cast:** Nathan and Wesley Moss.  
+**Date:** Tuesday, 29 September 2009.
+**Date/location:** 29 Sep, school/library. **Cast:** Nathan and Wesley Moss.  
 **Pre-state:** first meaningful exchange on 21 Sep; Wesley knows Nathan is capable but not a best friend. **Boundary:** recurring contact comes from shared school/technology routines; Wesley has independent interests and deadlines. **Carry forward:** developing acquaintance/friendship. Record how much Wesley has learned about the game.
 
 ### Scene 60 — Alex / ordinary exchange
-**Date:** Monday, 28 September 2009.
-**Date/location:** 28–29 Sep, school. **Cast:** Alex and Nathan.  
+**Date:** Tuesday, 29 September 2009.
+**Date/location:** 29 Sep, school. **Cast:** Alex and Nathan.  
 **Pre-state:** Alex and Nathan have had a handful of short conversations, including the library exchange and later greetings. She may have seen an isolated hesitation or unnecessary apology, but she has not seen the habit consistently enough to call it a pattern.  
 **Boundary:** keep this as a brief, ordinary exchange. Nathan may underplay one small success or begin to apologize over a minor inconvenience; Alex does not challenge him, diagnose him, or make the reserved remark. Do not force a second or third confirming incident just to make an early payoff work.  
 **Carry forward:** no explicit conversation about Nathan's insecurity and no relationship milestone based on his self-undervaluation. Reserve "You know you don't have to apologize every time you're right" for much later, after many chapters have shown the habit repeatedly to Nathan and the reader and Alex has accumulated enough direct experience.
 
 ### Scene 61 — Vertical-slice/performance review
-**Date:** Monday, 28 September 2009.
-**Date/location:** 28–29 Sep evening. **Cast:** Nathan.  
+**Date:** Tuesday, 29 September 2009.
+**Date/location:** 29 Sep evening. **Cast:** Nathan.  
 **Pre-state:** integrated three-part architecture, successful 20-plus-enemy test. **Boundary:** discovers unnecessary updates, a caching opportunity and a collision bug. These are separate defects; fixing one doesn't solve the others. **Carry forward:** near-vertical-slice, not release-ready. Add the defects to the game changelog and only mark them fixed after testing.
 
 ### Scene 62 — Alex's independent evening
