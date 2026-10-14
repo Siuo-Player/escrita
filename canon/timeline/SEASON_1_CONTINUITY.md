@@ -127,9 +127,13 @@ while only a small number of school moments need to be shown in any given episod
 Nathan normally sleeps at a sensible hour. The point is that he is unusually disciplined, not that he works
 through every night until dawn.
 
-During the first two episodes, a school-week average of roughly **10–14 focused programming hours** is the
-default. The early period before/around the move can be somewhat denser, while the move itself temporarily
-reduces available time.
+During the first two episodes, roughly **10–14 focused programming hours per school week** is a useful
+average, not a ceiling or fixed quota. An ordinary school day normally leaves about **2 focused hours**;
+a genuinely free day can provide **up to 8 hours**. The table describes Nathan's usual rhythm, not the
+maximum time available. His total target for this small project is **60–85 focused hours over roughly six
+weeks**, which fits this schedule. A deadline-driven **4–5-hour session can occur on 12–15 October** if the
+specific day's schoolwork, football, family plans and fatigue permit it. Adjust individual days only for
+concrete competing demands; do not treat long sessions as inherently implausible.
 
 ## School continuity
 
@@ -337,7 +341,7 @@ The work is accelerated by:
 - one compact game;
 - one or two small maps at first, then a few variants;
 - few enemy archetypes;
-- simple purchased/commissioned art;
+- simple original geometric art and simple original/generated tones for the first release;
 - a period-appropriate 2D framework;
 - no custom engine;
 - no network system;
