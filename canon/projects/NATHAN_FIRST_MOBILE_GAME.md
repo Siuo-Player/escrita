@@ -417,6 +417,42 @@ The game must not be submitted with any of the known reproducible defects below.
 
 **Release rule:** the 15 October candidate has no known reproducible defect remaining. Later wishes such as extra levels, additional polish or more content may be recorded as future ideas, but must not be used as a euphemism for a known broken control, unclear required objective, stuck guard, bad restart, or failing performance test. Do not invent numeric benchmark results unless the scene records the actual measured number.
 
+## Candidate build history and public submission packet
+
+These identifiers make the testing chain concrete. The numbers are working continuity values; don't describe a test as passing on a build different from the one the scene says was tested. If code changes after a passing test, issue a new build and rerun the affected tests.
+
+| Date | Version/build | State and evidence |
+|---|---|---|
+| **9 Oct** | **0.7.0 (build 14)** | First complete playthrough. The game reaches an end-to-end win, but BUG-01 through BUG-06 are recorded as open. A completed playthrough is not release approval. |
+| **10 Oct** | **0.7.0 (build 14)** | Maxwell and Cory test this Mac/simulator build. They reproduce corridor movement crowding (BUG-01) and unclear objective/exit feedback (BUG-04). Nathan records the build and reproduction steps. |
+| **11 Oct** | **0.8.0 (build 15)** | Local steering, objective/exit state feedback and restart behavior are changed. BUG-01, BUG-04 and BUG-05 close only after their reproducers and restart repetition test pass. |
+| **12 Oct** | **0.8.1 (build 16)** | Shared-field caching and coalescing reduce repeated rebuild work in the simulator. BUG-06 improves, but stays open until the actual-device stress test passes. |
+| **13 Oct** | **0.8.2 (build 17)** | The iPod touch stress test exposes remaining redundant work; Nathan fixes it and reruns the same scenario plus the 1/5/10/15/20/24-guard matrix. BUG-06 closes only after the recorded target cases pass. |
+| **14 Oct** | **0.9.0 (build 18)** | Lost-sight grace/search handling and tight-corner collision validation are corrected. Nathan retests brief/prolonged loss of line of sight, the original corner and corridor reproducers, and the guard-count matrix. BUG-02 and BUG-03 close only after these tests pass. |
+| **15 Oct** | **1.0 (build 19)** | Versioned release candidate compiled from the validated code, tested on the real iPod touch by Wesley without coaching, then run through the final acceptance matrix. This exact binary is the one Clifford submits for review. No known reproducible blocker remains. |
+
+### App Store record — working choices
+
+- **Public title:** Current.
+- **Marketing version / build:** 1.0 / 19.
+- **Bundle/App ID:** `com.cliffordcallahan.current`.
+- **SKU:** `CALLAHAN-CURRENT-001`. Treat it as fixed after the record is created.
+- **Developer/seller display name:** Clifford Callahan, using his already-active adult developer membership. Clifford handles the signing, provisioning, iTunes Connect record and submission. The seller name is not a claim that he wrote the game.
+- **Creator credit:** the title/credits screen and the listing description attribute design and programming to Nathan Callahan and note that Clifford provided account/submission administration. This avoids pretending the thirteen-year-old independently contracts with the store, while preserving his authorship.
+- **Primary language:** English. **Initial distribution:** U.S. storefront. **Price:** Free. No ads, in-app purchases, network access, user account or external service are included.
+- **Category:** Games / Puzzle. **Working age rating:** 9+ because the game uses stylized guard pursuit/stealth tension; the actual 2009 rating questionnaire must match the submitted content. No graphic violence, blood, gambling or sexual content is included.
+- **Working store description:** “A compact single-player stealth puzzle. Read the guards' patrols, find a route through the room, and reach the exit. Built around simple controls and adaptive guard behavior.”
+- **Required submission materials:** correctly sized 57×57 PNG device icon; matching 512×512 store icon created from the same artwork; simple 320×480 launch image; three real screenshots from build 19 (title/start screen, mid-level with guards, and the completed-objective/open-exit state); description, category, copyright/version, SKU, application/support URLs, monitored support email, age rating and signed distribution binary. Never depict features or results from an untested build.
+- **Asset provenance:** the title art, tiles, guards and objective/exit indicators use original simple shapes made for this project. Sound uses simple original/generated tones. No borrowed music, third-party sprite pack or unlicensed typeface is included. Record any later external asset and license before it enters a build.
+- **Administrative checklist:** Clifford confirms the developer membership/agreements, app record and distribution profile already exist; checks the App ID/bundle ID, version, SKU, rating, asset dimensions and binary signature; answers export-compliance questions truthfully (the game itself has no networking or custom encryption); chooses 23 October as the availability date; and submits the binary for review by about 21:30 on 15 October.
+- **Support details:** a monitored project support mailbox and a minimal support page on a domain Clifford already controls are entered in the store record. Their literal addresses are admin metadata, not dialogue, unless a later scene needs them.
+
+### Release acceptance gate
+
+Submission requires all six known defects to be closed on the tested code and the final build 19 to pass the documented matrix. A new reproducible defect reopens the relevant item; code or resource changes after build 19 require another build and affected regression tests. If a fix or review outcome pushes the date, the public launch moves—the story must not preserve 23 October by skipping a necessary test or implying approval before it happens.
+
+The 2009-specific App Store details above follow Apple's period presentation, [WWDC 2009 — Publishing on the App Store](https://nonstrict.eu/wwdcindex/wwdc2009/702/), including its metadata, rating, icon and screenshot requirements. The identity, pricing and release date are working creative choices, not facts from that source.
+
 ## The visual effect
 
 The player does not see the algorithm.
