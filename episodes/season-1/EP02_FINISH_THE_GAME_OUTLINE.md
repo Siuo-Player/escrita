@@ -376,9 +376,11 @@ Nathan closes **BUG-02** by giving a guard a short, bounded lost-sight grace int
 
 ### 15 October — package and private test
 
-#### Scene 43 — morning / ordinary school
-**Time:** 08:05–08:20, before the first lesson.
+#### Scene 43 — morning / Wesley's final test arrangement
+**Time:** 08:05–08:20, Thursday 15 October, before the first lesson.
 Nathan is tired but functioning. School feels normal, showing how far he has settled in without implying that every problem has disappeared.
+
+Nathan asks Wesley whether he would be willing to try the final game build that evening on the iPod touch, without coaching, for a short supervised playability check. Wesley is interested but checks rather than assuming he can visit. Heather has already agreed at breakfast that a brief visit is fine; by 15:40, Wesley messages that his parent can drop him at 18:30 and collect him at 20:00. Nathan confirms the window and tells Heather. The visit is arranged before the evening, not created spontaneously at the door.
 
 #### Scene 44 — teacher / harder follow-up
 **Time:** 10:10–10:25, class.
