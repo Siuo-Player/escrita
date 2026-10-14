@@ -55,11 +55,11 @@ She sees Nathan reason through a mathematics problem and explain his answer. Thi
 
 After observing more than one piece of work and more than one explanation over several class days, she mentions the optional maths-enrichment/competition group as a possible next step. This is an invitation to consider an opportunity, not membership, selection, or proof that she knows the whole range of Nathan's abilities. Nathan may dismiss the offer as generic encouragement; that is his interpretation.
 
-### Friday, 2 October — programming knowledge must have a cause
+### Friday, 2 October — first disclosure of programming
 
-**Required continuity route:** the Episode 2 school scene on this date must explicitly establish that Nathan tells Connie he is building a small game as a personal programming project, or she directly sees equivalent work and asks him about it. The most natural route is a brief, ordinary exchange prompted by an answer or extension task—not a presentation of the whole game.
+**Established event:** during the final minutes of Nathan's mathematics class (08:40–08:50), Ms. Harrington asks what he does outside school after he finishes an optional harder exercise. Nathan tells her he is building a small game as a personal programming project. This event is recorded in Episode 2 Scene 5, both the outline and the scene-state ledger.
 
-Until that scene is made explicit in both the outline and scene-state ledger, treat “Connie knows Nathan programs” as **pending causal propagation**, not a fact available to earlier scenes. She learns only that he is writing a small game; she does not learn the architecture, private motivations, future knowledge or every technical detail unless Nathan explains them.
+From this point forward, Connie knows that Nathan programs and is building a small game. She does not know the game's architecture, his private motivation, his previous-life knowledge or his full technical skill ceiling; do not give her details that Nathan hasn't explained or that she hasn't directly observed. Scenes dated before this exchange must not assume she knows about the project.
 
 ### Tuesday, 6 October — first follow-up
 
