@@ -74,9 +74,11 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Pre-state:** Calvin is Nathan's regular midfield partner and, in the working school assignment, a returning classmate in the same year group. They have known each other since the previous school year, but their bond is primarily practical football trust. **Boundary:** Calvin starts a low-stakes conversation about the new term's science/lab work; Nathan responds easily and makes a small joke. This shows that initiation is harder with unfamiliar people, not that Nathan cannot converse. No new promise or deep friendship is created. **Carry forward:** Calvin knows Nathan is still the same capable, approachable teammate; he does not know about reincarnation or the move yet.
 
 ### Scene 8 — Football/captaincy outside practice
-**Date:** Wednesday, 9 September 2009.
-**Date/location:** 9 Sep, school or team-message exchange. **Cast:** Nathan and Calvin Baxter; other teammates only if named in the actual message.  
-**Pre-state:** off-page 8 Sep practice occurred; the two midfielders already share responsibility for linking defense and attack. **Boundary:** Calvin asks about midfield spacing. Nathan suggests one adjustment to the distance between holding and attacking midfield; this is a conversation about practice, not a second session. Calvin says the adjustment should help the midfield keep its shape. Nathan credits the team's execution rather than taking the praise for himself. **Carry forward:** record the exact tactical change and message recipients. Calvin remembers it; other teammates do only if they received or witnessed it.
+**Date/time/location:** Wednesday 9 September 2009, 14:50–15:00, school exit/pickup area.
+**Cast:** Nathan and Calvin Baxter only.
+**Pre-state:** the off-page Tuesday 8 September practice occurred; the two midfielders already share responsibility for linking defense and attack.
+**Boundary:** Calvin asks about the previous practice's spacing. Nathan proposes one adjustment to the distance between holding and attacking midfield. Calvin agrees it may help, but no whole-team adoption or coach approval occurs in this scene. They may try it at Thursday's scheduled practice; do not write that as already successful.
+**Carry forward:** Calvin knows the proposal and can raise it at practice. Other teammates and Coach Holloway do not yet know unless one of them is told or directly observes the test. Nathan's captaincy remains established, but he has not made an official formation/lineup decision.
 
 ### Scene 9 — Game/profiling
 **Date:** Wednesday, 9 September 2009.
