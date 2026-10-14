@@ -135,6 +135,7 @@ End beat:
 ### 9 September — first day at the old school
 
 #### Scene 6 — mathematics
+**Time:** 10:20–11:15, Wednesday 9 September, Nathan's scheduled mathematics class.
 Nathan arrives at school already comfortable with the material.
 
 Teacher gives a problem.
