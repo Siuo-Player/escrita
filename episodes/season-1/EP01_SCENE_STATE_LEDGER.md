@@ -184,7 +184,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Carry forward:** family arrives in California without the bulk of its property. The MacBook and project copy remain accessible; the house is not yet unpacked and the family car is still in transit.
 
 ### Scene 24 — Clifford's California role begins
-**Date/time:** Monday 14 September 2009, 11:45–12:30, furnished rental.
+**Date/time:** Monday 14 September 2009, 12:00–12:30, furnished rental, after the family has entered and checked the keys.
 **Cast:** Clifford; coworkers aggregate unless a named person is introduced.
 **Pre-state:** family has reached the rental; internet is active; Clifford's work laptop and credentials travelled with him.
 **Boundary:** Clifford makes a short remote handoff call confirming immediate priorities and next-day contacts. This is a transition check-in, not a full office day; he is not also physically present in a California office. Heather and Nathan handle keys, paperwork and immediate questions nearby.
