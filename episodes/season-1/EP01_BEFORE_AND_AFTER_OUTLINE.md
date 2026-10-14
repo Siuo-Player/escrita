@@ -292,17 +292,12 @@ Instead, they check the personal luggage and Monday itinerary: travel documents,
 Nathan gets a small say in the personal items and room essentials he wants first, while the adult transport and housing arrangements remain his parents' responsibility.
 
 #### Scene 21 — technical reading
-Nathan revisits material on pathfinding and field-based navigation.
+**Time:** 10:00–11:00, Sunday 13 September, Nathan's study area.
+Nathan revisits saved technical reading and his own notes on pathfinding and field-based navigation; he does not need a new book or a miraculous memory.
 
-He does not suddenly remember a perfect answer.
+He recognizes a technique he has studied before. A* is solving a useful problem, but each guard is paying to solve much of the same route again. A shared cost/direction field could represent the reusable part: calculate the map toward a chosen target once, then let each guard consult the directions locally.
 
-He recognizes a technique he already studied.
-
-His thought:
-A* is solving the right problem repeatedly.
-A shared field could represent the reusable part.
-
-He makes rough notes.
+He sketches only the concept—a target, walkable cells and arrows pointing toward lower accumulated cost. He has not chosen the exact update scheme, solved dynamic obstacles or implemented a working flow field. This is a promising design hypothesis, not a finished answer.
 
 #### Scene 22 — follow-up messages
 Nathan sends brief follow-up messages to **Calvin Baxter, Tristan Morrow and Devon Carver**. They already know the move is happening from the team group message on 11 September; these private messages are about keeping in touch and saying goodbye, not revealing the news for the first time.
