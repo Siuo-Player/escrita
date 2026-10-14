@@ -604,9 +604,10 @@ free day, he can devote **up to 8 hours**. Availability is an upper bound, not a
 football training and matches, relocation, family plans and fatigue can use that time. Across roughly six
 weeks, **60–85 focused hours is feasible** without requiring every day to be a long session. Friday/weekend
 blocks can be longer when the calendar permits, and during a genuine late-stage crunch (including
-12–15 October) a **4–5 hour session is possible** if competing responsibilities allow it. Adjust a given
-day's work only when a specific event or constraint explains the change; do not treat a long session as
-implausible merely because it is long.
+12–15 October) Nathan may, when needed, work until **04:00–05:00** on a particular night. This is possible,
+not mandatory every night. If a late finish is used, the following day's sleep, fatigue and school/training
+state must reflect it. Adjust a given day's work only when a specific event or constraint explains the
+change; do not treat a late finish as inherently implausible.
 
 The story should therefore present the achievement as:
 
