@@ -1,7 +1,7 @@
 # Season 1 Opening Continuity — School, Football, Alex and Nathan's Game
 
 Status: ESTABLISHED / reusable continuity baseline
-Updated: 2026-10-13
+Updated: 2026-10-14
 
 This document defines the recurring weekly rhythm and the opening two-episode timeline. It is meant to let
 the story skip ordinary days without making Nathan's life feel paused between scenes.
