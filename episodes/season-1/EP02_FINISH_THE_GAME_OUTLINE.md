@@ -352,9 +352,10 @@ After dinner and completing the assignment, Nathan works on **BUG-06**, the meas
 
 ### 13 October
 
-#### Scene 36 — school / academic opportunity
-**Time:** 10:20–10:30, outside Ms. Harrington's classroom after a lesson.
-The teacher follows up on the optional maths-enrichment/competition group and gives Nathan the information and next steps. Nathan asks for details and says he intends to pursue it, but still needs to check the meeting time against football before committing to attendance. No enrollment is implied.
+#### Scene 36 — school / academic opportunity logistics
+**Time:** 15:15–15:25, Tuesday 13 October, outside Ms. Harrington's classroom after the school day.
+Ms. Harrington has now confirmed the practical details for the Math Enrichment and Competition Group: the first meeting is Tuesday 27 October, 15:20–16:15, in the school library's room 112; later meetings are planned for alternate Tuesdays. The expression-of-interest form, including parent/guardian signature, is due Friday 23 October. The first regional competition is tentatively scheduled for 14 November, but transport and participation requirements are not yet guaranteed.
+Nathan is interested and says he intends to pursue it, but the meeting overlaps the start of Tuesday football training at 16:00. He must check with Coach Lance and his parents before committing; he is not enrolled, has not promised to attend, and does not assume he can simply miss part of practice. This gives him a real decision to make rather than repeating the same encouragement.
 
 #### Scene 37 — Alex / Nathan initiates
 **Time:** 12:20–12:30, school lunch break.
