@@ -352,7 +352,7 @@ Maxwell includes Nathan in a drill and uses the team's shorthand without explain
 
 #### Scene 39 — old-device technical test
 **Time:** Tuesday 13 October, 19:15–21:15, Callahan home; starts from simulator-improved **0.8.1 (build 16)** and produces **0.8.2 (build 17)** after the device fix.
-Nathan tests the current private build on his existing second-generation iPod touch running iPhone OS 3.1.2 and records the build identifier, guard-count scenario and result. The simulator improvement from Monday is not enough: under the 20/24-guard stress case, the device still shows a performance spike. Nathan reduces the remaining redundant work, reruns the same build/scenario and verifies the fix. He then checks the 1/5/10/15/20/24-guard set on the device. **BUG-06 closes only after those recorded target cases pass**; this is still private testing, not a public release.
+Nathan first tests **version 0.8.1 (build 16)** on his existing second-generation iPod touch running iPhone OS 3.1.2 and records the build identifier, guard-count scenario and result. The simulator improvement from Monday is not enough: under the 20/24-guard stress case, the device still shows a performance spike. Nathan changes the code, compiles **version 0.8.2 (build 17)**, then reruns the original device reproducer and checks the 1/5/10/15/20/24-guard matrix on **build 17**. The build-16 test identifies the problem; **BUG-06 closes only after the corresponding build-17 retests pass**. This is still private testing, not a public release.
 
 ## 14 October — The Incident
 
@@ -375,7 +375,7 @@ Nathan is returning a football or helping bring an ordinary item inside when he 
 
 #### Scene 42 — final technical defect closure
 **Time:** Wednesday 14 October, 21:00–23:00, Callahan home; resulting build **0.9.0 (build 18)**.
-Nathan closes **BUG-02** by giving a guard a short, bounded lost-sight grace interval before it searches around the last observed position; longer loss of sight still ends the chase. He closes **BUG-03** by checking walkable-cell/collision constraints before committing a movement step, then reruns both the original tight-corner case and the corridor test. He also runs the full 1/5/10/15/20/24-guard regression set on the current build. The registered target cases pass. Record build and evidence; any reproducible failure would block submission and require another fix-and-retest cycle. No known defect is left for release merely to meet the planned date.
+Nathan changes **BUG-02** by giving a guard a short, bounded lost-sight grace interval before it searches around the last observed position; longer loss of sight still ends the chase. He changes **BUG-03** by checking walkable-cell/collision constraints before committing a movement step. He then compiles **version 0.9.0 (build 18)** and runs the original tight-corner and corridor reproducers, brief/prolonged loss-of-sight cases, and the full 1/5/10/15/20/24-guard regression matrix on **build 18**. The registered target cases pass on that build. Record the build and evidence; any reproducible failure would block submission and require another fix-and-retest cycle. No known defect is left for release merely to meet the planned date.
 
 ### 15 October — package and private test
 
