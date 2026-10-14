@@ -2,7 +2,7 @@
 
 Status: WORKING SCENE-STATE RECORD — required before prose  
 Story window: 7–30 September 2009  
-Updated: 2026-10-13
+Updated: 2026-10-14
 
 ## Operating rule
 
