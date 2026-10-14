@@ -214,3 +214,12 @@ When a decision is changed:
 - **Not implied by launch:** downloads, reviews, sales, virality, press, fame and commercial success remain UNKNOWN until the story gives them causes and observable evidence.
 - **Status:** submission requirements above are working continuity decisions for closing the documented gap. Product name, seller name, price, storefront, app identifiers, rating and the exact release date may be revised before prose/publication if the author later chooses differently, but the testing-before-release order remains fixed.
 - **Dependencies:** first-game technical design, Episode 2 outline and ledger, Clifford's account-administration role, asset provenance and Season 1 continuity.
+
+
+## Open continuity audit — Cece chronology (2026-10-14)
+
+The author specified that Cece's state at the relevant school scene must reflect whether the encounter with her occurs before that scene. A targeted search across the working Episode 1–2 outlines and scene-state ledgers, season timeline/plot bank, core-character baseline and secondary-social-circles file in the current PR #11 branch, plus the Episode 1–4 outlines and master-plan/plot-bank files in PR #2, found no occurrence of **Cece** or **Cecilia**. The working tree therefore does not currently establish her identity, the encounter, or its timestamp. Do not silently assume that Cece is DeDe or merge the characters.
+
+In the current Episode 2 ledger, Scene 40 is Wednesday **14 October, 12:20–12:35**, with Alex distracted by an ordinary school assignment before DeDe's later visit; Scene 41 is a separate Nathan/Phil encounter at approximately **20:40–20:50** after the Dunphy dinner. Those timings are internally explicit but do not establish the missing Cece event. Until her intended profile/scene is restored or created, do not give a school scene consequences from an unrecorded encounter. Before prose, record Cece's background, exact event time, what she knows/feels afterward, and any corresponding state change in the affected scene ledger.
+
+This is an unresolved implementation dependency, not a new author decision.
