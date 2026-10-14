@@ -545,7 +545,7 @@ This keeps his advantage from becoming a cheat sheet.
 
 ## Development calendar and school-night workload
 
-The active prototype/build cycle runs from **3 September to 15 October 2009**: 43 calendar days inclusive, a little over six weeks. The story's first on-page scene is still 7 September. During **3–4 September**, Nathan makes the high-level plan: core loop, enemy behavior, small scope and a simple map. During **5–6 September**, he sets up the period-appropriate framework/project skeleton and writes only the minimum functions needed to render a grid, accept player input, update a basic enemy and run a crude first loop. By the first on-page scene, this is a very early but genuinely running build—not a polished vertical slice. The A* baseline and the wider playable slice are developed and refined during the visible story. After submission on 15 October, App Store review runs separately; 23 October is the working public-launch target.
+The active prototype/build cycle runs from **3 September to 15 October 2009**: 43 calendar days inclusive, a little over six weeks. The story's first on-page scene is still 7 September. During **3–4 September**, Nathan makes the high-level plan: core loop, enemy behavior, small scope and a simple map. During **5–6 September**, he sets up the period-appropriate framework/project skeleton, builds the minimum runnable loop, and implements a deliberately crude A* route-finding baseline. By the first on-page scene, the build genuinely runs and includes basic grid rendering, player input/movement, one simple enemy loop, and rough A* navigation; it is not a polished vertical slice. The visible story measures and refines this baseline, then develops the shared flow-field, steering and prediction layers. After submission on 15 October, App Store review runs separately; 23 October is the working public-launch target.
 
 This is deliberately fast because Nathan already knows C++, has studied game programming, uses an existing
 2D framework, keeps the game scope narrow, and does not attempt custom rendering, a large campaign or a
@@ -558,8 +558,8 @@ prototype period.
 ### Compressed development phases
 
 - **3–4 Sep (off-page):** high-level game plan, deliberately small scope, core loop, enemy concept and first map.
-- **5–6 Sep (off-page):** framework/project skeleton and minimum runnable functions: render the grid, move the player, update one crude enemy and execute the first game loop. Budget roughly 8–10 focused hours across both days; the build is deliberately rough.
-- **7–9 Sep:** the first on-screen build runs, but is very early. Nathan extends the minimum loop, establishes/refines the A* baseline and tests increasing enemy counts; repeated global searches become the measurable bottleneck and profiling begins.
+- **5–6 Sep (off-page):** framework/project skeleton and minimum runnable functions: render the grid, accept player movement, update one crude enemy, execute the game loop, and implement the first simple A* route. Budget roughly 8–10 focused hours across both days; the build is deliberately rough.
+- **7–9 Sep:** the first on-screen scenes show that rough build already running. Nathan tests one and then five enemies, checks that the baseline routes work, and refines/debugs the simplest cases. Repeated independent global searches become a measurable scaling concern; profiling and comparisons begin. Do not describe A* itself as first implemented after 7 September.
 - **10–13 Sep:** stress-test 10/15/20/24 enemies; cache/update-frequency experiments help but do not solve
   repeated global work; first playable map remains functional.
 - **14–15 Sep:** relocation interrupts work; technical work continues only in fragments.
