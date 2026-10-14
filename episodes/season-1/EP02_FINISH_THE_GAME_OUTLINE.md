@@ -230,24 +230,12 @@ Nathan begins to realize he likes talking to her even when he has nothing to say
 ### The new normal and the first real weekend
 
 #### Scene 20 — school
-Ms. Harrington gives Nathan an unexpectedly difficult question.
-
-Nathan answers.
-
-Another student looks impressed.
-
-Nathan becomes uncomfortable.
-
-Teacher changes the subject rather than dwelling on it.
+**Time:** 10:10–10:25, Thursday 8 October, Nathan's mathematics class.
+Ms. Harrington gives Nathan an unexpectedly difficult question based on the reasoning she has seen in earlier lessons. Nathan answers correctly, and a nearby student briefly looks impressed. Nathan becomes uncomfortable with the attention. Ms. Harrington moves the class on rather than turning the moment into praise or a public performance.
 
 #### Scene 21 — Alex
-Alex notices this reaction.
-
-She teases him lightly.
-
-Nathan laughs.
-
-This is one of the first moments of uncomplicated interaction.
+**Time:** 12:05–12:15, Thursday 8 October, shared lunch area.
+Alex notices only that Nathan is still a little awkward after the classroom attention. She makes a small, situational joke about the question or the way the class reacted, not about his personality or a recurring habit. Nathan laughs; they move on naturally. This is one of their first uncomplicated interactions, not a diagnosis of his insecurity.
 
 #### Scene 22 — game
 Prediction has too much historical memory.
