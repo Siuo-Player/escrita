@@ -194,8 +194,8 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Date/time:** Monday 14 September 2009, 13:00–14:15, rental house.
 **Cast:** Nathan, Clifford, Heather and moving crew as aggregate.
 **Pre-state:** family has arrived with personal luggage; the truck carrying household goods is due in the early afternoon.
-**Boundary:** movers unload boxes, books, furniture, kitchen goods and the main monitor/peripherals. Boxes block several rooms; essentials are findable but the house is far from settled. Nathan opens his carried MacBook on a stable table and checks that the existing project runs; relocation interrupts his normal programming block and he adds no substantial feature that day. Heather keeps the school documents together for the 15 September enrollment check.
-**Carry forward:** project is accessible on the MacBook; bulky gear and most books remain boxed, and the family car is still being transported. Do not require a monitor or unpacked desktop for coding.
+**Boundary:** the furnished rental already has beds, basic seating, a dining table and enough kitchen basics for the first days. Movers unload the household shipment, but the Callahans do not replace every rented item immediately: bulky furniture, duplicate kitchen boxes, most books and nonessential cartons are staged in the garage/secondary storage area; the essentials box and clothes/school items go into accessible rooms. A few boxes still block passageways, so the house is usable but not settled. Nathan opens his carried MacBook on the existing dining table and checks the project; he makes no substantial new feature on moving day.
+**Carry forward:** the project is accessible on the MacBook; bulk furniture/books and most peripherals are staged rather than unpacked into everyday rooms, and the family car is still being transported. Do not require a monitor or unpacked desktop for coding. Heather keeps the school documents together for the 15 September enrollment check.
 
 ### Scene 26 — Neighborhood introduction
 **Date/time:** Monday 14 September 2009, 14:20–14:35, driveway during unloading.
