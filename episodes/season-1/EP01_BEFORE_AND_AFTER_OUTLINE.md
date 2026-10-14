@@ -219,9 +219,8 @@ He experiments with fewer path/update refreshes, a simple cache and different de
 He gets irritated at the program rather than himself: the code is doing exactly what he told it to do. He records the test cases and the trade-offs instead of inventing a frame-rate number.
 
 #### Scene 14 — family
-Clifford gets confirmation that the promotion has been approved and that the new role is California-based.
-
-Nathan learns the news.
+**Time:** 18:45–19:00, Friday 11 September, Callahan home.
+Clifford receives the formal confirmation that the promotion is approved and the role is California-based, after the company has been discussing the option and preparing relocation contingencies for weeks. He tells Heather and Nathan that evening; Nathan had not known the decision was final.
 
 The scene should begin with practical questions:
 - When?
