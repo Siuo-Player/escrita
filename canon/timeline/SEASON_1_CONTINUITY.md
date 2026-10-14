@@ -131,9 +131,10 @@ During the first two episodes, roughly **10–14 focused programming hours per s
 average, not a ceiling or fixed quota. An ordinary school day normally leaves about **2 focused hours**;
 a genuinely free day can provide **up to 8 hours**. The table describes Nathan's usual rhythm, not the
 maximum time available. His total target for this small project is **60–85 focused hours over roughly six
-weeks**, which fits this schedule. A deadline-driven **4–5-hour session can occur on 12–15 October** if the
-specific day's schoolwork, football, family plans and fatigue permit it. Adjust individual days only for
-concrete competing demands; do not treat long sessions as inherently implausible.
+weeks**, which fits this schedule. During the late-stage crunch window of **12–15 October**, Nathan may
+work until **04:00–05:00** on a particular night if needed; this is an option, not a required daily pattern.
+If used, reflect the resulting sleep loss/fatigue in the next day's scene state. Adjust individual days for
+concrete competing demands; do not treat late-night work as inherently implausible.
 
 ## School continuity
 
