@@ -33,13 +33,13 @@ Kaitlin has known Alex through school and shared activities for more than one we
 
 ### Wesley Moss — eighth-grade technology/library peer, age about 13
 
-**Function:** a school contact who gives Nathan a possible peer connection not based on football or Alex.
+**Function:** a school contact who gives Nathan a peer connection outside football and Alex.
 
-Wesley enjoys practical computer work, but he is not secretly a prodigy who can solve Nathan's whole game. He is patient with equipment, likes learning by trying things, and is more comfortable discussing a task than introducing himself at a party. He has spent time in the school library or technology activity before Nathan arrives and knows the rules, staff routines and the small problems beginners run into. His home computer access and exact technical skill are not fixed; the story must not use him as a convenient source of hardware, software or knowledge until those details are established.
+Wesley enjoys practical computer work, but he is not a prodigy or a substitute programmer for Nathan. He is patient with equipment, learns by trying things, and is more comfortable discussing a concrete task than introducing himself at a party. He knows school-library and classroom-computer routines because he uses them regularly. His family has one shared Windows XP desktop with home broadband; access is arranged around family homework, so Wesley is familiar with basic file management, settings and ordinary troubleshooting, not iOS development or advanced coding.
 
-Wesley may become interested in Nathan's work without immediately seeing it as genius. He cares about whether the game is fun and the controls make sense, not only whether its architecture is clever. He can disagree with a feature because he is thinking as a player rather than an engineer.
+He cares about whether a game is clear and enjoyable as a player. He pays attention to instructions, repeats an action when he is unsure, and can explain what he saw without inventing a technical diagnosis. His activity schedule, unfinished schoolwork and family constraints continue regardless of whether Nathan visits the library; do not treat him as a convenient source of hardware, software or unlimited time.
 
-**As of 16 September:** Wesley has heard that a new eighth grader has arrived but has not met Nathan meaningfully. His own activity schedule, work in progress and family constraints continue regardless of whether Nathan goes to the library that afternoon. His role is an opportunity, not a mandatory friendship or a prewritten future payoff.
+For his dated background and the knowledge he acquires about Nathan's game, use [Wesley Moss's full profile](WESLEY_MOSS.md).
 
 ## 2. Haley's high-school circle
 
