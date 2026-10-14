@@ -149,9 +149,11 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Carry forward:** Nathan remembers the principle when he assesses the California team on 19 September, but still must observe their actual shape and communication. He has not yet learned those routines.
 
 ### Scene 19 — Moving logistics
-**Date:** Saturday, 12 September 2009.
-**Date/location:** 12 Sep, Callahan home. **Cast:** Nathan, Clifford, Heather; movers as aggregate.  
-**Pre-state:** move around 14 Sep; Intel Mac, peripherals/cables, second-generation iPod touch and its cable, books, football gear and notebook are owned items. **Boundary:** selective physical detail, not a shopping documentary. **Carry forward:** fragile computer gear and cables travel together; keep the iPod and its cable accessible enough for the first unpacking, without implying that the unfinished game is already installed on it.
+**Date/time/location:** Saturday 12 September 2009, 11:15–14:30, Callahan home.
+**Cast:** Nathan, Clifford, Heather and the moving crew as aggregate.
+**Pre-state:** Nathan's final Seattle match and Leonard's advice have finished by 10:42; the relocation package's movers began packing at 08:00 while Nathan was away. The family leaves on Monday 14 September.
+**Boundary:** the crew continues inventorying, wrapping and loading the household shipment. Nathan sorts books into a small personal-luggage selection and the larger "can wait" shipment. The external monitor and bulky peripherals are packed; the Intel MacBook, charger, compact input peripherals, essential notes, second-generation iPod touch and its cable stay together in his personal luggage so he can continue using the existing project until departure. The prototype is not yet installed on the iPod. Heather labels the first-arrival essentials box with linens, simple kitchen items and school/move papers and ensures it is accessible when unloaded. No object is bought here.
+**Carry forward:** all listed items retain ownership and location; the MacBook and current project remain accessible before travel, while the monitor/books/furniture travel separately. The essentials box must be findable at the rental on 14 September.
 
 ### Scene 20 — Family planning
 **Date:** Sunday, 13 September 2009.
