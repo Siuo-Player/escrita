@@ -255,19 +255,13 @@ Before resuming a short, familiar task, he sends a plain group SMS using the tea
 
 ### 12 September — last football weekend
 
-#### Scene 17 — match
-Nathan plays his final match before leaving.
+#### Scene 17 — final Seattle-team match
+**Time:** Saturday 12 September, 09:00–10:25, Seattle field.
+Nathan plays his final match before leaving. Before warm-up, Coach Leonard confirms the move to the squad and checks that everyone knows Nathan leaves on Monday; this catches anyone who has not read Friday's SMS. No one is required to react in a particular way.
 
-The team knows he is moving.
+Keep emotions restrained and leave the score, scorers, minutes and specific match incidents open until drafting requires them.
 
-Keep emotions restrained.
-
-**Calvin Baxter**, who shares the midfield workload with Nathan, tells him the team will miss having him organize the transitions.
-
-Nathan immediately assumes:
-"They're being nice."
-
-Keep the line quiet and specific. Calvin's statement reflects their actual football partnership, not a generic farewell speech.
+After the final whistle, **Calvin Baxter**, who shares the midfield workload with Nathan, tells him the team will miss having him organize the transitions. Nathan immediately assumes, "They're being nice." Keep the line quiet and specific. Calvin's statement reflects their actual football partnership, not a generic farewell speech.
 
 This shows self-undervaluation outside romance.
 
