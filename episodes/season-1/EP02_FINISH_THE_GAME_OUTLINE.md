@@ -169,16 +169,10 @@ Maxwell earns more playing time because he executes the work consistently in tra
 
 Nathan is happy for him. Maxwell realizes Nathan is not trying to take his place. Their friendship develops by one step.
 
-#### Scene 15 — school
-Ms. Harrington mentions the school's optional maths-enrichment/competition group, following up on the earlier suggestion.
-
-Nathan is interested.
-
-He hesitates because joining something new means talking to people.
-
-Alex later makes an offhand comment that it sounds like something he would be good at.
-
-It matters more to him than it should.
+#### Scene 15 — school / enrichment follow-up
+**Time:** 08:40–08:50, Tuesday 6 October, final minutes of Nathan's mathematics class.
+Following her initial suggestion in late September, Ms. Harrington gives Nathan the proper name and purpose of the school's optional **Math Enrichment and Competition Group**. She has the basic handout but is still waiting for the co-sponsor to confirm the next meeting and paperwork deadline; she tells Nathan she will bring him the practical details once confirmed. This is a follow-up, not a fresh suggestion or an acceptance.
+Nathan is interested but hesitates because joining something new means initiating contact. He takes the handout, makes no commitment and is not enrolled. Alex's separate encouraging comment occurs on 7 October, after Nathan tells her about the opportunity; it is not part of this teacher conversation.
 
 #### Scene 16 — game
 Nathan compares:
