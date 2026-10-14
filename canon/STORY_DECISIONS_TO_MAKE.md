@@ -7,6 +7,8 @@ Updated: 2026-10-14
 The list is ordered by dependency. We do not need to decide every detail immediately. Resolved items
 are recorded so they are not asked again. The public game launch after technical and peer playability tests is author-confirmed; the exact 23 October launch date remains a WORKING timeline target under DEC-014.
 
+**Status-reading rule:** this section deliberately mixes resolved foundation, established direction, working proposals and genuinely open future decisions. A subsection marked **Resolved** or **established** is not a pending question; its details should be revised only if a later contradiction or explicit author change warrants it. Items still marked **Working** are useful defaults rather than immutable canon. Only the alternatives and future milestones expressly left open need new decisions before the relevant scenes are drafted.
+
 ## A. Resolved foundation
 
 1. **Protagonist:** Nathan Callahan (given name and family surname locked by the author on 2026-10-12), male, 13 at the story opening (having turned 13 that day); American;
@@ -103,7 +105,7 @@ are recorded so they are not asked again. The public game launch after technical
 
 Detailed protagonist record: canon/characters/NATHAN_CALLAHAN.md.
 
-## B. Still to decide — useful for the first arc
+## B. Remaining decisions and working choices — useful for the first arc
 
 ### 1. Nathan's exact birth date and starting calendar date — RESOLVED
 **Resolved:** birthday is **7 September 1996 (Saturday; he turns 13 on Monday, 7 September 2009)**. The story opens on that birthday. The prior-life transition occurs roughly two weeks earlier, while he is still twelve; this is a separate event and does not move the opening date. Nathan transfers to school on **16 September 2009 (Wednesday)**, one week after the LAUSD year opening on 9 September. The pilot's broadcast date is 23 September 2009 and can also serve as its in-universe date.
