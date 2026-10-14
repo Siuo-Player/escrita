@@ -314,7 +314,7 @@ Nathan simply notices that he is looking forward to talking to her on Monday.
 The rental neighborhood feels more familiar. Heather says that if Clifford's new role proves stable, she can imagine the family eventually buying a home in the area; this is a hope, not a decision. Nathan realizes California may become a lasting home rather than a temporary stop. Do not resolve the future house yet.
 
 #### Scene 31 — targeted defect fixes and weekly plan
-**Time:** 13:00–16:00, Nathan's computer; 19:45–20:15, weekly plan.
+**Time:** 13:00–16:00, Nathan's computer; 19:45–20:15, weekly plan; resulting build **0.8.0 (build 15)**.
 The six defects from the 9 October playthrough are still the working list at the start of the afternoon. With Maxwell and Cory's specific feedback now recorded, Nathan spends a three-hour focused block on three contained fixes:
 - **BUG-01:** improve local steering so guards yield/space themselves at narrow bottlenecks rather than trapping the player;
 - **BUG-04:** make objective completion and the exit's available/locked state visibly distinct;
@@ -342,7 +342,7 @@ A normal assignment due Wednesday 14 October competes with game work. Nathan ini
 Heather sees the assignment and asks about the real deadline. She helps Nathan compare the school requirement with the optional polish task without ordering him to abandon the game. Nathan commits to finishing the assignment first and limiting tonight's programming to one measured task. Record the exact deferred game task and keep the choice in continuity.
 
 #### Scene 35 — field-rebuild optimization
-**Time:** 20:00–22:00, Nathan's computer.
+**Time:** Monday 12 October, 20:00–22:00, Nathan's computer; resulting build **0.8.1 (build 16)**.
 After dinner and completing the assignment, Nathan works on **BUG-06**, the measured performance spikes during shared path-field rebuilds. He caches fields by map version/target and coalesces redundant rebuild requests instead of recalculating the same result repeatedly. The same simulator scenario is rerun: repeated rebuild work is reduced, but this does not yet close the device-performance gate. The iPod test on Tuesday remains necessary; no other issue is declared fixed by this optimization.
 
 ### 13 October
