@@ -107,9 +107,11 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Pre-state:** promotion option has existed for weeks, outcome uncertain. **Boundary:** parents may discuss negotiations and relocation logistics; Nathan has not learned the result. **Carry forward:** quick logistics are plausible because relocation support was already considered; final decision is pending.
 
 ### Scene 13 — A* stress test
-**Date:** Friday, 11 September 2009.
-**Date/location:** 11 Sep evening. **Cast:** Nathan.  
-**Pre-state:** profiling evidence, no flow field. **Boundary:** tests at 10, 15, 20 and 24 enemies expose degradation; don't invent frame-rate numbers unless recorded. **Carry forward:** reduced update frequency/caching help only partly. A* remains functional but too expensive under this load.
+**Date/time/location:** Friday 11 September 2009, 16:00–18:00, Nathan's computer; before the family announcement.
+**Cast:** Nathan.
+**Pre-state:** the 15-guard profiler pass on 9 September established repeated A* work as a measurable cost; no code changed between Scenes 9 and 13.
+**Boundary:** Nathan runs the 10/15/20/24-guard cases. He tests fewer path/update refreshes, a simple cache and different destinations. Reuse helps only when the request actually matches; reducing refreshes also makes some movement less responsive. These are measured experiments, not a finished fix. Record only results actually observed; do not invent frame-rate numbers.
+**Carry forward:** A* still functions but remains too expensive at higher counts. Nathan has learned that quick caching/update tweaks trade performance against responsiveness; no flow field exists yet. The family has not announced the promotion to him during this scene.
 
 ### Scene 14 — Family: promotion confirmed
 **Date:** Friday, 11 September 2009.
