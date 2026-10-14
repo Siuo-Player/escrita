@@ -95,9 +95,11 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Carry forward:** teacher has evidence that Nathan thinks about fair tests. No science-club offer, special mentorship or knowledge of his game is implied.
 
 ### Scene 11 — Football practice/playing-time tension
-**Date:** Thursday, 10 September 2009.
-**Date/location:** 10 Sep, Seattle field. **Cast:** Nathan, Devon Carver, Coach Leonard Holloway; other players if they take part in the drill.  
-**Pre-state:** Devon is a midfield substitute who wants meaningful minutes and broader trust; Nathan is captain but not coach. **Boundary:** Nathan gives actionable feedback, not a motivational speech or promise of selection. **Carry forward:** Devon has a specific improvement target; Leonard sees how Nathan handles the conflict. No selection change is automatic.
+**Date/time/location:** Thursday 10 September 2009, 15:10–16:30, Seattle field.
+**Cast:** Nathan, Devon Carver, Calvin Baxter, Coach Leonard Holloway, and the players taking part in the positional drill.
+**Pre-state:** Devon was a late substitute in the previous Saturday's fixture and feels he had too little time to demonstrate his usefulness. Calvin knows Nathan's proposed midfield-spacing adjustment from Scene 8; the rest of the squad and coach have not yet seen it tested.
+**Boundary:** the team tests the spacing adjustment during a positional drill. It helps on one repetition but is not adopted as a permanent change on that evidence alone. Later, Devon asks about earning more minutes. Nathan gives a specific target—scan before receiving, open his body and take the first touch away from pressure, then play the simple pass if no forward lane is open. Devon improves once but misses a cue on a later repetition. Leonard sees the interaction; he retains all selection authority and promises no minutes.
+**Carry forward:** the proposed spacing adjustment has one observed practice result and still needs repeated evidence. Devon knows the specific skill to work on; his minutes and role remain unchanged until Leonard decides otherwise. Nathan has mediated without claiming the coach's authority.
 
 ### Scene 12 — Clifford's news approaches
 **Date:** Thursday, 10 September 2009.
