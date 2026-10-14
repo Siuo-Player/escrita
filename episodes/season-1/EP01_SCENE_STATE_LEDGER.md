@@ -142,9 +142,11 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Carry forward:** all active players and the coach know Nathan is moving before kickoff; individual emotions remain varied and only become canon if shown. Calvin's remark is a specific known exchange, and the squad's relationships persist after the move.
 
 ### Scene 18 — Coach advice
-**Date:** Saturday, 12 September 2009.
-**Date/location:** 12 Sep after the match. **Cast:** Nathan and Leonard.  
-**Pre-state:** Leonard has watched Nathan lead through the season and knows he is moving; Nathan is embarrassed by praise. **Boundary:** Leonard advises Nathan to learn the new side's shape and habits before trying to change them; this is practical coaching, not a grand speech. **Carry forward:** Nathan remembers this principle when he first assesses the California team, but still has to observe and learn their actual routines.
+**Date/time/location:** Saturday 12 September 2009, 10:30–10:42, field-side after the match as players disperse.
+**Cast:** Nathan and Leonard Holloway.
+**Pre-state:** Leonard has watched Nathan lead the team through the season and knows he is moving; Nathan is embarrassed by praise. The final whistle and Calvin's comment in Scene 17 have already happened.
+**Boundary:** Leonard tells Nathan he has leadership qualities, then gives a practical tactical reminder: learn where a new side's holding midfielder drops and when the wide players expect the ball before changing their spacing. This advice is specific to Nathan's tendency to organize a familiar team; it is not a prediction of the California team's actual habits.
+**Carry forward:** Nathan remembers the principle when he assesses the California team on 19 September, but still must observe their actual shape and communication. He has not yet learned those routines.
 
 ### Scene 19 — Moving logistics
 **Date:** Saturday, 12 September 2009.
