@@ -73,7 +73,7 @@ The first meeting overlaps the start of Nathan's Tuesday football training at 16
 
 ### Thursday, 15 October — continued challenge
 
-She gives Nathan a harder follow-up because she has observed consistent reasoning across weeks. This is a normal teacher response to sustained work, not an award or a sudden leap in school reputation.
+**Time:** 08:10–08:25, during Nathan's eighth-grade mathematics period. This matches the episode outline and scene-state ledger. She gives Nathan a harder follow-up because she has observed consistent reasoning across weeks. This is a normal teacher response to sustained work, not an award or a sudden leap in school reputation.
 
 ## Knowledge boundary
 
