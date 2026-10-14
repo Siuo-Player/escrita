@@ -114,9 +114,11 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Carry forward:** A* still functions but remains too expensive at higher counts. Nathan has learned that quick caching/update tweaks trade performance against responsiveness; no flow field exists yet. The family has not announced the promotion to him during this scene.
 
 ### Scene 14 — Family: promotion confirmed
-**Date:** Friday, 11 September 2009.
-**Date/location:** 11 Sep, Callahan home. **Cast:** Nathan, Clifford, Heather.  
-**Pre-state:** parents knew the promotion was possible; Nathan noticed work pressure only. **Boundary:** this is Nathan's first clear confirmation; practical questions come before the emotional reaction. **Carry forward:** all three Callahans know the move is required. Nathan has not yet told the football team; that message is an action in Scene 16, after he has had time alone.
+**Date/time/location:** Friday 11 September 2009, 18:45–19:00, Callahan home.
+**Cast:** Nathan, Clifford and Heather.
+**Pre-state:** parents knew the promotion was possible; Nathan noticed work pressure only. At 16:00–18:00 Nathan ran the A* stress test and does not know the company decision is final.
+**Boundary:** Clifford receives the formal confirmation and tells Heather and Nathan that evening. The company has been considering the role and preparing relocation contingencies for weeks, but this is Nathan's first clear confirmation. Practical questions come before the emotional reaction.
+**Carry forward:** all three Callahans know the move is required. Nathan has not yet told the football team; that message happens in Scene 16 after he has had time alone.
 
 ### Scene 15 — Parents' explanation
 **Date:** Friday, 11 September 2009.
