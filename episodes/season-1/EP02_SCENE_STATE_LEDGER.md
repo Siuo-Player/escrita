@@ -169,14 +169,14 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** build works in an initial integrated scenario. Save the current build/version and open bug list; never return to an older behavior without a code change.
 
 ### Scene 19 — Emotional echo / conversation without an excuse
-**Date:** Thursday 8 October morning, before the day's other school interactions.  
+**Date/time:** Thursday 8 October, 07:40–07:50, school arrival/locker area, before the 08:00 first lesson.  
 **Cast:** Alex and Nathan.  
 **Pre-state:** the earlier academic-resource reason has passed; they have greeted, spoken about school and the game, and shared some comfortable silence.  
 **Boundary:** a short conversation about an ordinary non-school topic shows the friendship widening. Neither needs to confess feelings or be unusually articulate about them.  
 **Carry forward:** Nathan notices that talking to Alex is becoming enjoyable for its own sake. His interpretation remains private; Alex's internal state cannot be inferred from the fact she talked to him.
 
 ### Scene 20 — School / difficult question
-**Date/time:** Thursday 8 October, 10:10–10:25, Nathan's mathematics class.
+**Date/time:** Thursday 8 October, 08:10–08:25, Nathan's mathematics class.
 **Cast:** Nathan, Ms. Connie Harrington (internal ID CA-MATH-01), class aggregate.
 **Pre-state:** Ms. Harrington knows Nathan's earlier work and sees him regularly.
 **Boundary:** the harder question should be novel rather than a duplicate; Nathan reasons through it and may still make a small mistake. A nearby classmate's impressed look is only that student's visible reaction; Ms. Harrington moves the class on rather than turning it into public praise.
