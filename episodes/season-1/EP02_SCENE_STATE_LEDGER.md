@@ -212,7 +212,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** shelf location fixed; books begin to move from boxes to shelf. Any later move or damage must be tracked.
 
 ### Scene 25 — First complete playthrough
-**Date:** 9 October evening.  
+**Date/time:** Friday 9 October, evening; version **0.7.0 (build 14)**.  
 **Cast:** Nathan.  
 **Pre-state:** version **0.7.0 (build 14)** works end-to-end; the predictor is less psychic but still imperfect; the game has not been publicly released.  
 **Boundary:** a complete playthrough can succeed while exposing polish issues. Working issues found: (1) narrow-corridor guard crowding, (2) chase-to-search transition too abrupt, (3) a collision/steering edge case, (4) objective/exit feedback is unclear, (5) level restart feedback feels slow, (6) small performance spikes during path-field rebuild. These are separate from already fixed prediction decay unless testing reopens it for a documented reason.  
@@ -233,10 +233,10 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Carry forward:** Maxwell and Cory know Nathan is making a small game and are invited to try it; they do not know its architecture or any private memories. The arranged visit, time window and pickup plan are established, not assumed. The playtesters' observations apply to build 14 and must not be attributed to a later build unless repeated.
 
 ### Scene 28 — Game stress test / peer playability
-**Date/time:** Saturday 10 October, 16:00–17:00, Callahan rental.
+**Date/time:** Saturday 10 October, 16:00–17:00, Callahan rental; version **0.7.0 (build 14)** on Mac/simulator.
 **Cast:** Nathan, Maxwell Whitaker and Cory McBride. Heather is the responsible adult in the home if present; she does not need to supervise the gameplay minute-by-minute.
 **Pre-state:** version **0.7.0 (build 14)** passes the 20–24-enemy stress target on the Mac/simulator, but gameplay defects remain. Parents have agreed to the visit and transport.
-**Boundary:** Nathan first runs the technical stress scenario, then lets each peer try a short level without coaching. Maxwell repeatedly chooses a narrow corridor; when guards bunch up, he cannot turn cleanly around them and reports that movement feels stuck. Cory rushes to the visible exit before confirming the objective; when nothing happens, he cannot tell whether he missed a task or the game failed to register it. These are specific observations of corridor movement/collision and objective/exit feedback; neither tester diagnoses the implementation. Nathan asks them to repeat the situation once, records the build and reproduction steps, and does not argue away the feedback. This is a Mac/simulator playability test, not a real-device performance result.
+**Boundary:** Nathan first runs the technical stress scenario, then lets each peer try a short level without coaching. Maxwell repeatedly chooses a narrow corridor; when guards bunch up, he cannot turn cleanly around them and reports that movement feels stuck. Cory rushes to the visible exit before confirming the objective; when nothing happens, he cannot tell whether he missed a task or the game failed to register it. These are specific observations of corridor movement/collision and objective/exit feedback; neither tester diagnoses the implementation. Nathan asks them to repeat the situation once, records the build and reproduction steps, and does not argue away the feedback. This is a Mac/simulator playability test of build 14, not a real-device performance result; feedback must be retested on subsequent builds.
 **Carry forward:** two of the existing bug classes now have reproducible peer reports: (1) narrow-corridor crowding/steering response, and (2) unclear objective-completion/exit feedback. Nathan must fix each and retest it before submission. Maxwell and Cory know only what they played and said; the game's internals remain Nathan's knowledge.
 ### Scene 29 — Alex echo
 **Date:** 10 October evening, Nathan alone.  
