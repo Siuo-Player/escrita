@@ -312,8 +312,8 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Date/time:** Tuesday 13 October, 19:15–21:15, Callahan home.
 **Cast:** Nathan.
 **Pre-state:** test the second-generation iPod touch running **iPhone OS 3.1.2** (available for iPod touch from 8 October 2009); the parent-managed signing route exists, and simulator build 16 has passed its recorded stress case.
-**Boundary:** record device OS/build/scenario and actual results. The simulator optimization is not sufficient: a 20/24-guard stress case exposes another device-specific performance spike. Nathan reduces the remaining redundant work, reruns the same build/scenario, then tests the 1/5/10/15/20/24-guard set on the iPod touch. The recorded target cases pass. This closes BUG-06 only; it does not close unrelated collision/UI/playability issues.
-**Carry forward:** save **version 0.8.2 (build 17)**. BUG-06 is FIXED on the tested iPod touch/build after the repeat and full guard-count set pass. BUG-02/03 remain open until the 14 October regression; BUG-01/04/05 remain closed pending final playtest confirmation.
+**Boundary:** the initial device test is **version 0.8.1 (build 16)** and exposes a 20/24-guard performance spike. Nathan changes the code, compiles **version 0.8.2 (build 17)**, then reruns the original device reproducer and the 1/5/10/15/20/24-guard matrix on **build 17**. The build-16 run diagnoses the problem; only passing build-17 retests close BUG-06. Simulator results alone do not close the device-performance gate.
+**Carry forward:** save **version 0.8.2 (build 17)**. BUG-06 is FIXED only after the build-17 iPod touch reproducer and full guard-count matrix pass. BUG-02/03 remain open until the 14 October regression; BUG-01/04/05 remain closed pending final playtest confirmation.
 
 ### Scene 40 — School, before DeDe's visit
 **Date/time:** Wednesday 14 October, 12:20–12:35, school lunch break.
@@ -333,8 +333,8 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Date/time:** Wednesday 14 October, 21:00–23:00, Callahan home.
 **Cast:** Nathan.
 **Pre-state:** old-device performance test from 13 October has removed its measured bottleneck; remaining gameplay issues are tracked individually. Nathan has just completed a socially unexpected but brief neighborhood exchange.
-**Boundary:** close BUG-02 by adding a short, bounded lost-sight grace interval before a guard searches around the last observed position; prolonged loss of sight still ends the chase. Close BUG-03 by validating the next position against walkable-cell/collision constraints before movement is committed. Rerun the original tight-corner and corridor reproducers, brief and prolonged broken-line-of-sight cases, and the 1/5/10/15/20/24-guard regression set. The recorded cases pass on the current build.
-**Carry forward:** save **version 0.9.0 (build 18)**. BUG-02 and BUG-03 are FIXED after their explicit reproducers pass; BUG-01/04/05/06 remain fixed, subject to final regression. All six identified defects now have a closure route and no known reproducible blocker is being deferred to public release. The 15 October device session verifies that these fixes survived integration; it is not permission to ship a failing regression.
+**Boundary:** Nathan implements BUG-02's short, bounded lost-sight grace interval and last-observed-position search, and BUG-03's walkable-cell/collision validation before movement is committed. He compiles **version 0.9.0 (build 18)**, then reruns the original tight-corner/corridor reproducers, brief and prolonged broken-line-of-sight cases, and the 1/5/10/15/20/24-guard regression matrix on **build 18**. The recorded target cases pass on that build.
+**Carry forward:** save **version 0.9.0 (build 18)**. BUG-02 and BUG-03 are FIXED only after their explicit build-18 reproducers and regression cases pass; BUG-01/04/05/06 remain fixed, subject to final regression. All six identified defects now have a closure route and no known reproducible blocker is being deferred to public release. The 15 October device session verifies that these fixes survived integration; it is not permission to ship a failing regression.
 
 ### Scene 43 — Morning / Wesley's final test arrangement
 **Date/time:** Thursday 15 October, 08:05–08:20 before first lesson; parent confirmation by 15:40.
