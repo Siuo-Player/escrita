@@ -65,7 +65,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 
 ### Scene 6 — Mathematics
 **Date:** Wednesday, 9 September 2009.
-**Date/location:** 9 Sep, Seattle school. **Cast:** Nathan, SEA-MATH-01, class aggregate.  
+**Date/time/location:** 10:20–11:15, Wednesday 9 September, Seattle school. **Cast:** Nathan, SEA-MATH-01, class aggregate.  
 **Pre-state:** first formal school week; teacher has returning-student context but no private knowledge. **Boundary:** Nathan initially explains too abstractly, notices the mismatch and simplifies. Teacher asks one harder follow-up rather than calling him a genius. **Carry forward:** teacher has evidence of genuine reasoning and may later consider enrichment; Nathan worries he sounded arrogant.
 
 ### Scene 7 — Lunch/Calvin
