@@ -189,12 +189,12 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Boundary:** Alex notices that Nathan is awkward after the classroom attention and makes a small joke about the question or the class's reaction. She is not teasing him about a personality trait, diagnosing him, or commenting on recurring apologies. Nathan laughs naturally; the conversation moves on without requiring an elaborate internal analysis.
 **Carry forward:** one relatively uncomplicated exchange. This is situational familiarity, not evidence that Alex understands Nathan's insecurity or that he should assume romantic interest.
 
-### Scene 22 — Predictor's memory weighting
-**Date:** 8 October evening.  
-**Cast:** Nathan.  
-**Pre-state:** the predictor reacts to repeated paths but can overweight old behavior.  
-**Boundary:** recent choices should receive stronger weight than old ones; this is a small rule-based model, not a neural network and not a claim the game understands psychology.  
-**Carry forward:** the model's history has a defined decay/weight rule. If changed later, record the new rule and the test that motivated it.
+### Scene 22 — Predictor's memory weighting and store-material draft
+**Date/time:** Thursday 8 October, 19:45–21:15, Nathan's computer after training and dinner.
+**Cast:** Nathan.
+**Pre-state:** the predictor reacts to repeated paths but can overweight old behavior; the working title is Current.
+**Boundary:** recent choices receive stronger weight than old ones. Nathan reruns the 1 October scenario; stale history loses influence, but edge cases and gameplay defects remain open. In the final part of the work block he drafts a short proposed App Store description and makes simple original title/icon artwork from the game's geometric shapes. Final screenshots are deliberately postponed until the release candidate has passed testing; no screenshot may depict an untested build. This is metadata/art preparation only, not submission, distribution or public release.
+**Carry forward:** the model's history has a defined decay/weight rule and the original title/icon/listing draft exists. Any later algorithm change must have a test reason; final store screenshots must come from validated version 1.0 build 19. The metaphor of stale history is for the reader, not an in-world conclusion about Alex or any other person.
 
 ### Scene 23 — Maxwell invites Nathan to help
 **Date:** Friday 9 October, after school; no formal team practice assumed.  
