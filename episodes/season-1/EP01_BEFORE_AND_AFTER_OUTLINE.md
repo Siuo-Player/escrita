@@ -170,17 +170,13 @@ This is a short tactical conversation, not another training session. Nathan's le
 
 This establishes leadership without self-confidence.
 
-#### Scene 9 — game
-At home, Nathan adds more guards.
+#### Scene 9 — game / first profiling pass
+**Time:** 19:30–20:30, Wednesday 9 September, home computer.
+Nathan re-runs the same fifteen-guard scenario from Scene 5 with the profiler enabled; he does not simply increase the count again. He compares it with the small one- and five-guard baselines.
 
-The bottleneck becomes clearer.
+The profiler gives him the first evidence that repeated path-search work is a real cost, not just an impression from watching the screen. It does not yet provide a finished diagnosis or solution.
 
-He uses a profiler.
-
-Important visual/narrative point:
-the computer is doing work Nathan considers wasteful.
-
-Do not explain profiling extensively; show him staring at the same operation repeating.
+Important visual/narrative point: the computer is doing work Nathan considers wasteful. Do not explain profiling extensively; show him comparing the same operation repeating and recording what the tool actually reports.
 
 ---
 
