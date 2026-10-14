@@ -88,9 +88,11 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Carry forward:** independent repeated A* calls are a measured bottleneck to investigate; flow fields and prediction are still absent, and performance under larger guard counts remains inadequate.
 
 ### Scene 10 — Science/lab
-**Date:** Thursday, 10 September 2009.
-**Date/location:** 10 Sep, Seattle school. **Cast:** Nathan, SEA-SCI-01, class aggregate.  
-**Pre-state:** early lab routines. **Boundary:** Nathan proposes a cleaner experiment and justifies the method. Teacher reacts to evidence, not his entire personality. **Carry forward:** no science-club offer or lifelong mentorship is implied.
+**Date/time/location:** Thursday 10 September 2009, 09:00–09:55, Seattle science classroom.
+**Cast:** Nathan, SEA-SCI-01 and class aggregate.
+**Pre-state:** first formal week and ordinary introductory lab work; teacher knows Nathan only through returning-student context.
+**Boundary:** groups compare dissolving time of sugar in water at different temperatures. Nathan points out that sugar mass, water volume, stirring method and the criterion for “dissolved” must be consistent if temperature is the variable. SEA-SCI-01 asks him to justify the controls; he does so calmly and stays with the experiment. Class reaction is modest; no one treats him as a prodigy.
+**Carry forward:** teacher has evidence that Nathan thinks about fair tests. No science-club offer, special mentorship or knowledge of his game is implied.
 
 ### Scene 11 — Football practice/playing-time tension
 **Date:** Thursday, 10 September 2009.
