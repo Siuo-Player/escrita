@@ -2,7 +2,7 @@
 
 Status: WORKING SCENE-STATE RECORD — required before prose  
 Main story window: 1–15 October 2009; public-launch coda: 23 October 2009  
-Updated: 2026-10-13
+Updated: 2026-10-14
 
 ## Operating rule
 
