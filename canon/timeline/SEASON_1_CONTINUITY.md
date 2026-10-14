@@ -321,14 +321,14 @@ A* → flow-field redesign.
 
 | Period | Game milestone | Narrative integration |
 | --- | --- | --- |
-| **7–9 Sep** | The very early build is already runnable on screen; Nathan refines the grid, controls, enemy behavior and basic pathfinding while measuring limits. | Opens Episode 1 with Nathan's technical identity and old-school life. |
-| **10–13 Sep** | Conventional **A*** baseline; several enemies; first small playable map. | Nathan deliberately starts with the normal solution. |
+| **7–9 Sep** | A very early runnable build already contains the crude grid, controls, one enemy loop and A* baseline; Nathan checks the simplest one/five-enemy cases and begins measuring the cost of repeated searches. | Opens Episode 1 with Nathan's technical identity and old-school life. |
+| **10–13 Sep** | Nathan refines and stress-tests the existing A* baseline with more enemies and a small playable map; repeated independent searches and simple cache/update tweaks reveal scaling limits. | The normal solution is useful, measurable and imperfect. |
 | **14–15 Sep** | Move interrupts work; short transition to California. | Technical work continues only in fragments while family logistics dominate. |
-| **16–23 Sep** | Stress test reveals repeated pathfinding cost; Nathan reviews his flow-field material and adapts the shared field. | New school, first Alex interaction, birthday and Pilot happen alongside the technical pivot. |
+| **16–23 Sep** | Nathan applies flow-field material he already studied, builds a shared navigation field and iterates through integration/debugging; further testing refines rather than first discovers the repeated-search cost. | New school, Alex's first interaction and the Pilot run alongside the technical pivot. |
 | **24–30 Sep** | Flow field stabilizes; local steering and shared navigation are integrated; first prediction experiments. | Week-after-Pilot school and football material alternates with increasingly focused programming. |
 | **1–7 Oct** | Player prediction/influence field becomes reliable; goal selection and navigation connect cleanly. | Episode 2 opens with the project already technically mature. |
-| **8–12 Oct** | Profiling, caching, update-frequency reduction, device tests and balancing. | Nathan's perfectionism becomes the main technical pressure. |
-| **13–15 Oct** | Final self-testing, peer playability checks, fixes, packaging and App Store submission. | Core development finishes; public availability follows review, with 23 October as the working target. |
+| **8–12 Oct** | Simulator profiling, caching, update-frequency reduction and balancing. No physical-device test is established in this interval. | Nathan's perfectionism becomes the main technical pressure. |
+| **13–15 Oct** | First explicit iPod touch stress test, remaining defect fixes and regressions, final peer playability check, packaging and App Store submission. | Core development finishes; public availability follows review, with 23 October as the working target. |
 
 ### Why this faster duration works
 
