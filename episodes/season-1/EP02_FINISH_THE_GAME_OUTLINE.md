@@ -237,14 +237,13 @@ Ms. Harrington gives Nathan an unexpectedly difficult question based on the reas
 **Time:** 12:05–12:15, Thursday 8 October, shared lunch area.
 Alex notices only that Nathan is still a little awkward after the classroom attention. She makes a small, situational joke about the question or the way the class reacted, not about his personality or a recurring habit. Nathan laughs; they move on naturally. This is one of their first uncomplicated interactions, not a diagnosis of his insecurity.
 
-#### Scene 22 — game
-Prediction has too much historical memory.
+#### Scene 22 — game and first submission materials
+**Time:** Thursday 8 October, 19:45–21:15, Nathan's computer after training and dinner.
+Nathan retunes the prediction weighting so recent choices matter more than old ones. He reruns the 1 October scenario: stale history loses influence, but edge cases remain open.
 
-Nathan tunes the weighting:
-recent behavior matters more than old behavior.
+In the final part of the session, he also makes a start on the eventual public-release packet. He drafts a short store description for the working title **Current** and creates simple original title/icon artwork from the game's own geometric shapes. He records that the final screenshots cannot be taken yet: they must show the validated release build, not the still-changing version on his screen. Clifford can handle adult account/store administration later; this evening is preparation, not submission or a public launch.
 
-This foreshadows his later understanding of people:
-old scripts are not enough.
+The personal echo remains subtle: old scripts are not enough to predict what happens next. Do not claim Nathan consciously compares the algorithm to Alex or knows her feelings.
 
 ---
 
