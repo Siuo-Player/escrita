@@ -63,11 +63,13 @@ Until that scene is made explicit in both the outline and scene-state ledger, tr
 
 ### Tuesday, 6 October — first follow-up
 
-She gives Nathan the name and general purpose of the optional enrichment/competition group because her earlier recommendation remains relevant. Her suggestion is based on his observed mathematical work and his expressed interest; it does not imply that he has enrolled or that the group meets at a time compatible with football.
+At the end of Nathan's mathematics class (08:40–08:50 in the current school schedule), Connie gives Nathan the name and general purpose of the optional **Math Enrichment and Competition Group**, together with a basic handout. The co-sponsor has not yet confirmed the next meeting or form deadline, so Connie says she will pass on the practical details once confirmed. Her recommendation follows the September work she observed and does not imply enrollment.
 
 ### Tuesday, 13 October — practical next steps
 
-She gives concrete next steps when Nathan follows up. The exact meeting time, any registration requirement, and any parental/transport arrangement must be recorded in the school timeline before attendance is treated as established. Until those facts are settled, Nathan is interested but not yet a member.
+At 15:15–15:25 after the school day, Nathan follows up and Connie supplies the confirmed practical details: the first meeting is **Tuesday 27 October, 15:20–16:15**, in school library room 112; later meetings are planned for alternate Tuesdays. The expression-of-interest form, including parent/guardian signature, is due **Friday 23 October**. A regional competition is tentatively scheduled for **14 November**, but transport and participation requirements are not yet guaranteed.
+
+The first meeting overlaps the start of Nathan's Tuesday football training at 16:00. Connie does not tell him to miss football or assume he can attend only part of the meeting. Nathan says he intends to pursue the opportunity but must check with Coach Lance and his parents before committing. At Episode 2's end he is **interested but not enrolled**; a completed form, parent permission, coaching agreement and attendance are separate future state changes.
 
 ### Thursday, 15 October — continued challenge
 
