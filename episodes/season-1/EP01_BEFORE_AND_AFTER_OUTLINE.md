@@ -189,9 +189,12 @@ The class is comparing how quickly sugar dissolves in water at different tempera
 The teacher asks him to justify which variable each group is testing and how they will compare results. Nathan explains calmly, using the experiment in front of them rather than giving a lecture. The class reaction is modest: a couple of students follow the explanation or nod, but nobody treats him as a prodigy. Do not give an unnamed student a memorable line or a recurring role.
 
 #### Scene 11 — football / playing-time tension
-At the regular Thursday practice, **Devon Carver**, a central-midfield substitute, asks for more playing time after feeling overlooked. Coach **Leonard Holloway** still makes selection decisions; Nathan does not promise Devon minutes.
+**Time:** 15:10–16:30, Thursday 10 September, scheduled team practice.
+At the previous Saturday's fixture, Devon Carver came on late and felt he had too little time to show what he could do. He asks for a clear path toward more meaningful minutes; he is not asking Nathan to overrule the coach.
 
-Nathan mediates practically, identifies one specific improvement Devon can work on, and avoids giving him a motivational speech. Leonard notices how the captain handles the disagreement. Devon's profile already explains why he values concrete feedback and wants the coach to trust him in more than one role.
+The team first tests the spacing suggestion Nathan and Calvin discussed on Wednesday. Calvin and Nathan adjust the distance between holding and attacking midfield during a positional drill; it helps once, but the players still have to communicate and execute it. Coach Leonard Holloway decides whether to keep testing it and makes no permanent tactical or selection change on the strength of one drill.
+
+During the next rotation, Nathan asks Devon if he wants a concrete pointer rather than a promise. He suggests Devon scan over his shoulder before receiving and take his first touch away from pressure, then play the simple pass if no forward lane is open. Devon tries it in the drill and improves on one repetition but still misses a cue later. Leonard sees Nathan give useful, specific feedback without deciding selection for him. No promise of minutes and no immediate selection change occurs.
 
 #### Scene 12 — evening / Clifford's news approaches
 Clifford's work day becomes more urgent.
