@@ -391,7 +391,7 @@ Nathan asks Wesley whether he would be willing to try the final game build that 
 Ms. Harrington offers a harder follow-up instead of giving praise alone. Nathan responds well to having something specific to solve. Any later club opportunity still depends on the actual follow-up and signup, not this moment alone.
 
 #### Scene 45 — Alex initiates, the day after the dinner
-**Time:** Thursday 15 October, 12:20–12:30, school lunch break.
+**Time:** Thursday 15 October, 12:10–12:20, school lunch break.
 Alex starts a non-academic conversation. She is a little more preoccupied than usual after the previous evening's family dinner, but chooses an ordinary topic and does not owe Nathan an explanation. If she mentions the dinner, she shares only what she wants; otherwise Nathan cannot know its details. He stays rather than looking for an exit. Their comfort grows without a confession or label.
 
 #### Scene 46 — football and Maxwell's weekend invitation
