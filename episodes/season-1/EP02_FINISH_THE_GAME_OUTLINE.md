@@ -273,13 +273,8 @@ Heather arranges a narrow second-hand bookshelf for Nathan's study area. It is a
 No exposition is needed. The shelf gives the household a practical sign of settling in.
 
 #### Scene 25 — game
-First complete playthrough.
-
-The game works.
-
-Nathan wins the test.
-
-Then finds six things he dislikes.
+**Time:** Friday 9 October, 19:30–21:00, Nathan's computer; **version 0.7.0 (build 14)**.
+Nathan completes a full playthrough and reaches the win state. This proves the integrated slice can be finished, not that it is ready for release. He records six distinct defects: guards crowd in narrow corridors; chase-to-search transition is too abrupt; collision and steering disagree at a tight corner; objective/exit feedback is unclear; restarting feels slow; and rebuilding the shared path field causes small performance spikes. He does not fix them all tonight; each becomes a separate item in the defect register.
 
 ---
 
@@ -297,8 +292,8 @@ Maxwell invites Nathan to get a snack and asks what Nathan has been doing on the
 Maxwell asks if Cory McBride can join. Nathan agrees, but the plan is conditional on all parents confirming transport and timing. By early afternoon, Heather has agreed to host for one hour; Maxwell's parent confirms the ride and Cory's parent separately confirms that he may join. The plan is a **16:00–17:00** visit to the Callahan rental, with adult drop-off/pick-up arranged. If that confirmation is not shown in prose, the visit must not be treated as automatic.
 
 #### Scene 28 — game / peer playability
-**Time:** 16:00–17:00, Callahan rental; Mac/simulator build only.
-Nathan first runs the 20–24-enemy stress scenario; the recorded performance target is acceptable, but gameplay defects still need attention. He then lets Maxwell and Cory play a short level without coaching them.
+**Time:** Saturday 10 October, 16:00–17:00, Callahan rental; **version 0.7.0 (build 14), Mac/simulator only**.
+Nathan first runs the 20–24-enemy stress scenario; the recorded performance target is acceptable, but gameplay defects remain. He then lets Maxwell and Cory play a short level without coaching them.
 
 - Maxwell moves quickly and tests the same narrow route more than once. When several guards bunch in a tight corridor, his character appears unable to turn cleanly around them. He says, in his own practical way, that the controls feel as though they have stuck. This reports a movement/collision experience, not a diagnosis of the algorithm.
 - Cory rushes toward the obvious exit before confirming the objective. When the exit does not respond, he looks back at the room and says he cannot tell what he is supposed to have done first. This exposes unclear objective/exit feedback, not an AI flaw.
