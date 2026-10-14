@@ -266,9 +266,10 @@ After the final whistle, **Calvin Baxter**, who shares the midfield workload wit
 This shows self-undervaluation outside romance.
 
 #### Scene 18 — coach
+**Time:** 10:30–10:42, Saturday 12 September, field-side as the squad disperses.
 Coach Leonard Holloway tells Nathan that he has leadership qualities. Nathan is embarrassed.
 
-Leonard gives him one practical piece of advice for joining another team: learn the new side's shape and habits before trying to change them. This is specific coaching advice, not a grand farewell speech. Later, Nathan remembers it when he first assesses the California team's routines.
+Leonard gives him one practical piece of advice: "When you join a new side, learn where their holding midfielder drops and when their wide players expect the ball before you start changing the distances." It comes from Nathan's habit of giving useful instructions to a familiar team. This is a brief, specific coaching note, not a grand farewell speech. Nathan remembers it when he first assesses the California team's routines on 19 September.
 
 #### Scene 19 — moving logistics
 Boxes begin appearing.
