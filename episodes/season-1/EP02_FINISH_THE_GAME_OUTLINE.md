@@ -339,7 +339,7 @@ After dinner and completing the assignment, Nathan works on **BUG-06**, the meas
 ### 13 October
 
 #### Scene 36 — Alex / Nathan initiates
-**Time:** 12:20–12:30, Tuesday 13 October, school lunch break.
+**Time:** 12:10–12:20, Tuesday 13 October, school lunch break.
 Nathan starts a short conversation with a small joke. Alex laughs naturally; Nathan briefly wonders whether she is only being polite, but that is his interpretation, not the narration's verdict. This is an incremental social step, not a sign that Alex has confessed or that he now reads her feelings accurately.
 
 #### Scene 37 — school / academic opportunity logistics
