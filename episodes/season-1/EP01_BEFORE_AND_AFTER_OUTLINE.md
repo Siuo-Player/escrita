@@ -353,46 +353,33 @@ No huge farewell scene. The old life is ending through logistics rather than one
 
 ### 14 September
 
-#### Scene 23 — departure
-Compressed travel sequence. The family leaves Seattle and reaches the California rental on **14 September**; the travel and arrival are compressed into this one date, not spread over an implied overnight arrival.
+#### Scene 23 — travel from Seattle to the rental
+**Time:** 05:30–11:30, Monday 14 September.
+The family leaves home early, checks in at Seattle–Tacoma airport around 06:15, takes a morning flight to Los Angeles (working timeline: 07:30 departure, around 10:15 arrival), collects the temporary vehicle provided through Clifford's relocation package, and reaches the rental around 11:30. Keep the flight and ground transfers brisk but not instantaneous.
 
-Use sensory details:
-- airport;
-- luggage;
-- Nathan's computer case and its peripherals;
-- Clifford's work bag and work laptop for the first remote transition call after arrival;
-- tired parents;
-- Nathan reading rather than watching something.
+The movers packed and inventoried the household goods on Saturday 12 September; their truck travelled south on Sunday 13 September and is expected at the rental in the early afternoon. The family's personal luggage is separate from the moving shipment. Nathan carries his Intel MacBook, charger, compact peripherals, essential notes and second-generation iPod touch with him; Clifford carries his company laptop, credentials and handoff notes. The MacBook already has the current project and development tools. The main monitor, books, furniture, kitchen boxes and most other belongings are in the moving truck. The family car is being transported separately and is not available yet.
 
 #### Scene 24 — Clifford's California role begins
-Use a short remote work-transition beat after the family's arrival, such as Clifford joining a scheduled handoff call from the rental once the laptop and connection are available. Do not show him simultaneously travelling with the family and physically working in a California office.
+**Time:** 11:45–12:30, temporary rental.
+Once the family has entered the furnished house, Clifford uses the already-active internet connection and his company laptop for a short scheduled remote handoff call. The call confirms the transition plan, immediate priorities and the next day's contacts; it is not a full office day and he is not simultaneously working in a California office. Heather and Nathan handle the rental keys, relocation paperwork and immediate practical questions nearby.
 
-The role is real and already demanding, but this first beat is a transition/check-in rather than a full office day. It makes the promotion consequential without breaking the travel chronology.
+The rental was chosen by the relocation coordinator for availability, commute and school-boundary reasons, not because anyone knew the Dunphys. The next-door location is coincidence.
 
-#### Scene 25 — temporary rental
-The family enters the California rental.
+#### Scene 25 — temporary rental / moving crew arrives
+**Time:** 13:00–14:15, rental house.
+The moving crew starts unloading the household shipment. Boxes fill the rooms, the kitchen is only partly usable, and the family can find essentials but is far from settled. Nathan puts his carried MacBook on a stable table and checks that the existing project opens; he does not need to wait for the bulky monitor or the moving truck to resume limited coding. No substantial new feature is built on moving day—the relocation has interrupted his normal work block.
 
-Important:
-- it is a real house;
-- it is empty enough to personalize;
-- it is clearly not yet "home";
-- some furniture may be temporary;
-- boxes dominate the rooms.
-
-Nathan sets up the minimum computer environment.
+Heather checks the inventory and keeps the documents needed for the next day's school enrollment together. Utilities and internet were active before arrival, but the family car, bulk books and peripherals are still in transit/boxes.
 
 #### Scene 26 — neighborhood introduction
-During the move-day unloading, Phil introduces himself to the new neighbors and offers to carry one light box. Claire joins the introduction; Luke is nearby and asks Nathan about the football he brought outside. Keep the exchange short, friendly, and ordinary.
+**Time:** 14:20–14:35, driveway during unloading.
+Phil introduces himself to the new neighbors and offers to carry one light box. Claire joins the introduction; Luke is nearby and asks Nathan about the football he has brought outside. Keep the exchange short, friendly and ordinary. The moving crew continues its work in the background, giving the encounter a practical reason to happen.
 
-By the end, Phil and Claire know the Callahans' names and that they have moved next door. Luke knows Nathan as the new neighbor and has seen his football gear. Alex and Haley need not be present, and none of the three discovers anything about Nathan's private memories or feelings. This gives three family members a plausible first connection before the Pilot without forcing Nathan into a canon family scene.
+By the end, Phil and Claire know the Callahans' names and that they have moved next door. Luke knows Nathan as the new neighbor and has seen his football gear. Alex and Haley need not be present, and none of the three discovers anything about Nathan's private memories or feelings. The relocation company did not arrange the introduction; the neighbors simply notice the unloading.
 
 #### Scene 27 — first night in California
-Nathan looks at the map / school route.
-
-He also looks at his unfinished game.
-
-The two problems are suddenly connected:
-he is going to have to rebuild a life and finish a project simultaneously.
+**Time:** 19:00–20:00, rental.
+After the main unloading activity has ended and a simple dinner is possible, Nathan checks the provisional school route and the instructions Heather has received. He also opens the unfinished game on the MacBook and reviews the current build without pretending that moving day offered a full programming session. The two problems are suddenly connected: he must rebuild a life and finish a project at the same time.
 
 ### 15 September — settling-in day (mostly off-page)
 The family recovers from travel, unpacks the essentials, confirms the route and arrangements for Nathan's new school, and makes the rental functional. No new major event is required. The move-day neighbor introduction remains on 14 September.
