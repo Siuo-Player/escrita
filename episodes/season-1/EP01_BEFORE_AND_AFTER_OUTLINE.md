@@ -283,17 +283,13 @@ Heather labels an **essentials box** containing first-night kitchen items, basic
 
 ### 13 September — last quiet Sunday
 
-#### Scene 20 — family planning
-Breakfast/table scene.
+#### Scene 20 — final travel check
+**Time:** 09:00–09:45, Sunday 13 September, Callahan kitchen/table.
+The main shipment has been inventoried and loaded; the truck is on its southbound logistics schedule. The family does not re-decide which computer equipment or books are shipped—that was settled with the movers on Saturday.
 
-Clifford and Heather discuss timing.
+Instead, they check the personal luggage and Monday itinerary: travel documents, school/relocation folder, chargers, Nathan's notebook and one book for the flight. Nathan confirms that his football kit stays in a separate tagged personal bag rather than in the bulk shipment, so it remains available after arrival. Clifford and Heather confirm the prebooked airport car for 05:30 Monday; their own family car is being transported separately, and the relocation vehicle will be collected in Los Angeles.
 
-Nathan gets a small amount of choice:
-- what he wants in his room;
-- which equipment travels with him;
-- what should be shipped.
-
-This reinforces that the parents respect his independence.
+Nathan gets a small say in the personal items and room essentials he wants first, while the adult transport and housing arrangements remain his parents' responsibility.
 
 #### Scene 21 — technical reading
 Nathan revisits material on pathfinding and field-based navigation.
