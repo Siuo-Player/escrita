@@ -214,9 +214,9 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 ### Scene 25 — First complete playthrough
 **Date:** 9 October evening.  
 **Cast:** Nathan.  
-**Pre-state:** integrated system works end-to-end; predictor is less psychic but still imperfect; game has not been publicly released.  
+**Pre-state:** version **0.7.0 (build 14)** works end-to-end; the predictor is less psychic but still imperfect; the game has not been publicly released.  
 **Boundary:** a complete playthrough can succeed while exposing polish issues. Working issues found: (1) narrow-corridor guard crowding, (2) chase-to-search transition too abrupt, (3) a collision/steering edge case, (4) objective/exit feedback is unclear, (5) level restart feedback feels slow, (6) small performance spikes during path-field rebuild. These are separate from already fixed prediction decay unless testing reopens it for a documented reason.  
-**Carry forward — defect register opened:** all six items are OPEN after the 9 October playthrough: BUG-01 corridor crowding/steering; BUG-02 abrupt chase-to-search transition; BUG-03 tight-corner collision/steering edge case; BUG-04 unclear objective/exit feedback; BUG-05 slow/incomplete restart state; BUG-06 path-field rebuild performance spikes. The 10 October playtest later reproduces BUG-01 and BUG-04 with named users. No defect is considered fixed merely because a complete playthrough succeeded.
+**Carry forward — defect register opened on version 0.7.0 (build 14):** all six items are OPEN after the 9 October playthrough: BUG-01 corridor crowding/steering; BUG-02 abrupt chase-to-search transition; BUG-03 tight-corner collision/steering edge case; BUG-04 unclear objective/exit feedback; BUG-05 slow/incomplete restart state; BUG-06 path-field rebuild performance spikes. The 10 October playtest later reproduces BUG-01 and BUG-04 with named users. No defect is considered fixed merely because a complete playthrough succeeded.
 
 ### Scene 26 — Saturday football event
 **Date:** Saturday 10 October, field.  
@@ -230,12 +230,12 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Cast:** Nathan and Maxwell Whitaker; Cory McBride joins the plan only after Maxwell asks and Nathan agrees.
 **Pre-state:** Maxwell has shown growing but still limited trust in Nathan through training and the scrimmage. The boys do not yet know the game's technical design.
 **Boundary:** Maxwell invites Nathan to get a snack and asks what he works on at home. Nathan briefly says he is building a small game and offers a short test, without presenting himself as an expert. He hesitates before accepting the social plan. Maxwell asks to include Cory; Nathan agrees conditional on adult permission. By early afternoon, Heather agrees to host for one hour, Maxwell's parent confirms drop-off/pick-up, and Cory's parent separately agrees he may attend. The visit is fixed for 16:00–17:00; if the permission/transport check is omitted in prose, the visit is not established.
-**Carry forward:** Maxwell and Cory know Nathan is making a small game and are invited to try it; they do not know its architecture or any private memories. The arranged visit, time window and pickup plan are established, not assumed.
+**Carry forward:** Maxwell and Cory know Nathan is making a small game and are invited to try it; they do not know its architecture or any private memories. The arranged visit, time window and pickup plan are established, not assumed. The playtesters' observations apply to build 14 and must not be attributed to a later build unless repeated.
 
 ### Scene 28 — Game stress test / peer playability
 **Date/time:** Saturday 10 October, 16:00–17:00, Callahan rental.
 **Cast:** Nathan, Maxwell Whitaker and Cory McBride. Heather is the responsible adult in the home if present; she does not need to supervise the gameplay minute-by-minute.
-**Pre-state:** the 20–24-enemy technical stress run passes the documented performance target on the Mac/simulator, but gameplay defects remain. Parents have agreed to the visit and transport.
+**Pre-state:** version **0.7.0 (build 14)** passes the 20–24-enemy stress target on the Mac/simulator, but gameplay defects remain. Parents have agreed to the visit and transport.
 **Boundary:** Nathan first runs the technical stress scenario, then lets each peer try a short level without coaching. Maxwell repeatedly chooses a narrow corridor; when guards bunch up, he cannot turn cleanly around them and reports that movement feels stuck. Cory rushes to the visible exit before confirming the objective; when nothing happens, he cannot tell whether he missed a task or the game failed to register it. These are specific observations of corridor movement/collision and objective/exit feedback; neither tester diagnoses the implementation. Nathan asks them to repeat the situation once, records the build and reproduction steps, and does not argue away the feedback. This is a Mac/simulator playability test, not a real-device performance result.
 **Carry forward:** two of the existing bug classes now have reproducible peer reports: (1) narrow-corridor crowding/steering response, and (2) unclear objective-completion/exit feedback. Nathan must fix each and retest it before submission. Maxwell and Cory know only what they played and said; the game's internals remain Nathan's knowledge.
 ### Scene 29 — Alex echo
@@ -257,7 +257,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Cast:** Nathan.
 **Pre-state:** BUG-01 to BUG-06 remain open after the first complete playthrough and the two peer reports from Maxwell and Cory.
 **Boundary:** during this open-day three-hour programming block, Nathan fixes BUG-01 by making guards yield/space themselves at narrow bottlenecks, BUG-04 by clearly distinguishing an incomplete objective/locked exit from a completed objective/open exit, and BUG-05 by resetting transient state while retaining loaded static map/assets and responding immediately to restart. He reruns each original reproducer and ten repeated restarts; mark these three fixed only after the relevant checks pass. BUG-02, BUG-03 and BUG-06 remain open.
-**Carry forward:** BUG-01/04/05 are FIXED on the current simulator build, with reproduction and regression results recorded; BUG-02/03/06 remain OPEN. Nathan plans the school assignment and remaining technical tasks and stops at a reasonable hour. This three-hour block is within his available Sunday time and does not imply an all-night session.
+**Carry forward:** BUG-01/04/05 are FIXED on **version 0.8.0 (build 15)** after their reproduction and regression results are recorded; BUG-02/03/06 remain OPEN. Nathan plans the school assignment and remaining technical tasks and stops at a reasonable hour. This three-hour block is within his available Sunday time and does not imply an all-night session.
 
 ### Scene 32 — Alex notices a little fatigue
 **Date/time:** Monday, 12 October, 12:20–12:30, school lunch break.
@@ -285,7 +285,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Cast:** Nathan.
 **Pre-state:** school assignment completed; BUG-01/04/05 have passed their Sunday reproducers; BUG-02/03/06 remain open.
 **Boundary:** Nathan works on BUG-06 by caching shared fields against the map version/target cell and coalescing redundant rebuild requests. The recorded simulator scenario shows less repeated work, but the iPod stress test has not yet passed. This is a partial optimization, not closure of the device-performance gate.
-**Carry forward:** BUG-06 is IMPROVED ON SIMULATOR but remains OPEN pending the 13 October device test. BUG-02/03 remain OPEN; BUG-01/04/05 remain fixed unless a later regression reproduces them.
+**Carry forward:** save **version 0.8.1 (build 16)**. BUG-06 is IMPROVED ON SIMULATOR but remains OPEN pending the 13 October device test. BUG-02/03 remain OPEN; BUG-01/04/05 remain fixed unless a later regression reproduces them.
 
 ### Scene 36 — School / academic opportunity logistics
 **Date/time:** Tuesday 13 October, 15:15–15:25, outside Ms. Harrington's classroom after the school day.
@@ -311,9 +311,9 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 ### Scene 39 — Old-device technical test
 **Date/time:** Tuesday 13 October, 19:15–21:15, Callahan home.
 **Cast:** Nathan.
-**Pre-state:** the second-generation iPod touch and parent-managed signing route exist; the candidate has already passed the documented Mac/simulator stress case.
+**Pre-state:** test the second-generation iPod touch running **iPhone OS 3.1.2** (available for iPod touch from 8 October 2009); the parent-managed signing route exists, and simulator build 16 has passed its recorded stress case.
 **Boundary:** record device OS/build/scenario and actual results. The simulator optimization is not sufficient: a 20/24-guard stress case exposes another device-specific performance spike. Nathan reduces the remaining redundant work, reruns the same build/scenario, then tests the 1/5/10/15/20/24-guard set on the iPod touch. The recorded target cases pass. This closes BUG-06 only; it does not close unrelated collision/UI/playability issues.
-**Carry forward:** BUG-06 is FIXED on the tested device/build after the repeat and full guard-count set pass. BUG-02/03 remain open until the 14 October regression; BUG-01/04/05 remain closed pending final playtest confirmation.
+**Carry forward:** save **version 0.8.2 (build 17)**. BUG-06 is FIXED on the tested iPod touch/build after the repeat and full guard-count set pass. BUG-02/03 remain open until the 14 October regression; BUG-01/04/05 remain closed pending final playtest confirmation.
 
 ### Scene 40 — School, before DeDe's visit
 **Date/time:** Wednesday 14 October, 12:20–12:35, school lunch break.
@@ -334,7 +334,7 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 **Cast:** Nathan.
 **Pre-state:** old-device performance test from 13 October has removed its measured bottleneck; remaining gameplay issues are tracked individually. Nathan has just completed a socially unexpected but brief neighborhood exchange.
 **Boundary:** close BUG-02 by adding a short, bounded lost-sight grace interval before a guard searches around the last observed position; prolonged loss of sight still ends the chase. Close BUG-03 by validating the next position against walkable-cell/collision constraints before movement is committed. Rerun the original tight-corner and corridor reproducers, brief and prolonged broken-line-of-sight cases, and the 1/5/10/15/20/24-guard regression set. The recorded cases pass on the current build.
-**Carry forward:** BUG-02 and BUG-03 are FIXED after their explicit reproducers pass; BUG-01/04/05/06 remain fixed, subject to final regression. All six identified defects now have a closure route and no known reproducible blocker is being deferred to public release. The 15 October device session verifies that these fixes survived integration; it is not permission to ship a failing regression.
+**Carry forward:** save **version 0.9.0 (build 18)**. BUG-02 and BUG-03 are FIXED after their explicit reproducers pass; BUG-01/04/05/06 remain fixed, subject to final regression. All six identified defects now have a closure route and no known reproducible blocker is being deferred to public release. The 15 October device session verifies that these fixes survived integration; it is not permission to ship a failing regression.
 
 ### Scene 43 — Morning / ordinary school
 **Date/time:** Thursday 15 October, 08:05–08:20, before first lesson.
@@ -367,9 +367,9 @@ Use CA-MATH-01 for the recurring new-school mathematics teacher. This teacher re
 ### Scene 47 — Package, final private playtest and submission
 **Date/time:** Thursday 15 October, 18:30–20:00, Callahan home; final regression/admin 20:00–21:30.
 **Cast:** Nathan and Wesley Moss; Clifford for the adult signing/submission route.
-**Pre-state:** technical issues have individual statuses; candidate build identifier, OS and target scenarios are recorded.
+**Pre-state:** version **0.9.0 (build 18)** has BUG-01 through BUG-06 closed with recorded regression evidence. The final candidate is built as **version 1.0 (build 19)** from that validated code; device OS/build/scenario records are ready.
 **Boundary:** Wesley tries a short level without coaching. He can navigate the previously troublesome corridor, understand from the objective/exit state when the route is available, and restart without the former delay. Nathan records the device/build and runs the final test matrix, including corridor, collision, brief/prolonged line-of-sight loss, objective/exit state, ten restarts, and the 1/5/10/15/20/24-guard cases. He fixes and reruns any reproducible release-blocking issue. Submission can proceed only once all six defect records have passing evidence; no known critical or reproducible defect is deferred as mere polish. Clifford submits the validated candidate for App Store review by about 21:30. Submission is not publication.
-**Carry forward:** BUG-01 to BUG-06 are CLOSED for the submitted build, with build identifier, device/OS, reproducers and results recorded. Any later regression reopens the affected issue; non-blocking future features may remain. Public availability is pending review.
+**Carry forward:** version **1.0 (build 19)** is submitted. BUG-01 to BUG-06 are CLOSED for this exact build, with device OS (iPhone OS 3.1.2), scenarios, reproducers and results recorded. If the final playtest had required a code fix, it would need a new build and another affected regression pass before submission. Any later regression reopens the affected issue; non-blocking future features may remain. Public availability is pending review.
 
 ### Scene 48 — Final emotional beat
 **Date/time:** Thursday 15 October, 21:45–22:00, Nathan's room.
