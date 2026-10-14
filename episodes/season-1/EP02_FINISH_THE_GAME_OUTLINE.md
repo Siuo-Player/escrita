@@ -248,6 +248,7 @@ The personal echo remains subtle: old scripts are not enough to predict what hap
 ### 9 October
 
 #### Scene 23 — football invitation (Friday 9 October)
+**Time:** Friday 9 October, 15:20–15:30, outside the middle-school exit after classes.
 No formal team practice is assumed on Friday. Maxwell asks Nathan after school to look over one tactical situation or help him prepare for the next session/match. It is the first direct invitation to spend time together outside the normal team setting.
 
 Nathan hesitates briefly, then says yes. Record the exact time and place they agree on; this is a small but meaningful social step, not an instant best-friend declaration.
