@@ -163,11 +163,10 @@ Calvin Baxter, Nathan's regular midfield partner and a returning classmate at th
 Nathan responds easily and makes one small joke. The reader sees that he is **not socially awkward in conversation**; his problem is initiating contact, especially with someone he does not already know. Calvin's pre-existing trust comes from their football partnership, not from an instant new friendship.
 
 #### Scene 8 — football / captaincy outside practice
-A short conversation at school or in the team chat about the previous session. **Calvin Baxter** asks whether the midfield should adjust its spacing next time; Nathan suggests one concrete change to the distance between the holding and attacking midfielders. The others accept it without drama. This is a follow-up to the 8 September practice, not another training session.
+**Time:** 14:50–15:00, Wednesday 9 September, school exit/pickup area.
+After the last class, Calvin asks Nathan about the midfield spacing from Tuesday's practice. Nathan suggests one concrete change to the distance between the holding and attacking midfielders. Calvin agrees that it may help the shape, but no one else has heard the exchange and the whole team has not adopted the adjustment yet. They can try it at Thursday's scheduled practice.
 
-This is not another training session; Wednesday is a school/programming day in the recurring rhythm. The point is that Nathan's leadership is already visible outside the pitch.
-
-Calvin says the adjustment should help the midfield keep its shape. Nathan credits the team's execution rather than taking the praise for himself.
+This is a short tactical conversation, not another training session. Nathan's leadership is visible outside the pitch, but a suggestion is not the same as a team decision. Calvin knows the proposed adjustment; other teammates and Coach Holloway learn it only if Nathan or Calvin tells them or it is tested at practice. Nathan credits the team's execution rather than taking the praise for himself.
 
 This establishes leadership without self-confidence.
 
