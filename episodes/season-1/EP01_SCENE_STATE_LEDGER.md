@@ -209,7 +209,7 @@ These internal IDs prevent an outline from silently replacing the same teacher w
 **Date/time:** Monday 14 September 2009, 19:00–20:00, rental.
 **Cast:** Nathan.
 **Pre-state:** the main unloading has progressed; the MacBook is accessible, while books, larger peripherals and many household items remain boxed. School enrollment paperwork is provisionally arranged for 15 September.
-**Boundary:** Nathan checks the provisional school route and the first-day information Heather has received, then opens his unfinished game on the MacBook to review the current build. He does not treat moving day as a full coding session or claim to know the school layout before attending.
+**Boundary:** Nathan checks the target school's provisional address and the time Heather has arranged for their records/enrollment visit the next morning. The final timetable and first-day instructions will be confirmed on 15 September; he has not seen the campus. He then opens the unfinished game on the MacBook to review the current build, without treating moving day as a full coding session.
 **Carry forward:** the move feels real; Nathan has to rebuild his routine while keeping the existing project alive.
 
 ### Scene 28 — First school arrival
