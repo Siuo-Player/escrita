@@ -107,18 +107,25 @@ class TestStoryChronology(unittest.TestCase):
                 prev_end = ep["end_date"]
 
     def test_internal_scenes_monotonic_order(self):
-        """Verifica se as cenas com datas dentro de cada outline de episódio avançam cronologicamente."""
+        """Verifica a ordem dos inícios e fins das janelas de todas as cenas datadas."""
         for ep in self.parsed_episodes:
-            dates = ep["dates_in_file"]
-            if len(dates) < 2:
+            ranges = ep.get("date_ranges_in_file", [])
+            if len(ranges) < 2:
                 continue
-            prev_dt, prev_raw = dates[0]
-            for current_dt, current_raw in dates[1:]:
+
+            prev_start, prev_end, prev_raw = ranges[0]
+            for current_start, current_end, current_raw in ranges[1:]:
                 self.assertGreaterEqual(
-                    current_dt, prev_dt, 
-                    f"Regressão temporal encontrada em {ep['file']}: '{current_raw}' surge depois de '{prev_raw}'"
+                    current_start,
+                    prev_start,
+                    f"Regressão no início da cena em {ep['file']}: '{current_raw}' surge depois de '{prev_raw}'.",
                 )
-                prev_dt, prev_raw = current_dt, current_raw
+                self.assertGreaterEqual(
+                    current_end,
+                    prev_end,
+                    f"Regressão no fim da janela da cena em {ep['file']}: '{current_raw}' termina antes de '{prev_raw}'.",
+                )
+                prev_start, prev_end, prev_raw = current_start, current_end, current_raw
 
 if __name__ == '__main__':
     unittest.main()
