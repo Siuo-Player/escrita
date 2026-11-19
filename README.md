@@ -23,6 +23,10 @@ An episodic literary fiction novel set in the *Modern Family* parallel world: th
 
 The Dunphy, Pritchett and Tucker families are real people in the story world, not fictional characters being filmed. Nathan remembers the television series from his previous life. Episode titles are memory/reference labels only; they do not imply that the events are being broadcast in this world. The original timeline is a starting reference and may diverge cumulatively because Nathan exists and acts in it. Consult `canon/narrative/WORLD_DIFFERENCE_REGISTRY.md` before changing any assumption about the world. An unrecorded difference must not be invented; the sourced real-world 2009 baseline remains in force by default.
 
+### Parallel-world canon
+
+The Dunphy, Pritchett and Tucker families are real people in the story world, not fictional characters being filmed. Nathan remembers the television series from his previous life. Episode titles are memory/reference labels only; they do not imply that the events are being broadcast in this world. The original timeline is a starting reference and may diverge cumulatively because Nathan exists and acts in it. Consult `canon/narrative/WORLD_DIFFERENCE_REGISTRY.md` before changing any assumption about the world. An unrecorded difference must not be invented; the sourced real-world 2009 baseline remains in force by default.
+
 ---
 
 ## 2. Repository Structure
@@ -36,6 +40,7 @@ escrita/
 │   ├── characters/                # Character dossiers (Nathan, Alex, Callahans, Maxwell, etc.)
 │   ├── narrative/
 │   │   ├── EVENT_REGISTRY.md      # Master authoritative event ledger (EVT-xxx)
+│   │   ├── WORLD_DIFFERENCE_REGISTRY.md # Authoritative real-world vs parallel-world differences
 │   │   ├── WORLD_DIFFERENCE_REGISTRY.md # Authoritative real-world vs parallel-world differences
 │   │   ├── SERIES_GLOBAL_ARCHITECTURE.md # Multi-season roadmaps (t=0.0 to t=1.0)
 │   │   ├── SEASON_1_ARC_PLAN.md   # Season 1 episode-by-episode master plan (EP01 to EP12)
@@ -69,6 +74,7 @@ escrita/
     ├── test_parallel_plots.py     # Checks declared thread counts and persistence indicators
     ├── test_prop_clue_date_ordering.py # Validates dated genesis/payoff ordering
     ├── test_world_difference_registry.py # Validates AU differences, cross-references and draft wording
+    ├── test_world_difference_registry.py # Validates AU differences, cross-references and draft wording
     └── test_prose_drafts.py       # Checks draft structure, dialogue markers and banned phrases
 ```
 
@@ -90,6 +96,7 @@ The suite currently provides **regression guardrails**, not automated literary j
 4. **Character introductions:** Derives first-contact episodes from registry participants, excluding events marked `parallel`. Premature-contact detection uses text patterns; relationship continuity currently checks name presence, not the quality of interactions.
 5. **Parallel plots:** Checks declared thread counts, keyword-based participation heuristics, and persistence indicators. It does not understand whether a subplot has meaningful agency or consequences.
 6. **Prose drafts:** Checks for a matching outline, dialogue markers, and a fixed list of prohibited phrases. It does not verify American English, voice, POV, naturalness, pacing, or literary quality.
+7. **Parallel-world canon:** Checks the foundational WD entries, metadata, dependent-document markers, episode-source references and selected forbidden broadcast wording. It does not semantically understand every scene or prove complete narrative consistency.
 7. **Parallel-world canon:** Checks the foundational WD entries, metadata, dependent-document markers, episode-source references and selected forbidden broadcast wording. It does not semantically understand every scene or prove complete narrative consistency.
 
 ---
