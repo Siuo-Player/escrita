@@ -181,14 +181,14 @@ def extract_episode_metadata(filepath: Path) -> Dict[str, Any]:
                     data["minor_threads"].append(thread_info)
                 data["threads"].append(thread_info)
 
-    # Extrair cabeçalhos com datas
-    date_header_regex = re.compile(r'^###+\s+(\d{1,2}\s+(?:de\s+)?[A-Za-zç]+(?:\s+\d{4})?)\b', re.IGNORECASE)
+    # Extrair cabeçalhos com datas, preservando ambos os extremos dos intervalos.
+    data["date_ranges_in_file"] = []
     for line in lines:
-        dm = date_header_regex.search(line)
-        if dm:
-            parsed = parse_date_string(dm.group(1))
-            if parsed:
-                data["dates_in_file"].append((parsed, line.strip()))
+        parsed_range = parse_heading_date_range(line)
+        if parsed_range:
+            start_date, end_date = parsed_range
+            data["dates_in_file"].append((start_date, line.strip()))
+            data["date_ranges_in_file"].append((start_date, end_date, line.strip()))
 
     # Extrair Persistent state changes
     state_change_regex = re.compile(r'(?:persistent state change|alteração de estado|estado persistente):\s*(.+)', re.IGNORECASE)
