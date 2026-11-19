@@ -124,11 +124,17 @@ class TestEventRegistryAlignment(unittest.TestCase):
         anchors_by_id = {}
         for episode, outline in self.outlines.items():
             content = outline["path"].read_text(encoding="utf-8")
-            for match in anchor_pattern.finditer(content):
-                event_id, date_start, date_end = match.groups()
-                anchors_by_id.setdefault(event_id, []).append(
-                    (episode, date_start, date_end)
-                )
+            for line_number, line in enumerate(content.splitlines(), start=1):
+                for match in anchor_pattern.finditer(line):
+                    self.assertRegex(
+                        line,
+                        r"^\\s*#{1,6}\\s",
+                        f"{episode}:{line_number}: a âncora do evento tem de estar associada a um heading Markdown.",
+                    )
+                    event_id, date_start, date_end = match.groups()
+                    anchors_by_id.setdefault(event_id, []).append(
+                        (episode, date_start, date_end)
+                    )
 
         registered_ids = {event["id"] for event in self.events}
         self.assertEqual(
