@@ -1,5 +1,10 @@
 # Season 1, Episode 5 — Launch Trajectory and Hospital Ice
 
+<!-- WD-001 -->
+<!-- WD-002 -->
+<!-- WD-003 -->
+<!-- WD-004 -->
+
 Status: EXPANDED OUTLINE / WORKING  
 Updated: 2026-11-19
 
