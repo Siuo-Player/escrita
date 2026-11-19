@@ -60,7 +60,7 @@ Primeiro Natal em Los Angeles sem a chuva e o frio constante de Seattle. Cliffor
   - Maxwell olha para Nathan com admiração genuína: *"Tu nunca pareces nervoso com nada, Callahan."*
   - *"Estou sempre nervoso"* — admite Nathan com sinceridade desarmante. *"Apenas calculo o erro antes de ele acontecer."*
 
-### 18 de Dezembro (Sexta-feira) — A Prenda Rara de Natal para Alex
+### 18 de Dezembro (Sexta-feira) — A Prenda Rara de Natal para Alex <!-- EVT-027 | 2009-12-18 | 2009-12-18 -->
 - **Contexto:** Último dia de aulas do semestre. Corredores decorados com laços vermelhos e cartazes de votos festivos.
 - **Momento:** Nathan espera discretamente por Alex junto aos cacifos quando a maioria dos alunos já correu para os autocarros.
 - **O Objeto:** Nathan retira da mochila o volume encadernado a tecido vermelho: *The Feynman Lectures on Physics, Volume 1* (edição de 1964) [PROP-006], protegido por papel kraft pardo e um fio de sisal simples.
@@ -73,7 +73,7 @@ Primeiro Natal em Los Angeles sem a chuva e o frio constante de Seattle. Cliffor
   - *"Obrigada, Nathan. É... a melhor prenda que alguma vez recebi."*
   - Nathan acena com a cabeça e recolhe a sua mochila: *"Boas férias, Alex. Descansa a cabeça."*
 
-### 19 de Dezembro (Sábado) — A Feira de Árvores de Natal e o Encontro com Mitchell e Cam
+### 19 de Dezembro (Sábado) — A Feira de Árvores de Natal e o Encontro com Mitchell e Cam <!-- EVT-028 | 2009-12-19 | 2009-12-19 -->
 - **Contexto:** Lote comunitário de árvores de Natal em Beverly Hills, decorado com luzes amarelas e cheiro intenso a resina de pinheiro silvestre. Nathan acompanha Clifford para escolher a árvore para a sala de Cheviot Hills.
 - **O Encontro:** No corredor dos abetos nobres da costa do Pacífico, Cameron Tucker e Mitchell Pritchett discutem vigorosamente ao lado de um carrinho de bebé onde a pequena Lily dorme envolta numa manta cor-de-rosa.
   - Cameron gesticula com paixão: *"Mitchell, este pinheiro tem presença cénica! Tem a exuberância de um tenor no último ato de La Traviata!"*
