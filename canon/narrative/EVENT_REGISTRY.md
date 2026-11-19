@@ -10,8 +10,6 @@ This ledger serves as the **Single Source of Truth (SSOT)** for all major plot e
 
 **Parallel-world rule:** the events corresponding to Nathan's remembered *Modern Family* episodes are lived events involving real people in this world. Episode titles in this ledger are source-memory/editorial labels, not current-world broadcasts. See [WORLD_DIFFERENCE_REGISTRY.md](WORLD_DIFFERENCE_REGISTRY.md).
 
-**Parallel-world rule:** the events corresponding to Nathan's remembered *Modern Family* episodes are lived events involving real people in this world. Episode titles in this ledger are source-memory/editorial labels, not current-world broadcasts. See [WORLD_DIFFERENCE_REGISTRY.md](WORLD_DIFFERENCE_REGISTRY.md).
-
 **Coverage status:** partial. The 28 events currently registered cover EP01–EP06 through 19 December 2009. The wider Season 1 plan extends beyond this date; later episodes must be added to this ledger before their outlines/drafts are treated as chronologically integrated.
 
 **Outline anchor contract:** each registered event must have exactly one hidden anchor in the corresponding episode outline, using `<!-- EVT-001 | YYYY-MM-DD | YYYY-MM-DD -->`. The two dates must match the registry's inclusive start/end dates. This gives the tests a durable event-to-outline link without exposing production metadata in the rendered story.
