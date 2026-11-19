@@ -24,7 +24,7 @@ Com as férias de Natal a aproximar-se, Nathan trabalha na atualização v1.1 do
 ## Persistent threads
 
 ### A — Nathan / Jogo v1.1 (Trama Principal)
-O jogo atingiu 500 descargas e uma média de 4.8 estrelas na App Store. Os jogadores pedem mais variedade no comportamento dos inimigos. Nathan programa um modelo de forças combinadas (separação, alinhamento e coesão) em cima do *flow field*, otimizado para o processador ARM do iPhone 3GS.
+O jogo atingiu 500 descargas acumuladas até 06 de dezembro e uma média de 4.8 estrelas na App Store. Os jogadores pedem mais variedade no comportamento dos inimigos. Nathan programa um modelo de forças combinadas (separação, alinhamento e coesão) em cima do *flow field*, otimizado para o processador ARM do iPhone 3GS.
 
 ### B — Nathan + Alex (Subtrama Relacional)
 O último dia letivo antes da pausa de inverno (18 de dezembro). Alex prepara-se para duas semanas de convivência intensa com a desordem dos Dunphys. Nathan entrega-lhe a edição rara das palestras de Feynman de capa vermelha [PROP-006], comprada na loja de alfarrabista de Westwood, desvalorizando o preço para não a constranger. O impacto emocional em Alex consolida a cumplicidade mútua.
@@ -43,7 +43,7 @@ Primeiro Natal em Los Angeles sem a chuva e o frio constante de Seattle. Cliffor
 ## Cenas e Cronologia Linear
 
 ### 08 de Dezembro (Terça-feira) — A Telemetria e o Algoritmo de Steering
-- **Contexto:** Quarto de Nathan, final de tarde. As estatísticas do iTunes Connect mostram 620 descargas ativas.
+- **Contexto:** Quarto de Nathan, final de tarde. As estatísticas do iTunes Connect mostram 620 descargas acumuladas.
 - **Desenvolvimento:** Nathan estuda os algoritmos de Craig Reynolds de 1987 (*boids*). O desafio: como fazer trinta agentes voarem em esquadrilha sem que o cálculo de distância $O(n^2)$ sature a CPU de 600 MHz.
 - **Implementação:** Integração de uma grelha espacial de particionamento (*spatial hash*) onde cada agente só verifica vizinhos na sua célula imediata de 32x32 píxeis.
 
