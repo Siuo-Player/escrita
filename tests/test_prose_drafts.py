@@ -1,0 +1,55 @@
+"""
+Testes de qualidade e integridade dos rascunhos de prosa (EP*_DRAFT.md):
+- Verifica conformidade com as normas de diálogo e estilo narrativo.
+- Verifica ausência de clichés de IA e monólogos virados para a câmara.
+- Confirma que cada rascunho em prosa tem um outline de referência válido.
+"""
+
+import unittest
+import re
+from pathlib import Path
+from tests.parser import REPO_ROOT
+
+class TestProseDrafts(unittest.TestCase):
+
+    @classmethod
+    def setUpClass(cls):
+        cls.episodes_dir = REPO_ROOT / "episodes" / "season-1"
+        cls.draft_files = sorted(list(cls.episodes_dir.glob("EP*_DRAFT.md")))
+
+    def test_draft_has_corresponding_outline(self):
+        """Cada rascunho de prosa deve ter um outline correspondente registado na mesma pasta."""
+        for draft in self.draft_files:
+            prefix = draft.name.split("_")[0] # ex: EP01
+            outlines = list(self.episodes_dir.glob(f"{prefix}_*OUTLINE.md"))
+            self.assertTrue(
+                len(outlines) >= 1,
+                f"O rascunho {draft.name} não tem nenhum outline correspondente ({prefix}_*OUTLINE.md)."
+            )
+
+    def test_prose_quality_and_no_camera_monologues(self):
+        """Garante que a prosa contém diálogo natural com travessão e sem monólogos em frente à câmara."""
+        forbidden_tropes = [
+            r"olhando para a câmara",
+            r"virado para a câmara",
+            r"como um narrador de comédia",
+            r"o destino sussurrou",
+            r"com um brilho premonitório nos olhos"
+        ]
+        
+        for draft in self.draft_files:
+            content = draft.read_text(encoding='utf-8')
+            
+            # Deve conter diálogo real com travessões ou aspas
+            has_dialogue = bool(re.search(r'—\s+[A-ZÀ-Ú]', content)) or bool(re.search(r'«[^»]+»', content))
+            self.assertTrue(has_dialogue, f"O rascunho {draft.name} deve conter diálogo formatado.")
+            
+            # Não deve conter os clichés proibidos
+            for trope in forbidden_tropes:
+                self.assertFalse(
+                    re.search(trope, content, re.IGNORECASE),
+                    f"Cliché ou quebra de quarta parede proibida detetada em {draft.name}: '{trope}'"
+                )
+
+if __name__ == '__main__':
+    unittest.main()
