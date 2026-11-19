@@ -1,5 +1,7 @@
 # Callahan family baseline
 
+<!-- WD-003 -->
+
 Status: WORKING
 Purpose: stable background for continuity; family life is supportive context, not a main plot engine.
 Updated: 2026-10-12
