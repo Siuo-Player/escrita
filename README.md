@@ -54,27 +54,31 @@ escrita/
     ├── run_story_tests.py         # Test runner
     ├── test_backpropagation_clues.py # Validates prop genesis strictly precedes payoff
     ├── test_character_introductions.py # Validates gradual introduction order against EVENT_REGISTRY
-    ├── test_chronology.py         # Validates strict monotonic Gregorian progression
-    ├── test_parallel_plots.py     # Validates multi-plot concurrency & anti-filler state changes
-    └── test_prose_drafts.py       # Validates English dialogue format & absence of sitcom tropes
+    ├── test_chronology.py         # Validates date parsing, weekdays and nondecreasing order
+    ├── test_event_registry_alignment.py # Aligns event IDs, dates, episode windows and document refs
+    ├── test_parallel_plots.py     # Checks declared thread counts and persistence indicators
+    ├── test_prop_clue_date_ordering.py # Validates dated genesis/payoff ordering
+    └── test_prose_drafts.py       # Checks draft structure, dialogue markers and banned phrases
 ```
 
 ---
 
 ## 3. Automated Integrity Test Suite (`tests/`)
 
-Every outline and prose draft is verified by an automated test suite executed via Python:
+Deterministic consistency checks for the outlines, drafts and registries run through Python:
 
 ```bash
 python tests/run_story_tests.py
 ```
 
-The suite validates:
-1. **Monotonic Gregorian Chronology:** Dates advance strictly forward and match the real 2009 calendar days of the week.
-2. **Backpropagation & Prop Continuity:** Every prop or clue in `PROP_AND_CLUE_REGISTRY.md` has its genesis documented prior to its payoff episode and appears in the relevant files.
-3. **Single Source of Truth Event Alignment:** Character introductions and key milestones match `canon/narrative/EVENT_REGISTRY.md`.
-4. **Anti-Filler & Multi-Thread Concurrency:** Every episode maintains concurrent active threads with non-solo character interactions and permanent state changes.
-5. **Prose Integrity:** Drafts are authored in English, formatted with standard dialogue, and free of artificial fourth-wall breaks or canned clichés.
+The suite currently provides **regression guardrails**, not automated literary judgement:
+
+1. **Chronology:** Parses registry dates and outline windows, checks Gregorian weekdays, and rejects backwards ordering. Ordering is nondecreasing, not necessarily strictly increasing.
+2. **Event registry alignment:** Checks unique/contiguous event IDs, valid date intervals, event-to-episode window containment, and that every declared dependent filename resolves to exactly one file.
+3. **Props and clues:** Checks episode-level genesis/payoff ordering, explicit date ordering (including within one episode), textual ID presence, and non-empty background notes. Abbreviated `DD/MM` dates currently inherit 2009.
+4. **Character introductions:** Derives first-contact episodes from registry participants, excluding events marked `parallel`. Premature-contact detection uses text patterns; relationship continuity currently checks name presence, not the quality of interactions.
+5. **Parallel plots:** Checks declared thread counts, keyword-based participation heuristics, and persistence indicators. It does not understand whether a subplot has meaningful agency or consequences.
+6. **Prose drafts:** Checks for a matching outline, dialogue markers, and a fixed list of prohibited phrases. It does not verify American English, voice, POV, naturalness, pacing, or literary quality.
 
 ---
 
