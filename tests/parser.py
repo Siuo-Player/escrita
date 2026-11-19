@@ -72,13 +72,24 @@ def parse_heading_date_range(heading: str, default_year: int = 2009):
         visible_heading,
         re.IGNORECASE,
     )
-    if not match:
-        return None
-
-    day_start = int(match.group(1))
-    day_end = int(match.group(2)) if match.group(2) else day_start
-    month_name = match.group(3).lower()
-    year = int(match.group(4)) if match.group(4) else default_year
+    if match:
+        day_start = int(match.group(1))
+        day_end = int(match.group(2)) if match.group(2) else day_start
+        month_name = match.group(3).lower()
+        year = int(match.group(4)) if match.group(4) else default_year
+    else:
+        # Drafts use headings such as "Scene 4 — September 14–15, 2009".
+        month_first = re.search(
+            r"\\b([A-Za-zç]+)\\s+(\\d{1,2})(?:\\s*[–-]\\s*(\\d{1,2}))?,?\\s*(?:de\\s+)?(20\\d{2})\\b",
+            visible_heading,
+            re.IGNORECASE,
+        )
+        if not month_first:
+            return None
+        month_name = month_first.group(1).lower()
+        day_start = int(month_first.group(2))
+        day_end = int(month_first.group(3)) if month_first.group(3) else day_start
+        year = int(month_first.group(4))
     month = MONTHS.get(month_name)
     if month is None:
         return None
