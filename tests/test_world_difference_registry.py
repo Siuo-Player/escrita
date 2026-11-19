@@ -126,6 +126,22 @@ class TestWorldDifferenceRegistry(unittest.TestCase):
             f"Há marcadores sem entrada no registo: {sorted(found - registered)}.",
         )
 
+    def test_every_episode_outline_and_draft_references_all_foundational_world_rules(self):
+        episode_sources = sorted(
+            path for path in (REPO_ROOT / "episodes").rglob("*.md")
+            if path.name.endswith("_OUTLINE.md") or path.name.endswith("_DRAFT.md")
+        )
+        self.assertTrue(episode_sources, "Não foram encontrados outlines ou drafts de episódios.")
+        for path in episode_sources:
+            content = path.read_text(encoding="utf-8")
+            for entry_id in EXPECTED_FOUNDATIONAL_IDS:
+                with self.subTest(path=path.relative_to(REPO_ROOT), entry=entry_id):
+                    self.assertIn(
+                        f"<!-- {entry_id} -->",
+                        content,
+                        f"{path.relative_to(REPO_ROOT)} não referencia a regra global {entry_id}.",
+                    )
+
     def test_readme_identifies_the_parallel_world_registry(self):
         readme = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
         self.assertIn("WORLD_DIFFERENCE_REGISTRY.md", readme)
