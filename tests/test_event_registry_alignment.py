@@ -116,6 +116,25 @@ class TestEventRegistryAlignment(unittest.TestCase):
                 f"{event['id']}: os documentos dependentes não incluem outline nem draft de {episode}.",
             )
 
+    def test_heading_date_parser_supports_english_portuguese_and_ranges(self):
+        """O parser de headings reconhece datas simples e intervalos em ambos os idiomas usados nos outlines."""
+        cases = [
+            ("### 7 September — birthday", "2009-09-07", "2009-09-07"),
+            ("### 2–3 October", "2009-10-02", "2009-10-03"),
+            ("### 22 de Outubro (Quinta-feira)", "2009-10-22", "2009-10-22"),
+            ("### 06 de Novembro (Sexta-feira)", "2009-11-06", "2009-11-06"),
+            ("### 14–15 September <!-- EVT-002 -->", "2009-09-14", "2009-09-15"),
+        ]
+        for heading, expected_start, expected_end in cases:
+            with self.subTest(heading=heading):
+                parsed = parse_heading_date_range(heading)
+                self.assertIsNotNone(parsed)
+                self.assertEqual(parsed[0].strftime("%Y-%m-%d"), expected_start)
+                self.assertEqual(parsed[1].strftime("%Y-%m-%d"), expected_end)
+
+        self.assertIsNone(parse_heading_date_range("### Not a dated scene"))
+        self.assertIsNone(parse_heading_date_range("### 31 February 2009"))
+
     def test_every_registered_event_has_one_exact_anchor_in_its_primary_outline(self):
         """Cada evento tem uma âncora explícita no outline do episódio e a data copiada coincide com o registo."""
         anchor_pattern = re.compile(
