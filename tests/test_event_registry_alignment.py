@@ -8,7 +8,12 @@ referências, datas e associação dos eventos às janelas temporais dos episód
 import re
 import unittest
 
-from tests.parser import (\n    REPO_ROOT,\n    extract_episode_metadata,\n    extract_events_from_registry,\n    parse_event_registry_content,\n)
+from tests.parser import (
+    REPO_ROOT,
+    extract_episode_metadata,
+    extract_events_from_registry,
+    parse_event_registry_content,
+)
 
 
 class TestEventRegistryAlignment(unittest.TestCase):
