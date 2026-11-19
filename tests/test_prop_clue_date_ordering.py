@@ -9,12 +9,16 @@ from datetime import date
 from pathlib import Path
 from tests.parser import REPO_ROOT
 
-DATE_RE = re.compile(r"\b(\d{1,2})/(\d{1,2})/(20\d{2})\b")
+# The registry uses DD/MM and DD/MM/YYYY. A missing year inherits the
+# project's documented opening year (2009); impossible dates raise ValueError.
+DATE_RE = re.compile(r"\b(\d{1,2})/(\d{1,2})(?:/(20\d{2}))?\b")
 
 def parse_registry_dates(value: str):
-    """Return all explicit DD/MM/YYYY dates found in a registry cell."""
-    return [date(int(year), int(month), int(day))
-            for day, month, year in DATE_RE.findall(value)]
+    """Return Gregorian dates found in a registry cell."""
+    dates = []
+    for day, month, year in DATE_RE.findall(value):
+        dates.append(date(int(year or 2009), int(month), int(day)))
+    return dates
 
 def is_causally_ordered(genesis: date, payoff: date) -> bool:
     """A payoff cannot precede the item's genesis."""
@@ -48,8 +52,8 @@ class TestPropClueDateOrdering(unittest.TestCase):
             with self.subTest(item=row["id"]):
                 genesis_dates = parse_registry_dates(row["genesis"])
                 payoff_dates = parse_registry_dates(row["payoff"])
-                self.assertTrue(genesis_dates, f"{row['id']} needs an explicit Gregorian genesis date.")
-                self.assertTrue(payoff_dates, f"{row['id']} needs at least one explicit Gregorian payoff date.")
+                self.assertTrue(genesis_dates, f"{row['id']} needs a Gregorian genesis date.")
+                self.assertTrue(payoff_dates, f"{row['id']} needs at least one Gregorian payoff date.")
                 self.assertEqual(len(genesis_dates), 1, f"{row['id']} should have exactly one genesis date.")
                 for payoff in payoff_dates:
                     self.assertTrue(is_causally_ordered(genesis_dates[0], payoff),
