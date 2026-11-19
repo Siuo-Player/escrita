@@ -68,7 +68,7 @@ Para respeitar a regra de **não apresentar personagens todos juntos de forma ar
 ---
 
 ### EP04 — "Memory Profiles and Hardware Limits" (01–18 Novembro 2009)
-- **Trama Principal (A):** Perfilagem agressiva de consumo de memória RAM sob iOS 3.1; eliminação de memory leaks em C++ para aprovação na Apple.
+- **Trama Principal (A):** Perfilagem do heap da aplicação sob iOS 3.1; correção de referências retidas, libertação de caches reconstruíveis e reutilização de nós com uma pool fixa. A meta abaixo de 35 MB é um orçamento de engenharia de Nathan, não um limite de memória imposto pela Apple.
 - **Subtrama 1 (B - Alex em Casa de Nathan):** Primeira vez que Alex estuda na casa dos Callahan; ela vê a disciplina de trabalho de Nathan e os gráficos matemáticos [CLUE-002].
 - **Subtrama 2 (C - Jay Pritchett & Bricolagem):** Encontro na loja de ferramentas (11/11); Jay aconselha Nathan sobre fixações sólidas para a secretária e comenta o valor do trabalho manual.
 - **Subtrama 3 (D - Phil & Tecnologia):** Phil pede ajuda rápida para calibrar um comando universal; Nathan resolve o problema em dois minutos, ganhando admiração de Phil.
