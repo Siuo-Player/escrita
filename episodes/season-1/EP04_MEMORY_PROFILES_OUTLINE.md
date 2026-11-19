@@ -44,7 +44,7 @@ Phil passa um fim de tarde frustrado a tentar emparelhar um comando universal in
 
 ### 02 de Novembro (Segunda-feira) — O Alerta de Memória
 - **Contexto:** Quarto de Nathan, 21:00. O Instruments do Xcode acusa um consumo crescente de RAM no iPhone 3GS [PROP-004] ao fim de 15 minutos de execução.
-- **Ação Técnica:** Nathan percebe que os nós de pesquisa do algoritmo de caminhos estão a ser instanciados com `new` e destruídos com `delete` centenas de vezes por frame, fragmentando o espaço de heap.
+- **Ação Técnica:** Nathan percebe que os nós de pesquisa do algoritmo de caminhos estão a ser instanciados com `new` e destruídos com `delete` centenas de vezes por frame, o que aumenta a atividade do alocador e pode contribuir para fragmentação do heap.
 - **Solução:** Desenha uma *object pool* de capacidade fixa para os nós de pesquisa, pré-alocando-os antes do início do gameplay. Dentro dessa capacidade, o motor reutiliza nós sem pedir memória ao alocador a cada frame; a pool tem de detetar e reportar uma eventual falta de capacidade, em vez de corromper memória ou crescer silenciosamente.
 
 ### 04 de Novembro (Quarta-feira) — Paralelo com *En Garde*
