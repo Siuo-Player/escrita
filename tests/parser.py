@@ -185,59 +185,91 @@ def extract_episode_metadata(filepath: Path) -> Dict[str, Any]:
 
     return data
 
-def extract_events_from_registry() -> List[Dict[str, Any]]:
-    """Extrai os eventos canónicos estruturados a partir do Single Source of Truth (EVENT_REGISTRY.md)."""
-    registry_file = REPO_ROOT / "canon" / "narrative" / "EVENT_REGISTRY.md"
-    if not registry_file.exists():
-        return []
-        
-    content = registry_file.read_text(encoding='utf-8')
+def parse_event_registry_content(content: str):
+    """Parseia a tabela de eventos sem descartar silenciosamente linhas malformadas.
+
+    Retorna (eventos, problemas). Cada linha com um token EVT- é tratada como
+    uma linha de dados candidata e tem de respeitar as nove colunas canónicas.
+    """
     events = []
-    
-    for line in content.splitlines():
-        line = line.strip()
+    issues = []
+
+    for line_number, raw_line in enumerate(content.splitlines(), start=1):
+        line = raw_line.strip()
         if not line.startswith("|") or "EVT-" not in line:
             continue
-        parts = [p.strip() for p in line.strip("|").split("|")]
-        if len(parts) < 8:
+
+        parts = [part.strip() for part in line.strip("|").split("|")]
+        if len(parts) != 9:
+            issues.append(
+                f"Linha {line_number}: esperado exatamente 9 colunas; encontradas {len(parts)}."
+            )
             continue
-            
-        evt_match = re.search(r'EVT-\d+', parts[0])
-        if not evt_match:
+
+        id_text = parts[0].strip("*` ")
+        if not re.fullmatch(r"EVT-\\d{3}", id_text):
+            issues.append(
+                f"Linha {line_number}: Event ID inválido na primeira coluna: {parts[0]!r}."
+            )
             continue
-            
-        evt_id = evt_match.group(0)
+
+        empty_columns = [
+            index + 1 for index, value in enumerate(parts[1:], start=1) if not value
+        ]
+        if empty_columns:
+            issues.append(
+                f"Linha {line_number} ({id_text}): colunas obrigatórias vazias: {empty_columns}."
+            )
+
         date_raw = parts[1].replace("*", "").strip()
         ep_raw = parts[2].replace("*", "").strip()
         location = parts[3].strip()
-        characters = [c.strip() for c in parts[4].split(",") if c.strip()]
+        characters = [character.strip() for character in parts[4].split(",") if character.strip()]
         trigger = parts[5].strip()
         action = parts[6].strip()
         result = parts[7].strip()
-        dep_docs = [d.strip().strip("`") for d in parts[8].split(",") if d.strip()] if len(parts) > 8 else []
-        
-        # Extrair data ISO primária e, quando exista, o fim do intervalo (ex.: 2009-09-14/15).
-        iso_match = re.search(r'\b(20\d{2})-(\d{2})-(\d{2})(?:/(\d{1,2}))?\b', date_raw)
+        dep_docs = [doc.strip().strip("`") for doc in parts[8].split(",") if doc.strip()]
+
+        # O formato atual permite datas ISO simples e intervalos no mesmo mês:
+        # 2009-09-14 ou 2009-09-14/15.
+        iso_match = re.search(
+            r"\\b(20\\d{2})-(\\d{2})-(\\d{2})(?:/(\\d{1,2}))?\\b",
+            date_raw,
+        )
         dt = None
         date_end = None
         if iso_match:
-            year, month, day = (int(iso_match.group(i)) for i in (1, 2, 3))
+            year, month, day = (int(iso_match.group(index)) for index in (1, 2, 3))
             try:
                 dt = datetime(year, month, day)
-                date_end = datetime(year, month, int(iso_match.group(4))) if iso_match.group(4) else dt
+                date_end = (
+                    datetime(year, month, int(iso_match.group(4)))
+                    if iso_match.group(4)
+                    else dt
+                )
             except ValueError:
-                # Mantém a data como None para que o teste de integridade produza uma falha explícita.
                 dt = None
                 date_end = None
 
-        # Extrair o dia da semana inicial e, se indicado, o final.
-        weekday_match = re.search(r'\(([A-Za-z]+)', date_raw)
-        weekday_range_match = re.search(r'\(([A-Za-z]+)-([A-Za-z]+)', date_raw)
+        if dt is None or date_end is None:
+            issues.append(
+                f"Linha {line_number} ({id_text}): data ISO inválida ou não suportada: {date_raw!r}."
+            )
+
+        weekday_range_match = re.search(r"\\(([A-Za-z]+)-([A-Za-z]+)", date_raw)
+        weekday_match = re.search(r"\\(([A-Za-z]+)", date_raw)
         declared_weekday = weekday_match.group(1) if weekday_match else ""
-        declared_weekday_end = weekday_range_match.group(2) if weekday_range_match else declared_weekday
+        declared_weekday_end = (
+            weekday_range_match.group(2) if weekday_range_match else declared_weekday
+        )
+        if not declared_weekday:
+            issues.append(
+                f"Linha {line_number} ({id_text}): dia da semana não declarado em {date_raw!r}."
+            )
 
         events.append({
-            "id": evt_id,
+            "id": id_text,
+            "line": line_number,
             "date_raw": date_raw,
             "date": dt,
             "date_end": date_end,
@@ -249,9 +281,20 @@ def extract_events_from_registry() -> List[Dict[str, Any]]:
             "trigger": trigger,
             "action": action,
             "result": result,
-            "dependent_docs": dep_docs
+            "dependent_docs": dep_docs,
         })
-        
+
+    return events, issues
+
+
+def extract_events_from_registry() -> List[Dict[str, Any]]:
+    """Extrai os eventos canónicos do EVENT_REGISTRY.md."""
+    registry_file = REPO_ROOT / "canon" / "narrative" / "EVENT_REGISTRY.md"
+    if not registry_file.exists():
+        return []
+
+    content = registry_file.read_text(encoding="utf-8")
+    events, _issues = parse_event_registry_content(content)
     return events
 
 def extract_props_from_registry() -> List[Dict[str, Any]]:
