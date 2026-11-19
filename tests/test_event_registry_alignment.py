@@ -153,7 +153,7 @@ class TestEventRegistryAlignment(unittest.TestCase):
                 draft_path = matches[0]
                 scene_ranges = []
                 for line in draft_path.read_text(encoding="utf-8").splitlines():
-                    if not re.match(r"^\\s*#{1,6}\\s", line):
+                    if not re.match(r"^\s*#{1,6}\s", line):
                         continue
                     parsed = parse_heading_date_range(line)
                     if parsed:
