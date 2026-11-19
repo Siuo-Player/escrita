@@ -60,6 +60,35 @@ def parse_date_string(text: str, default_year: int = 2009) -> Optional[datetime]
                 return None
     return None
 
+def parse_heading_date_range(heading: str, default_year: int = 2009):
+    """Extrai a data visível de um heading, aceitando datas simples e intervalos no mesmo mês.
+
+    Exemplos: '### 7 September', '### 2–3 October', '### 22 de Outubro'.
+    Devolve (início, fim) ou None quando o heading não contém uma data suportada.
+    """
+    visible_heading = re.sub(r"<!--.*?-->", "", heading).strip()
+    match = re.match(
+        r"^\s*#{1,6}\s+(\d{1,2})(?:\s*[–-]\s*(\d{1,2}))?\s+(?:de\s+)?([A-Za-zç]+)(?:\s+(?:de\s+)?(20\d{2}))?\b",
+        visible_heading,
+        re.IGNORECASE,
+    )
+    if not match:
+        return None
+
+    day_start = int(match.group(1))
+    day_end = int(match.group(2)) if match.group(2) else day_start
+    month_name = match.group(3).lower()
+    year = int(match.group(4)) if match.group(4) else default_year
+    month = MONTHS.get(month_name)
+    if month is None:
+        return None
+
+    try:
+        return datetime(year, month, day_start), datetime(year, month, day_end)
+    except ValueError:
+        return None
+
+
 def extract_episode_metadata(filepath: Path) -> Dict[str, Any]:
     """Extrai tramas, datas, alterações de estado persistente e menções a personagens de um episódio."""
     content = filepath.read_text(encoding='utf-8')

@@ -363,7 +363,7 @@ A sense that his old life is ending because of logistics rather than a dramatic 
 ## MOVEMENT II — 14–15 SEPTEMBER
 ### The move
 
-### 14 September <!-- EVT-002 | 2009-09-14 | 2009-09-15 -->
+### 14–15 September <!-- EVT-002 | 2009-09-14 | 2009-09-15 -->
 
 #### Scene 23 — departure
 Compressed travel sequence.

@@ -13,6 +13,7 @@ from tests.parser import (
     extract_episode_metadata,
     extract_events_from_registry,
     parse_event_registry_content,
+    parse_heading_date_range,
 )
 
 
@@ -115,6 +116,25 @@ class TestEventRegistryAlignment(unittest.TestCase):
                 f"{event['id']}: os documentos dependentes não incluem outline nem draft de {episode}.",
             )
 
+    def test_heading_date_parser_supports_english_portuguese_and_ranges(self):
+        """O parser de headings reconhece datas simples e intervalos em ambos os idiomas usados nos outlines."""
+        cases = [
+            ("### 7 September — birthday", "2009-09-07", "2009-09-07"),
+            ("### 2–3 October", "2009-10-02", "2009-10-03"),
+            ("### 22 de Outubro (Quinta-feira)", "2009-10-22", "2009-10-22"),
+            ("### 06 de Novembro (Sexta-feira)", "2009-11-06", "2009-11-06"),
+            ("### 14–15 September <!-- EVT-002 -->", "2009-09-14", "2009-09-15"),
+        ]
+        for heading, expected_start, expected_end in cases:
+            with self.subTest(heading=heading):
+                parsed = parse_heading_date_range(heading)
+                self.assertIsNotNone(parsed)
+                self.assertEqual(parsed[0].strftime("%Y-%m-%d"), expected_start)
+                self.assertEqual(parsed[1].strftime("%Y-%m-%d"), expected_end)
+
+        self.assertIsNone(parse_heading_date_range("### Not a dated scene"))
+        self.assertIsNone(parse_heading_date_range("### 31 February 2009"))
+
     def test_every_registered_event_has_one_exact_anchor_in_its_primary_outline(self):
         """Cada evento tem uma âncora explícita no outline do episódio e a data copiada coincide com o registo."""
         anchor_pattern = re.compile(
@@ -131,9 +151,14 @@ class TestEventRegistryAlignment(unittest.TestCase):
                         r"^\s*#{1,6}\s",
                         f"{episode}:{line_number}: a âncora do evento tem de estar associada a um heading Markdown.",
                     )
+                    heading_dates = parse_heading_date_range(line)
+                    self.assertIsNotNone(
+                        heading_dates,
+                        f"{episode}:{line_number}: heading com âncora sem data visível interpretável: {line!r}.",
+                    )
                     event_id, date_start, date_end = match.groups()
                     anchors_by_id.setdefault(event_id, []).append(
-                        (episode, date_start, date_end)
+                        (episode, date_start, date_end, heading_dates[0], heading_dates[1])
                     )
 
         registered_ids = {event["id"] for event in self.events}
@@ -151,7 +176,7 @@ class TestEventRegistryAlignment(unittest.TestCase):
                 1,
                 f"{event_id}: esperado exatamente um anchor nos outlines; encontrados {anchors}.",
             )
-            episode, date_start, date_end = anchors[0]
+            episode, date_start, date_end, heading_start, heading_end = anchors[0]
             self.assertEqual(
                 episode,
                 event["episode"],
@@ -166,6 +191,16 @@ class TestEventRegistryAlignment(unittest.TestCase):
                 date_end,
                 event["date_end"].strftime("%Y-%m-%d"),
                 f"{event_id}: a data final da âncora diverge do EVENT_REGISTRY.md.",
+            )
+            self.assertLessEqual(
+                heading_start,
+                event["date"],
+                f"{event_id}: a data inicial do evento está antes da data visível no heading.",
+            )
+            self.assertLessEqual(
+                event["date_end"],
+                heading_end,
+                f"{event_id}: o intervalo do evento ultrapassa a data visível no heading.",
             )
 
     def test_parser_reports_invalid_gregorian_dates(self):
