@@ -124,6 +124,8 @@ class TestEventRegistryAlignment(unittest.TestCase):
             ("### 22 de Outubro (Quinta-feira)", "2009-10-22", "2009-10-22"),
             ("### 06 de Novembro (Sexta-feira)", "2009-11-06", "2009-11-06"),
             ("### 14–15 September <!-- EVT-002 -->", "2009-09-14", "2009-09-15"),
+            ("### Scene 4 — September 14–15, 2009: Arrival in LA", "2009-09-14", "2009-09-15"),
+            ("### Editorial Cut — October 3, 2009 (Saturday)", "2009-10-03", "2009-10-03"),
         ]
         for heading, expected_start, expected_end in cases:
             with self.subTest(heading=heading):
@@ -134,6 +136,33 @@ class TestEventRegistryAlignment(unittest.TestCase):
 
         self.assertIsNone(parse_heading_date_range("### Not a dated scene"))
         self.assertIsNone(parse_heading_date_range("### 31 February 2009"))
+
+    def test_registered_events_are_reflected_in_dependent_prose_drafts(self):
+        """Quando um evento declara um draft dependente, a data tem de surgir num heading de cena desse draft."""
+        for event in self.events:
+            draft_names = [
+                name for name in event["dependent_docs"]
+                if name.endswith("_DRAFT.md")
+            ]
+            for draft_name in draft_names:
+                matches = [
+                    path for path in REPO_ROOT.rglob(draft_name)
+                    if path.is_file()
+                ]
+                self.assertEqual(len(matches), 1, f"{event['id']}: draft dependente não é único: {draft_name}.")
+                draft_path = matches[0]
+                scene_ranges = []
+                for line in draft_path.read_text(encoding="utf-8").splitlines():
+                    if not re.match(r"^\\s*#{1,6}\\s", line):
+                        continue
+                    parsed = parse_heading_date_range(line)
+                    if parsed:
+                        scene_ranges.append(parsed)
+
+                self.assertTrue(
+                    any(start <= event["date"] and event["date_end"] <= end for start, end in scene_ranges),
+                    f"{event['id']}: intervalo {event['date']}–{event['date_end']} não aparece em nenhum heading datado de {draft_name}.",
+                )
 
     def test_every_registered_event_has_one_exact_anchor_in_its_primary_outline(self):
         """Cada evento tem uma âncora explícita no outline do episódio e a data copiada coincide com o registo."""
