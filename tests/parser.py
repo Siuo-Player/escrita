@@ -80,7 +80,7 @@ def parse_heading_date_range(heading: str, default_year: int = 2009):
     else:
         # Drafts use headings such as "Scene 4 — September 14–15, 2009".
         month_first = re.search(
-            r"\\b([A-Za-zç]+)\\s+(\\d{1,2})(?:\\s*[–-]\\s*(\\d{1,2}))?,?\\s*(?:de\\s+)?(20\\d{2})\\b",
+            r"\b([A-Za-zç]+)\s+(\d{1,2})(?:\s*[–-]\s*(\d{1,2}))?,?\s*(?:de\s+)?(20\d{2})\b",
             visible_heading,
             re.IGNORECASE,
         )
