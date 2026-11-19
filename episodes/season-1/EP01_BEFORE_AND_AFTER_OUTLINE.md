@@ -57,7 +57,7 @@ provenance.
 ## MOVEMENT I — 7–13 SEPTEMBER
 ### Old life before the move
 
-### 7 September — birthday / opening image
+### 7 September — birthday / opening image <!-- EVT-001 | 2009-09-07 | 2009-09-07 -->
 
 **Calendar:** Labor Day. No ordinary school day. citeturn275803search0turn275803search1
 
@@ -363,7 +363,7 @@ A sense that his old life is ending because of logistics rather than a dramatic 
 ## MOVEMENT II — 14–15 SEPTEMBER
 ### The move
 
-### 14 September
+### 14 September <!-- EVT-002 | 2009-09-14 | 2009-09-15 -->
 
 #### Scene 23 — departure
 Compressed travel sequence.
@@ -420,7 +420,7 @@ he is going to have to rebuild a life and finish a project simultaneously.
 ## MOVEMENT III — 16–23 SEPTEMBER
 ### First week at the new school / first contact with Alex
 
-### 16 September — first school day
+### 16 September — first school day <!-- EVT-003 | 2009-09-16 | 2009-09-16 -->
 
 #### Scene 28 — arrival
 Nathan is early.
@@ -531,7 +531,7 @@ the expensive information should be shared; the cheap differences can stay indiv
 
 ---
 
-### 18 September — first Alex conversation
+### 18 September — first Alex conversation <!-- EVT-004 | 2009-09-18 | 2009-09-18 -->
 
 #### Scene 37 — practical reason
 Alex needs a book/reference/resource.
@@ -676,7 +676,7 @@ This sentence can become the conceptual bridge to the prediction/influence field
 
 ---
 
-### 23 September — Pilot day
+### 23 September — Pilot day <!-- EVT-005 | 2009-09-23 | 2009-09-23 -->
 
 #### Parallel canon thread
 The *Modern Family* Pilot occurs on its established date. The story uses the Pilot as background canon,
@@ -787,7 +787,7 @@ The architecture finally feels coherent.
 
 ---
 
-### 28–29 September
+### 28–29 September <!-- EVT-006 | 2009-09-28 | 2009-09-28 -->
 
 #### Scene 59 — school
 Nathan now has one classmate who regularly talks to him.
@@ -830,7 +830,7 @@ No intersection.
 
 ---
 
-### 30 September — The Bicycle Thief / Episode ending
+### 30 September — The Bicycle Thief / Episode ending <!-- EVT-007 | 2009-09-30 | 2009-09-30 -->
 
 #### Parallel canon
 *The Bicycle Thief* occurs on this date. Its main story can be shown independently:
