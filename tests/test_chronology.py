@@ -1,9 +1,10 @@
 """
 Testes de cronologia não decrescente e conformidade com o calendário gregoriano real.
-Valida o Single Source of Truth (EVENT_REGISTRY.md), os outlines e os drafts.
+Valida o EVENT_REGISTRY.md e os intervalos temporais declarados nos outlines. Os drafts não são atualmente analisados por este módulo.
 """
 
 import unittest
+import re
 from datetime import datetime
 from pathlib import Path
 from tests.parser import REPO_ROOT, extract_episode_metadata, extract_events_from_registry
@@ -49,6 +50,43 @@ class TestStoryChronology(unittest.TestCase):
             if dt:
                 prev_dt = dt
                 prev_id = evt["id"]
+
+    def test_registered_events_fit_their_episode_story_windows(self):
+        """Cada evento e o seu intervalo completo têm de caber na janela temporal do outline correspondente."""
+        episodes_by_number = {}
+        for episode in self.parsed_episodes:
+            match = re.match(r"^(EP\d{2})_", episode["file"])
+            if match:
+                episodes_by_number[match.group(1)] = episode
+
+        self.assertTrue(episodes_by_number, "Não foram encontrados outlines de episódios.")
+
+        for event in self.events:
+            episode = episodes_by_number.get(event["episode"])
+            self.assertIsNotNone(
+                episode,
+                f"{event['id']}: não existe outline para {event['episode']}.",
+            )
+            self.assertIsNotNone(
+                episode["start_date"],
+                f"{event['episode']}: o outline não declara um início de story window interpretável.",
+            )
+            self.assertIsNotNone(
+                episode["end_date"],
+                f"{event['episode']}: o outline não declara um fim de story window interpretável.",
+            )
+            self.assertIsNotNone(event["date"], f"{event['id']}: data inicial inválida.")
+            self.assertIsNotNone(event["date_end"], f"{event['id']}: data final inválida.")
+            self.assertLessEqual(
+                episode["start_date"],
+                event["date"],
+                f"{event['id']}: começa antes da story window de {event['episode']}.",
+            )
+            self.assertLessEqual(
+                event["date_end"],
+                episode["end_date"],
+                f"{event['id']}: termina depois da story window de {event['episode']}.",
+            )
 
     def test_episodes_chronological_ordering(self):
         """Verifica se os episódios avançam no tempo de forma linear e contínua sem saltos no passado."""
