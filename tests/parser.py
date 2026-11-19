@@ -90,17 +90,40 @@ def extract_episode_metadata(filepath: Path) -> Dict[str, Any]:
         window_match = re.search(r'##\s*Story window\s*\n+\*\*([^\*]+)\*\*', content, re.IGNORECASE)
     if window_match:
         data["story_window"] = window_match.group(1).strip()
-        # Encontrar datas no story window
-        dates = []
-        for part in re.split(r'–|-|to|até', data["story_window"]):
-            parsed = parse_date_string(part)
-            if parsed:
-                dates.append(parsed)
-        if len(dates) >= 2:
-            data["start_date"] = min(dates)
-            data["end_date"] = max(dates)
-        elif len(dates) == 1:
-            data["start_date"] = dates[0]
+        win = data["story_window"]
+        
+        # Padrão multi-mês: ex: '19 November – 05 December 2009'
+        m_multi = re.search(r'(\d{1,2})\s+([A-Za-zç]+)\s*(?:–|-)\s*(\d{1,2})\s+([A-Za-zç]+)(?:\s+(?:de\s+)?(2009|2010|2011|2012))?', win, re.IGNORECASE)
+        # Padrão mesmo mês: ex: '7–30 September 2009', '1–15 October 2009'
+        m_single = re.search(r'(\d{1,2})\s*(?:–|-)\s*(\d{1,2})\s+(?:de\s+)?([A-Za-zç]+)(?:\s+(?:de\s+)?(2009|2010|2011|2012))?', win, re.IGNORECASE)
+        
+        if m_multi and m_multi.group(2).lower() in MONTHS and m_multi.group(4).lower() in MONTHS:
+            y = int(m_multi.group(5)) if m_multi.group(5) else 2009
+            m1 = MONTHS[m_multi.group(2).lower()]
+            d1 = int(m_multi.group(1))
+            m2 = MONTHS[m_multi.group(4).lower()]
+            d2 = int(m_multi.group(3))
+            data["start_date"] = datetime(y, m1, d1)
+            data["end_date"] = datetime(y, m2, d2)
+        elif m_single and m_single.group(3).lower() in MONTHS:
+            y = int(m_single.group(4)) if m_single.group(4) else 2009
+            m = MONTHS[m_single.group(3).lower()]
+            d1 = int(m_single.group(1))
+            d2 = int(m_single.group(2))
+            data["start_date"] = datetime(y, m, d1)
+            data["end_date"] = datetime(y, m, d2)
+        else:
+            # Encontrar datas no story window por partes
+            dates = []
+            for part in re.split(r'–|-|to|até', win):
+                parsed = parse_date_string(part)
+                if parsed:
+                    dates.append(parsed)
+            if len(dates) >= 2:
+                data["start_date"] = min(dates)
+                data["end_date"] = max(dates)
+            elif len(dates) == 1:
+                data["start_date"] = dates[0]
             
     # Extrair Persistent threads
     in_threads = False

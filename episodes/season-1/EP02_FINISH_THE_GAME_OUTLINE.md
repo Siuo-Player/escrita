@@ -693,3 +693,15 @@ A week can be represented by:
 - or a time jump.
 
 The underlying timeline is deliberately richer than the visible story.
+
+---
+
+## Cortes Editoriais e Quebras de Perspetiva (Director's POV Cuts)
+
+Para enriquecer a densidade coral e a sensação de mundo vivo em paralelo:
+1. **Corte Editorial 1 (03 de Outubro — Vestiário de Futebol): Perspetiva de Maxwell Whitaker.**
+   - Maxwell desata as chuteiras após o treino. O pai está do lado de fora da rede, avaliador e silencioso. Maxwell sente a pressão de manter a liderança atlética e a titularidade; repara que Nathan não tenta brilhar individualmente nem contestar a braçadeira, mas coloca passes com precisão milimétrica. O desabafo mudo de Maxwell: receio de ser ofuscado contrasta com o respeito involuntário pela postura tranquila de Nathan.
+2. **Corte Editorial 2 (10 de Outubro — Carro de Claire Dunphy): Perspetiva de Claire Dunphy.**
+   - Claire entra no carro no parque de estacionamento do supermercado após Nathan a ter ajudado a descer os fardos pesados da prateleira superior. Claire respira fundo, contemplando o silêncio raro do carro antes de regressar ao turbilhão doméstico; comenta consigo própria como gostaria que Luke e Haley mostrassem metade da compostura daquele miúdo dos novos vizinhos.
+3. **Corte Editorial 3 (14 de Outubro — Noite): O Eco de *The Incident*.**
+   - Na casa dos Dunphy, a ressaca emocional da visita caótica de Dede Pritchett. Alex fecha-se no quarto com o violoncelo e os livros de ciências para se isolar do drama dos adultos, encontrando nas equações partilhadas com Nathan um refúgio de racionalidade e ordem.

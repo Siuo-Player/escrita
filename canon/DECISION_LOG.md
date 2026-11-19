@@ -91,6 +91,37 @@ This file stores **what was decided, how the current answer was validated, and w
 - **Sources:** [GitHub — setting repository visibility](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility); [U.S. Copyright Office — derivative-work rights](https://www.copyright.gov/eco/help-limitation.html); [U.S. Copyright Office — Fair Use Index](https://copyright.gov/fair-use/).
 - **Revisit trigger:** before making the repository public, check it for credentials, private information, material not intended to be shared, and Actions logs/artifacts. Do not describe the disclaimer as permission or legal immunity.
 
+## DEC-008 — Prose drafting language: English (American standard)
+
+- **Date:** 2026-11-19.
+- **Question:** what language must be used for the novel drafts, prose chapters, and character dialogue?
+- **Current result:** **English (American standard, 2009 period-accurate)**.
+- **Status:** USER-LOCKED.
+- **Method:** explicit user instruction («é tudo em inglês, não traduzas de qualquer jeito, põe tudo em consideração ao fazer a tradução, passado, futuro, cenas planejadas, back storie dos personagens e etc.»).
+- **Validation:** setting is Los Angeles, California in 2009 within the canon Modern Family universe; character voices, colloquialisms, comedic rhythm, and technical vocabulary require native English prose.
+- **Consequences:** all `EP*_DRAFT.md` files must be authored strictly in English. Existing drafts must be translated/adapted thoroughly with full attention to character psychology, planned arcs, and authentic American dialogue cadence.
+- **Dependencies:** `episodes/season-1/EP*_DRAFT.md`, `tests/test_prose_drafts.py`, ai-memory (`decisions/story-language-english.md`).
+
+## DEC-009 — Narrative style: modern theatrical prose and chameleonic POV
+
+- **Date:** 2026-11-19.
+- **Question:** what narrative register and perspective techniques govern the prose?
+- **Current result:** **Modern contemporary serialized fiction with theatrical staging and chameleonic free indirect discourse**.
+- **Status:** USER-LOCKED.
+- **Method:** explicit user instruction («usa uma escrita á la fanfics e models modernas, acho um pouco mais baseado em teatro... podes variar um pouco a escrita quando temos povs de personagens»).
+- **Validation:** combines visual/physical blocking (movement, prop interaction, active pauses, comedic/dramatic timing) with a narrative voice that adapts its lexical and emotional register to the viewpoint character (Nathan: analytical/understated; Alex: acerbic/intellectually defensive; Phil: bouncy/enthusiastic; Manny: romantic/operatic/baroque; Claire: rapid/pragmatic; Luke: whimsical/kinetic; Jay: gruff/practical).
+- **Dependencies:** `canon/narrative/MODERN_PROSE_AND_THEATRICAL_STYLE.md`, `episodes/season-1/EP*_DRAFT.md`, ai-memory (`decisions/theatrical-chameleonic-prose-style.md`).
+
+## DEC-010 — Multi-plot concurrency and director's cutting table
+
+- **Date:** 2026-11-19.
+- **Question:** how are parallel plots organized and presented to the reader?
+- **Current result:** **Time-bar concurrency mapping ($x \to y$) + Director's editorial cutting table**.
+- **Status:** USER-LOCKED.
+- **Method:** explicit user instruction («usar gráficos de tempo com barras de x a y para plotar os plots num gráfico e ver se eles ficam em paralelo... servimos como editores/diretores do que aparece, quando, do fluxo da cena»).
+- **Validation:** maintains $\ge 3$ simultaneous threads per episode, visualizes them via timeline bars, and makes deliberate directorial decisions on scene duration, pacing, POV allocation, and information disclosure (what is shown vs. what is left in the background).
+- **Dependencies:** `canon/narrative/SEASON_1_ARC_PLAN.md`, `brain/.../director_concurrency_matrix_season_1.md`, ai-memory (`concepts/multi-plot-concurrency-and-directors-cut.md`).
+
 ## Change protocol
 
 When a decision is changed:

@@ -72,6 +72,10 @@ Clifford e Heather ajustam-se ao ritmo executivo da Califórnia; preparação do
   - Luke inspeciona Nathan com curiosidade infantil desprovida de vergonha: *"És o rapaz novo da rua de baixo que corre sempre à mesma velocidade? O meu pai diz que pareces um robô da maratona."*
 - **Consequência:** Fica estabelecido o primeiro contacto direto e bem-humorado entre Nathan e Luke. Luke ganha simpatia imediata por Nathan não ter gozado com a fisga dele.
 
+### 24 de Outubro (Sábado) — A Livraria de Westwood e o Livro Raro [PROP-006]
+- **Contexto:** Manhã de sábado. Nathan acompanha Heather num recado ao bairro universitário de Westwood, perto da UCLA.
+- **Observação / Génese:** Enquanto Heather compra material de escritório, Nathan espreita uma livraria tradicional de alfarrabistas (*Second Chance Books*). Na montra de livros científicos antigos em segunda mão, avista uma edição de 1964 com capa de tecido vermelho: *The Feynman Lectures on Physics, Volume 1* [PROP-006]. Nathan repara no livro e lembra-se de uma conversa informal na biblioteca onde Alex mencionou querer consultar as notas de Feynman sobre mecânica. Nathan não compra o livro de imediato porque ainda quer verificar as suas poupanças, mas memoriza a localização na prateleira.
+
 ### 28 de Outubro (Quarta-feira) — A Corrida Matinal e Phil Dunphy
 - **Canon AU:** *Run for Your Wife*. Phil e Claire disputam uma corrida a pé pelo bairro para provar quem está em melhor forma física.
 - **Interseção:** Nathan faz a sua corrida matinal de condicionamento (6:45 da manhã).
@@ -100,3 +104,12 @@ Clifford e Heather ajustam-se ao ritmo executivo da Califórnia; preparação do
 2. **Relação Nathan / Haley:** Primeiro contacto registado; dinâmica de "irmã mais velha distante" estabelecida sem forçar intimidade precoce.
 3. **Relação Nathan / Alex:** Transição de curiosidade superficial para admiração intelectual consciente através do caderno de vetores [CLUE-002].
 4. **Estado do Jogo:** Motor 2D e deteção de colisões concluídos e operacionais a 60 FPS no iPhone 3GS. Próxima etapa: otimização de RAM e preparação do processo de submissão à Apple no EP04.
+
+---
+
+## Cortes Editoriais e Quebras de Perspetiva (Director's POV Cuts)
+
+1. **Corte Editorial 1 (22 de Outubro — Quintal dos Dunphy): Perspetiva de Luke Dunphy.**
+   - Luke sobe à casa da árvore no quintal com a bússola de metal antiga [CLUE-001] que encontrou nos arbustos. Guarda-a numa caixa de sapatos com arames e pilhas gastas, convencido de que o vizinho Nathan é um agente secreto que corre à mesma velocidade para não acionar minas terrestres. O raciocínio caótico e carinhoso de Luke em pleno contraste com a lógica matemática de Nathan.
+2. **Corte Editorial 2 (29 de Outubro — Quarto de Haley Dunphy): Perspetiva de Haley Dunphy.**
+   - Haley fecha a porta após receber a chave devolvida por Nathan. Volta para a chamada ao telemóvel com a amiga e comenta casualmente: *"A Alex agora tem um rapaz do clube de nerds que vem cá a casa devolver parafusos com calças impecavelmente passadas a ferro. Ele parece saído de um filme clássico dos anos cinquenta."* O detalhe exterioriza como a família perceciona Nathan sem que ele saiba.

@@ -55,13 +55,18 @@ Phil passa um fim de tarde frustrado a tentar emparelhar um comando universal in
 - **Contexto:** Tarde chuvosa. Alex vem a casa de Nathan para finalizar o relatório conjunto de física experimental da escola.
 - **Observação do Espaço:** Alex entra no quarto de Nathan e fica surpreendida:
   - Não há posters desportivos vistosos nem desordem típica de rapaz de 13 anos.
-  - A bancada tem o MacBook Pro [PROP-001] ligado ao telemóvel de testes [PROP-004], cabos organizados e o caderno de vetores [CLUE-002].
+  - A bancada tem o MacBook Pro [PROP-001] ligado ao telemóvel de testes [PROP-004], cabos organizados, o caderno de vetores [CLUE-002] e, pousada ao lado da base do ecrã, a peça de xadrez em madeira escura [CLUE-003] que Alex observa distraidamente enquanto tira os cadernos da mochila.
 - **Diálogo:**
   - Alex pega delicadamente no telemóvel de testes onde corre o build: *"É isto em que tens trabalhado todas as tardes na biblioteca?"*
   - Nathan, corando ligeiramente e baixando o olhar: *"É só um projeto pequeno de simulação. Não é grande coisa."*
   - Alex joga durante dois minutos, esquivando-se aos inimigos vermelhos que antecipam os seus movimentos através do campo vetorial. Ela larga o aparelho e fita Nathan com seriedade analítica: *"Estás a brincar comigo? Isto é mais avançado do que qualquer aplicação comercial que vi na loja da Apple. Porque é que dizes sempre que não é nada?"*
   - Nathan engole em seco e desvia a conversa para o relatório de física: *"Temos de entregar o gráfico de incertezas na segunda-feira."*
 - **Consequência:** A admiração de Alex transforma-se em genuíno respeito técnico e profunda curiosidade emocional sobre os motivos que levam Nathan a esconder o seu talento.
+
+### 07 de Novembro (Sábado) — A Experiência de Velocidade de Phil e o Cronómetro [PROP-005]
+- **Contexto:** Manhã de sábado ensolarada no passeio em frente à casa dos Callahan.
+- **Incidente Cómico:** Phil Dunphy e Luke estão no jardim com patins em linha e uma fita métrica industrial. Phil tenta provar uma "lei de aerodinâmica doméstica" que viu na televisão e precisa de medir a velocidade de Luke em centésimos de segundo. O telemóvel de Phil descarregou a bateria.
+- **Ação:** Nathan sai para correr com o seu cronómetro digital Casio [PROP-005]. Phil avista o relógio: *"Nathan! O homem com o tempo atómico no pulso! Podes emprestar-me o cronómetro por dez minutos antes que a Claire venha espreitar à janela?"* Nathan empresta o Casio cortesmente e ajuda a marcar as três partidas com precisão, salvando o dia de Phil e Luke.
 
 ### 11 de Novembro (Quarta-feira - Veterans Day) — Jay Pritchett na Loja de Ferragens
 - **Contexto:** Manhã de feriado. Nathan precisa de suportes de aço para elevar o monitor externo na sua secretária e visita uma drogaria/ferragens antiga em Santa Monica.
@@ -72,6 +77,10 @@ Phil passa um fim de tarde frustrado a tentar emparelhar um comando universal in
   - Jay solta uma gargalhada curta e aprobatória: *"Amén para isso, filho. Sou o Jay."*
   - Nathan aperta-lhe a mão com firmeza correta: *"Nathan Callahan. Bom dia, senhor."*
 - **Consequência:** Jay fica com uma impressão excelente e duradoura de Nathan como um jovem com cabeça nos ombros e bom senso prático.
+
+### 14 de Novembro (Sábado) — A Aquisição das Palestras de Feynman [PROP-006]
+- **Contexto:** Tarde de sábado em Westwood. Nathan regressa à livraria *Second Chance Books* com as suas economias guardadas das prendas anteriores.
+- **Ação:** Encontra o volume original de 1964 de *The Feynman Lectures on Physics* [PROP-006] com a capa vermelha ainda na secção de saldos por vinte e cinco dólares. Compra-o, leva-o para casa envolvido no saco de papel e guarda-o cuidadosamente na gaveta trancada da sua secretária, aguardando o momento oportuno para o oferecer a Alex no Natal sem gerar alarido.
 
 ### 15 de Novembro (Domingo) — Phil e a Cablagem da Sala
 - **Contexto:** Fim de tarde de domingo. Nathan regressa a pé da papelaria e passa pela casa dos Dunphys.
@@ -95,3 +104,12 @@ Phil passa um fim de tarde frustrado a tentar emparelhar um comando universal in
 2. **Relação Nathan / Phil Dunphy:** Consolidação da cumplicidade técnica e simpatia de Phil.
 3. **Relação Nathan / Alex:** Alex conhece o quarto e o projeto de Nathan; percebe a sua insegurança emocional e confronta-o sobre a autodesvalorização.
 4. **Estado do Jogo:** Versão 1.0 completamente finalizada, com memória RAM estabilizada abaixo de 35 MB e submetida à Apple. Aguarda aprovação para lançamento no EP05.
+
+---
+
+## Cortes Editoriais e Quebras de Perspetiva (Director's POV Cuts)
+
+1. **Corte Editorial 1 (06 de Novembro — Quarto de Nathan): Perspetiva de Alex Dunphy.**
+   - Alex observa Nathan enquanto ele desce à cozinha para trazer dois copos de sumo de maçã. Sozinha no quarto dele por dois minutos, Alex aproxima-se da secretária: toca suavemente na peça de xadrez em madeira escura [CLUE-003], olha para as folhas com os testes de limites de memória e para o terminal Unix. Pela primeira vez, ela compreende a solidão e a disciplina quase cirúrgica que sustentam a modéstia de Nathan. O choque de perceber que alguém da sua idade é capaz de tanta profundidade sem necessidade de validação exterior.
+2. **Corte Editorial 2 (11 de Novembro — Casa de Jay Pritchett): Perspetiva de Jay Pritchett.**
+   - Jay está na sua oficina na garagem a lixar as esquadrias que comprou na loja de ferragens. Bebe um gole de cerveja e comenta com Gloria enquanto ela passa para entrar no carro: *"Conheci um rapaz na loja hoje. Treze anos. Sabia a espessura de parafusos de aço galvanizado e não olhou para um ecrã de telemóvel uma única vez. Se o Manny passasse duas semanas a aprender o valor de uma porca bem apertada em vez de escrever poemas em guardanapos, o mundo andava para a frente."* Gloria revira os olhos com afeto: *"Jay, deixa o meu menino em paz, ele é um poeta sensível!"*

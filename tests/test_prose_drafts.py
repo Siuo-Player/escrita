@@ -34,14 +34,23 @@ class TestProseDrafts(unittest.TestCase):
             r"virado para a câmara",
             r"como um narrador de comédia",
             r"o destino sussurrou",
-            r"com um brilho premonitório nos olhos"
+            r"com um brilho premonitório nos olhos",
+            r"looking at the camera",
+            r"facing the camera",
+            r"like a sitcom narrator",
+            r"destiny whispered",
+            r"with a premonitory gleam"
         ]
         
         for draft in self.draft_files:
             content = draft.read_text(encoding='utf-8')
             
             # Deve conter diálogo real com travessões ou aspas
-            has_dialogue = bool(re.search(r'—\s+[A-ZÀ-Ú]', content)) or bool(re.search(r'«[^»]+»', content))
+            has_dialogue = (
+                bool(re.search(r'—\s+[A-ZÀ-Ú]', content)) or 
+                bool(re.search(r'«[^»]+»', content)) or
+                bool(re.search(r'"[^"\n]{2,}"', content))
+            )
             self.assertTrue(has_dialogue, f"O rascunho {draft.name} deve conter diálogo formatado.")
             
             # Não deve conter os clichés proibidos

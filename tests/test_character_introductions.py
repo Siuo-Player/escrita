@@ -48,5 +48,27 @@ class TestCharacterIntroductions(unittest.TestCase):
                 "Alex deve ter continuidade e evolução relacional a partir do EP01 para o EP02."
             )
 
+    def test_extended_canon_progressive_appearance(self):
+        """Verifica se os contactos canónicos respeitam a ordem de introdução planeada ao longo dos episódios."""
+        ep_map = {ep["file"]: ep for ep in self.parsed_episodes}
+        
+        # EP01 deve conter Alex, mas não a introdução de Manny ou Mitchell/Cam
+        if "EP01_BEFORE_AND_AFTER_OUTLINE.md" in ep_map:
+            content1 = ep_map["EP01_BEFORE_AND_AFTER_OUTLINE.md"]["path"].read_text(encoding='utf-8').lower()
+            self.assertIn("alex", content1)
+            self.assertNotIn("manny delgado", content1)
+            self.assertNotIn("cameron topar com", content1)
+            
+        # EP05 introduz Manny formalmente
+        if "EP05_LAUNCH_TRAJECTORY_OUTLINE.md" in ep_map:
+            content5 = ep_map["EP05_LAUNCH_TRAJECTORY_OUTLINE.md"]["path"].read_text(encoding='utf-8').lower()
+            self.assertIn("manny", content5)
+            
+        # EP06 introduz Cameron e Mitchell
+        if "EP06_WINTER_CONSTANTS_OUTLINE.md" in ep_map:
+            content6 = ep_map["EP06_WINTER_CONSTANTS_OUTLINE.md"]["path"].read_text(encoding='utf-8').lower()
+            self.assertIn("mitchell", content6)
+            self.assertIn("cameron", content6)
+
 if __name__ == '__main__':
     unittest.main()
