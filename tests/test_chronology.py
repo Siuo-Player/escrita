@@ -1,5 +1,5 @@
 """
-Testes de linearidade temporal, cronologia estrita e conformidade com o calendário gregoriano real.
+Testes de cronologia não decrescente e conformidade com o calendário gregoriano real.
 Valida o Single Source of Truth (EVENT_REGISTRY.md), os outlines e os drafts.
 """
 

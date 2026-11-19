@@ -42,7 +42,10 @@ def parse_date_string(text: str, default_year: int = 2009) -> Optional[datetime]
     iso_match = re.search(r'\b(20\d{2})-(\d{2})-(\d{2})\b', text)
     if iso_match:
         y, m, d = int(iso_match.group(1)), int(iso_match.group(2)), int(iso_match.group(3))
-        return datetime(y, m, d)
+        try:
+            return datetime(y, m, d)
+        except ValueError:
+            return None
         
     # Formato DD [de] Mês [de] [YYYY]
     date_match = re.search(r'\b(\d{1,2})\s+(?:de\s+)?([A-Za-zç]+)(?:\s+(?:de\s+)?(20\d{2}))?\b', text, re.IGNORECASE)
@@ -213,21 +216,33 @@ def extract_events_from_registry() -> List[Dict[str, Any]]:
         result = parts[7].strip()
         dep_docs = [d.strip().strip("`") for d in parts[8].split(",") if d.strip()] if len(parts) > 8 else []
         
-        # Extrair data ISO primária
-        iso_match = re.search(r'(20\d{2})-(\d{2})-(\d{2})', date_raw)
+        # Extrair data ISO primária e, quando exista, o fim do intervalo (ex.: 2009-09-14/15).
+        iso_match = re.search(r'\b(20\d{2})-(\d{2})-(\d{2})(?:/(\d{1,2}))?\b', date_raw)
         dt = None
+        date_end = None
         if iso_match:
-            dt = datetime(int(iso_match.group(1)), int(iso_match.group(2)), int(iso_match.group(3)))
-            
-        # Extrair dia da semana declarado
+            year, month, day = (int(iso_match.group(i)) for i in (1, 2, 3))
+            try:
+                dt = datetime(year, month, day)
+                date_end = datetime(year, month, int(iso_match.group(4))) if iso_match.group(4) else dt
+            except ValueError:
+                # Mantém a data como None para que o teste de integridade produza uma falha explícita.
+                dt = None
+                date_end = None
+
+        # Extrair o dia da semana inicial e, se indicado, o final.
         weekday_match = re.search(r'\(([A-Za-z]+)', date_raw)
+        weekday_range_match = re.search(r'\(([A-Za-z]+)-([A-Za-z]+)', date_raw)
         declared_weekday = weekday_match.group(1) if weekday_match else ""
-        
+        declared_weekday_end = weekday_range_match.group(2) if weekday_range_match else declared_weekday
+
         events.append({
             "id": evt_id,
             "date_raw": date_raw,
             "date": dt,
+            "date_end": date_end,
             "declared_weekday": declared_weekday,
+            "declared_weekday_end": declared_weekday_end,
             "episode": ep_raw,
             "location": location,
             "characters": characters,

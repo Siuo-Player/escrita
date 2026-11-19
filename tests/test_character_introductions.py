@@ -19,19 +19,53 @@ class TestCharacterIntroductions(unittest.TestCase):
         cls.parsed_episodes = [extract_episode_metadata(f) for f in cls.episodes_dir.glob("EP*_OUTLINE.md")]
         cls.events = extract_events_from_registry()
         
-        # Mapeamento canónico do primeiro encontro direto com Nathan (definido no EVENT_REGISTRY.md)
-        cls.first_direct_contact = {
-            "alex": 1,      # EVT-004 (18/09/2009)
-            "phil": 1,      # EVT-006 (28/09/2009)
-            "maxwell": 2,   # EVT-008 (02/10/2009)
-            "claire": 2,    # EVT-011 (10/10/2009)
-            "luke": 3,      # EVT-014 (22/10/2009)
-            "haley": 3,     # EVT-016 (29/10/2009)
-            "jay": 4,       # EVT-019 (11/11/2009)
-            "manny": 5,     # EVT-024 (01/12/2009)
-            "mitchell": 6,  # EVT-028 (19/12/2009)
-            "cameron": 6    # EVT-028 (19/12/2009)
+        # Os nomes canónicos são estáveis; o episódio de estreia é derivado do EVENT_REGISTRY.
+        # Eventos explicitamente marcados como paralelos não contam como encontro direto.
+        cls.character_patterns = {
+            "alex": r"\bAlex\b",
+            "phil": r"\bPhil\b",
+            "maxwell": r"\bMaxwell\b",
+            "claire": r"\bClaire\b",
+            "luke": r"\bLuke\b",
+            "haley": r"\bHaley\b",
+            "jay": r"\bJay\b",
+            "manny": r"\bManny\b",
+            "mitchell": r"\bMitchell\b",
+            "cameron": r"\bCameron\b",
         }
+        cls.first_direct_contact = cls._derive_first_contact_episodes()
+
+    @classmethod
+    def _derive_first_contact_episodes(cls):
+        first_contact = {}
+        for event in cls.events:
+            participants = event["characters"]
+            normalized = [participant.casefold() for participant in participants]
+            if "nathan" not in normalized:
+                continue
+            if any("parallel" in participant for participant in normalized):
+                continue
+
+            episode_match = re.fullmatch(r"EP(\d{2})", event["episode"].strip())
+            if not episode_match:
+                continue
+            episode_number = int(episode_match.group(1))
+            participant_text = " ".join(participants)
+
+            for character, pattern in cls.character_patterns.items():
+                if re.search(pattern, participant_text, re.IGNORECASE):
+                    first_contact[character] = min(
+                        episode_number, first_contact.get(character, episode_number)
+                    )
+        return first_contact
+
+    def test_registry_defines_every_tracked_character_introduction(self):
+        """Assegura que o registo tem um primeiro evento elegível para cada personagem monitorizada."""
+        self.assertEqual(
+            set(self.first_direct_contact),
+            set(self.character_patterns),
+            "EVENT_REGISTRY.md deve definir o primeiro evento com Nathan para todas as personagens monitorizadas.",
+        )
 
     def test_progressive_character_discovery(self):
         """Verifica se os contactos canónicos não são despejados em bloco imediato no primeiro episódio."""

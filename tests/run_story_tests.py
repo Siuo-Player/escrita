@@ -27,10 +27,12 @@ def main():
     print("\n" + "=" * 70)
     if result.wasSuccessful():
         print(f"  RESULTADO: SUCESSO! Todos os {result.testsRun} testes passaram.")
-        print("  - Linearidade temporal validada.")
-        print("  - Política anti-filler (>= 3 tramas) confirmada.")
-        print("  - Introdução orgânica e continuidade preservadas.")
-        print("  - Registo de adereços e pistas auditado.")
+        print("  - Datas, dias da semana e ordem cronológica passaram as verificações determinísticas.")
+        print("  - EVENT_REGISTRY: IDs, intervalos, story windows e referências documentais alinhados.")
+        print("  - Estreias de personagens derivadas do registo; verificações de contacto prematuro por padrões.")
+        print("  - Tramas e consequências: apenas estrutura declarada/indicadores textuais são verificados.")
+        print("  - Prosa: verificações mecânicas; qualidade literária, naturalidade e causalidade semântica exigem revisão humana.")
+        print("  - Props/pistas: verificações estruturais e temporais, não compreensão narrativa automática.")
         print("=" * 70)
         return 0
     else:
