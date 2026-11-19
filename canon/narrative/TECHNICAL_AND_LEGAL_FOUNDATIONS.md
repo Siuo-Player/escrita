@@ -42,11 +42,11 @@ For a $0.99 listing, do not write that Nathan personally receives exactly $0.693
 The following are suitable high-level constraints for scenes set in late 2009:
 
 - **CPU:** Samsung S5PC100 / ARM Cortex-A8, reported at 600 MHz in the iPhone 3GS.
-- **GPU:** PowerVR SGX535; Apple's June 2009 announcement explicitly confirms OpenGL ES 2.0 support.
+- **GPU:** PowerVR SGX graphics family (commonly identified as SGX535 in contemporary development references); Apple's June 2009 announcement explicitly confirms OpenGL ES 2.0 support.
 - **RAM:** 256 MB physical memory in the iPhone 3GS. This is the total device memory, not memory reserved for one application.
 - **Display:** 3.5-inch, 480 × 320 pixels, approximately 163 ppi.
 
-The 600 MHz / 256 MB specifications are supported by specialist hardware references rather than Apple's June 2009 press release. Apple's own announcement confirms OpenGL ES 2.0. [Sources E, F]
+The 600 MHz S5PC100 / 256 MB specifications are supported by a contemporaneous June 2009 teardown report and specialist hardware references rather than Apple's June 2009 press release. A September 2009 iPhone-game performance presentation also contains Instruments traces using the `IMGSGX535GLDriv` driver, which corroborates the SGX535 identification. Apple's own announcement confirms OpenGL ES 2.0. [Sources E, F, H, I]
 
 **Colour depth:** The previous claim of an 18-bit display (262,144 colours) is removed from the canonical baseline. Third-party specification pages disagree about how to describe the panel's colour depth, and the primary Apple announcement does not settle that technical detail. It is not important to the story's current engineering constraints.
 
@@ -92,9 +92,11 @@ The 45 MB spike should be an earlier failed stress-test result that motivates op
 | B | [iPhone Developer Program License Agreement, revision 17 March 2009 (archived copy)](https://www.eff.org/files/20100302_iphone_dev_agr.pdf) | Legal-age/authorized-organization signer; account holder responsibility; Apple selection/signing; separate Schedule 2 for paid apps | The PDF bears revision “3-17-09”; the linked copy does not include the separate Schedule 2 |
 | C | [Apple, “Apple Announces iPhone 2.0 Software Beta”, 6 March 2008](https://www.apple.com/newsroom/2008/03/06Apple-Announces-iPhone-2-0-Software-Beta/) | Launch-era 70/30 developer/Apple revenue model | Historical launch policy; not a full statement of the later paid-app settlement process |
 | D | [Appiphany Technologies Holdings, 2011 Form 10-K](https://www.sec.gov/Archives/edgar/data/1490054/000107878211002280/appiphany10k043011.htm) | A company reports entering the iPhone Developer Program in June 2009 and describes Apple’s 30% / developer’s 70% model | Contemporaneous company filing, but not Apple's own agreement |
-| E | [iFixit iPhone Comparison — iPhone 3GS](https://www.ifixit.com/Wiki/iPhone_Comparison) | 600 MHz Cortex-A8, 256 MB RAM, display size/resolution/density | Specialist secondary hardware reference; Apple did not publish every internal component in its launch release |
+| E | [iFixit iPhone Comparison — iPhone 3GS](https://www.ifixit.com/Wiki/iPhone_Comparison) | Display size/resolution/density, PowerVR SGX family, 600 MHz Cortex-A8, 256 MB RAM | Specialist secondary hardware reference; Apple did not publish every internal component in its launch release |
 | F | [Apple, “Apple Announces the New iPhone 3GS”, 8 June 2009](https://www.apple.com/newsroom/2009/06/08Apple-Announces-the-New-iPhone-3GS-The-Fastest-Most-Powerful-iPhone-Yet/) | iPhone OS 3.0, OpenGL ES 2.0, launch-era features and capabilities | Primary Apple press release; not a full technical datasheet |
 | G | [Apple Developer Archive — Memory Usage Performance Guidelines, “Tips for Allocating Memory”](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/MemoryAlloc.html) | No disk-backed swap; low-memory warnings, releasing references/caches, possible process termination | Apple archived developer guidance; current archive page is dated 2013, so it supports the general memory-management model, not a numeric 2009 threshold |
+| H | [WIRED, “iPhone Teardown Reveals Underclocked 833MHz CPU”, 19 June 2009](https://www.wired.com/2009/06/iphone-teardown-reveals-underclocked-833mhz-cpu/) | Identifies the Samsung S5PC100 at 600 MHz and reports 256 MB memory | Contemporary teardown reporting; its explanation of why Apple chose 600 MHz is inference, not an Apple statement |
+| I | [Noel Llopis, “Squeezing Every Drop Of Performance Out Of The iPhone”, iPhoneGames Summit, September 2009](https://gamesfromwithin.com/wp-content/uploads/2009/09/iPhone_performance.pdf) | Shows Instruments used for frame-rate, CPU, OpenGL ES and memory profiling on a real iPhone; includes the SGX535 driver identifier | Contemporary developer presentation; useful for realistic profiling practices, not a specification or benchmark of Nathan's fictional game |
 
 ### Open research questions
 
