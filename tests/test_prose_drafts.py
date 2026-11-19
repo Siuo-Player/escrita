@@ -1,8 +1,8 @@
 """
-Testes de qualidade e integridade dos rascunhos de prosa (EP*_DRAFT.md):
-- Verifica conformidade com as normas de diálogo e estilo narrativo.
-- Verifica ausência de clichés de IA e monólogos virados para a câmara.
-- Confirma que cada rascunho em prosa tem um outline de referência válido.
+Verificações mecânicas dos rascunhos de prosa (EP*_DRAFT.md):
+- Confirma que cada rascunho tem um outline correspondente.
+- Procura marcadores de diálogo e uma lista fixa de expressões proibidas.
+- Não avalia idioma, naturalidade, voz, POV, ritmo ou qualidade literária.
 """
 
 import unittest
