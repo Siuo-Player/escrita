@@ -372,9 +372,9 @@ He navigated his blue avatar through the choke points, baiting the agents into t
 
 In the upper-left corner of the display, the hardware performance metrics held absolute:
 
-`FPS: 60.0 | CPU: 18% | RAM: 28.4 MB`
+`FPS: 60.0 | CPU: 18% | LIVE HEAP: 28.4 MB`
 
-Nathan played for fifteen continuous minutes.
+Nathan played for fifteen continuous minutes. The 28.4 MB figure was the live heap attributed to his application in the Instruments trace, not the total physical RAM in the phone; iPhone OS, graphics and other processes used the same 256 MB pool.
 
 The handheld never grew hot against his palms. The battery gauge dropped by a single percentage point.
 

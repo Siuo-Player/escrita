@@ -17,14 +17,14 @@ Target finished length: **10,000–14,000+ words**.
 
 **A disciplina do hardware e a primeira partilha de espaço íntimo.**
 
-O código do jogo funciona, mas a arquitetura móvel de 2009 impõe um limite impiedoso: a memória RAM ativa raramente pode ultrapassar 40 MB sem o sistema operativo abortar o processo com um sinal de baixa memória. Nathan tem de perseguir fugas de memória e reutilizar buffers em C++ puro. No plano pessoal, as barreiras de isolamento que Nathan ergueu começam a ruir: Alex visita pela primeira vez a casa dos Callahan para uma sessão de estudo colaborativo e vê o seu espaço de trabalho; Jay Pritchett reconhece nele a postura séria de quem sabe manusear ferramentas; e Phil Dunphy ganha uma dívida de gratidão tecnológica.
+O código do jogo funciona, mas o iPhone 3GS partilha os seus 256 MB de memória física entre o sistema operativo, os serviços e a aplicação de Nathan; não existe um limite universal de 40 MB por aplicação. Sob pressão de memória, o iOS pode pedir à aplicação que liberte recursos e, em casos extremos, terminar o processo. Nathan tem de separar alocações temporárias excessivas de referências que ficam retidas por engano, medir o heap da sua própria aplicação e libertar caches reconstruíveis. O objetivo de menos de 35 MB é uma margem de engenharia que ele próprio escolheu, não uma regra da Apple. No plano pessoal, as barreiras de isolamento que Nathan ergueu começam a ruir: Alex visita pela primeira vez a casa dos Callahan para uma sessão de estudo colaborativo e vê o seu espaço de trabalho; Jay Pritchett reconhece nele a postura séria de quem sabe manusear ferramentas; e Phil Dunphy ganha uma dívida de gratidão tecnológica.
 
 ---
 
 ## Persistent threads
 
 ### A — Nathan / Jogo (Trama Principal)
-Perfilagem de memória com o Instruments da Apple sob Mac OS X Snow Leopard → substituição de alocações dinâmicas contínuas por uma pool estática de entidades de jogo → submissão do binário final à aprovação da Apple na App Store.
+Perfilagem de alocações e tempo de frame com Instruments sob Mac OS X Snow Leopard → correção de referências temporárias que permaneciam vivas após reiniciar a pesquisa → reutilização de nós transitórios através de uma pool de tamanho fixo para reduzir churn do allocator → libertação de caches reconstruíveis perante avisos de memória → submissão do binário final à revisão da Apple.
 
 ### B — Nathan + Alex (Subtrama Relacional 1)
 Primeira sessão de estudo na casa de Nathan (06 de novembro). Alex repara na organização quase militar da secretária de Nathan, no MacBook Pro [PROP-001] e no iPhone 3GS de testes [PROP-004]. Nathan admite a sua insegurança em relação à receção do jogo.
@@ -43,9 +43,9 @@ Phil passa um fim de tarde frustrado a tentar emparelhar um comando universal in
 ## Cenas e Cronologia Linear
 
 ### 02 de Novembro (Segunda-feira) — O Alerta de Memória
-- **Contexto:** Quarto de Nathan, 21:00. O Instruments do Xcode acusa um consumo crescente de RAM no iPhone 3GS [PROP-004] ao fim de 15 minutos de execução.
-- **Ação Técnica:** Nathan percebe que os nós de pesquisa do algoritmo de caminhos estão a ser instanciados com `new` e destruídos com `delete` centenas de vezes por frame, fragmentando o espaço de heap.
-- **Solução:** Desenha uma estrutura pré-alocada de *object pool* de tamanho fixo em C++, eliminando qualquer alocação durante o gameplay ativo.
+- **Contexto:** Quarto de Nathan, 21:00. Após um teste prolongado no iPhone 3GS [PROP-004], o Instruments mostra que o número de alocações temporárias por frame é elevado e que parte da memória usada por pesquisas antigas continua retida depois de reiniciar o nível. O aviso de memória que recebe durante um teste sob pressão do sistema não corresponde a um limite fixo de megabytes.
+- **Diagnóstico:** Nathan separa duas causas que inicialmente confundira: criar e destruir nós a cada frame aumenta o trabalho do allocator; referências esquecidas a buffers de pesquisa antigos mantêm memória viva mesmo quando o nível já foi reiniciado.
+- **Solução:** Corrige o ciclo de vida dos buffers e liberta as referências obsoletas. Depois introduz uma *object pool* de tamanho fixo para reutilizar nós transitórios e reduzir churn do allocator. A pool estabiliza as alocações; não reduz por si só o tamanho dos objetos que continuam vivos. O código de interface UIKit recebe o aviso de memória e pede ao motor C++ que descarte caches reconstruíveis.
 
 ### 04 de Novembro (Quarta-feira) — Paralelo com *En Garde*
 - **Canon AU:** Manny participa na competição de esgrima e a família celebra o seu sucesso desportivo temporário.
@@ -93,7 +93,8 @@ Phil passa um fim de tarde frustrado a tentar emparelhar um comando universal in
 ### 18 de Novembro (Quarta-feira) — Submissão à Apple e *Great Expectations*
 - **Canon AU:** Phil prepara a noite comemorativa de aniversário com a banda Spandau Ballet.
 - **Marco de Nathan:** Às 23:15, no seu quarto, Nathan revê o checksum do pacote binário compilado.
-- Clica no botão **Submit for Review** no portal do iOS Developer Center.
+- Clifford, como titular adulto da conta de desenvolvimento, confirma que os termos do programa e o acordo separado necessário para aplicações pagas estão tratados.
+- Sob supervisão do pai, Nathan prepara e envia o binário através da conta de Clifford; a aplicação fica **Submit for Review**.
 - Nathan recosta-se na cadeira. O coração bate rápido: o primeiro projeto independente está nas mãos dos revisores de Cupertino.
 
 ---
@@ -103,7 +104,7 @@ Phil passa um fim de tarde frustrado a tentar emparelhar um comando universal in
 1. **Relação Nathan / Jay Pritchett:** Primeiro contacto estabelecido com impressão de respeito mútuo por pragmatismo e qualidade de construção.
 2. **Relação Nathan / Phil Dunphy:** Consolidação da cumplicidade técnica e simpatia de Phil.
 3. **Relação Nathan / Alex:** Alex conhece o quarto e o projeto de Nathan; percebe a sua insegurança emocional e confronta-o sobre a autodesvalorização.
-4. **Estado do Jogo:** Versão 1.0 completamente finalizada, com memória RAM estabilizada abaixo de 35 MB e submetida à Apple. Aguarda aprovação para lançamento no EP05.
+4. **Estado do Jogo:** Versão 1.0 completamente finalizada. Nos testes definidos por Nathan, o heap vivo da aplicação mantém-se abaixo da sua meta pessoal de 35 MB; o valor não representa a RAM total do dispositivo nem um limite imposto pela Apple. O binário é submetido à revisão da App Store e aguarda aprovação para lançamento no EP05.
 
 ---
 
