@@ -22,16 +22,16 @@ class TestCharacterIntroductions(unittest.TestCase):
         # Os nomes canónicos são estáveis; o episódio de estreia é derivado do EVENT_REGISTRY.
         # Eventos explicitamente marcados como paralelos não contam como encontro direto.
         cls.character_patterns = {
-            "alex": r"\\bAlex\\b",
-            "phil": r"\\bPhil\\b",
-            "maxwell": r"\\bMaxwell\\b",
-            "claire": r"\\bClaire\\b",
-            "luke": r"\\bLuke\\b",
-            "haley": r"\\bHaley\\b",
-            "jay": r"\\bJay\\b",
-            "manny": r"\\bManny\\b",
-            "mitchell": r"\\bMitchell\\b",
-            "cameron": r"\\bCameron\\b",
+            "alex": r"\bAlex\b",
+            "phil": r"\bPhil\b",
+            "maxwell": r"\bMaxwell\b",
+            "claire": r"\bClaire\b",
+            "luke": r"\bLuke\b",
+            "haley": r"\bHaley\b",
+            "jay": r"\bJay\b",
+            "manny": r"\bManny\b",
+            "mitchell": r"\bMitchell\b",
+            "cameron": r"\bCameron\b",
         }
         cls.first_direct_contact = cls._derive_first_contact_episodes()
 
@@ -46,7 +46,7 @@ class TestCharacterIntroductions(unittest.TestCase):
             if any("parallel" in participant for participant in normalized):
                 continue
 
-            episode_match = re.fullmatch(r"EP(\\d{2})", event["episode"].strip())
+            episode_match = re.fullmatch(r"EP(\d{2})", event["episode"].strip())
             if not episode_match:
                 continue
             episode_number = int(episode_match.group(1))
