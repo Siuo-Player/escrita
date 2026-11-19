@@ -19,7 +19,7 @@ class TestEventRegistryAlignment(unittest.TestCase):
         cls.episodes_dir = REPO_ROOT / "episodes" / "season-1"
         cls.outlines = {}
         for path in sorted(cls.episodes_dir.glob("EP*_OUTLINE.md")):
-            match = re.match(r"^(EP\\d{2})_", path.name)
+            match = re.match(r"^(EP\d{2})_", path.name)
             if match:
                 cls.outlines[match.group(1)] = extract_episode_metadata(path)
 
@@ -44,7 +44,7 @@ class TestEventRegistryAlignment(unittest.TestCase):
         for event in self.events:
             event_id = event["id"]
             episode = event["episode"].strip()
-            self.assertRegex(episode, r"^EP\\d{2}$", f"{event_id}: código de episódio inválido: {episode!r}.")
+            self.assertRegex(episode, r"^EP\d{2}$", f"{event_id}: código de episódio inválido: {episode!r}.")
             self.assertIn(episode, self.outlines, f"{event_id}: não existe outline para {episode}.")
             self.assertIsNotNone(event["date"], f"{event_id}: data inicial inválida: {event['date_raw']!r}.")
             self.assertIsNotNone(event["date_end"], f"{event_id}: data final inválida: {event['date_raw']!r}.")
