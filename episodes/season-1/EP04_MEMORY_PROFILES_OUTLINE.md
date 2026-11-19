@@ -51,7 +51,7 @@ Phil passa um fim de tarde frustrado a tentar emparelhar um comando universal in
 - **Canon AU:** Manny participa na competição de esgrima e a família celebra o seu sucesso desportivo temporário.
 - **Nathan:** Na escola, durante o intervalo, Nathan e Maxwell Whitaker analisam o próximo adversário da equipa de futebol escolar. Maxwell nota que Nathan tem estado mais calado que o habitual devido ao esforço de programação, mas no treino de campo Nathan continua a cumprir o seu papel tático com perfeição.
 
-### 06 de Novembro (Sexta-feira) — Alex na Casa dos Callahan
+### 06 de Novembro (Sexta-feira) — Alex na Casa dos Callahan <!-- EVT-017 | 2009-11-06 | 2009-11-06 -->
 - **Contexto:** Tarde chuvosa. Alex vem a casa de Nathan para finalizar o relatório conjunto de física experimental da escola.
 - **Observação do Espaço:** Alex entra no quarto de Nathan e fica surpreendida:
   - Não há posters desportivos vistosos nem desordem típica de rapaz de 13 anos.
@@ -63,12 +63,12 @@ Phil passa um fim de tarde frustrado a tentar emparelhar um comando universal in
   - Nathan engole em seco e desvia a conversa para o relatório de física: *"Temos de entregar o gráfico de incertezas na segunda-feira."*
 - **Consequência:** A admiração de Alex transforma-se em genuíno respeito técnico e profunda curiosidade emocional sobre os motivos que levam Nathan a esconder o seu talento.
 
-### 07 de Novembro (Sábado) — A Experiência de Velocidade de Phil e o Cronómetro [PROP-005]
+### 07 de Novembro (Sábado) — A Experiência de Velocidade de Phil e o Cronómetro [PROP-005] <!-- EVT-018 | 2009-11-07 | 2009-11-07 -->
 - **Contexto:** Manhã de sábado ensolarada no passeio em frente à casa dos Callahan.
 - **Incidente Cómico:** Phil Dunphy e Luke estão no jardim com patins em linha e uma fita métrica industrial. Phil tenta provar uma "lei de aerodinâmica doméstica" que viu na televisão e precisa de medir a velocidade de Luke em centésimos de segundo. O telemóvel de Phil descarregou a bateria.
 - **Ação:** Nathan sai para correr com o seu cronómetro digital Casio [PROP-005]. Phil avista o relógio: *"Nathan! O homem com o tempo atómico no pulso! Podes emprestar-me o cronómetro por dez minutos antes que a Claire venha espreitar à janela?"* Nathan empresta o Casio cortesmente e ajuda a marcar as três partidas com precisão, salvando o dia de Phil e Luke.
 
-### 11 de Novembro (Quarta-feira - Veterans Day) — Jay Pritchett na Loja de Ferragens
+### 11 de Novembro (Quarta-feira - Veterans Day) — Jay Pritchett na Loja de Ferragens <!-- EVT-019 | 2009-11-11 | 2009-11-11 -->
 - **Contexto:** Manhã de feriado. Nathan precisa de suportes de aço para elevar o monitor externo na sua secretária e visita uma drogaria/ferragens antiga em Santa Monica.
 - **Encontro:** Jay Pritchett está na mesma secção à procura de rebites e lixas de acabamento.
   - Jay vê um miúdo de 13 anos a comparar a espessura de cantoneiras galvanizadas e a testar a rosca dos parafusos com os dedos.
@@ -78,7 +78,7 @@ Phil passa um fim de tarde frustrado a tentar emparelhar um comando universal in
   - Nathan aperta-lhe a mão com firmeza correta: *"Nathan Callahan. Bom dia, senhor."*
 - **Consequência:** Jay fica com uma impressão excelente e duradoura de Nathan como um jovem com cabeça nos ombros e bom senso prático.
 
-### 14 de Novembro (Sábado) — A Aquisição das Palestras de Feynman [PROP-006]
+### 14 de Novembro (Sábado) — A Aquisição das Palestras de Feynman [PROP-006] <!-- EVT-020 | 2009-11-14 | 2009-11-14 -->
 - **Contexto:** Tarde de sábado em Westwood. Nathan regressa à livraria *Second Chance Books* com as suas economias guardadas das prendas anteriores.
 - **Ação:** Encontra o volume original de 1964 de *The Feynman Lectures on Physics* [PROP-006] com a capa vermelha ainda na secção de saldos por vinte e cinco dólares. Compra-o, leva-o para casa envolvido no saco de papel e guarda-o cuidadosamente na gaveta trancada da sua secretária, aguardando o momento oportuno para o oferecer a Alex no Natal sem gerar alarido.
 
@@ -90,7 +90,7 @@ Phil passa um fim de tarde frustrado a tentar emparelhar um comando universal in
 - Phil fica eufórico: *"És um mago, Nathan! Um verdadeiro Gandalf dos circuitos! A Claire não pode sonhar que não fui eu a decifrar isto à primeira."*
 - Nathan sorri discretamente e garante que o segredo fica seguro.
 
-### 18 de Novembro (Quarta-feira) — Submissão à Apple e *Great Expectations*
+### 18 de Novembro (Quarta-feira) — Submissão à Apple e *Great Expectations* <!-- EVT-021 | 2009-11-18 | 2009-11-18 -->
 - **Canon AU:** Phil prepara a noite comemorativa de aniversário com a banda Spandau Ballet.
 - **Marco de Nathan:** Às 23:15, no seu quarto, Nathan revê o checksum do pacote binário compilado.
 - Clica no botão **Submit for Review** no portal do iOS Developer Center.
