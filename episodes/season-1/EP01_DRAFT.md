@@ -1,5 +1,10 @@
 # Season 1, Episode 1 — Before and After
 
+<!-- WD-001 -->
+<!-- WD-002 -->
+<!-- WD-003 -->
+<!-- WD-004 -->
+
 **Story Window:** September 7–30, 2009  
 **Status:** FULL PROSE DRAFT (Movements I, II, and III)  
 **Active Threads:** Thread A (C++ Engine / Flow Field), Thread B (Callahan Family / Relocation), Thread C (Soccer / Athletic Adaptation), Thread D (Arrival in California & Alex Dunphy), Thread E (Phil Dunphy / Neighborhood).
@@ -374,9 +379,9 @@ From the first floor, a loud metallic crash of pots echoed up the stairwell, fol
 
 ---
 
-## MOVEMENT III: SEPTEMBER 21–30 — PILOT PARALLELS, STREET PHYSICS, AND THE MORNING JOG
+## MOVEMENT III: SEPTEMBER 21–30 — PARALLEL FAMILY EVENTS, STREET PHYSICS, AND THE MORNING JOG
 
-### Scene 7 — September 23, 2009 (Wednesday): The Pilot Airs and the Determinant Check
+### Scene 7 — September 23, 2009 (Wednesday): The Dunphy Family's New Beginning and the Determinant Check
 
 On Wednesday afternoon, September 23, golden California autumn light bathed Nathan’s bedroom in Cheviot Hills.
 
@@ -384,13 +389,13 @@ On the mahogany desk, the MacBook Pro [PROP-001] was compiling a fresh build of 
 
 Nathan sat angled in his chair, feet propped on the base of his desk, the grid notebook [CLUE-002] open on his thighs.
 
-A few miles away, at 10242 in the suburban neighborhood, the pilot episode of *Modern Family* was running its course.
+A few miles away, at 10242 in the neighborhood, the families were living through one of the days Nathan had once watched unfold on a screen.
 
 Dylan was likely sitting on the living room sofa with his acoustic guitar; Phil was rehearsing his clumsy peer-parent routine; Claire was frantically checking cell phones; and on a commercial flight inbound from Vietnam, Mitchell and Cameron were preparing to introduce baby Lily to the family in theatrical fashion.
 
 Nathan lowered his mechanical pencil.
 
-For a fraction of a second, an idle curiosity pulled at him: he could catch the crosstown bus, walk down that sidewalk, and witness the eccentric sitcom reality firsthand.
+For a fraction of a second, an idle curiosity pulled at him: he could catch the crosstown bus, walk down that sidewalk, and witness the Dunphy household's chaos firsthand.
 
 He crushed the thought instantly.
 
