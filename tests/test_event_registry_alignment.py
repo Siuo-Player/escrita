@@ -162,6 +162,21 @@ class TestEventRegistryAlignment(unittest.TestCase):
                 f"{event_id}: a data final da âncora diverge do EVENT_REGISTRY.md.",
             )
 
+    def test_parser_reports_invalid_gregorian_dates(self):
+        """Datas impossíveis têm de produzir um diagnóstico e não podem ser aceites como eventos válidos."""
+        malformed_registry = """
+| Event ID | Date | Episode | Location | Characters | Trigger | Action | Result | Dependent Documents |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **EVT-001** | **2009-02-30 (Mon)** | **EP01** | Seattle | Nathan | Birthday | Opens game | Flow field started | `EP01_BEFORE_AND_AFTER_OUTLINE.md` |
+"""
+        parsed_events, issues = parse_event_registry_content(malformed_registry)
+        self.assertEqual(len(parsed_events), 1)
+        self.assertIsNone(parsed_events[0]["date"])
+        self.assertTrue(
+            any("data ISO inválida" in issue for issue in issues),
+            f"A data impossível devia produzir um diagnóstico; recebido: {issues}",
+        )
+
     def test_canonical_registry_contains_no_malformed_event_rows(self):
         """Nenhuma linha com EVT- pode desaparecer silenciosamente durante o parsing."""
         registry_path = REPO_ROOT / "canon" / "narrative" / "EVENT_REGISTRY.md"
