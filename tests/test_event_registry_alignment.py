@@ -128,7 +128,7 @@ class TestEventRegistryAlignment(unittest.TestCase):
                 for match in anchor_pattern.finditer(line):
                     self.assertRegex(
                         line,
-                        r"^\\s*#{1,6}\\s",
+                        r"^\s*#{1,6}\s",
                         f"{episode}:{line_number}: a âncora do evento tem de estar associada a um heading Markdown.",
                     )
                     event_id, date_start, date_end = match.groups()
