@@ -1,9 +1,14 @@
 # Authoritative Event Registry (Single Source of Truth)
 
+<!-- WD-003 -->
+<!-- WD-004 -->
+
 Status: AUTHORITATIVE CAUSAL CHRONOLOGY  
 Updated: 2026-11-19
 
 This ledger serves as the **Single Source of Truth (SSOT)** for all major plot events, character introductions, and persistent state transitions across the series. Character profiles, episode outlines, prose drafts, and test suites must cross-reference and adhere to this registry.
+
+**Parallel-world rule:** the events corresponding to Nathan's remembered *Modern Family* episodes are lived events involving real people in this world. Episode titles in this ledger are source-memory/editorial labels, not current-world broadcasts. See [WORLD_DIFFERENCE_REGISTRY.md](WORLD_DIFFERENCE_REGISTRY.md).
 
 **Coverage status:** partial. The 28 events currently registered cover EP01–EP06 through 19 December 2009. The wider Season 1 plan extends beyond this date; later episodes must be added to this ledger before their outlines/drafts are treated as chronologically integrated.
 
