@@ -47,16 +47,16 @@ O primeiro feriado de Ação de Graças (Thanksgiving) da família Callahan em C
 - **Ação:** Nathan faz o acompanhamento dos fóruns de programadores da Apple no MacBook Pro [PROP-001]. A média de aprovação em novembro de 2009 variava entre sete e catorze dias úteis devido ao pico de aplicações pré-feriados.
 - **Estado Interno:** A ansiedade silenciosa de Nathan: medo de rejeição técnica nos certificados de código ou de incompatibilidade não detetada com o sistema operativo iPhone OS 3.1.
 
-### 25 de Novembro (Quarta-feira) — O Aniversário de Luke e o Incidente de Fizbo
+### 25 de Novembro (Quarta-feira) — O Aniversário de Luke e o Incidente de Fizbo <!-- EVT-022 | 2009-11-25 | 2009-11-25 -->
 - **Canon AU:** Acontece a festa caótica de aniversário de Luke: Cameron veste-se de Fizbo, a confusão instala-se com o escorregador e o castelo insuflável, e Luke acaba no hospital com o braço fraturado.
 - **Interseção Causal:** Ao final da tarde, Phil chega a casa com Luke com a tala de gesso e os olhos avermelhados de exaustão. Nathan, que regressava da mercearia local com pão e leite para Heather, vê Phil a lutar para abrir a porta do carro segurando a medicação e a pasta de raio-X.
 - **Gesto de Nathan:** Nathan segura a porta, leva o saco das compras e auxilia Luke com calma prática, sem rir do gesso nem fazer perguntas embaraçosas. Luke murmura: *"O meu aniversário foi fixe até o castelo tentar engolir-me."* Nathan responde com seriedade: *"Tens uma boa história para contar quando as aulas recomeçarem."* Phil olha para Nathan com olhos brilhantes de agradecimento paternal.
 
-### 26 de Novembro (Quinta-feira, Thanksgiving) — O Primeiro Ação de Graças em Cheviot Hills
+### 26 de Novembro (Quinta-feira, Thanksgiving) — O Primeiro Ação de Graças em Cheviot Hills <!-- EVT-023 | 2009-11-26 | 2009-11-26 -->
 - **Contexto:** Casa dos Callahan. Heather prepara um peru assado com recheio tradicional de nozes e maçãs. Clifford está descontraído de camisa polo, afastado dos servidores pela primeira vez em três meses.
 - **Dinâmica Familiar:** Os pais elogiam a maturidade de Nathan e a forma impecável como ele se adaptou à escola e ao clube de futebol sem uma única queixa. Clifford pergunta sobre o jogo na Apple; Nathan explica que a revisão técnica pode demorar até duas semanas devido ao feriado nacional. O ambiente é acolhedor, sóbrio e afetivo.
 
-### 01 de Dezembro (Terça-feira) — O Cavalo Negro e Manny Delgado na Biblioteca
+### 01 de Dezembro (Terça-feira) — O Cavalo Negro e Manny Delgado na Biblioteca <!-- EVT-024 | 2009-12-01 | 2009-12-01 -->
 - **Contexto:** Biblioteca Municipal de Westwood, 16:15. Nathan está numa mesa de leitura a estudar grafos direcionados para a futura versão 1.1 do motor.
 - **Encontro:** Numa mesa lateral de madeira maciça, Manny Delgado (11 anos), impecavelmente vestido de camisa engomada e colete de lã bordô, estuda um final de peões e torres num tabuleiro de xadrez com peças de madeira pública. Manny está visivelmente frustrado com a variante.
 - **Interação:** Nathan levanta-se para devolver um livro técnico. Ao passar pela mesa de Manny, repara na posição de bloqueio do rei branco. No bolso exterior da mochila de Nathan repousa a peça de xadrez do avô [CLUE-003].
@@ -68,13 +68,13 @@ O primeiro feriado de Ação de Graças (Thanksgiving) da família Callahan em C
   - Manny cumprimenta-o com um aperto de mão formal: *"Manuel Alberto Javier Alejandro Delgado. Um prazer, Nathan. Poucas pessoas nesta cidade compreendem o sacrifício estratégico em prol da estética."*
 - **Consequência:** Estabelecida a ponte de respeito mútuo com Manny.
 
-### 03 de Dezembro (Quinta-feira) — O E-mail da Apple e o Lançamento
+### 03 de Dezembro (Quinta-feira) — O E-mail da Apple e o Lançamento <!-- EVT-025 | 2009-12-03 | 2009-12-03 -->
 - **Momento:** Às 07:15 da manhã, o correio eletrónico de Nathan apita no telemóvel [PROP-004].
 - **Mensagem:** *Your application status is now "Ready for Sale" on the App Store.*
 - **Reação:** Nathan senta-se na borda da cama com o coração acelerado. Abre a App Store móvel, pesquisa pelo título do jogo e vê o ícone minimalista desenhado por si, disponível para descarga a 0.99 dólares.
 - **Resultado Inicial:** Até ao final do dia, 23 descargas orgânicas nos Estados Unidos e Canadá. O produto é real.
 
-### 04 de Dezembro (Sexta-feira) — O Desabafo de Alex na Bancada do Pátio
+### 04 de Dezembro (Sexta-feira) — O Desabafo de Alex na Bancada do Pátio <!-- EVT-026 | 2009-12-04 | 2009-12-04 -->
 - **Contexto:** Pátio da escola secundária após a última aula de biologia. Chove com pouca intensidade, deixando o cimento húmido.
 - **Aproximação:** Alex está sentada debaixo da pala de betão do ginásio, com os joelhos encostados ao peito e as mãos a tremer ligeiramente de frio e cansaço.
 - **Conversa:** Nathan aproxima-se e senta-se na outra ponta do banco, mantendo um espaço respeitoso de um metro.
