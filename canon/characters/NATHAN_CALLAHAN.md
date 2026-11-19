@@ -14,7 +14,7 @@ Updated: 2026-10-12
 
 **Full name:** Nathan Callahan
 **Age at story opening:** 13. He was 12 immediately before the opening birthday.
-**Starting point:** Monday, **7 September 2009**, shortly before the *Modern Family* pilot. The real
+**Starting point:** Monday, **7 September 2009**, shortly before the family events Nathan remembers under the previous-life label *Pilot*. The real
 LAUSD school year opens on **Wednesday, 9 September 2009**. Nathan is still living in the Seattle area
 when the story begins; his father's sudden promotion creates the need for the family to relocate, and
 Nathan transfers to his new Southern California school on **Wednesday, 16 September 2009**. Nathan's
