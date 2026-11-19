@@ -74,7 +74,7 @@ python tests/run_story_tests.py
 The suite currently provides **regression guardrails**, not automated literary judgement:
 
 1. **Chronology:** Parses registry dates and outline windows, checks Gregorian weekdays, and rejects backwards ordering. Ordering is nondecreasing, not necessarily strictly increasing.
-2. **Event registry alignment:** Checks unique/contiguous event IDs, valid date intervals, event-to-episode window containment, and that every declared dependent filename resolves to exactly one file.
+2. **Event registry alignment:** Checks unique/contiguous event IDs, valid date intervals, event-to-episode window containment, exact hidden event anchors in the primary outline (including both dates), and that every declared dependent filename resolves to exactly one file. Malformed event rows and invalid Gregorian dates are reported rather than silently skipped.
 3. **Props and clues:** Checks episode-level genesis/payoff ordering, explicit date ordering (including within one episode), textual ID presence, and non-empty background notes. Abbreviated `DD/MM` dates currently inherit 2009.
 4. **Character introductions:** Derives first-contact episodes from registry participants, excluding events marked `parallel`. Premature-contact detection uses text patterns; relationship continuity currently checks name presence, not the quality of interactions.
 5. **Parallel plots:** Checks declared thread counts, keyword-based participation heuristics, and persistence indicators. It does not understand whether a subplot has meaningful agency or consequences.
