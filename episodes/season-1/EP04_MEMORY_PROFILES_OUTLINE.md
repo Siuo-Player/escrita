@@ -17,7 +17,7 @@ Target finished length: **10,000–14,000+ words**.
 
 **A disciplina do hardware e a primeira partilha de espaço íntimo.**
 
-O código do jogo funciona, mas a arquitetura móvel de 2009 impõe um limite impiedoso: a memória RAM ativa raramente pode ultrapassar 40 MB sem o sistema operativo abortar o processo com um sinal de baixa memória. Nathan tem de perseguir fugas de memória e reutilizar buffers em C++ puro. No plano pessoal, as barreiras de isolamento que Nathan ergueu começam a ruir: Alex visita pela primeira vez a casa dos Callahan para uma sessão de estudo colaborativo e vê o seu espaço de trabalho; Jay Pritchett reconhece nele a postura séria de quem sabe manusear ferramentas; e Phil Dunphy ganha uma dívida de gratidão tecnológica.
+O iPhone 3GS dispõe de 256 MB de RAM física, mas o iPhone OS não impõe um limite universal de 40 MB por aplicação: os avisos e encerramentos dependem da pressão global de memória e das condições do dispositivo. Nathan escolhe, por prudência, manter as alocações vivas do seu motor abaixo de 35 MB nos testes habituais. Tem de identificar o crescimento do heap, reutilizar buffers e estabilizar o consumo em C++. No plano pessoal, as barreiras de isolamento que Nathan ergueu começam a ruir: Alex visita pela primeira vez a casa dos Callahan para uma sessão de estudo colaborativo e vê o seu espaço de trabalho; Jay Pritchett reconhece nele a postura séria de quem sabe manusear ferramentas; e Phil Dunphy ganha uma dívida de gratidão tecnológica.
 
 ---
 
@@ -44,8 +44,8 @@ Phil passa um fim de tarde frustrado a tentar emparelhar um comando universal in
 
 ### 02 de Novembro (Segunda-feira) — O Alerta de Memória
 - **Contexto:** Quarto de Nathan, 21:00. O Instruments do Xcode acusa um consumo crescente de RAM no iPhone 3GS [PROP-004] ao fim de 15 minutos de execução.
-- **Ação Técnica:** Nathan percebe que os nós de pesquisa do algoritmo de caminhos estão a ser instanciados com `new` e destruídos com `delete` centenas de vezes por frame, fragmentando o espaço de heap.
-- **Solução:** Desenha uma estrutura pré-alocada de *object pool* de tamanho fixo em C++, eliminando qualquer alocação durante o gameplay ativo.
+- **Ação Técnica:** Nathan percebe que os nós de pesquisa do algoritmo de caminhos estão a ser instanciados com `new` e destruídos com `delete` centenas de vezes por frame, o que aumenta a atividade do alocador e pode contribuir para fragmentação do heap.
+- **Solução:** Desenha uma *object pool* de capacidade fixa para os nós de pesquisa, pré-alocando-os antes do início do gameplay. Dentro dessa capacidade, o motor reutiliza nós sem pedir memória ao alocador a cada frame; a pool tem de detetar e reportar uma eventual falta de capacidade, em vez de corromper memória ou crescer silenciosamente.
 
 ### 04 de Novembro (Quarta-feira) — Paralelo com *En Garde*
 - **Canon AU:** Manny participa na competição de esgrima e a família celebra o seu sucesso desportivo temporário.
@@ -93,7 +93,7 @@ Phil passa um fim de tarde frustrado a tentar emparelhar um comando universal in
 ### 18 de Novembro (Quarta-feira) — Submissão à Apple e *Great Expectations* <!-- EVT-021 | 2009-11-18 | 2009-11-18 -->
 - **Canon AU:** Phil prepara a noite comemorativa de aniversário com a banda Spandau Ballet.
 - **Marco de Nathan:** Às 23:15, no seu quarto, Nathan revê o checksum do pacote binário compilado.
-- Clica no botão **Submit for Review** no portal do iOS Developer Center.
+- Nathan fecha o pacote binário, verifica o checksum e entrega a versão final a Clifford. Clifford, como titular adulto da conta e responsável pelos termos do programa, revê/aceita os termos aplicáveis e executa a submissão final no iTunes Connect.
 - Nathan recosta-se na cadeira. O coração bate rápido: o primeiro projeto independente está nas mãos dos revisores de Cupertino.
 
 ---
@@ -103,7 +103,7 @@ Phil passa um fim de tarde frustrado a tentar emparelhar um comando universal in
 1. **Relação Nathan / Jay Pritchett:** Primeiro contacto estabelecido com impressão de respeito mútuo por pragmatismo e qualidade de construção.
 2. **Relação Nathan / Phil Dunphy:** Consolidação da cumplicidade técnica e simpatia de Phil.
 3. **Relação Nathan / Alex:** Alex conhece o quarto e o projeto de Nathan; percebe a sua insegurança emocional e confronta-o sobre a autodesvalorização.
-4. **Estado do Jogo:** Versão 1.0 completamente finalizada, com memória RAM estabilizada abaixo de 35 MB e submetida à Apple. Aguarda aprovação para lançamento no EP05.
+4. **Estado do Jogo:** Versão 1.0 finalizada e submetida à Apple por Clifford. Nos testes de Nathan, as alocações vivas do heap do motor mantêm-se abaixo de 35 MB; este valor é o orçamento interno de engenharia do projeto, não um limite do iPhone OS nem a memória residente total do processo. Aguarda aprovação para lançamento no EP05.
 
 ---
 

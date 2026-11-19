@@ -24,7 +24,7 @@ O jogo móvel de Nathan passa pelo crivo opaco da revisão da Apple e entra na A
 ## Persistent threads
 
 ### A — Nathan / Jogo (Trama Principal)
-Submissão do binário final da v1.0 ao portal iTunes Connect da Apple sob Mac OS X Snow Leopard → tensão da aprovação durante o feriado de Thanksgiving → publicação oficial na App Store a 03 de dezembro → primeiras 140 descargas orgânicas e análise dos relatórios de crashes e telemetria.
+Submissão do binário final da v1.0 ao portal iTunes Connect da Apple sob Mac OS X Snow Leopard → tensão da aprovação durante o feriado de Thanksgiving → publicação oficial na App Store a 03 de dezembro → 23 descargas orgânicas no dia do lançamento e 140 descargas acumuladas até ao final de 04 de dezembro, seguidas da análise dos relatórios de crashes e telemetria.
 
 ### B — Nathan + Alex (Subtrama Relacional)
 Alex atinge o limite do desgaste mental com exames intercalares e o ruído da família Dunphy. Na biblioteca da escola e mais tarde num passeio breve após as aulas, Alex confessa a Nathan a sua sensação de invisibilidade perante os dramas ruidosos dos pais e irmãos. Nathan oferece escuta atenta e validação silenciosa, sem conselhos condescendentes nem lugares-comuns.
@@ -44,7 +44,7 @@ O primeiro feriado de Ação de Graças (Thanksgiving) da família Callahan em C
 
 ### 20 de Novembro (Sexta-feira) — A Fila de Revisão no iTunes Connect
 - **Contexto:** Quarto de Nathan, 22:30. O binário final v1.0, submetido a 18 de novembro no portal da Apple sob a conta de developer de Clifford (`EVT-021`), mantém o estado *Waiting for Review*.
-- **Ação:** Nathan faz o acompanhamento dos fóruns de programadores da Apple no MacBook Pro [PROP-001]. A média de aprovação em novembro de 2009 variava entre sete e catorze dias úteis devido ao pico de aplicações pré-feriados.
+- **Ação:** Nathan faz o acompanhamento dos fóruns de programadores da Apple no MacBook Pro [PROP-001]. Nathan encontra uma indicação contemporânea, repetida em fóruns de programadores no início de dezembro, de que cerca de 95% das aplicações eram revistas no prazo de 14 dias. Trata-a como uma estimativa em dias de calendário, não como uma média em dias úteis nem como garantia de aprovação.
 - **Estado Interno:** A ansiedade silenciosa de Nathan: medo de rejeição técnica nos certificados de código ou de incompatibilidade não detetada com o sistema operativo iPhone OS 3.1.
 
 ### 25 de Novembro (Quarta-feira) — O Aniversário de Luke e o Incidente de Fizbo <!-- EVT-022 | 2009-11-25 | 2009-11-25 -->
@@ -72,7 +72,7 @@ O primeiro feriado de Ação de Graças (Thanksgiving) da família Callahan em C
 - **Momento:** Às 07:15 da manhã, o correio eletrónico de Nathan apita no telemóvel [PROP-004].
 - **Mensagem:** *Your application status is now "Ready for Sale" on the App Store.*
 - **Reação:** Nathan senta-se na borda da cama com o coração acelerado. Abre a App Store móvel, pesquisa pelo título do jogo e vê o ícone minimalista desenhado por si, disponível para descarga a 0.99 dólares.
-- **Resultado Inicial:** Até ao final do dia, 23 descargas orgânicas nos Estados Unidos e Canadá. O produto é real.
+- **Resultado Inicial:** Até ao final do dia 03 de dezembro, 23 descargas orgânicas nos Estados Unidos e Canadá. Até ao final de 04 de dezembro, o total acumulado chega a 140. O produto é real.
 
 ### 04 de Dezembro (Sexta-feira) — O Desabafo de Alex na Bancada do Pátio <!-- EVT-026 | 2009-12-04 | 2009-12-04 -->
 - **Contexto:** Pátio da escola secundária após a última aula de biologia. Chove com pouca intensidade, deixando o cimento húmido.
@@ -92,7 +92,7 @@ O primeiro feriado de Ação de Graças (Thanksgiving) da família Callahan em C
 
 ## Alterações de Estado Persistente (Anti-Filler)
 
-1. **Validação Comercial de Nathan:** O jogo está aprovado e ativo na App Store global; Nathan passa a ter uma identidade de criador de software com utilizadores reais e primeiros rendimentos independentes.
+1. **Validação Comercial de Nathan:** O jogo está aprovado e disponível na App Store; Nathan passa a ter uma identidade pública de criador de software com utilizadores reais. As vendas são registadas através da conta de developer de Clifford; a forma como os rendimentos chegam a Nathan é uma questão familiar/legal separada, ainda não fixada no cânone.
 2. **Intimidade Emocional Nathan & Alex:** A relação deixa de ser apenas uma camaradagem intelectual nos corredores e passa a ter fundações de apoio emocional e vulnerabilidade mútua. Alex vê Nathan como o único amigo em quem pode confiar sem medo de ser julgada.
 3. **Ponte Estabelecida com Manny Delgado:** Primeiro contacto respeitoso e intelectual com Manny na biblioteca pública, sem ligação direta à família Dunphy por enquanto.
 4. **Cumplicidade Protetora com Luke e Phil:** O auxílio no pós-acidente de Fizbo cimenta Nathan perante Phil e Luke como um vizinho de confiança sólida.

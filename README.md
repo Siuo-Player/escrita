@@ -1,6 +1,6 @@
 # escrita — A Modern Family Parallel Fiction Project
 
-An episodic literary fiction novel set in the *Modern Family* universe, engineered with period-accurate 2009 research, strict chronological continuity, and multi-threaded parallel causal architecture.
+An episodic literary fiction novel set in the *Modern Family* universe, engineered with source-qualified 2009 research (including explicit uncertainty), strict chronological continuity, and multi-threaded parallel causal architecture.
 
 ---
 
@@ -31,7 +31,7 @@ escrita/
 │   │   ├── SEASON_1_ARC_PLAN.md   # Season 1 episode-by-episode master plan (EP01 to EP12)
 │   │   ├── PROP_AND_CLUE_REGISTRY.md # Backpropagated props and clues causal ledger
 │   │   ├── MODERN_PROSE_AND_THEATRICAL_STYLE.md # Staging, pacing, and chameleonic POV rules
-│   │   ├── TECHNICAL_AND_LEGAL_FOUNDATIONS.md  # 2009 Apple Dev terms & 3GS hardware reality
+│   │   ├── TECHNICAL_AND_LEGAL_FOUNDATIONS.md  # Source-qualified 2009 Apple terms & iPhone 3GS facts
 │   │   ├── DIALOGUE_NATURALNESS_STANDARD.md
 │   │   └── NARRATIVE_AND_CAUSAL_METHOD.md
 │   └── DECISION_LOG.md            # Authoritative decision ledger (DEC-001 through DEC-010)
