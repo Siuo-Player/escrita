@@ -110,6 +110,53 @@ class TestEventRegistryAlignment(unittest.TestCase):
                 f"{event['id']}: os documentos dependentes não incluem outline nem draft de {episode}.",
             )
 
+    def test_every_registered_event_has_one_exact_anchor_in_its_primary_outline(self):
+        """Cada evento tem uma âncora explícita no outline do episódio e a data copiada coincide com o registo."""
+        anchor_pattern = re.compile(
+            r"<!--\\s*(EVT-\\d{3})\\s*\\|\\s*(20\\d{2}-\\d{2}-\\d{2})"
+            r"\\s*\\|\\s*(20\\d{2}-\\d{2}-\\d{2})\\s*-->"
+        )
+        anchors_by_id = {}
+        for episode, outline in self.outlines.items():
+            content = outline["path"].read_text(encoding="utf-8")
+            for match in anchor_pattern.finditer(content):
+                event_id, date_start, date_end = match.groups()
+                anchors_by_id.setdefault(event_id, []).append(
+                    (episode, date_start, date_end)
+                )
+
+        registered_ids = {event["id"] for event in self.events}
+        self.assertEqual(
+            set(anchors_by_id),
+            registered_ids,
+            "As âncoras nos outlines têm de corresponder exatamente aos eventos do EVENT_REGISTRY.md.",
+        )
+
+        for event in self.events:
+            event_id = event["id"]
+            anchors = anchors_by_id.get(event_id, [])
+            self.assertEqual(
+                len(anchors),
+                1,
+                f"{event_id}: esperado exatamente um anchor nos outlines; encontrados {anchors}.",
+            )
+            episode, date_start, date_end = anchors[0]
+            self.assertEqual(
+                episode,
+                event["episode"],
+                f"{event_id}: a âncora está em {episode}, mas o registo associa-a a {event['episode']}.",
+            )
+            self.assertEqual(
+                date_start,
+                event["date"].strftime("%Y-%m-%d"),
+                f"{event_id}: a data inicial da âncora diverge do EVENT_REGISTRY.md.",
+            )
+            self.assertEqual(
+                date_end,
+                event["date_end"].strftime("%Y-%m-%d"),
+                f"{event_id}: a data final da âncora diverge do EVENT_REGISTRY.md.",
+            )
+
     def test_every_outline_has_at_least_one_registered_event(self):
         """Evita outlines de episódios que não aparecem na cronologia canónica."""
         represented_episodes = {event["episode"] for event in self.events}
