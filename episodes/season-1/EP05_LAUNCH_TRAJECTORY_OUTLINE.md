@@ -92,7 +92,7 @@ O primeiro feriado de Ação de Graças (Thanksgiving) da família Callahan em C
 
 ## Alterações de Estado Persistente (Anti-Filler)
 
-1. **Validação Comercial de Nathan:** O jogo está aprovado e ativo na App Store global; Nathan passa a ter uma identidade de criador de software com utilizadores reais e primeiros rendimentos independentes.
+1. **Validação Comercial de Nathan:** O jogo está aprovado e disponível na App Store; Nathan passa a ter uma identidade pública de criador de software com utilizadores reais. As vendas são registadas através da conta de developer de Clifford; a forma como os rendimentos chegam a Nathan é uma questão familiar/legal separada, ainda não fixada no cânone.
 2. **Intimidade Emocional Nathan & Alex:** A relação deixa de ser apenas uma camaradagem intelectual nos corredores e passa a ter fundações de apoio emocional e vulnerabilidade mútua. Alex vê Nathan como o único amigo em quem pode confiar sem medo de ser julgada.
 3. **Ponte Estabelecida com Manny Delgado:** Primeiro contacto respeitoso e intelectual com Manny na biblioteca pública, sem ligação direta à família Dunphy por enquanto.
 4. **Cumplicidade Protetora com Luke e Phil:** O auxílio no pós-acidente de Fizbo cimenta Nathan perante Phil e Luke como um vizinho de confiança sólida.
