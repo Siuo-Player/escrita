@@ -124,7 +124,7 @@ Core lore entries:
 - narration/POV rules;
 - natural dialogue standard and character-specific voice guidance;
 - character naming standard, demographic source selection, random draw audit and duplicate-name registry;
-- European Portuguese final-prose default and dialogue translation principles;
+- American English final-prose standard (DEC-008) and dialogue naturalness principles;
 - scene-sized drafting and dialogue-review workflow;
 - backpropagation rules.
 

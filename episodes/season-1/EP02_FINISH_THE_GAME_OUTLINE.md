@@ -75,7 +75,7 @@ Nathan almost leaves, then stays.
 This is a small victory.
 
 #### Scene 3 — football
-Maxwell asks Nathan for help on a tactical situation.
+Maxwell asks Nathan for help on a tactical situation during scrimmage with the training ball [PROP-003].
 
 Nathan gives a useful answer.
 
@@ -316,6 +316,9 @@ recent behavior matters more than old behavior.
 
 This foreshadows his later understanding of people:
 old scripts are not enough.
+
+#### Scene 22b — park conditioning (seed for CLUE-001)
+Post-conditioning cooldown at Rancho Park. While Nathan rests on the bench to stretch, his brass compass keychain [CLUE-001] drops silently into the ivy near the perimeter fence.
 
 ---
 

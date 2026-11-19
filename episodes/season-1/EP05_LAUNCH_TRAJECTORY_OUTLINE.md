@@ -42,10 +42,10 @@ O primeiro feriado de Ação de Graças (Thanksgiving) da família Callahan em C
 
 ## Cenas e Cronologia Linear
 
-### 20 de Novembro (Sexta-feira) — A Submissão na App Store
-- **Contexto:** Quarto de Nathan, 22:30. O binário final compilado no Xcode 3.2 sem alertas e com zero fugas de memória na pool estática de C++ é empacotado para distribuição.
-- **Ação:** Nathan faz o upload do ficheiro `.ipa` através do Application Loader da Apple no MacBook Pro [PROP-001]. O estado passa a *Waiting for Review*.
-- **Estado Interno:** A ansiedade silenciosa de Nathan: medo de rejeição técnica ou de que a Apple considere a mecânica de *flow field* demasiado experimental para aprovação.
+### 20 de Novembro (Sexta-feira) — A Fila de Revisão no iTunes Connect
+- **Contexto:** Quarto de Nathan, 22:30. O binário final v1.0, submetido a 18 de novembro no portal da Apple sob a conta de developer de Clifford (`EVT-021`), mantém o estado *Waiting for Review*.
+- **Ação:** Nathan faz o acompanhamento dos fóruns de programadores da Apple no MacBook Pro [PROP-001]. A média de aprovação em novembro de 2009 variava entre sete e catorze dias úteis devido ao pico de aplicações pré-feriados.
+- **Estado Interno:** A ansiedade silenciosa de Nathan: medo de rejeição técnica nos certificados de código ou de incompatibilidade não detetada com o sistema operativo iPhone OS 3.1.
 
 ### 25 de Novembro (Quarta-feira) — O Aniversário de Luke e o Incidente de Fizbo
 - **Canon AU:** Acontece a festa caótica de aniversário de Luke: Cameron veste-se de Fizbo, a confusão instala-se com o escorregador e o castelo insuflável, e Luke acaba no hospital com o braço fraturado.
@@ -82,7 +82,7 @@ O primeiro feriado de Ação de Graças (Thanksgiving) da família Callahan em C
   - Alex hesita, aceita o lenço e limpa os óculos embaciados. Pela primeira vez, a sua máscara de arrogância intelectual desfaz-se:
   - *"Eles nem reparam, Callahan. O Luke parte um braço a fingir que é um duplo de cinema e é o herói da casa. A Haley compra uma saia nova e tem direito a meia hora de conversa ao jantar. Eu passo quatro noites sem dormir para conseguir cem por cento no teste de química orgânica e a minha mãe pergunta se me esqueci de pôr a loiça na máquina."*
   - Nathan escuta em silêncio absoluto. Não diz *"vai correr tudo bem"* nem tenta relativizar a dor dela.
-  - Quando ela se cala, Nathan diz com voz pausada: *"A excelência é quase sempre invisível para quem não compreende o custo de a construir. Mas o que estás a aprender pertence-te a ti, Alex. Ninguém em tua casa te pode tirar isso."*
+  - Quando ela se cala, Nathan olha para o cimento molhado durante alguns segundos antes de responder num tom calmo e direto: *"Custa quando as pessoas só reparam no barulho, Alex. Mas o que tu fizeste naquele teste de química é real. Ninguém na tua casa te pode tirar isso."*
   - Alex olha para ele através das lentes limpas. Os seus olhos estão vermelhos, mas a postura recompõe-se.
   - *"O teu jogo foi aprovado?"* — pergunta ela, num murmúrio suave.
   - *"Sim. Ontem de manhã."*

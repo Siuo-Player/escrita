@@ -18,7 +18,7 @@ He stepped into Room 204. Nobody looked up as if an alien had materialized on th
 
 He was no longer *the transfer kid from Seattle*. He was simply Callahan: the quiet eighth-grader in the third row who handed in lab worksheets written in pencil well before the bell and who never raised his hand unless nobody else in the room had the answer.
 
-In the front row, Alex Dunphy sat in her signature posture of a naval captain navigating a gale: spine straight as a surveyor's rod, rectangular wireframes balanced on the bridge of her nose, and an expandable four-zipper pencil case organized by the electromagnetic wavelength of visible light.
+In the front row, Alex Dunphy sat with her spine squared and rigid, rectangular wireframes pushed firmly up the bridge of her nose, her heavy four-zipper pencil case unzipped to reveal two dozen color-coded highlighters aligned in precise parallel rows.
 
 When Nathan pulled out his laminate chair, the metal legs scraped lightly against the wax floor.
 
@@ -52,7 +52,7 @@ Maxwell Whitaker—fourteen, five-foot-eight of sinew and muscle, crew-cut brown
 
 Maxwell looked Nathan over with that classic territorial scrutiny of an athlete sniffing out competition.
 
-— They said you were captain up in Washington, — Maxwell said, tossing the ball against Nathan’s chest with unnecessary velocity.
+— They said you were captain up in Washington, — Maxwell said, tossing the scuffed training ball [PROP-003] against Nathan’s chest with unnecessary velocity.
 
 Nathan cushioned the strike with his right instep without taking a step back, dropping the ball with a clean, soft touch directly onto the toe of Maxwell’s cleat.
 
@@ -62,9 +62,21 @@ Maxwell frowned, thrown off by the lack of defensive pride.
 
 For the first ten minutes of the scrimmage, Maxwell played like he was auditioning for a Nike commercial: explosive sideline sprints, outside-the-boot flicks that chewed up chunks of sod, and three hurried, thunderous shots that rattled off the back safety netting.
 
-Nathan, anchoring the defensive midfield, moved with the spatial economy of a Voronoi diagram.
+Nathan, anchoring the defensive midfield, stayed disciplined in his lanes. He didn’t chase the ball out of position, but the transition to Southern California turf wasn't seamless. On the second drive, Maxwell cut against the grain with a vicious change of pace; his trailing stud clipped Nathan’s ankle, sending Nathan sprawling onto the hard, dry turf.
 
-He didn’t chase the ball like an eager puppy. He shadowed passing angles. Twice he stepped in front of an attacker to intercept on the turn, and instead of clearing downfield in panic, he lifted his chin, measured the pitch, and placed the ball like a surveyor into Maxwell’s stride along the right touchline.
+Nathan hit the ground on his hip, the synthetic grass burning through his sock and scraping a raw red patch below his knee.
+
+Maxwell paused over the ball, breathing hard, a cocky smirk flashing across his sweat-streaked face.
+
+— Welcome to LA, Washington. Ground’s a little harder down here.
+
+Nathan didn't complain to the coach. He pushed himself up, tested the ankle with two firm stomps, and wiped the black rubber pellets from his shin.
+
+— Good turn, — Nathan said quietly, resetting his stance. — Your first step is faster than the turf in Seattle.
+
+Maxwell’s smirk faded into guarded respect.
+
+Over the next twenty minutes, Nathan adjusted his defensive depth, giving himself an extra half-yard of cushion against Maxwell's explosive acceleration. He shadowed passing angles. Twice he stepped in front of an attacker to intercept on the turn, and instead of clearing downfield in panic, he lifted his chin, measured the pitch, and placed the ball into Maxwell’s stride along the right touchline.
 
 On the third assist—a curling through-ball hit with outside spin that sliced past two defenders and left Maxwell isolated before an open net—Maxwell tapped it home.
 
@@ -130,9 +142,23 @@ m_targetVector = m_targetVector * predictionDecay + currentInput * (1.0f - predi
 
 He compiled the binary. The mobile screen flickered, reloading the OpenGL ES 1.1 viewport.
 
-Nathan placed his right thumb on the glass. The touch response was instantaneous: the blue protagonist dot tracked smoothly under his pad, while three red chasers mobilized across the flow field. But now, as Nathan cut a hard ninety-degree corner around an obstacle, the lead pursuer skidded two pixels wide on inertia before re-aligning its heading.
+Nathan placed his right thumb on the glass. The touch response was crisp: the blue protagonist dot tracked smoothly under his pad, while three red chasers mobilized across the flow field.
 
-— Clean, — Nathan whispered. — Realistic drift, zero frame drops.
+Then, as the blue dot crossed the upper right boundary at $x=480$, the screen froze solid. A second later, the application vanished, crashing back to the black SpringBoard.
+
+On the MacBook display, the Xcode debugger console lit up in angry red text:
+
+`Program received signal EXC_BAD_ACCESS, Could not access memory.`
+
+Nathan clicked his tongue, resting his chin on his palm.
+
+— Index boundary overflow, — he diagnosed quietly.
+
+It took forty-five frustrating minutes of inspecting memory dumps in GDB and setting manual watchpoints to isolate the flaw: his fast-indexing macro omitted a clamp check on the far right tile row, writing into unmapped heap memory whenever an agent touched the edge pixel. He had to rewrite the lookup with an inline bitmask to maintain speed without blowing past the array boundary.
+
+When he finally re-compiled and verified the fix, the chasers rounded the corners smoothly, sliding wide on inertia before re-aligning their headings.
+
+— Clean, — Nathan whispered, rubbing his tired eyes. — Realistic drift, zero memory violations.
 
 Right then, through the open patio window facing the street, a high-pitched electric whine cut through the afternoon quiet.
 
@@ -151,6 +177,8 @@ He checked the impulse immediately.
 *Epistemic boundary.*
 
 It wasn't his business to gawk at their bruised noses or meddle with the slow, awkward building of father-in-law respect. He looked back at his Xcode terminal. The collision-detection pipeline had two hundred lines of spatial partitioning code waiting for him before dinner.
+
+On Thursday afternoon, October 8, Nathan completed an intensive conditioning run along the perimeter of Rancho Park. Resting on the weathered green bench beside the southern chain-link fence to stretch his calves and pull a sports towel from his jacket, his brass compass keychain [CLUE-001] slipped quietly from his pocket hem and dropped into the dry ivy by the boundary shrubs, unnoticed under the glare of the late afternoon sun.
 
 ---
 

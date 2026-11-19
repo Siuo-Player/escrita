@@ -19,8 +19,8 @@ He has his own tactical instincts and can make good decisions under pressure. Na
 
 ## Relationship with Nathan
 
-- **First appearance:** a Saturday football activity/match around 19 September 2009, after the move. Nathan has not earned a captaincy in the new team and does not assume leadership.
-- **Early dynamic:** Maxwell tests whether Nathan listens and makes useful decisions, rather than asking him to explain his whole background. Nathan notices Maxwell's desire for playing time and offers a tactical suggestion only when it is relevant.
+- **First appearance:** October 2, 2009 (Friday) during the 4-on-4 scrimmage tryouts at Rancho Park (`EVT-008`). Maxwell tests Nathan with aggressive passes and individualistic runs; Nathan anchors the defensive midfield and delivers three pinpoint assists.
+- **Early dynamic:** October 3, 2009 (Saturday, `EVT-009`). Maxwell reflects alone in the locker room under the heavy pressure of his father's scouting expectations; he feels threatened by Nathan's competence but respects his quiet refusal to demand the spotlight.
 - **First shift:** a later training or match situation gives Maxwell a chance to use the advice himself. The result belongs to Maxwell; Nathan should not take the credit.
 - **Friendship beat:** around the 9–10 October match, Maxwell invites Nathan to do something after football. The invitation should be casual and specific, not a speech about becoming friends.
 - **Longer-term use:** Maxwell can disagree with Nathan, share team gossip, have his own training setbacks and sometimes be unavailable. He should not become a permanent audience for Nathan's genius.

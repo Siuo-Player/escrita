@@ -7,7 +7,7 @@ Updated: 2026-10-12
 
 Dialogue has been identified as a recurring weakness: exchanges can sound as if every character is explaining the scene, taking turns delivering polished lines, or saying exactly what the outline needs. This document is a production rule, not a claim that a checklist can replace a writer's ear.
 
-The finished story is written in **natural European Portuguese by default**, while preserving the social setting and character identities of Southern California. Planning documents may remain in English. Dialogue should read as a convincing rendering of what these American characters would say, not as literal English syntax translated word for word or as dialogue transplanted from Portugal.
+The finished story is written in **natural American English** (period-accurate to 2009 Southern California; see DEC-008 in `canon/DECISION_LOG.md`). Planning and canonical documents may be bilingual or in English. Dialogue must read as authentic, spontaneous speech fitting contemporary American teenagers and adults, respecting each character's unique cadence, cognitive tempo, and social defense mechanisms.
 
 The story may borrow high-level qualities from an ensemble family sitcom—warmth, parallel comic situations, uncomfortable timing and affection expressed through friction—but must not reproduce lines or mechanically imitate the series' exact dialogue patterns. No camera-facing monologues.
 

@@ -39,13 +39,13 @@ def parse_date_string(text: str, default_year: int = 2009) -> Optional[datetime]
     text = text.strip()
     
     # Formato ISO YYYY-MM-DD
-    iso_match = re.search(r'\b(2009|2010|2011|2012)-(\d{2})-(\d{2})\b', text)
+    iso_match = re.search(r'\b(20\d{2})-(\d{2})-(\d{2})\b', text)
     if iso_match:
         y, m, d = int(iso_match.group(1)), int(iso_match.group(2)), int(iso_match.group(3))
         return datetime(y, m, d)
         
     # Formato DD [de] Mês [de] [YYYY]
-    date_match = re.search(r'\b(\d{1,2})\s+(?:de\s+)?([A-Za-zç]+)(?:\s+(?:de\s+)?(2009|2010|2011|2012))?\b', text, re.IGNORECASE)
+    date_match = re.search(r'\b(\d{1,2})\s+(?:de\s+)?([A-Za-zç]+)(?:\s+(?:de\s+)?(20\d{2}))?\b', text, re.IGNORECASE)
     if date_match:
         day = int(date_match.group(1))
         month_name = date_match.group(2).lower()
@@ -93,9 +93,9 @@ def extract_episode_metadata(filepath: Path) -> Dict[str, Any]:
         win = data["story_window"]
         
         # Padrão multi-mês: ex: '19 November – 05 December 2009'
-        m_multi = re.search(r'(\d{1,2})\s+([A-Za-zç]+)\s*(?:–|-)\s*(\d{1,2})\s+([A-Za-zç]+)(?:\s+(?:de\s+)?(2009|2010|2011|2012))?', win, re.IGNORECASE)
+        m_multi = re.search(r'(\d{1,2})\s+([A-Za-zç]+)\s*(?:–|-)\s*(\d{1,2})\s+([A-Za-zç]+)(?:\s+(?:de\s+)?(20\d{2}))?', win, re.IGNORECASE)
         # Padrão mesmo mês: ex: '7–30 September 2009', '1–15 October 2009'
-        m_single = re.search(r'(\d{1,2})\s*(?:–|-)\s*(\d{1,2})\s+(?:de\s+)?([A-Za-zç]+)(?:\s+(?:de\s+)?(2009|2010|2011|2012))?', win, re.IGNORECASE)
+        m_single = re.search(r'(\d{1,2})\s*(?:–|-)\s*(\d{1,2})\s+(?:de\s+)?([A-Za-zç]+)(?:\s+(?:de\s+)?(20\d{2}))?', win, re.IGNORECASE)
         
         if m_multi and m_multi.group(2).lower() in MONTHS and m_multi.group(4).lower() in MONTHS:
             y = int(m_multi.group(5)) if m_multi.group(5) else 2009
@@ -181,3 +181,108 @@ def extract_episode_metadata(filepath: Path) -> Dict[str, Any]:
         })
 
     return data
+
+def extract_events_from_registry() -> List[Dict[str, Any]]:
+    """Extrai os eventos canónicos estruturados a partir do Single Source of Truth (EVENT_REGISTRY.md)."""
+    registry_file = REPO_ROOT / "canon" / "narrative" / "EVENT_REGISTRY.md"
+    if not registry_file.exists():
+        return []
+        
+    content = registry_file.read_text(encoding='utf-8')
+    events = []
+    
+    for line in content.splitlines():
+        line = line.strip()
+        if not line.startswith("|") or "EVT-" not in line:
+            continue
+        parts = [p.strip() for p in line.strip("|").split("|")]
+        if len(parts) < 8:
+            continue
+            
+        evt_match = re.search(r'EVT-\d+', parts[0])
+        if not evt_match:
+            continue
+            
+        evt_id = evt_match.group(0)
+        date_raw = parts[1].replace("*", "").strip()
+        ep_raw = parts[2].replace("*", "").strip()
+        location = parts[3].strip()
+        characters = [c.strip() for c in parts[4].split(",") if c.strip()]
+        trigger = parts[5].strip()
+        action = parts[6].strip()
+        result = parts[7].strip()
+        dep_docs = [d.strip().strip("`") for d in parts[8].split(",") if d.strip()] if len(parts) > 8 else []
+        
+        # Extrair data ISO primária
+        iso_match = re.search(r'(20\d{2})-(\d{2})-(\d{2})', date_raw)
+        dt = None
+        if iso_match:
+            dt = datetime(int(iso_match.group(1)), int(iso_match.group(2)), int(iso_match.group(3)))
+            
+        # Extrair dia da semana declarado
+        weekday_match = re.search(r'\(([A-Za-z]+)', date_raw)
+        declared_weekday = weekday_match.group(1) if weekday_match else ""
+        
+        events.append({
+            "id": evt_id,
+            "date_raw": date_raw,
+            "date": dt,
+            "declared_weekday": declared_weekday,
+            "episode": ep_raw,
+            "location": location,
+            "characters": characters,
+            "trigger": trigger,
+            "action": action,
+            "result": result,
+            "dependent_docs": dep_docs
+        })
+        
+    return events
+
+def extract_props_from_registry() -> List[Dict[str, Any]]:
+    """Extrai os adereços e pistas registados a partir de PROP_AND_CLUE_REGISTRY.md."""
+    registry_file = REPO_ROOT / "canon" / "narrative" / "PROP_AND_CLUE_REGISTRY.md"
+    if not registry_file.exists():
+        return []
+        
+    content = registry_file.read_text(encoding='utf-8')
+    props = []
+    
+    for line in content.splitlines():
+        line = line.strip()
+        if not line.startswith("|") or not any(k in line for k in ["PROP-", "CLUE-"]):
+            continue
+        parts = [p.strip() for p in line.strip("|").split("|")]
+        if len(parts) < 6:
+            continue
+            
+        id_match = re.search(r'(PROP|CLUE)-\d+', parts[0])
+        if not id_match:
+            continue
+            
+        prop_id = id_match.group(0)
+        name = parts[1].replace("*", "").strip()
+        genesis_raw = parts[2]
+        background_raw = parts[3]
+        payoff_raw = parts[4]
+        status = parts[5].strip()
+        
+        # Extrair episódio de génese
+        gen_ep_match = re.search(r'EP\d+', genesis_raw)
+        genesis_ep = gen_ep_match.group(0) if gen_ep_match else ""
+        
+        # Extrair episódios de payoff
+        payoff_eps = re.findall(r'EP\d+', payoff_raw)
+        
+        props.append({
+            "id": prop_id,
+            "name": name,
+            "genesis_raw": genesis_raw,
+            "genesis_ep": genesis_ep,
+            "background_raw": background_raw,
+            "payoff_raw": payoff_raw,
+            "payoff_eps": payoff_eps,
+            "status": status
+        })
+        
+    return props

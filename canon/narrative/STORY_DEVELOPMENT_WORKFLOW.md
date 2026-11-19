@@ -225,7 +225,7 @@ Dialogue must pass the project's separate [Natural Dialogue Standard](DIALOGUE_N
 
 Use the [AI Writing Tool Selection and Evaluation protocol](../../research/narrative/AI_WRITING_TOOL_SELECTION.md) to compare only models available through the existing OpenWrite provider. A blind comparison on a fixed scene comes before any claim that a model or paid writing product is more natural. The project author's reading and judgment remain the acceptance signal; AI judges are advisory.
 
-Final prose is written in natural European Portuguese by default unless explicitly changed. Planning and technical canon documents can stay in English. Preserve the Southern California context and character-specific voices without literal translation of English syntax or imitation of exact lines from the source series.
+Final prose is written in natural American English (period-accurate 2009 Southern California; locked via DEC-008). Planning and technical canon documents can stay in English or be bilingual. Preserve the Southern California context and character-specific voices without caricature or mechanical imitation of exact lines from the source series.
 
 
 ## Foreknowledge and intervention pass
