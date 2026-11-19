@@ -13,6 +13,7 @@ from tests.parser import (
     extract_episode_metadata,
     extract_events_from_registry,
     parse_event_registry_content,
+    parse_heading_date_range,
 )
 
 
@@ -131,9 +132,14 @@ class TestEventRegistryAlignment(unittest.TestCase):
                         r"^\s*#{1,6}\s",
                         f"{episode}:{line_number}: a âncora do evento tem de estar associada a um heading Markdown.",
                     )
+                    heading_dates = parse_heading_date_range(line)
+                    self.assertIsNotNone(
+                        heading_dates,
+                        f"{episode}:{line_number}: heading com âncora sem data visível interpretável: {line!r}.",
+                    )
                     event_id, date_start, date_end = match.groups()
                     anchors_by_id.setdefault(event_id, []).append(
-                        (episode, date_start, date_end)
+                        (episode, date_start, date_end, heading_dates[0], heading_dates[1])
                     )
 
         registered_ids = {event["id"] for event in self.events}
@@ -151,7 +157,7 @@ class TestEventRegistryAlignment(unittest.TestCase):
                 1,
                 f"{event_id}: esperado exatamente um anchor nos outlines; encontrados {anchors}.",
             )
-            episode, date_start, date_end = anchors[0]
+            episode, date_start, date_end, heading_start, heading_end = anchors[0]
             self.assertEqual(
                 episode,
                 event["episode"],
@@ -166,6 +172,16 @@ class TestEventRegistryAlignment(unittest.TestCase):
                 date_end,
                 event["date_end"].strftime("%Y-%m-%d"),
                 f"{event_id}: a data final da âncora diverge do EVENT_REGISTRY.md.",
+            )
+            self.assertLessEqual(
+                heading_start,
+                event["date"],
+                f"{event_id}: a data inicial do evento está antes da data visível no heading.",
+            )
+            self.assertLessEqual(
+                event["date_end"],
+                heading_end,
+                f"{event_id}: o intervalo do evento ultrapassa a data visível no heading.",
             )
 
     def test_parser_reports_invalid_gregorian_dates(self):
