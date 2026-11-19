@@ -1,5 +1,10 @@
 # Season 1, Episode 2 — Finish the Game
 
+<!-- WD-001 -->
+<!-- WD-002 -->
+<!-- WD-003 -->
+<!-- WD-004 -->
+
 Status: DRAFT OUTLINE / expanded working draft
 Updated: 2026-10-08
 
@@ -40,9 +45,8 @@ Nathan earns his place in the new group.
 ### E — Callahan family
 The temporary rental begins to feel like home.
 
-### F — Modern Family AU
-*Come Fly with Me* on 7 Oct and *The Incident* on 14 Oct. Show in parallel or use consequences when
-Nathan has no natural reason to participate. citeturn191690search0turn191690search2
+### F — Parallel family events
+The family events Nathan remembers under the source-life labels *Come Fly with Me* (7 Oct) and *The Incident* (14 Oct) occur as lived events in this world. Show them in parallel or use consequences when Nathan has no natural reason to participate; the titles are not current-world broadcasts. citeturn191690search0turn191690search2
 
 ### G — independent background
 Objects, hobbies, classmates, teammates and family goals continue.
@@ -244,7 +248,7 @@ This can be one of the strongest technical scenes.
 
 ---
 
-## 7 October — Come Fly with Me <!-- EVT-010 | 2009-10-07 | 2009-10-07 -->
+## 7 October — Family events Nathan remembers as Come Fly with Me <!-- EVT-010 | 2009-10-07 | 2009-10-07 -->
 
 ### Parallel canon thread
 
@@ -499,7 +503,7 @@ The reader sees the mismatch.
 
 ---
 
-## 14 October — The Incident
+## 14 October — Family events Nathan remembers as The Incident
 
 ### Parallel canon thread
 
