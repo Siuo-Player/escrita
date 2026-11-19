@@ -207,7 +207,7 @@ def parse_event_registry_content(content: str):
             continue
 
         id_text = parts[0].strip("*` ")
-        if not re.fullmatch(r"EVT-\\d{3}", id_text):
+        if not re.fullmatch(r"EVT-\d{3}", id_text):
             issues.append(
                 f"Linha {line_number}: Event ID inválido na primeira coluna: {parts[0]!r}."
             )
@@ -233,7 +233,7 @@ def parse_event_registry_content(content: str):
         # O formato atual permite datas ISO simples e intervalos no mesmo mês:
         # 2009-09-14 ou 2009-09-14/15.
         iso_match = re.search(
-            r"\\b(20\\d{2})-(\\d{2})-(\\d{2})(?:/(\\d{1,2}))?\\b",
+            r"\b(20\d{2})-(\d{2})-(\d{2})(?:/(\d{1,2}))?\b",
             date_raw,
         )
         dt = None
@@ -256,8 +256,8 @@ def parse_event_registry_content(content: str):
                 f"Linha {line_number} ({id_text}): data ISO inválida ou não suportada: {date_raw!r}."
             )
 
-        weekday_range_match = re.search(r"\\(([A-Za-z]+)-([A-Za-z]+)", date_raw)
-        weekday_match = re.search(r"\\(([A-Za-z]+)", date_raw)
+        weekday_range_match = re.search(r"\(([A-Za-z]+)-([A-Za-z]+)", date_raw)
+        weekday_match = re.search(r"\(([A-Za-z]+)", date_raw)
         declared_weekday = weekday_match.group(1) if weekday_match else ""
         declared_weekday_end = (
             weekday_range_match.group(2) if weekday_range_match else declared_weekday
