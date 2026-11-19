@@ -1,5 +1,10 @@
 # Arquitetura Global da Série — Planeamento Top-Down Multitemporadas
 
+<!-- WD-001 -->
+<!-- WD-002 -->
+<!-- WD-003 -->
+<!-- WD-004 -->
+
 Status: ESTABLISHED TOP-DOWN ARCHITECTURE  
 Intervalo da Vida do Protagonista: $t \in [0.0, 1.0]$ (13 anos aos ~24/25 anos)  
 Updated: 2026-11-19
