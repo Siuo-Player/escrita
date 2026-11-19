@@ -1,7 +1,7 @@
 """
-Testes de estrutura narrativa de múltiplos enredos e política anti-filler:
-- Todo o episódio tem de ter pelo menos 3 tramas ativas (mínimo 1 grande/principal + mínimo 2 secundárias com outros personagens).
-- Nenhum episódio pode ser 'filler': deve produzir alteração de estado persistente.
+Verificações heurísticas da estrutura de múltiplos enredos:
+- Conta as tramas declaradas e procura palavras-chave associadas a outras personagens.
+- Procura indicadores textuais de persistência; não avalia causalidade ou qualidade narrativa.
 """
 
 import unittest
