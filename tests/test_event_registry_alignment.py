@@ -8,7 +8,12 @@ referências, datas e associação dos eventos às janelas temporais dos episód
 import re
 import unittest
 
-from tests.parser import REPO_ROOT, extract_episode_metadata, extract_events_from_registry
+from tests.parser import (
+    REPO_ROOT,
+    extract_episode_metadata,
+    extract_events_from_registry,
+    parse_event_registry_content,
+)
 
 
 class TestEventRegistryAlignment(unittest.TestCase):
@@ -109,6 +114,100 @@ class TestEventRegistryAlignment(unittest.TestCase):
                 has_episode_anchor,
                 f"{event['id']}: os documentos dependentes não incluem outline nem draft de {episode}.",
             )
+
+    def test_every_registered_event_has_one_exact_anchor_in_its_primary_outline(self):
+        """Cada evento tem uma âncora explícita no outline do episódio e a data copiada coincide com o registo."""
+        anchor_pattern = re.compile(
+            r"<!--\s*(EVT-\d{3})\s*\|\s*(20\d{2}-\d{2}-\d{2})"
+            r"\s*\|\s*(20\d{2}-\d{2}-\d{2})\s*-->"
+        )
+        anchors_by_id = {}
+        for episode, outline in self.outlines.items():
+            content = outline["path"].read_text(encoding="utf-8")
+            for line_number, line in enumerate(content.splitlines(), start=1):
+                for match in anchor_pattern.finditer(line):
+                    self.assertRegex(
+                        line,
+                        r"^\s*#{1,6}\s",
+                        f"{episode}:{line_number}: a âncora do evento tem de estar associada a um heading Markdown.",
+                    )
+                    event_id, date_start, date_end = match.groups()
+                    anchors_by_id.setdefault(event_id, []).append(
+                        (episode, date_start, date_end)
+                    )
+
+        registered_ids = {event["id"] for event in self.events}
+        self.assertEqual(
+            set(anchors_by_id),
+            registered_ids,
+            "As âncoras nos outlines têm de corresponder exatamente aos eventos do EVENT_REGISTRY.md.",
+        )
+
+        for event in self.events:
+            event_id = event["id"]
+            anchors = anchors_by_id.get(event_id, [])
+            self.assertEqual(
+                len(anchors),
+                1,
+                f"{event_id}: esperado exatamente um anchor nos outlines; encontrados {anchors}.",
+            )
+            episode, date_start, date_end = anchors[0]
+            self.assertEqual(
+                episode,
+                event["episode"],
+                f"{event_id}: a âncora está em {episode}, mas o registo associa-a a {event['episode']}.",
+            )
+            self.assertEqual(
+                date_start,
+                event["date"].strftime("%Y-%m-%d"),
+                f"{event_id}: a data inicial da âncora diverge do EVENT_REGISTRY.md.",
+            )
+            self.assertEqual(
+                date_end,
+                event["date_end"].strftime("%Y-%m-%d"),
+                f"{event_id}: a data final da âncora diverge do EVENT_REGISTRY.md.",
+            )
+
+    def test_parser_reports_invalid_gregorian_dates(self):
+        """Datas impossíveis têm de produzir um diagnóstico e não podem ser aceites como eventos válidos."""
+        malformed_registry = """
+| Event ID | Date | Episode | Location | Characters | Trigger | Action | Result | Dependent Documents |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **EVT-001** | **2009-02-30 (Mon)** | **EP01** | Seattle | Nathan | Birthday | Opens game | Flow field started | `EP01_BEFORE_AND_AFTER_OUTLINE.md` |
+"""
+        parsed_events, issues = parse_event_registry_content(malformed_registry)
+        self.assertEqual(len(parsed_events), 1)
+        self.assertIsNone(parsed_events[0]["date"])
+        self.assertTrue(
+            any("data ISO inválida" in issue for issue in issues),
+            f"A data impossível devia produzir um diagnóstico; recebido: {issues}",
+        )
+
+    def test_canonical_registry_contains_no_malformed_event_rows(self):
+        """Nenhuma linha com EVT- pode desaparecer silenciosamente durante o parsing."""
+        registry_path = REPO_ROOT / "canon" / "narrative" / "EVENT_REGISTRY.md"
+        registry_content = registry_path.read_text(encoding="utf-8")
+        parsed_events, issues = parse_event_registry_content(registry_content)
+        self.assertEqual(issues, [], "EVENT_REGISTRY.md contém linhas malformadas.")
+        self.assertEqual(
+            len(parsed_events),
+            len(self.events),
+            "O número de linhas de evento parseadas tem de coincidir com os eventos expostos pelo parser.",
+        )
+
+    def test_parser_reports_a_malformed_final_event_row(self):
+        """Uma última linha truncada também tem de ser detetada, mesmo sem um ID seguinte que revele o salto."""
+        malformed_registry = """
+| Event ID | Date | Episode | Location | Characters | Trigger | Action | Result | Dependent Documents |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **EVT-001** | **2009-09-07 (Mon)** | **EP01** | Seattle | Nathan | Birthday | Opens game | Flow field started |
+"""
+        parsed_events, issues = parse_event_registry_content(malformed_registry)
+        self.assertEqual(parsed_events, [])
+        self.assertTrue(
+            any("9 colunas" in issue for issue in issues),
+            f"A linha incompleta devia gerar um erro explícito; recebido: {issues}",
+        )
 
     def test_every_outline_has_at_least_one_registered_event(self):
         """Evita outlines de episódios que não aparecem na cronologia canónica."""

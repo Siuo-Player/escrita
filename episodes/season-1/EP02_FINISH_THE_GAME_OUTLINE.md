@@ -94,7 +94,7 @@ He needs uncertainty.
 
 ---
 
-### 2–3 October
+### 2–3 October <!-- EVT-008 | 2009-10-02 | 2009-10-02 --> <!-- EVT-009 | 2009-10-03 | 2009-10-03 -->
 
 #### Scene 5 — school
 A teacher gives Nathan an optional harder exercise.
@@ -244,7 +244,7 @@ This can be one of the strongest technical scenes.
 
 ---
 
-## 7 October — Come Fly with Me
+## 7 October — Come Fly with Me <!-- EVT-010 | 2009-10-07 | 2009-10-07 -->
 
 ### Parallel canon thread
 
@@ -351,7 +351,7 @@ Then finds six things he dislikes.
 
 ---
 
-### 10 October — Saturday
+### 10 October — Saturday <!-- EVT-011 | 2009-10-10 | 2009-10-10 -->
 
 #### Scene 26 — football match
 Nathan's team plays.
@@ -461,7 +461,7 @@ The story should show the work through decisions rather than code.
 
 ---
 
-### 13 October
+### 13 October <!-- EVT-012 | 2009-10-13 | 2009-10-13 -->
 
 #### Scene 36 — school
 Teacher gives Nathan a small academic opportunity.
@@ -551,7 +551,7 @@ It holds.
 
 ---
 
-## 15 October — release
+## 15 October — release <!-- EVT-013 | 2009-10-15 | 2009-10-15 -->
 
 ### Scene 43 — morning
 Nathan is tired but functioning.

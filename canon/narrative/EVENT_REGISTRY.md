@@ -5,9 +5,13 @@ Updated: 2026-11-19
 
 This ledger serves as the **Single Source of Truth (SSOT)** for all major plot events, character introductions, and persistent state transitions across the series. Character profiles, episode outlines, prose drafts, and test suites must cross-reference and adhere to this registry.
 
+**Coverage status:** partial. The 28 events currently registered cover EP01–EP06 through 19 December 2009. The wider Season 1 plan extends beyond this date; later episodes must be added to this ledger before their outlines/drafts are treated as chronologically integrated.
+
+**Outline anchor contract:** each registered event must have exactly one hidden anchor in the corresponding episode outline, using `<!-- EVT-001 | YYYY-MM-DD | YYYY-MM-DD -->`. The two dates must match the registry's inclusive start/end dates. This gives the tests a durable event-to-outline link without exposing production metadata in the rendered story.
+
 ---
 
-## Season 1 Event Ledger (September 2009 – June 2010)
+## Season 1 Event Ledger (current coverage: 7 September – 19 December 2009)
 
 | Event ID | Date (Gregorian) | Episode | Location | Characters Involved | Trigger | Action / Decision | Result & Persistent State Change | Dependent Documents |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

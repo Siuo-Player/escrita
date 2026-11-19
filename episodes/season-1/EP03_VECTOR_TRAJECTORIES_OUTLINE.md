@@ -60,7 +60,7 @@ Clifford e Heather ajustam-se ao ritmo executivo da Califórnia; preparação do
 - **Canon AU:** Conflito familiar na casa dos Pritchett sobre o comentário de Luke a respeito de Gloria ser "coal digger".
 - **Nathan:** Totalmente alheio ao drama doméstico dos Pritchett/Dunphy. Janta com Heather e Clifford na cozinha; conversa familiar sobre as diferenças de trânsito e vizinhança entre Seattle e Los Angeles. Nathan preserva o espaço mental da família sem forçar qualquer intervenção desnecessária.
 
-### 22 de Outubro (Quinta-feira) — A Bola, a Fisga e a Bússola Perdida [Luke Dunphy]
+### 22 de Outubro (Quinta-feira) — A Bola, a Fisga e a Bússola Perdida [Luke Dunphy] <!-- EVT-014 | 2009-10-22 | 2009-10-22 -->
 - **Contexto:** Fim de tarde no parque municipal adjacente ao campo de futebol.
 - **Ação Causal:**
   - Nathan faz exercícios de controlo de bola e remates à baliza com as suas chuteiras e bola de treino [PROP-003].
@@ -72,7 +72,7 @@ Clifford e Heather ajustam-se ao ritmo executivo da Califórnia; preparação do
   - Luke inspeciona Nathan com curiosidade infantil desprovida de vergonha: *"És o rapaz novo da rua de baixo que corre sempre à mesma velocidade? O meu pai diz que pareces um robô da maratona."*
 - **Consequência:** Fica estabelecido o primeiro contacto direto e bem-humorado entre Nathan e Luke. Luke ganha simpatia imediata por Nathan não ter gozado com a fisga dele.
 
-### 24 de Outubro (Sábado) — A Livraria de Westwood e o Livro Raro [PROP-006]
+### 24 de Outubro (Sábado) — A Livraria de Westwood e o Livro Raro [PROP-006] <!-- EVT-015 | 2009-10-24 | 2009-10-24 -->
 - **Contexto:** Manhã de sábado. Nathan acompanha Heather num recado ao bairro universitário de Westwood, perto da UCLA.
 - **Observação / Génese:** Enquanto Heather compra material de escritório, Nathan espreita uma livraria tradicional de alfarrabistas (*Second Chance Books*). Na montra de livros científicos antigos em segunda mão, avista uma edição de 1964 com capa de tecido vermelho: *The Feynman Lectures on Physics, Volume 1* [PROP-006]. Nathan repara no livro e lembra-se de uma conversa informal na biblioteca onde Alex mencionou querer consultar as notas de Feynman sobre mecânica. Nathan não compra o livro de imediato porque ainda quer verificar as suas poupanças, mas memoriza a localização na prateleira.
 
@@ -82,7 +82,7 @@ Clifford e Heather ajustam-se ao ritmo executivo da Califórnia; preparação do
 - Phil surge a ofegar com fita na cabeça e passada desajeitada. Nathan abranda ligeiramente, acena com respeito e diz: *"Bom ritmo, Sr. Dunphy."*
 - Phil sente-se validado no seu espírito competitivo e tenta um *high-five* em movimento, quase tropeçando no passeio. A interação é breve, limpa e natural.
 
-### 29 de Outubro (Quinta-feira) — À Porta dos Dunphys [Haley Dunphy]
+### 29 de Outubro (Quinta-feira) — À Porta dos Dunphys [Haley Dunphy] <!-- EVT-016 | 2009-10-29 | 2009-10-29 -->
 - **Contexto:** Fim de tarde de quinta-feira. Nathan vai a casa dos Dunphys devolver uma chave sextavada que Luke tinha deixado cair junto ao banco do parque.
 - **Ação:** Nathan toca à campainha. Quem abre a porta é Haley (15 anos), maquilhada e apressada, ao telemóvel com uma amiga.
 - Haley olha para Nathan de cima a baixo: *"Sim? Estás à procura da Alex? Ela está no quarto a sofrer com um livro qualquer."*
