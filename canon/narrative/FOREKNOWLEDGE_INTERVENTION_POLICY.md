@@ -1,11 +1,15 @@
 # Foreknowledge and Intervention Policy
 
+<!-- WD-001 -->
+<!-- WD-002 -->
+<!-- WD-004 -->
+
 Status: ESTABLISHED STORY LOGIC / episode opportunities remain WORKING
 Updated: 2026-10-12
 
 ## Purpose
 
-Nathan remembers everything that was actually shown in *Modern Family*, and he wants to prevent tragedies and serious mistakes whenever he has a credible opportunity. This is an active motive, not a promise that he can perfectly repair the future.
+Nathan remembers everything that was actually shown in the *Modern Family* television series in his previous life, and he wants to prevent tragedies and serious mistakes whenever he has a credible opportunity. This is an active motive, not a promise that he can perfectly repair the future.
 
 The challenge is to make each attempt believable for a thirteen-year-old who has a remarkable memory but limited authority, incomplete knowledge of off-screen events, ordinary social access and no guarantee that the remembered timeline will remain stable.
 

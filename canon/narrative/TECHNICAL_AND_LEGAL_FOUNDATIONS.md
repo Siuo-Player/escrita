@@ -1,9 +1,9 @@
-# Technical and Legal Foundations (2009 Period-Accuracy)
+# Real-World Technical and Legal Baseline (2009)
 
-Status: RESEARCHED CANONICAL REFERENCE — CLAIMS QUALIFIED BY SOURCE  
+Status: RESEARCHED REAL-WORLD BASELINE — CLAIMS QUALIFIED BY SOURCE  
 Updated: 2026-11-19
 
-This document separates (1) facts supported by sources from (2) fictional engineering choices and (3) unresolved legal/accounting details. A source from 2010 or later is not silently treated as the exact contract or implementation that applied on a particular day in 2009.
+This document establishes the researched real-world 2009 baseline for technology and law in the parallel-world setting. It does not define the full fictional universe: explicit divergences in canon/narrative/WORLD_DIFFERENCE_REGISTRY.md override this baseline for the story. In the absence of a registered divergence, do not assume the parallel world differs from the real-world baseline. This document also separates (1) facts supported by sources from (2) fictional engineering choices and (3) unresolved legal/accounting details. A source from 2010 or later is not silently treated as the exact contract or implementation that applied on a particular day in 2009.
 
 ---
 

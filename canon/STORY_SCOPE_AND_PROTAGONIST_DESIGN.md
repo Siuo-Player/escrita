@@ -1,5 +1,8 @@
 # Story scope and protagonist design
 
+<!-- WD-001 -->
+<!-- WD-004 -->
+
 Status: WORKING
 Trust: WORKING
 Updated: 2026-10-07

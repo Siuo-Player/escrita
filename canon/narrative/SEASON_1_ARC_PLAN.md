@@ -1,5 +1,10 @@
 # Plano do Arco da Temporada 1 (Setembro 2009 – Junho 2010)
 
+<!-- WD-001 -->
+<!-- WD-002 -->
+<!-- WD-003 -->
+<!-- WD-004 -->
+
 Status: AUTHORITATIVE SEASON ARCHITECTURE  
 Regra de Ouro: No Fillers, >= 3 tramas por episódio (1 principal + >= 2 secundárias com outros personagens).  
 Metodologia: Dual-Track (Top-Down estrutural + Linear causal cena-a-cena + Backpropagation de pistas).

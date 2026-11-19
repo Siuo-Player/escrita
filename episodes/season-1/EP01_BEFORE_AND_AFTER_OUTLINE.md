@@ -1,5 +1,10 @@
 # Season 1, Episode 1 — Before and After
 
+<!-- WD-001 -->
+<!-- WD-002 -->
+<!-- WD-003 -->
+<!-- WD-004 -->
+
 Status: DRAFT OUTLINE / expanded working draft
 Updated: 2026-10-08
 
@@ -44,9 +49,8 @@ New kid → teacher reactions → classmates → first foothold.
 ### F — Nathan + Alex
 Recognition → observation → avoidance → Alex initiates → repeated contact.
 
-### G — Modern Family AU
-Pilot on 23 Sep and The Bicycle Thief on 30 Sep, shown in parallel unless Nathan has a genuine reason to
-intersect them.
+### G — Parallel family events
+The family events Nathan remembers under the source-life labels *Pilot* (23 Sep) and *The Bicycle Thief* (30 Sep) are initial date anchors. They are lived events in this world, shown in parallel unless Nathan has a genuine reason to intersect them; the episode titles do not describe current-world broadcasts.
 
 ### H — Living background
 Shopping, packing, household setup, teammates, teachers, family members' independent plans, objects acquiring

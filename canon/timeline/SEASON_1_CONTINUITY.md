@@ -1,5 +1,10 @@
 # Season 1 Opening Continuity — School, Football, Alex and Nathan's Game
 
+<!-- WD-001 -->
+<!-- WD-002 -->
+<!-- WD-003 -->
+<!-- WD-004 -->
+
 Status: ESTABLISHED / reusable continuity baseline
 Updated: 2026-10-08
 
@@ -21,7 +26,7 @@ reason.
   Public Schools calendar baseline.
 - Nathan transfers to his new Southern California school on **Wednesday, 16 September 2009**.
 - Nathan turns 13 on **Monday, 7 September 2009**.
-- The *Modern Family* pilot remains on **Wednesday, 23 September 2009**.
+- The family events Nathan remembers under the previous-life label *Pilot* are initially anchored to **Wednesday, 23 September 2009**. This is not a broadcast date in the parallel world.
 - Nathan is one school year above Alex.
 - For the opening school year, Nathan is therefore in **8th grade** and Alex in **7th grade**. They share
   the same middle-school environment while preserving Alex's later middle-school graduation timing.

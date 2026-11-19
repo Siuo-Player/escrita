@@ -1,8 +1,15 @@
 # Season 1, Episode 2 — Finish the Game
 
+<!-- WD-001 -->
+<!-- WD-002 -->
+<!-- WD-003 -->
+<!-- WD-004 -->
+
 **Story Window:** October 1–15, 2009  
 **Status:** FULL PROSE DRAFT (Movements I, II, and III)  
-**Active Threads:** Thread A (C++ Engine / Flow Field on 3GS), Thread B (Nathan & Alex / Library & Perfectionism), Thread C (Soccer & Maxwell Whitaker), Thread D (Claire Dunphy / Supermarket), Thread E (Modern Family Canon AU: *Come Fly with Me* & *The Incident*).
+**World-canon note:** Episode titles are labels from Nathan's previous-life memories. In this timeline, the families are experiencing real events; no current-world broadcast is implied.
+
+**Active Threads:** Thread A (C++ Engine / Flow Field on 3GS), Thread B (Nathan & Alex / Library & Perfectionism), Thread C (Soccer & Maxwell Whitaker), Thread D (Claire Dunphy / Supermarket), Thread E (parallel family events remembered by Nathan in his previous life).
 
 ---
 
