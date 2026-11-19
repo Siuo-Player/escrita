@@ -48,13 +48,15 @@ The following are suitable high-level constraints for scenes set in late 2009:
 
 The 600 MHz S5PC100 / 256 MB specifications are supported by a contemporaneous June 2009 teardown report and specialist hardware references rather than Apple's June 2009 press release. A September 2009 iPhone-game performance presentation also contains Instruments traces using the `IMGSGX535GLDriv` driver, which corroborates the SGX535 identification. Apple's own announcement confirms OpenGL ES 2.0. [Sources E, F, H, I]
 
-**Colour depth:** The previous claim of an 18-bit display (262,144 colours) is removed from the canonical baseline. Third-party specification pages disagree about how to describe the panel's colour depth, and the primary Apple announcement does not settle that technical detail. It is not important to the story's current engineering constraints.
+**Colour depth:** The previous claim of an 18-bit display (262,144 colours) is removed from the canonical baseline. The third-party specification reference listed here reports 24-bit colour, but I did not locate an Apple primary technical document establishing the panel's exact native colour depth. Leave colour depth unspecified unless a better panel datasheet is found.
 
 ### 2.2 Memory is shared; do not invent a fixed per-app allowance
 
 The device's 256 MB is shared by the operating system, system services, background processes, and the foreground application. The usable amount changes with the system state. It is not defensible to split it into a universal “120–130 MB for the system” and “125–135 MB for apps” partition, nor to present a single fixed app cap as a general iPhone OS 3.1 rule.
 
-Apple's archived memory guidance says that iOS does not use disk-backed swap in the conventional desktop sense. When free pages fall below a system-computed threshold, iOS may send a low-memory notification; applications should release recreatable objects and caches. If memory pressure remains, the system may terminate applications. The documentation describes a computed threshold, **not** public numeric thresholds in megabytes. [Source G]
+Apple's 2009 WWDC session on iPhone memory management describes a staged pressure model: an initial low-memory notification asks apps to release what they can; at a more severe stage, background apps exit; if pressure still continues, the frontmost app is terminated. The same session explains that the phone has no desktop-style swap file and that system services, graphics, SpringBoard, and other processes consume memory alongside the foreground app. [Source J] Apple's archived guidance describes the threshold as system-computed, not as a universal app-specific number of free megabytes. [Source G]
+
+The WWDC transcript mentions “5%” while describing its top-level warning example. That does not establish the old document's 40–50 MB and 15–20 MB figures, nor a fixed 3GS app cap. Do not convert that presentation-specific percentage into a general byte limit.
 
 For application code, use the public-era UIKit mechanisms rather than presenting internal memory-watcher states as the app developer's API:
 
@@ -62,7 +64,7 @@ For application code, use the public-era UIKit mechanisms rather than presenting
 - `didReceiveMemoryWarning`
 - `UIApplicationDidReceiveMemoryWarningNotification`
 
-The identifiers `OSMemoryNotificationLevelWarning` and `OSMemoryNotificationLevelUrgent`, and the previously stated 40–50 MB / 15–20 MB trigger values, are removed from the canonical narrative. They are not a defensible public contract for an iPhone OS 3.1 application. Do not make a character claim that an app is guaranteed to receive a warning at a particular free-RAM value before termination.
+The identifiers `OSMemoryNotificationLevelWarning` and `OSMemoryNotificationLevelUrgent` are not the public UIKit callbacks an application developer should use in narrative code. The previous 40–50 MB / 15–20 MB trigger values are removed: the sources located do not establish them as public or universal 3GS thresholds. Do not make a character claim that an app is guaranteed to receive a warning at a particular free-RAM value before termination.
 
 ### 2.3 Nathan's 35 MB budget and the stress-test figures
 
@@ -97,6 +99,7 @@ The 45 MB spike should be an earlier failed stress-test result that motivates op
 | G | [Apple Developer Archive — Memory Usage Performance Guidelines, “Tips for Allocating Memory”](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/MemoryAlloc.html) | No disk-backed swap; low-memory warnings, releasing references/caches, possible process termination | Apple archived developer guidance; current archive page is dated 2013, so it supports the general memory-management model, not a numeric 2009 threshold |
 | H | [WIRED, “iPhone Teardown Reveals Underclocked 833MHz CPU”, 19 June 2009](https://www.wired.com/2009/06/iphone-teardown-reveals-underclocked-833mhz-cpu/) | Identifies the Samsung S5PC100 at 600 MHz and reports 256 MB memory | Contemporary teardown reporting; its explanation of why Apple chose 600 MHz is inference, not an Apple statement |
 | I | [Noel Llopis, “Squeezing Every Drop Of Performance Out Of The iPhone”, iPhoneGames Summit, September 2009](https://gamesfromwithin.com/wp-content/uploads/2009/09/iPhone_performance.pdf) | Shows Instruments used for frame-rate, CPU, OpenGL ES and memory profiling on a real iPhone; includes the SGX535 driver identifier | Contemporary developer presentation; useful for realistic profiling practices, not a specification or benchmark of Nathan's fictional game |
+| J | [WWDC 2009 Session 416 — “Understanding Memory Management on iPhone” (transcript and Apple video link)](https://nonstrict.eu/wwdcindex/wwdc2009/416/) | Three-stage low-memory behaviour, background-process exit, foreground app termination, no desktop-style swap, memory consumers beyond the foreground app | Contemporary Apple engineering session; the available transcript is hosted by a third-party index and warns of possible transcription errors; use the Apple-hosted video linked on the page for primary verification |
 
 ### Open research questions
 
