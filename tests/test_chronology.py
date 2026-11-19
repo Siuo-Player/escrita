@@ -4,6 +4,7 @@ Valida o EVENT_REGISTRY.md e os intervalos temporais declarados nos outlines. Os
 """
 
 import unittest
+import re
 from datetime import datetime
 from pathlib import Path
 from tests.parser import REPO_ROOT, extract_episode_metadata, extract_events_from_registry
@@ -54,7 +55,7 @@ class TestStoryChronology(unittest.TestCase):
         """Cada evento e o seu intervalo completo têm de caber na janela temporal do outline correspondente."""
         episodes_by_number = {}
         for episode in self.parsed_episodes:
-            match = __import__("re").match(r"^(EP\\d{2})_", episode["file"])
+            match = re.match(r"^(EP\\d{2})_", episode["file"])
             if match:
                 episodes_by_number[match.group(1)] = episode
 
