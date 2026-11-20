@@ -16,7 +16,7 @@ An episodic literary fiction novel set in the *Modern Family* parallel world: th
   * **Personality:** Highly disciplined in computer science (C++/OpenGL ES) and athletics (soccer and judo), but guarded, intensely shy, and burdened by a chronic fear of appearing arrogant or presumptuous.
 * **The Callahan Family:** Clifford Callahan (father, Senior VP of Engineering Operations) and Heather Callahan (mother, corporate financial consultant). Pragmatic, loving, stable foundation.
 * **Independent Core Tech Arc:** Independent development of a custom 2D mobile game in C++ featuring flow-field spatial AI for the newly launched iPhone 3GS (2009).
-* **Alex Dunphy Dynamic:** Absolute slow burn. Begins with cautious observation and mutual intellectual respect in 8th grade; deepens into a resilient, unpretentious friendship throughout Season 1.
+* **Alex Dunphy Dynamic:** Absolute slow burn. Begins with cautious observation and mutual intellectual respect across adjacent grade levels (Nathan in 8th grade, Alex in 7th); deepens into a resilient, unpretentious friendship throughout Season 1.
 * **Prose Language:** **American English** (contemporary 2009 setting, authentic character dialogue, and technical precision; see `canon/DECISION_LOG.md` DEC-008).
 
 ### Parallel-world canon
