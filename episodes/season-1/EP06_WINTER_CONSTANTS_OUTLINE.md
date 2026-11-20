@@ -53,7 +53,7 @@ Primeiro Natal em Los Angeles sem a chuva e o frio constante de Seattle. Cliffor
 - **Implementação:** Integração de uma grelha espacial de particionamento (*spatial hash*) onde cada agente só verifica vizinhos na sua célula imediata de 32x32 píxeis.
 
 ### 09 de Dezembro (Quarta-feira) — Paralelo com *Undeck the Halls*
-- **Canon AU:** A crise do sofá queimado por uma ponta de cigarro na casa dos Dunphy; Phil e Claire ameaçam cancelar o Natal.
+- **Evento familiar lembrado da série anterior:** A crise do sofá queimado por uma ponta de cigarro na casa dos Dunphy; Phil e Claire ameaçam cancelar o Natal.
 - **Na Escola:** Alex chega com ar cansado e comenta com Nathan durante a aula de álgebra que a casa dela parece uma sala de interrogatórios da polícia criminal da Alemanha de Leste. Nathan responde com humor seco: *"A probabilidade de uma confissão involuntária sob ameaça de perda coletiva de presentes é de noventa por cento."* Alex sorri, aliviando a tensão interna.
 
 ### 15 de Dezembro (Terça-feira) — O Treino de Inverno e a Pressão de Maxwell
