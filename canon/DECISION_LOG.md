@@ -172,6 +172,18 @@ This file stores **what was decided, how the current answer was validated, and w
 - **Dependencies:** `SEASON_1_ARC_PLAN.md`, `SEASON_1_CONTINUITY.md`, `SEASON_1_DECISION_AND_STATUS_REGISTER.md`, EP11/EP12 outlines and any Season 2 opening.
 - **Revisit trigger:** once Nathan and Alex's actual campus/calendar track is fixed; record the exact last instructional day before assigning the ceremony/results date.
 
+
+## DEC-016 — Protect character agency and narrative quality across the series
+
+- **Date:** 2026-11-20.
+- **Question:** how should the project prevent the protagonist-centred wish-fulfilment patterns identified in comparative fanfiction review, while preserving the author's intended long-term story?
+- **Current result:** The **NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md** is the project-wide review standard for character autonomy, narrative causality, romance, technology arcs and literary quality. Nathan must not be universally competent or universally admired; Alex and Haley retain independent goals and decisions; the Dunphy/Pritchett/Tucker ensemble and the Callahans keep relationships and conflicts that do not depend on Nathan; and every meaningful plot thread needs an objective, obstacle, choice and consequence. Technology is treated as lived work under constraints, not a résumé of achievements. The planned Nathan/Alex reconciliation and pregnancy epilogue remain authorial destinations, but cannot override character agency or erase the costs of the path.
+- **Status:** PROJECT-WIDE NARRATIVE QUALITY STANDARD. This is a planning and review contract, not a new diegetic fact and not a guarantee of subjective literary quality.
+- **Reason:** comparative examples highlighted recurring risks: an overpowered or universally praised OC, a canon character reduced to a romantic reward or therapist, author preference flattening canon characterization, decorative parallel plots, and technical milestones presented without human cost. The existing project scope already required independent lives and recognizable motives; this decision makes those requirements operational across planning and drafting.
+- **Dependencies:** `canon/narrative/NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md`, `canon/narrative/SERIES_GLOBAL_ARCHITECTURE.md`, `canon/STORY_SCOPE_AND_PROTAGONIST_DESIGN.md`, `canon/narrative/STORY_DEVELOPMENT_WORKFLOW.md`, `canon/narrative/SEASON_1_ARC_PLAN.md`, `tests/test_narrative_quality_contracts.py`, and all future outlines/drafts materially affected by the standard.
+- **Validation:** deterministic tests verify the presence of the standard, its cross-document links and selected planning contracts. **Human review remains mandatory** for voice, humour, characterization, emotional credibility, scene quality and whether the prose actually respects agency.
+- **Revisit trigger:** review after each season audit, or whenever the author deliberately changes the central relationship, a major character trajectory, the multi-plot rule or the narrative point of view.
+
 ## Change protocol
 
 When a decision is changed:
