@@ -53,6 +53,10 @@ Os acontecimentos vividos pelas famílias que Nathan recorda sob o título *Coal
 - **Ação:** Nathan substitui o teste exato de distâncias euclidianas por uma partição espacial em células de 32x32 pixels, poupando centenas de chamadas trigonométricas por segundo.
 - **Consequência:** A simulação estabiliza; primeira vitória de engenharia palpável.
 
+### Corte Editorial — 16 de Outubro (Sexta-feira, depois das aulas): O Brilho Junto à Vedação [Luke POV]
+- Luke passa de bicicleta por Rancho Park e repara num brilho de latão preso nas raízes da sebe junto ao banco. Aproxima-se e identifica uma pequena bússola, mas deixa-a no local, à vista, na esperança de que o dono volte a procurá-la. Memoriza a árvore, o banco e a secção de vedação para a encontrar mais tarde [CLUE-001].
+- **Função causal:** prepara a recuperação da bússola quando a bola de Nathan cai na mesma sebe a 22 de outubro; Luke não conhece ainda o dono do objeto.
+
 ### 19 de Outubro (Segunda-feira) — O Caderno de Esboços na Biblioteca
 - **Contexto:** Biblioteca escolar depois das aulas, durante o bloco de estudo autónomo.
 - **Presença de Alex:** Alex está a rever resumos intensivos para o teste intercalar de biologia e química.
@@ -114,7 +118,9 @@ Os acontecimentos vividos pelas famílias que Nathan recorda sob o título *Coal
 
 ## Cortes Editoriais e Quebras de Perspetiva (Director's POV Cuts)
 
-1. **Corte Editorial 1 (22 de Outubro — Quintal dos Dunphy): Perspetiva de Luke Dunphy.**
+1. **Corte Editorial 1 (16 de Outubro — Rancho Park): Perspetiva de Luke Dunphy.**
+   - Ao passar de bicicleta, Luke vê uma bússola antiga a brilhar nas raízes da sebe junto ao banco. Decide deixá-la no local, esperando que o dono regresse, mas memoriza a localização para a poder recuperar se continuar esquecida [CLUE-001].
+2. **Corte Editorial 2 (22 de Outubro — Quintal dos Dunphy): Perspetiva de Luke Dunphy.**
    - Luke sobe à casa da árvore no quintal com a bússola de metal antiga [CLUE-001] que encontrou nos arbustos. Guarda-a numa caixa de sapatos com arames e pilhas gastas, convencido de que o vizinho Nathan é um agente secreto que corre à mesma velocidade para não acionar minas terrestres. O raciocínio caótico e carinhoso de Luke em pleno contraste com a lógica matemática de Nathan.
-2. **Corte Editorial 2 (29 de Outubro — Quarto de Haley Dunphy): Perspetiva de Haley Dunphy.**
+3. **Corte Editorial 3 (29 de Outubro — Quarto de Haley Dunphy): Perspetiva de Haley Dunphy.**
    - Haley fecha a porta após receber a chave devolvida por Nathan. Volta para a chamada ao telemóvel com a amiga e comenta casualmente: *"A Alex agora tem um rapaz do clube de nerds que vem cá a casa devolver parafusos com calças impecavelmente passadas a ferro. Ele parece saído de um filme clássico dos anos cinquenta."* O detalhe exterioriza como a família perceciona Nathan sem que ele saiba.
