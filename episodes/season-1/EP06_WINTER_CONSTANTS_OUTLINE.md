@@ -49,7 +49,7 @@ Primeiro Natal em Los Angeles sem a chuva e o frio constante de Seattle. Cliffor
 
 ### 08 de Dezembro (Terça-feira) — A Telemetria e o Algoritmo de Steering
 - **Contexto:** Quarto de Nathan, final de tarde. As estatísticas do iTunes Connect mostram 620 descargas acumuladas.
-- **Desenvolvimento:** Nathan estuda os algoritmos de Craig Reynolds de 1987 (*boids*). O desafio: como fazer trinta agentes voarem em esquadrilha sem que o cálculo de distância $O(n^2)$ sature a CPU de 600 MHz.
+- **Desenvolvimento:** Nathan estuda os algoritmos de Craig Reynolds de 1987 (*boids*) e começa com um grupo de trinta agentes. A comparação ingénua entre todos os pares exige apenas $30 × 29 / 2 = 435$ verificações por frame (26.100 por segundo a 60 FPS), um teste inicial razoável para o iPhone 3GS, não um cenário que por si só demonstre saturação do CPU. O objetivo é validar o comportamento e conservar uma arquitetura que também aguente o cenário de escala de 200 agentes já usado nos testes anteriores, onde a comparação ingénua sobe para 19.900 pares por frame.
 - **Implementação:** Reutiliza a grelha espacial uniforme `SpatialGrid` construída no EP03 para a fase ampla da deteção de colisões. A estrutura atualiza a pertença dos agentes às células antes dos cálculos de steering; para um raio de perceção até 32 píxeis, cada agente consulta a sua célula e as oito adjacentes. Não é criada uma segunda estrutura de `spatial hash`. A grelha reduz os candidatos na distribuição habitual, mas não elimina o pior caso quadrático se quase todos os agentes se acumularem na mesma célula.
 
 ### 09 de Dezembro (Quarta-feira) — Paralelo com *Undeck the Halls*
