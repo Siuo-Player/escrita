@@ -142,6 +142,26 @@ This file stores **what was decided, how the current answer was validated, and w
 - **Dependencies:** `SEASON_1_CONTINUITY.md`, `NATHAN_FIRST_MOBILE_GAME.md`, `EP02_FINISH_THE_GAME_OUTLINE.md`, `EP04_MEMORY_PROFILES_OUTLINE.md`, `EP05_LAUNCH_TRAJECTORY_OUTLINE.md`, `EVENT_REGISTRY.md`.
 - **Revisit trigger:** a deliberate change to any of the three dated milestones; update all dependent documents and event anchors together.
 
+## DEC-013 — Pooling de entidades e buffers, não pesquisa global por frame
+
+- **Date:** 2026-11-20.
+- **Question:** what work should the EP04 memory profile attribute to dynamic allocation?
+- **Current result:** the bounded object pool targets repeated entity creation/removal and temporary collision-contact records during test resets and level activity. The stable flow field is built once and regenerated only when the map or shared destination requires it; it is not a global path search for every enemy every frame.
+- **Status:** TECHNICAL/NARRATIVE CONSISTENCY RULE, derived from the existing flow-field design and the EP03 collision architecture.
+- **Reason:** the former EP04 wording claimed that path-search nodes were allocated and freed hundreds of times per frame. That contradicted shared navigation and precomputation.
+- **Dependencies:** `EP04_MEMORY_PROFILES_OUTLINE.md`, `NATHAN_FIRST_MOBILE_GAME.md`, `TECHNICAL_AND_LEGAL_FOUNDATIONS.md`.
+- **Revisit trigger:** a deliberate redesign of navigation/physics allocation; do not revert to per-frame global path searches without redesigning and profiling that architecture.
+
+## DEC-014 — Keep the 30-agent boids demonstration distinct from the 200-agent scale test
+
+- **Date:** 2026-11-20.
+- **Question:** how should the EP06 flocking scene describe pairwise cost on the iPhone 3GS?
+- **Current result:** thirty agents require 435 pair checks per frame (26,100 per second at 60 FPS), a reasonable initial demonstration rather than evidence that the 600 MHz CPU is saturated. The spatial grid is reused to support the broader architecture and the already established 200-agent stress case, which would require 19,900 naïve pairs per frame (1.194 million per second at 60 FPS). A uniform grid reduces typical candidate counts but does not eliminate quadratic worst-case clustering.
+- **Status:** TECHNICAL/NARRATIVE CONSISTENCY RULE; arithmetic is deterministic.
+- **Reason:** the previous outline overstated the cost of thirty agents and made the spatial grid appear necessary for an implausibly small demonstration.
+- **Dependencies:** `EP06_WINTER_CONSTANTS_OUTLINE.md`, `NATHAN_FIRST_MOBILE_GAME.md`, `EP03_DRAFT.md`.
+- **Revisit trigger:** a changed agent count, update rate, perception radius or measured device profile; update the arithmetic and test together.
+
 ## Change protocol
 
 When a decision is changed:
