@@ -146,7 +146,7 @@ Season 1 is planned to cover **7 September 2009–20 June 2010** in twelve episo
 
 ## 10. Registry coverage and known unresolved items
 
-The Event Registry is the date authority for registered events, but its current coverage is partial: **EVT-001–EVT-028 cover EP01–EP06 through 19 December 2009**. Later Season 1 events and all EP07–EP12 arcs still need their event IDs, dates, causal triggers, persistent state changes and dependent-document links.
+Coverage status: partial. The Event Registry is the date authority for registered events, but its current coverage is partial: **EVT-001–EVT-028 cover EP01–EP06 through 19 December 2009**. Later Season 1 events and all EP07–EP12 arcs still need their event IDs, dates, causal triggers, persistent state changes and dependent-document links.
 
 ### UNRESOLVED — do not treat as decided
 
