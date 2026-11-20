@@ -156,7 +156,7 @@ Para respeitar a regra de **não apresentar personagens todos juntos de forma ar
 
 ### EP12 — "Family Portraits and Summer Horizons" (21 Maio – 25 Junho 2010)
 - **Trama Principal (A):** Compilação da edição HD do jogo para iPad; preparação dos estudos autónomos de linguagens de baixo nível e algoritmos para as férias de verão.
-- **Subtrama 1 (B - Nathan & Alex / O Pacto de Verão):** A conclusão do ano letivo marca transições diferentes: Nathan termina a middle school e prepara-se para entrar no High School; Alex termina o 7.º ano e vai frequentar o 8.º. Antes das férias, combinam manter as rotinas de estudo e leitura, ajustadas às novas escolas e horários.
+- **Subtrama 1 (B - Nathan & Alex / O Pacto de Verão):** Depois do último dia de instrução aplicável, são divulgados os resultados finais dos respetivos anos: Nathan conclui o 8.º ano e prepara-se para entrar no High School; Alex conclui o 7.º ano e transita para o 8.º. Não partilham uma graduação da middle school. Antes das férias, combinam manter as rotinas de estudo e leitura, ajustadas às novas escolas e horários.
 - **Subtrama 2 (C - Família Callahan / Compra Definitiva):** Clifford e Heather formalizam a compra da moradia em Cheviot Hills; Los Angeles torna-se o lar permanente definitivo da família Callahan.
 - **Subtrama 3 (D - Maxwell & Futuro Desportivo):** Celebração de final de época da equipa; Maxwell e Nathan confirmam a intenção de jogar juntos na equipa de juniores do liceu.
 - **Eventos familiares lembrados da série anterior:** Encerramento do calendário letivo de Los Angeles e preparação para as férias de 2010.
