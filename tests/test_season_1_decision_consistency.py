@@ -93,7 +93,7 @@ class TestSeasonOneDecisionConsistency(unittest.TestCase):
 
     def test_ep06_does_not_claim_thirty_boids_saturate_the_iphone_cpu(self):
         ep06 = self.ep06_outline.lower()
-        self.assertIn("435 verificações por frame", ep06)
+        self.assertIn("30 × 29 / 2 = 435", ep06)
         self.assertIn("19.900 pares por frame", ep06)
         self.assertIn("não um cenário que por si só demonstre saturação", ep06)
 
