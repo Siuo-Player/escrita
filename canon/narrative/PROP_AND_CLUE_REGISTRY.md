@@ -1,9 +1,13 @@
 # Registo de Adereços, Pistas e Backpropagation de Causalidade
 
+<!-- WD-004 -->
+
 Status: AUTHORITATIVE CAUSAL LEDGER  
 Updated: 2026-11-19
 
 Este registo garante o princípio de **backpropagation narrativa e integridade de adereços**: nenhum objeto relevante, pista ou detalhe crucial pode surgir do nada no momento em que a trama precisa dele. Cada elemento deve ter génese explicada, presenças em fundo de cena prévias e resolução merecida.
+
+As datas registadas são datas dos acontecimentos neste mundo, não datas de emissão da série que Nathan recorda. Quando um título de episódio é usado como referência, o registo deve distinguir a data de transmissão na vida anterior da data sustentada para a génese, presença ou payoff do objeto. Ver `WORLD_DIFFERENCE_REGISTRY.md` (WD-004).
 
 ---
 
