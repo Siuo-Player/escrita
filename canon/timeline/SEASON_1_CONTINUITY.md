@@ -106,7 +106,7 @@ The main arc is the final development push:
 - small bugs and balance issues are fixed;
 - school, football and family scenes continue in parallel;
 - somebody outside Nathan's immediate circle can begin to notice that the enemies behave unusually well;
-- the finished game is packaged and reaches a real playable release around **15 October**.
+- the first playable vertical slice is packaged for internal testing around **15 October**; this is not a public release. Version 1.0 is submitted to Apple on 18 November and publicly released on 3 December.
 
 The game should finish around the **middle or later part of Episode 2**, depending on episode length and how
 much space the school/Alex material needs.
@@ -316,7 +316,7 @@ day-by-day diary.
 ## Nathan's first game — compressed development calendar
 
 The first playable vertical slice reaches an internal milestone by **15 October 2009**, after about **39 days
-(5½ weeks)** of focused development. This is a playable vertical slice, not a public release. Nathan continues to add
+(5½ weeks)** of focused development. This is an internal playable vertical slice, not a public release; available memory varies with system activity and must be measured on the actual device. Nathan continues to add
 physics, collision handling, memory profiling and polish; Clifford submits v1.0 to Apple on 18 November,
 and the App Store makes it publicly available on 3 December. The short initial schedule is credible only
 because Nathan already knows the intended design, has strong C++ skills, uses an existing 2D framework and
