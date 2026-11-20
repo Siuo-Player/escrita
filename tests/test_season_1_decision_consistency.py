@@ -23,6 +23,7 @@ class TestSeasonOneDecisionConsistency(unittest.TestCase):
         cls.ep03 = (EPISODES / "EP03_DRAFT.md").read_text(encoding="utf-8")
         cls.ep04_outline = (EPISODES / "EP04_MEMORY_PROFILES_OUTLINE.md").read_text(encoding="utf-8")
         cls.ep05_outline = (EPISODES / "EP05_LAUNCH_TRAJECTORY_OUTLINE.md").read_text(encoding="utf-8")
+        cls.ep06_outline = (EPISODES / "EP06_WINTER_CONSTANTS_OUTLINE.md").read_text(encoding="utf-8")
 
     def test_grade_gap_is_preserved_through_the_end_of_season_one(self):
         self.assertIn("Nathan conclui o 8.º ano", self.arc)
@@ -65,6 +66,21 @@ class TestSeasonOneDecisionConsistency(unittest.TestCase):
     def test_ep03_luke_compass_directors_cut_is_not_duplicated(self):
         heading = "### Director's Cut 1 — October 16, 2009 (Friday Afternoon): The Glint by the Fence"
         self.assertEqual(self.ep03.count(heading), 1)
+
+
+    def test_v11_reuses_the_spatial_grid_already_built_in_ep03(self):
+        self.assertIn("reutiliza a grelha espacial", self.ep06_outline.lower())
+        self.assertIn("ep03", self.ep06_outline.lower())
+        self.assertNotIn("integração de uma grelha espacial de particionamento", self.ep06_outline.lower())
+
+    def test_alex_schoolwork_does_not_assume_unestablished_organic_chemistry(self):
+        self.assertNotIn("química orgânica", self.ep05_outline.lower())
+        self.assertIn("teste de ciências", self.ep05_outline.lower())
+
+    def test_ep06_does_not_claim_the_core_family_introduction_cycle_is_complete(self):
+        self.assertNotIn("ciclo completo dos personagens canon concluído", self.ep06_outline.lower())
+        self.assertIn("gloria", self.ep06_outline.lower())
+        self.assertIn("ep07", self.ep06_outline.lower())
 
     def test_season_status_register_points_to_the_existing_decision_authority(self):
         self.assertIn("DECISION_LOG.md", self.register)
