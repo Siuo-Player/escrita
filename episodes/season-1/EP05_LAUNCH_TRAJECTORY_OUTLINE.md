@@ -80,7 +80,7 @@ Os acontecimentos vividos em torno do aniversário de Luke, que Nathan recorda s
 - **Resultado Inicial:** Até ao final do dia 03 de dezembro, 23 descargas orgânicas nos Estados Unidos e Canadá. Até ao final de 04 de dezembro, o total acumulado chega a 140. O produto é real.
 
 ### 04 de Dezembro (Sexta-feira) — O Desabafo de Alex na Bancada do Pátio <!-- EVT-026 | 2009-12-04 | 2009-12-04 -->
-- **Contexto:** Pátio da escola secundária após a última aula de ciências. Chove com pouca intensidade, deixando o cimento húmido.
+- **Contexto:** Pátio da escola de Nathan e Alex após a última aula de ciências. Chove com pouca intensidade, deixando o cimento húmido.
 - **Aproximação:** Alex está sentada debaixo da pala de betão do ginásio, com os joelhos encostados ao peito e as mãos a tremer ligeiramente de frio e cansaço.
 - **Conversa:** Nathan aproxima-se e senta-se na outra ponta do banco, mantendo um espaço respeitoso de um metro.
   - Nathan não faz perguntas intrusivas. Estende-lhe um pacote fechado de lenços de papel e uma garrafa de água mineral selada da mochila.
