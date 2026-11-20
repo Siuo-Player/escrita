@@ -1,7 +1,7 @@
 # Decision Log — Story, Naming and Causal Method
 
 Status: AUTHORITATIVE PROVENANCE LOG
-Updated: 2026-10-12
+Updated: 2026-11-20
 
 This file stores **what was decided, how the current answer was validated, and what remains revisable**. Consult it with the Character Name Registry, the story-decision file, the relevant character profile, timeline and any open PR before asking the author a question. Do not treat an assistant-generated suggestion as author approval.
 
@@ -121,6 +121,26 @@ This file stores **what was decided, how the current answer was validated, and w
 - **Method:** explicit user instruction («usar gráficos de tempo com barras de x a y para plotar os plots num gráfico e ver se eles ficam em paralelo... servimos como editores/diretores do que aparece, quando, do fluxo da cena»).
 - **Validation:** maintains $\ge 3$ simultaneous threads per episode, visualizes them via timeline bars, and makes deliberate directorial decisions on scene duration, pacing, POV allocation, and information disclosure (what is shown vs. what is left in the background).
 - **Dependencies:** `canon/narrative/SEASON_1_ARC_PLAN.md`, `brain/.../director_concurrency_matrix_season_1.md`, ai-memory (`concepts/multi-plot-concurrency-and-directors-cut.md`).
+
+## DEC-011 — Preserve the one-grade gap through the end of Season 1
+
+- **Date:** 2026-11-20.
+- **Question:** how should the June 2010 school transition respect Nathan's and Alex's established grade levels?
+- **Current result:** Nathan remains one school year above Alex. In the 2009–10 year Nathan is in 8th grade and Alex is in 7th. At the end of that year Nathan completes 8th grade and prepares to enter High School; Alex completes 7th grade and advances to 8th grade.
+- **Status:** ESTABLISHED CONTINUITY RULE, derived from the pre-existing one-grade separation; this does not authorize skipping or repeating a grade.
+- **Reason:** the former EP11/EP12 summary placed both characters in the same 8th-grade honours cohort and described both as graduating middle school together. That contradicted the established grade separation.
+- **Dependencies:** `SEASON_1_ARC_PLAN.md`, `STORY_DECISIONS_TO_MAKE.md`, later school calendars and any Season 2 opening material.
+- **Revisit trigger:** only if a separately justified school placement or acceleration/repetition event is deliberately written and registered.
+
+## DEC-012 — Separate the game's internal milestone from its public release
+
+- **Date:** 2026-11-20.
+- **Question:** how do the October playable milestone, November Apple submission and December launch fit together?
+- **Current result:** **15 October 2009** is the internal, end-to-end playable vertical-slice milestone for the first feature set. It is not the public App Store release. The project continues through collision/physics work, memory profiling and release preparation. Clifford, as adult developer-account holder, submits v1.0 to Apple on **18 November 2009**; the app becomes publicly available on the App Store on **3 December 2009** after review.
+- **Status:** ESTABLISHED CHRONOLOGY RECONCILIATION, derived from EVT-021 and EVT-025 and the existing Episode 4/5 plans.
+- **Reason:** earlier continuity wording called 15 October a "release", which blurred a playable internal build with distribution to customers.
+- **Dependencies:** `SEASON_1_CONTINUITY.md`, `NATHAN_FIRST_MOBILE_GAME.md`, `EP02_FINISH_THE_GAME_OUTLINE.md`, `EP04_MEMORY_PROFILES_OUTLINE.md`, `EP05_LAUNCH_TRAJECTORY_OUTLINE.md`, `EVENT_REGISTRY.md`.
+- **Revisit trigger:** a deliberate change to any of the three dated milestones; update all dependent documents and event anchors together.
 
 ## Change protocol
 
