@@ -55,7 +55,7 @@ class TestNarrativeQualityContracts(unittest.TestCase):
         self.assertIn("Haley Dunphy", self.standard)
         self.assertIn("famílias Dunphy/Pritchett/Tucker", self.standard)
         self.assertIn("objetivos independentes", self.standard.lower())
-        self.assertIn("não existe para validar Nathan", self.standard.lower())
+        self.assertIn("não existe para validar nathan", self.standard.lower())
         self.assertIn("não é terapeuta", self.standard.lower())
 
     def test_comparative_fanfiction_notes_separate_reader_reviews_from_model_analysis(self):
