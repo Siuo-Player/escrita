@@ -156,7 +156,7 @@ Coverage status: partial. The Event Registry is the date authority for registere
 4. **Haley possibility:** adult separation, timing, motivations and consequences remain undecided.
 5. **First-year foreknowledge opportunities:** the intervention policy is established, but a dated audit of opportunities must identify only events where Nathan has credible knowledge, access and a useful action.
 6. **Supporting cast:** Maxwell's role is defined but working; several non-canon names, team rosters and supporting social circles are provisional unless separately locked.
-7. **App Store revenue/tax transfer:** Clifford's adult publisher role is established; the exact legal/accounting arrangement that transfers proceeds to Nathan remains unspecified.
+7. **App Store revenue/tax transfer and EP10 iPad:** Clifford's adult publisher role is established; the exact legal/accounting arrangement that transfers proceeds to Nathan remains unspecified. EP10 must not say Nathan buys an iPad directly with personal App Store earnings unless a family/legal allocation is first established. The current outline now treats the purchase as conditional on an explicit decision by Clifford and Heather; that decision is not yet canon.
 8. **December launch traction:** exact fictional download/rating figures need a believable discovery mechanism and should not be presented as historical norms.
 9. **Later v1.1 release date:** the first-season arc anticipates a January release, but the exact submission/approval/publication events still require a matching event-registry entry and chronology check.
 
