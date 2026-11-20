@@ -468,8 +468,8 @@ This keeps his advantage from becoming a cheat sheet.
 
 ## Development calendar and school-night workload
 
-The complete development now runs from **7 September to approximately 15 October 2009**: about **39 days
-(5½ weeks)**.
+The first playable vertical slice reaches an internal milestone by **15 October 2009**, after about **39 days
+(5½ weeks)**. This is not the public App Store release; physics, memory profiling, final packaging and Apple's review continue through November and early December.
 
 This is deliberately faster than the earlier 7–8 week plan because Nathan already knows what he wants to
 build, has strong C++ skills, uses an existing 2D framework, and has no major failure besides the A* →
@@ -488,7 +488,7 @@ A useful narrative target is roughly **60–85 focused development hours**.
   experiments.
 - **1–7 Oct:** player prediction/influence field becomes reliable and connects to goal selection.
 - **8–12 Oct:** profiling, caching, update-frequency reduction, device tests and balancing.
-- **13–15 Oct:** final playtest, cleanup, packaging and release.
+- **13–15 Oct:** final playtest and packaging of the first internal playable vertical slice; no public App Store publication.
 
 ### Why the shorter schedule is credible
 
