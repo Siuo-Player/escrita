@@ -6,7 +6,7 @@
 <!-- WD-004 -->
 
 **Story Window:** October 1–15, 2009  
-**Status:** FULL PROSE DRAFT (Movements I, II, and III)  
+**Status:** WORKING PROSE DRAFT — approximately 4,400 words; below the 10,000–14,000+ word target.  
 **World-canon note:** Episode titles are labels from Nathan's previous-life memories. In this timeline, the families are experiencing real events; no current-world broadcast is implied.
 
 **Active Threads:** Thread A (C++ Engine / Flow Field on 3GS), Thread B (Nathan & Alex / Library & Perfectionism), Thread C (Soccer & Maxwell Whitaker), Thread D (Claire Dunphy / Supermarket), Thread E (parallel family events remembered by Nathan in his previous life).
@@ -345,7 +345,7 @@ She let out a dry, breathy laugh through her nose, looking down at her chemistry
 
 Nathan reached down, took his sealed bottle of cold mineral water, and slid it across the oak table until it bumped gently against her pencil case.
 
-— Drink some water, Alex. Your brain burns twenty percent of your daily glucose. If you dehydrate, your indisputable superiority is going to have a migraine before fourth period.
+— Drink some water, Alex. You've been staring at that worksheet for three hours. Even your indisputable superiority needs a break before fourth period.
 
 Alex stared at the bottle, then looked back at Nathan with an arched brow. For the first time since they had met, she accepted the gesture without a sarcastic comeback.
 
@@ -379,7 +379,7 @@ He navigated his blue avatar through the choke points, baiting the agents into t
 
 In the upper-left corner of the display, the hardware performance metrics held absolute:
 
-`FPS: 60.0 | CPU: 18% | RAM: 28.4 MB`
+`FPS: 60.0 | CPU: 18% | LIVE HEAP: 28.4 MB`
 
 Nathan played for fifteen continuous minutes.
 
