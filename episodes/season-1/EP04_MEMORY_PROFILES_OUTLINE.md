@@ -53,7 +53,7 @@ Os acontecimentos vividos pelas famílias que Nathan recorda sob os títulos *En
 - **Solução:** Desenha uma *object pool* de capacidade fixa para os nós de pesquisa, pré-alocando-os antes do início do gameplay. Dentro dessa capacidade, o motor reutiliza nós sem pedir memória ao alocador a cada frame; a pool tem de detetar e reportar uma eventual falta de capacidade, em vez de corromper memória ou crescer silenciosamente.
 
 ### 04 de Novembro (Quarta-feira) — Paralelo com *En Garde*
-- **Canon AU:** Manny participa na competição de esgrima e a família celebra o seu sucesso desportivo temporário.
+- **Evento familiar lembrado da série anterior:** Manny participa na competição de esgrima e a família celebra o seu sucesso desportivo temporário.
 - **Nathan:** Na escola, durante o intervalo, Nathan e Maxwell Whitaker analisam o próximo adversário da equipa de futebol escolar. Maxwell nota que Nathan tem estado mais calado que o habitual devido ao esforço de programação, mas no treino de campo Nathan continua a cumprir o seu papel tático com perfeição.
 
 ### 06 de Novembro (Sexta-feira) — Alex na Casa dos Callahan <!-- EVT-017 | 2009-11-06 | 2009-11-06 -->
@@ -96,7 +96,7 @@ Os acontecimentos vividos pelas famílias que Nathan recorda sob os títulos *En
 - Nathan sorri discretamente e garante que o segredo fica seguro.
 
 ### 18 de Novembro (Quarta-feira) — Submissão à Apple e *Great Expectations* <!-- EVT-021 | 2009-11-18 | 2009-11-18 -->
-- **Canon AU:** Phil prepara a noite comemorativa de aniversário com a banda Spandau Ballet.
+- **Evento familiar lembrado da série anterior:** Phil prepara a noite comemorativa de aniversário com a banda Spandau Ballet.
 - **Marco de Nathan:** Às 23:15, no seu quarto, Nathan revê o checksum do pacote binário compilado.
 - Nathan fecha o pacote binário, verifica o checksum e entrega a versão final a Clifford. Clifford, como titular adulto da conta e responsável pelos termos do programa, revê/aceita os termos aplicáveis e executa a submissão final no iTunes Connect.
 - Nathan recosta-se na cadeira. O coração bate rápido: o primeiro projeto independente está nas mãos dos revisores de Cupertino.
