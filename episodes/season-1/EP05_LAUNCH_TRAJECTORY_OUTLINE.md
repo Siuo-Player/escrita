@@ -40,8 +40,8 @@ O desastre do aniversário de Luke com o palhaço Fizbo a 25 de novembro termina
 ### D — Família Callahan & Manny Delgado (Subtrama Doméstica e Intelectual)
 O primeiro feriado de Ação de Graças (Thanksgiving) da família Callahan em Cheviot Hills consolida a estabilidade profissional de Clifford e Heather na Califórnia. No dia 01 de dezembro, na biblioteca pública de Westwood, Nathan encontra Manny Delgado concentrado num tabuleiro público de xadrez [CLUE-003], iniciando um diálogo sobre cálculo tático e estratégias de contenção.
 
-### E — Modern Family AU em Paralelo
-*Fizbo* (25 de novembro de 2009): o aniversário desastroso de Luke, a fobia de Phil a palhaços, o confronto no posto de combustível e o braço partido. Nathan não intervém no incidente em si, mantendo estrita a barreira de não-intromissão epistémica.
+### E — Eventos familiares lembrados por Nathan da série anterior
+Os acontecimentos vividos em torno do aniversário de Luke, que Nathan recorda sob o título *Fizbo* (25 de novembro de 2009), pertencem à vida real da família no mundo paralelo. A fobia de Phil, o incidente no posto de combustível e a lesão de Luke são referências da memória anterior, não um episódio a ser transmitido. A decisão de Nathan de não intervir deve ser reavaliada à luz do acesso, do risco e das divergências já ocorridas; não é uma regra automática de não-intromissão.
 
 ---
 
