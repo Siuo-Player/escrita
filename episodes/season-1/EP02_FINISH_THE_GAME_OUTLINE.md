@@ -162,7 +162,7 @@ The purpose is not exposition.
 The purpose is to make the world exist when Nathan is not there.
 
 #### Scene 10 — Nathan
-Weekly planning.
+Weekly planning. Nathan opens his grid notebook [CLUE-002] beside the keyboard and uses the vector diagrams to prioritize the next implementation tasks.
 
 Nathan writes a realistic to-do list:
 - school;

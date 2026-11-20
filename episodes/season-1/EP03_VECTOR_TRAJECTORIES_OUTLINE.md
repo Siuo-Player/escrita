@@ -41,7 +41,7 @@ Primeiro encontro direto a 22 de outubro no parque desportivo. Luke tenta usar u
 Clifford e Heather ajustam-se ao ritmo executivo da Califórnia; preparação do primeiro Halloween numa rua de subúrbio onde a vizinhança leva decorações a sério.
 
 ### E — Eventos familiares lembrados por Nathan da série anterior
-Os acontecimentos vividos pelas famílias que Nathan recorda sob os títulos *Coal Digger* (21 de outubro) e *Run for Your Wife* (28 de outubro) são reais neste mundo. As datas são âncoras iniciais herdadas da sua memória anterior, não datas de transmissão; Nathan só se cruza com esses acontecimentos quando a sua vida lhes dá acesso natural.
+Os acontecimentos vividos pelas famílias que Nathan recorda sob o título *Coal Digger* (21 de outubro) são uma âncora inicial herdada da sua memória anterior; Nathan não participa no drama, mas reconhece-o pelo que recorda. O título *Run for Your Wife* também pertence às suas memórias, mas 28 de outubro é a data de transmissão na sua vida anterior, não uma data demonstrada para os acontecimentos retratados. Como o enredo desse episódio parte do primeiro dia de aulas e as escolas locais já começaram em 9 de setembro neste mundo, não se deve transferir automaticamente esse enredo para 28 de outubro. A corrida matinal de Phil e Claire neste outline é um encontro quotidiano original do mundo paralelo, não uma cena recordada desse episódio.
 
 ---
 
@@ -53,8 +53,12 @@ Os acontecimentos vividos pelas famílias que Nathan recorda sob os títulos *Co
 - **Ação:** Nathan substitui o teste exato de distâncias euclidianas por uma partição espacial em células de 32x32 pixels, poupando centenas de chamadas trigonométricas por segundo.
 - **Consequência:** A simulação estabiliza; primeira vitória de engenharia palpável.
 
+### Corte Editorial — 16 de Outubro (Sexta-feira, depois das aulas): O Brilho Junto à Vedação [Luke POV]
+- Luke passa de bicicleta por Rancho Park e repara num brilho de latão preso nas raízes da sebe junto ao banco. Aproxima-se e identifica uma pequena bússola, mas deixa-a no local, à vista, na esperança de que o dono volte a procurá-la. Memoriza a árvore, o banco e a secção de vedação para a encontrar mais tarde [CLUE-001].
+- **Função causal:** prepara a recuperação da bússola quando a bola de Nathan cai na mesma sebe a 22 de outubro; Luke não conhece ainda o dono do objeto.
+
 ### 19 de Outubro (Segunda-feira) — O Caderno de Esboços na Biblioteca
-- **Contexto:** Biblioteca escolar durante a hora de estudo autónomo.
+- **Contexto:** Biblioteca escolar depois das aulas, durante o bloco de estudo autónomo.
 - **Presença de Alex:** Alex está a rever resumos intensivos para o teste intercalar de biologia e química.
 - **Interação:** Ela olha por cima da mesa e repara no caderno de Nathan [CLUE-002], aberto com diagramas de vetores de velocidade e interpolação linear:
   - *"Isso não é do currículo de 8º ano."*
@@ -63,7 +67,7 @@ Os acontecimentos vividos pelas famílias que Nathan recorda sob os títulos *Co
 
 ### 21 de Outubro (Quarta-feira) — Paralelo com *Coal Digger*
 - **Evento familiar lembrado da série anterior:** Conflito familiar na casa dos Pritchett sobre o comentário de Luke a respeito de Gloria ser "coal digger".
-- **Nathan:** Totalmente alheio ao drama doméstico dos Pritchett/Dunphy. Janta com Heather e Clifford na cozinha; conversa familiar sobre as diferenças de trânsito e vizinhança entre Seattle e Los Angeles. Nathan preserva o espaço mental da família sem forçar qualquer intervenção desnecessária.
+- **Nathan:** Não participa no drama doméstico dos Pritchett/Dunphy. Reconhece a sequência geral através das memórias da sua vida anterior, mas não tem motivo para aparecer na reunião. Janta com Heather e Clifford na cozinha; conversa familiar sobre as diferenças de trânsito e vizinhança entre Seattle e Los Angeles.
 
 ### 22 de Outubro (Quinta-feira) — A Bola, a Fisga e a Bússola Perdida [Luke Dunphy] <!-- EVT-014 | 2009-10-22 | 2009-10-22 -->
 - **Contexto:** Fim de tarde no parque municipal adjacente ao campo de futebol.
@@ -82,7 +86,7 @@ Os acontecimentos vividos pelas famílias que Nathan recorda sob os títulos *Co
 - **Observação / Génese:** Enquanto Heather compra material de escritório, Nathan espreita uma livraria tradicional de alfarrabistas (*Second Chance Books*). Na montra de livros científicos antigos em segunda mão, avista uma edição de 1964 com capa de tecido vermelho: *The Feynman Lectures on Physics, Volume 1* [PROP-006]. Nathan repara no livro e lembra-se de uma conversa informal na biblioteca onde Alex mencionou querer consultar as notas de Feynman sobre mecânica. Nathan não compra o livro de imediato porque ainda quer verificar as suas poupanças, mas memoriza a localização na prateleira.
 
 ### 28 de Outubro (Quarta-feira) — A Corrida Matinal e Phil Dunphy
-- **Evento familiar lembrado da série anterior:** *Run for Your Wife*. Phil e Claire disputam uma corrida a pé pelo bairro para provar quem está em melhor forma física.
+- **Encontro original da vizinhança:** Phil e Claire correm juntos pelo bairro. Esta corrida não pertence ao enredo de *Run for Your Wife*; é uma interação quotidiana nova nesta linha temporal.
 - **Interseção:** Nathan faz a sua corrida matinal de condicionamento (6:45 da manhã).
 - Phil surge a ofegar com fita na cabeça e passada desajeitada. Nathan abranda ligeiramente, acena com respeito e diz: *"Bom ritmo, Sr. Dunphy."*
 - Phil sente-se validado no seu espírito competitivo e tenta um *high-five* em movimento, quase tropeçando no passeio. A interação é breve, limpa e natural.
@@ -114,7 +118,9 @@ Os acontecimentos vividos pelas famílias que Nathan recorda sob os títulos *Co
 
 ## Cortes Editoriais e Quebras de Perspetiva (Director's POV Cuts)
 
-1. **Corte Editorial 1 (22 de Outubro — Quintal dos Dunphy): Perspetiva de Luke Dunphy.**
+1. **Corte Editorial 1 (16 de Outubro — Rancho Park): Perspetiva de Luke Dunphy.**
+   - Ao passar de bicicleta, Luke vê uma bússola antiga a brilhar nas raízes da sebe junto ao banco. Decide deixá-la no local, esperando que o dono regresse, mas memoriza a localização para a poder recuperar se continuar esquecida [CLUE-001].
+2. **Corte Editorial 2 (22 de Outubro — Quintal dos Dunphy): Perspetiva de Luke Dunphy.**
    - Luke sobe à casa da árvore no quintal com a bússola de metal antiga [CLUE-001] que encontrou nos arbustos. Guarda-a numa caixa de sapatos com arames e pilhas gastas, convencido de que o vizinho Nathan é um agente secreto que corre à mesma velocidade para não acionar minas terrestres. O raciocínio caótico e carinhoso de Luke em pleno contraste com a lógica matemática de Nathan.
-2. **Corte Editorial 2 (29 de Outubro — Quarto de Haley Dunphy): Perspetiva de Haley Dunphy.**
+3. **Corte Editorial 3 (29 de Outubro — Quarto de Haley Dunphy): Perspetiva de Haley Dunphy.**
    - Haley fecha a porta após receber a chave devolvida por Nathan. Volta para a chamada ao telemóvel com a amiga e comenta casualmente: *"A Alex agora tem um rapaz do clube de nerds que vem cá a casa devolver parafusos com calças impecavelmente passadas a ferro. Ele parece saído de um filme clássico dos anos cinquenta."* O detalhe exterioriza como a família perceciona Nathan sem que ele saiba.

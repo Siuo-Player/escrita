@@ -6,7 +6,7 @@
 <!-- WD-004 -->
 
 **Story Window:** October 16–31, 2009  
-**Status:** FULL PROSE DRAFT (Movements I, II, and III)  
+**Status:** COMPLETE STRUCTURAL DRAFT — BELOW THE OUTLINE'S 10,000–14,000 WORD TARGET  
 **World-canon note:** Episode titles are labels from Nathan's previous-life memories. In this timeline, the families are experiencing real events; no current-world broadcast is implied.
 
 **Active Threads:**
@@ -33,7 +33,7 @@ At two hundred autonomous agents, the flow field pathfinding algorithms he had s
 
 Nathan reached for his black ballpoint pen and tapped the metal spiral of his grid notebook [CLUE-002].
 
-The mathematics behind naive collision detection was brutally straightforward, and that was precisely the trap. Two hundred agents meant checking each entity against every other entity in the simulation loop. That was $N \times (N - 1) / 2$ checks every single tick: nineteen thousand, nine hundred pairwise distance evaluations running sixty times per second. Nearly one point two million square-root operations every minute on an ARM Cortex-A8 processor clocked at six hundred megahertz without a dedicated hardware vector coprocessor on this kernel build.
+The mathematics behind naive collision detection was brutally straightforward, and that was precisely the trap. Two hundred agents meant checking each entity against every other entity in the simulation loop. That was $N \times (N - 1) / 2$ checks every single tick: nineteen thousand, nine hundred pairwise distance evaluations per frame. At sixty frames per second, the routine demanded roughly 1.194 million pair checks — and up to 1.194 million square-root evaluations — every second. The iPhone 3GS's six-hundred-megahertz ARM Cortex-A8 also included a NEON SIMD unit, but this version of the engine was scalar C++ and made no use of those vector instructions. The problem was the number of pairwise comparisons, not an absence of vector hardware.
 
 `sqrtf()` was killing the pipeline.
 
@@ -55,7 +55,7 @@ inline uint32_t GetCellIndex(int32_t x, int32_t y) {
 }
 ```
 
-Bit-shifting by five divided the coordinate by thirty-two in a single CPU cycle. During each frame tick, an entity registered its pointer into its local bucket. When testing for collisions, an actor only checked the contents of its immediate cell and the eight adjacent neighbors.
+Bit-shifting by five divided a non-negative screen coordinate by thirty-two. During each frame tick, an entity registered its pointer into its local bucket. Because the moving agents' collision boxes were kept smaller than a cell, an actor only needed to inspect its own bucket and the eight adjacent neighbors. Larger static bounds were registered in every cell they overlapped, so the local query could not miss an obstacle merely because its box crossed a cell boundary.
 
 Nathan saved the header, linked it into the collision manager, and refactored the bounding volumes into Axis-Aligned Bounding Boxes (AABB). The inner loop was reduced to four simple integer comparisons:
 
@@ -84,15 +84,81 @@ Nathan rested his chin on his knuckles, his blue eyes softening as the tension i
 
 Down the hallway, the floorboards creaked as his mother walked past to start the laundry. Outside, the Southern California twilight settled over Cheviot Hills in long streaks of indigo and amber. Nathan closed the laptop lid to sleep mode, set his pen neatly across his notebook, and went downstairs to help set the table for dinner.
 
+
+---
+
+### Director's Cut 1 — October 16, 2009 (Friday Afternoon): The Glint by the Fence
+
+Luke Dunphy rode his bicycle along the pedestrian path at Rancho Park, pedaling with one knee angled outward because the chain still clicked whenever he shifted into the highest gear.
+
+He was supposed to be heading home. His mother had asked him to be back before dinner, and he had already spent twenty minutes trying to convince himself that the storm drain beside the baseball diamond was a secret tunnel entrance.
+
+Then something flashed in the ivy.
+
+Luke squeezed both brake levers. The front tire skidded sideways across a patch of dry leaves, and he put one sneaker down to keep the bicycle upright.
+
+The glint came from the roots beneath the low hedge, a few feet from the weathered bench where people left water bottles and tied their shoes. Luke crouched and pushed two leaves aside with a twig.
+
+A small brass compass lay half-hidden in the dirt.
+
+It had a round glass face, a dark leather cord, and a needle that trembled when he tilted the casing. The thing looked old enough to have belonged to a ship captain or a spy in one of Dad's movies.
+
+Luke glanced up and down the path.
+
+— Hello? — he called, quietly at first, then louder. — Did somebody lose an explorer thing?
+
+Nobody answered. A jogger passed at the far end of the path without looking over.
+
+Luke could have picked it up. The little compass would fit in the metal box beneath his treehouse cushion, right beside the shark tooth and the batteries that still might work. But it looked like something somebody would actually miss, not like a bottle cap or a broken toy.
+
+He pushed the leaves back around its edge, leaving the brass rim visible.
+
+— I'll remember where you are, — he told it. — Unless I forget. Which I won't.
+
+He took a moment to study the bench, the split in the nearby tree trunk, and the crooked section of fence. Then he climbed back onto his bicycle and rode home, looking over his shoulder once before the path curved out of sight.
+
+
+---
+
+### Director's Cut 1 — October 16, 2009 (Friday Afternoon): The Glint by the Fence
+
+Luke Dunphy rode his bicycle along the pedestrian path at Rancho Park, pedaling with one knee angled outward because the chain still clicked whenever he shifted into the highest gear.
+
+He was supposed to be heading home. His mother had asked him to be back before dinner, and he had already spent twenty minutes trying to convince himself that the storm drain beside the baseball diamond was a secret tunnel entrance.
+
+Then something flashed in the ivy.
+
+Luke squeezed both brake levers. The front tire skidded sideways across a patch of dry leaves, and he put one sneaker down to keep the bicycle upright.
+
+The glint came from the roots beneath the low hedge, a few feet from the weathered bench where people left water bottles and tied their shoes. Luke crouched and pushed two leaves aside with a twig.
+
+A small brass compass lay half-hidden in the dirt.
+
+It had a round glass face, a dark leather cord, and a needle that trembled when he tilted the casing. The thing looked old enough to have belonged to a ship captain or a spy in one of Dad's movies.
+
+Luke glanced up and down the path.
+
+— Hello? — he called, quietly at first, then louder. — Did somebody lose an explorer thing?
+
+Nobody answered. A jogger passed at the far end of the path without looking over.
+
+Luke could have picked it up. The little compass would fit in the metal box beneath his treehouse cushion, right beside the shark tooth and the batteries that still might work. But it looked like something somebody would actually miss, not like a bottle cap or a broken toy.
+
+He pushed the leaves back around its edge, leaving the brass rim visible.
+
+— I'll remember where you are, — he told it. — Unless I forget. Which I won't.
+
+He took a moment to study the bench, the split in the nearby tree trunk, and the crooked section of fence. Then he climbed back onto his bicycle and rode home, looking over his shoulder once before the path curved out of sight.
+
 ---
 
 ### Scene 2 — October 19, 2009 (Monday): The Grid Notebook and the Library Table
 
-By eleven-thirty on Monday morning, the school library was a sanctuary of filtered air and muted fluorescent hum.
+By three-twenty on Monday afternoon, the school library was a sanctuary of filtered air and muted fluorescent hum.
 
 Outside, the October sun beat down on the blacktop courts where seventh-graders were shouting over a four-square ball, but inside the stacks, the heavy scent of aging buckram bindings and lemon furniture oil deadened the noise of the campus to an indistinct murmur.
 
-Nathan sat at a four-top oak reading table in the corner of the 500-level science section. Before him lay an open lined binder containing Mr. Henderson’s biology review packet, his Casio digital watch reading 11:34. To his left, propped at a forty-five-degree angle against his canvas pencil case, his spiral grid notebook [CLUE-002] was open to a double-page spread of handwritten vector diagrams: flow direction arrows penciled in blue ink, potential-field gradient curves plotted on millimeter Cartesian grids, and pseudocode notes on neighbor-cell queries.
+Nathan sat at a four-top oak reading table in the corner of the 500-level science section. Before him lay an open lined binder containing Mr. Henderson’s biology review packet, his Casio digital watch reading 3:24 p.m. To his left, propped at a forty-five-degree angle against his canvas pencil case, his spiral grid notebook [CLUE-002] was open to a double-page spread of handwritten vector diagrams: flow direction arrows penciled in blue ink, potential-field gradient curves plotted on millimeter Cartesian grids, and pseudocode notes on neighbor-cell queries.
 
 The opposite chair was pulled back with a deliberate, assertive scrape.
 
@@ -146,6 +212,10 @@ Alex traced an arrow with the back of her fingernail, her brow smoothing out as 
 
 — Exactly. It changes the complexity from polynomial to linear.
 
+Alex studied the diagram for another moment.
+
+— I tried to borrow Feynman's first volume from the municipal library last month, — she said. — Their copy had disappeared. Someone apparently walked off with it; the later volumes are still there.
+
 Alex looked up from the page, her brown eyes inspecting Nathan with an intensity that felt like a full system diagnostic. There was no mockery in her expression, nor the patronizing indulgence adults often used when a child did something clever. There was only that rare, pure, slightly stunned recognition that she was looking at a peer.
 
 — Why aren't you in the high school math placement track? — she asked abruptly. — You could have tested into pre-calculus at the district center in September.
@@ -170,7 +240,7 @@ She swallowed, looked down at her biology packet, and picked up her pen.
 
 — On that point, — Nathan said with the faintest shadow of a smile, — the consensus is unanimous.
 
-They worked in silence for the remaining twenty minutes of the period, the rhythmic scratching of their pens against the paper the only sound between them.
+They worked in silence for the next twenty minutes of the after-school library block, the rhythmic scratching of their pens against the paper the only sound between them.
 
 ---
 
@@ -182,7 +252,7 @@ Nathan sat at the round oak dining table in the Cheviot Hills house, peeling pot
 
 — The latency spikes between the San Jose datacenter and the El Segundo hub are down four milliseconds since Tuesday, — Clifford said, reaching for his wine glass without lifting his eyes from the terminal. — The routing tables had three redundant hops through Denver. Someone in network operations was sleeping on legacy fiber contracts.
 
-— As long as you don't have to fly up to the Bay Area before the weekend, — Heather replied, the rhythmic *thok-thok-thok* of her chef's knife keeping steady meter. — The district called today about the property tax reassessment on the rental. Even temporary corporate relocations get flagged by the county assessor if the lease term exceeds six months.
+— As long as you don't have to fly up to the Bay Area before the weekend, — Heather replied, the rhythmic *thok-thok-thok* of her chef's knife keeping steady meter. — The relocation coordinator called today about the rental's extension clause and the utility transfers. They want to know before Friday whether we need to keep the place through December.
 
 — I’ll sign the declaration form before Friday, — Clifford said, closing the laptop with a crisp snap that signaled the formal boundary between the workday and family dinner. He looked over at Nathan, watching his son's economical, methodical peeling motion. — How’s the school soccer squad looking, Nathan? Whitaker still trying to take your shins off in practice?
 
@@ -200,7 +270,7 @@ Clifford nodded, a quiet paternal pride settling in the corners of his eyes.
 
 — I won't, Dad.
 
-Across town, four miles to the north, Nathan knew from his previous-life memories that this was the evening corresponding to the family events he remembered under the *Coal Digger* label: the Pritchett and Dunphy clans gathering at Jay and Gloria’s house, Luke’s innocent repetition of an overheard insult igniting a domestic storm, Gloria jumping into the swimming pool in her clothes to force everyone to stop screaming, and the slow, clumsy rebuilding of blended-family peace.
+Across town, four miles to the north, Nathan knew from his previous-life memories that this was the evening corresponding to the family events he remembered under the *Coal Digger* label: the Pritchett and Dunphy families gathering at Jay and Gloria’s house, Luke repeating an overheard insult and setting off a domestic storm, Claire finally jumping into the pool with her clothes on after Gloria challenged her, and Jay pulling Gloria into the water moments later before the rest of the family joined them. Nathan remembered the awkward reconciliation as clearly as the chaos that preceded it.
 
 Nathan set the peeler down on the counter.
 
@@ -236,11 +306,11 @@ He unlatched the pedestrian gate at the corner of the fence and jogged down the 
 
 Ten yards ahead, crouching behind a dusty oleander bush like an infantry sniper in cargo shorts, was ten-year-old Luke Dunphy.
 
-Luke was wearing a faded graphic T-shirt featuring a cartoon skateboarder, high tube socks pulled up to his shins, and dirty skate sneakers with the laces untied. In his left hand, he held an extraordinary homemade weapon: a Y-shaped fork carved from a thick sycamore branch, reinforced with gray duct tape, and fitted with two thick strips of red surgical tubing tied to the tongue of an old leather work boot.
+Luke was wearing a faded graphic T-shirt featuring a cartoon skateboarder, high tube socks pulled up to his shins, and dirty skate sneakers with the laces untied. In his left hand, he held an extraordinary homemade launcher: a Y-shaped fork carved from a thick sycamore branch, reinforced with gray duct tape, and fitted with two thick strips of red rubber tubing attached to a shallow pouch cut from an old leather work boot.
 
 Beside Luke’s sneakers sat Nathan’s soccer ball [PROP-003].
 
-Luke was currently attempting to wedge the regulation size-five soccer ball into the boot tongue of the slingshot, his tongue clamped firmly between his teeth in an expression of terrifying scientific concentration.
+Luke was trying to force the regulation size-five soccer ball into the boot-leather pouch. It was plainly too large, but he kept adjusting the tubing with his tongue clamped firmly between his teeth in an expression of terrifying scientific concentration.
 
 Nathan stopped six feet away, his hands resting lightly on his hips.
 
@@ -248,17 +318,17 @@ Nathan stopped six feet away, his hands resting lightly on his hips.
 
 Luke jumped half an inch, startled, and swung the sycamore branch toward Nathan with wild theatrical defensiveness before realizing the older boy wasn't angry.
 
-— I'm returning your ball! — Luke announced, his voice carrying that breathless, high-frequency enthusiasm of a boy whose brain generated seventy-five ideas a minute and executed seventy-four of them without a safety helmet. — But kicking it back through the gate is boring. I built an artillery catapult! It has three hundred pounds of potential draw weight!
+— I'm returning your ball! — Luke announced, his voice carrying that breathless, high-frequency enthusiasm of a boy whose brain generated seventy-five ideas a minute and executed seventy-four of them without a safety helmet. — But kicking it back through the gate is boring. I built an artillery catapult! I think it has three hundred pounds of draw weight!
 
 Nathan glanced at the red surgical tubing, which was stretched to its absolute elastic limit around the sycamore fork, creaking ominously under tension.
 
-— If you release that draw weight with a four-hundred-gram leather projectile, — Nathan observed mildly, — the recoil is going to whip the sycamore fork directly into your left eyebrow.
+— That tubing is already stretched too far, — Nathan observed mildly. — If it snaps, the fork can kick back toward your face. And the ball is too large for that pouch; it could slip sideways before you even release it.
 
 Luke blinked, looking down at his weapon, then back up at Nathan. He loosened the draw tension by half an inch.
 
 — Are you sure?
 
-— Newton's third law, — Nathan said. — Equal and opposite reaction. The ball has more mass than the wooden handle. The energy has to go somewhere, and your face is the nearest obstacle.
+— Newton's third law means the band pulls back on the fork as hard as it pulls the pouch forward, — Nathan said. — If you don't brace the frame, it can kick toward your face. And because the ball doesn't fit the pouch, it could slip out sideways. Set it down and let me show you a safer way to return it.
 
 Luke considered this for two seconds, deeply impressed by the mechanical diagnosis.
 
@@ -268,7 +338,7 @@ Luke considered this for two seconds, deeply impressed by the mechanical diagnos
 
 Luke let the rubber tubing go slack and picked up the soccer ball with both hands.
 
-— Anyway, you got lucky, — Luke said, digging into the deep side pocket of his baggy cargo shorts. — When your ball flew over the fence, it hit that thick ivy bush over there. And when I went in to get it, I found this stuck in the roots right next to the park bench.
+— Anyway, you got lucky, — Luke said, digging into the deep side pocket of his baggy cargo shorts. — I saw this brass thing shining in those roots when I rode past last Friday. I left it where it was because I thought somebody might come back for it. Then your ball hit the same bush, and I remembered.
 
 Luke held out his hand.
 
@@ -302,7 +372,7 @@ Luke grinned, gave an exaggerated, two-fingered military salute, and went boundi
 
 ---
 
-### Director's Cut 1 — October 22, 2009 (Thursday Evening): The Treehouse Bureau of Investigation
+### Director's Cut 2 — October 22, 2009 (Thursday Evening): The Treehouse Bureau of Investigation
 
 Up in the crown of the old camphor tree in the Dunphy backyard, the wooden floorboards of Luke's treehouse creaked under the weight of three milk crates and a vintage Coleman battery lantern.
 
@@ -368,11 +438,11 @@ A heavy, clothbound volume bound in deep, saturated crimson cloth, stamped with 
 
 Nathan approached the shelf with deliberate slowness, extending his right hand.
 
-He lifted the volume carefully by its cloth spine, feeling the substantial three-pound density of the acid-free rag paper. He opened the front board. The title page confirmed the edition: Addison-Wesley Publishing Company, 1964 printing. The iconic red cloth binding [PROP-006] was intact, the corners square and unbruised, the cloth pristine except for a faint pencil price marking on the top corner of the flyleaf: `$25.00`.
+He lifted the volume carefully by its cloth spine, feeling the substantial weight of the thick, cream-colored pages. He opened the front board. The title page confirmed the edition: Addison-Wesley Publishing Company, 1964 printing. The iconic red cloth binding [PROP-006] was intact, the corners square and unbruised, the cloth pristine except for a faint pencil price marking on the top corner of the flyleaf: `$25.00`.
 
 Nathan opened the table of contents: *Chapter 4: Conservation of Energy. Chapter 7: The Theory of Gravitation. Chapter 11: Vectors.*
 
-His mind flashed back to Monday morning in the school library: Alex Dunphy sitting across the oak table, her tired brown eyes tracing his vector diagrams, her voice dropping as she admitted her frustration that the middle school curriculum treated physics like a series of recipes to memorize rather than a coherent language to explore. She had mentioned, with that fierce, protective hunger for real understanding that set her apart from everyone else on campus, that the municipal library’s copy of Feynman’s lectures was missing its first volume because a college student had stolen it three semesters ago.
+His mind flashed back to Monday afternoon in the school library: Alex Dunphy sitting across the oak table, her tired brown eyes tracing his vector diagrams, her voice dropping as she admitted her frustration that the middle-school curriculum treated physics like a series of recipes to memorize rather than a coherent language to explore. She had also mentioned trying to borrow Feynman's first volume from the municipal library, only to discover that the copy had gone missing. Someone had apparently walked off with it.
 
 Nathan turned the smooth cream pages under his fingertips.
 
@@ -392,11 +462,11 @@ He stepped out of the alcove, thanked the clerk at the register, and pushed open
 
 ---
 
-## MOVEMENT III: OCTOBER 28–31 — THE STREET RACE, THE PORCH, AND HALLOWEEN NIGHT
+## MOVEMENT III: OCTOBER 28–31 — THE MORNING RUN, THE PORCH, AND HALLOWEEN NIGHT
 
-### Scene 6 — October 28, 2009 (Wednesday): The Morning Footrace
+### Scene 6 — October 28, 2009 (Wednesday): The Morning Run and Phil Dunphy
 
-Wednesday dawn broke crisp and cool over Cheviot Hills, a bank of coastal fog hovering low over the western horizon toward Santa Monica.
+Wednesday dawn broke crisp and cool over Cheviot Hills, a bank of coastal fog hovering low over the western horizon toward Santa Monica. There was no matching scene in the television series Nathan remembered from his previous life; Phil and Claire's run this morning was an original parallel-world event, not part of the plot Nathan remembers under *Run for Your Wife*. The episode's 28 October broadcast date in his previous life did not make this ordinary run a remembered scene.
 
 At 06:45, Nathan was on the second mile of his morning conditioning circuit, running north along the broad residential avenue shaded by towering sycamores and flowering magnolias. His footfalls were virtually silent on the concrete, his breathing rhythmic: three strides per inhalation, three strides per exhalation.
 
@@ -416,13 +486,13 @@ Phil turned his head, his eyes bulging beneath the sweatband, sweat flying from 
 
 — Nathan! — Phil wheezed, attempting to maintain an expression of relaxed athletic mastery while his quadriceps visibly shook. — Beautiful... morning... for an ultra-marathon... right?
 
-— Your stride rate is solid, Mr. Dunphy, — Nathan said, measuring his words to Phil’s labored exhalations. — But your heel is striking ahead of your center of mass. It acts like a brake with every step. If you shorten the stride by two inches and land on the midfoot, your momentum carries you forward for free.
+— You're reaching a little with your front foot, Mr. Dunphy, — Nathan said, measuring his words to Phil’s labored exhalations. — Shorten your stride a fraction and relax your shoulders. You look like you're trying to outrun the hill itself.
 
 Phil blinked through the stinging sweat, immediately attempting to shorten his stride. His sneakers slapped the asphalt with slightly less violence.
 
-— Shorten... midfoot... like a cheetah? — Phil gasped.
+— Shorten... relax... like a cheetah? — Phil gasped.
 
-— Exactly like a cheetah, — Nathan validated calmly. — And breathe from the lower diaphragm. Two in through the nose, two out through the mouth. It clears the carbon dioxide before the lactic acid pools.
+— Exactly like a cheetah, — Nathan said with a small smile. — Keep your breathing steady. Two steps in, two out, if that rhythm feels comfortable. Don't try to match Claire's pace until you reach the crest.
 
 Phil sucked in two sharp breaths through his nostrils, puffing his cheeks out on the exhale.
 
@@ -492,7 +562,7 @@ Haley watched his back for three seconds before putting the pink Razr back to he
 
 ---
 
-### Director's Cut 2 — October 29, 2009 (Thursday Night): Haley's Bedroom
+### Director's Cut 3 — October 29, 2009 (Thursday Night): Haley's Bedroom
 
 Upstairs on the second floor, the smell of strawberry body spray and drying nail polish filled Haley Dunphy’s bedroom.
 
@@ -534,15 +604,15 @@ On the iPhone’s display, the full game simulation was running its ultimate end
 
 The diagnostic overlay painted a clean, unbroken horizontal line:
 
-`UPTIME: 15:02 | FPS: 60.1 | CPU: 19.8% | HEAP ALLOC: 28.6 MB | LEAKS: 0`
+`UPTIME: 15:02 | FPS: 60.1 | CPU: 19.8% | APP HEAP: 28.6 MB | ENGINE DATA: 8.6 MB | LEAKS: 0`
 
-Zero memory warnings from the iPhone OS 3.1 kernel. Zero thermal throttling spikes. Zero pointer corruption.
+No memory-warning callbacks were delivered during the run. Instruments showed no frame-rate drop over the fifteen-minute stress test, and the engine's own allocator reported no leaked blocks.
 
 Nathan leaned back, exhaling a breath he felt like he had been holding since September.
 
 He touched the stop button on the compiler console.
 
-The engine was done. Not a prototype, not an academic sandbox, not a toy script: a hardened, production-grade 2D mobile game engine engineered specifically for the hardware limits of 2009. The foundation was rock-solid. All that remained for November was asset integration, level progression design, and the formal submission through Clifford’s Apple developer account.
+The spatial engine was stable—not just an isolated collision test, but a working core integrated into the game. The game itself was not finished: asset integration, level progression, longer playtests, and a proper submission build still lay ahead in November. For the first time, though, the hardest technical part no longer looked impossible.
 
 Nathan stood up, turned off the desk lamp, and walked down the stairs.
 
@@ -554,7 +624,7 @@ Clifford turned, handing a mug to Nathan.
 
 Nathan took the mug with both hands, feeling the heat seep into his palms.
 
-— Fifteen minutes continuous execution, Dad, — Nathan said, his voice quiet but grounded in deep, earned confidence. — Twenty-eight point six megabytes total heap footprint. Sixty frames a second, flat.
+— Fifteen minutes continuous execution, Dad, — Nathan said, his voice quiet but grounded in deep, earned confidence. — Instruments recorded twenty-eight point six megabytes of live allocations across the app; the engine's own active data stayed around eight point six. Sixty frames a second, flat.
 
 Clifford paused, looked at his thirteen-year-old son, and allowed a broad, proud smile to break across his face. He raised his mug in a silent toast.
 

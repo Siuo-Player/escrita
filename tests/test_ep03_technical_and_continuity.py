@@ -1,0 +1,158 @@
+"""Targeted regressions for factual and continuity errors in EP03.
+
+These tests protect explicit, researched constraints; they do not evaluate literary quality.
+"""
+import re
+import unittest
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+DRAFT_PATH = ROOT / "episodes" / "season-1" / "EP03_DRAFT.md"
+
+
+def between(text, start, end):
+    start_at = text.index(start)
+    end_at = text.index(end, start_at + len(start))
+    return text[start_at:end_at]
+
+
+class TestEpisode3TechnicalAndSourceContinuity(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.draft = DRAFT_PATH.read_text(encoding="utf-8")
+
+    def test_pairwise_collision_rate_uses_seconds_not_minutes(self):
+        self.assertIn("1.194 million", self.draft)
+        self.assertRegex(self.draft, r"1\.194 million[^.\n]*every second")
+        self.assertNotRegex(self.draft, r"1\.194 million[^.\n]*per minute")
+
+    def test_cortex_a8_is_not_described_as_lacking_vector_simd_hardware(self):
+        self.assertIn("NEON", self.draft)
+        self.assertNotRegex(
+            self.draft,
+            r"without a dedicated hardware vector coprocessor",
+        )
+
+    def test_coal_digger_pool_memory_attributes_the_jump_to_claire(self):
+        scene = between(
+            self.draft,
+            "### Scene 3 — October 21, 2009",
+            "## MOVEMENT II:",
+        )
+        self.assertIn("Claire", scene)
+        self.assertRegex(scene, r"Claire[^.\n]{0,180}(?:jump|pool)")
+        self.assertNotIn("Gloria jumping into the swimming pool", scene)
+
+    def test_run_for_your_wife_footrace_is_marked_as_an_original_parallel_event(self):
+        scene = between(
+            self.draft,
+            "### Scene 6 — October 28, 2009",
+            "### Scene 7 — October 29, 2009",
+        )
+        self.assertIn("original parallel-world event", scene)
+        self.assertIn("not part of the plot Nathan remembers under *Run for Your Wife*", scene)
+
+    def test_slingshot_recoil_explanation_uses_the_reaction_force_correctly(self):
+        scene = between(
+            self.draft,
+            "### Scene 4 — October 22, 2009",
+            "### Director's Cut 2 — October 22, 2009",
+        )
+        self.assertIn("pulls back on the fork", scene)
+        self.assertNotIn("ball has more mass than the wooden handle", scene)
+
+    def test_running_advice_does_not_repeat_the_lactic_acid_pooling_myth(self):
+        self.assertNotIn("before the lactic acid pools", self.draft)
+
+    def test_library_scene_occurs_after_the_published_school_day(self):
+        scene = between(
+            self.draft,
+            "### Scene 2 — October 19, 2009",
+            "### Scene 3 — October 21, 2009",
+        )
+        self.assertIn("3:24 p.m.", scene)
+        self.assertIn("after-school", scene.lower())
+
+    def test_rental_dialogue_does_not_assign_property_tax_reassessment_to_the_tenant(self):
+        self.assertNotIn("county assessor", self.draft)
+        self.assertNotIn("property tax reassessment on the rental", self.draft)
+
+    def test_clue_002_payoff_date_matches_the_ep03_library_scene(self):
+        registry = (
+            ROOT / "canon" / "narrative" / "PROP_AND_CLUE_REGISTRY.md"
+        ).read_text(encoding="utf-8")
+        row = next(
+            line for line in registry.splitlines()
+            if "**CLUE-002**" in line
+        )
+        self.assertIn("EP03 (19/10/2009)", row)
+        self.assertNotIn("EP03 (10/10)", row)
+
+    def test_prop_006_location_matches_the_interior_bookshelf_in_ep03(self):
+        registry = (
+            ROOT / "canon" / "narrative" / "PROP_AND_CLUE_REGISTRY.md"
+        ).read_text(encoding="utf-8")
+        row = next(
+            line for line in registry.splitlines()
+            if "**PROP-006**" in line
+        )
+        self.assertIn("estante", row.lower())
+        self.assertNotIn("montra", row.lower())
+
+    def test_clue_001_background_glint_is_dramatized_before_luke_recovers_it(self):
+        interlude = between(
+            self.draft,
+            "### Director's Cut 1 — October 16, 2009",
+            "### Scene 2 — October 19, 2009",
+        )
+        self.assertIn("Luke", interlude)
+        self.assertRegex(interlude.lower(), r"brass|compass")
+        self.assertRegex(interlude.lower(), r"glint|gleam|metallic")
+        recovery = between(
+            self.draft,
+            "### Scene 4 — October 22, 2009",
+            "### Director's Cut 2 — October 22, 2009",
+        )
+        self.assertIn("last Friday", recovery)
+
+    def test_clue_002_background_presence_matches_the_october_4_planning_beat(self):
+        registry = (
+            ROOT / "canon" / "narrative" / "PROP_AND_CLUE_REGISTRY.md"
+        ).read_text(encoding="utf-8")
+        row = next(
+            line for line in registry.splitlines()
+            if "**CLUE-002**" in line
+        )
+        self.assertIn("EP02 (04/10)", row)
+        self.assertIn("planeamento semanal de Nathan", row)
+        self.assertNotIn("Alex vê", row)
+        outline = (
+            ROOT / "episodes" / "season-1" / "EP02_FINISH_THE_GAME_OUTLINE.md"
+        ).read_text(encoding="utf-8")
+        scene = between(outline, "#### Scene 10 — Nathan", "### 5 October")
+        self.assertIn("grid notebook", scene.lower())
+
+    def test_project_readme_lists_the_new_ep03_draft_and_review_test(self):
+        readme = (ROOT / "README.md").read_text(encoding="utf-8")
+        self.assertIn("EP03_DRAFT.md", readme)
+        self.assertIn("test_ep03_technical_and_continuity.py", readme)
+
+    def test_prop_clue_registry_references_parallel_world_date_rules(self):
+        registry = (
+            ROOT / "canon" / "narrative" / "PROP_AND_CLUE_REGISTRY.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("<!-- WD-004 -->", registry)
+        self.assertIn("data de transmissão na vida anterior", registry.lower())
+
+    def test_scene_two_seeds_the_feynman_book_discovery(self):
+        scene = between(
+            self.draft,
+            "### Scene 2 — October 19, 2009",
+            "### Scene 3 — October 21, 2009",
+        )
+        self.assertIn("Feynman", scene)
+        self.assertIn("municipal library", scene)
+
+
+if __name__ == "__main__":
+    unittest.main()
