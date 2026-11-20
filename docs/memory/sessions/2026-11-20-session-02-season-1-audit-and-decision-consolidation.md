@@ -102,6 +102,12 @@ No EP06, 30 agentes representam 435 pares por frame (26.100/s a 60 FPS), não um
 - EP10 deixou de afirmar que Nathan pode comprar diretamente um iPad com receitas que a Apple teria transferido automaticamente para ele. O acesso/compra fica dependente de uma decisão explícita de Clifford e Heather sobre os recebimentos geridos pela conta adulta.
 - Corrigida a identificação errada “Claire Callahan”; a referência correta é Claire Dunphy e Heather Callahan.
 
+### DEC-015 — Calendário do fim do ano letivo
+
+O EP11 (termina a 20 de maio) já não apresenta resultados finais. A conclusão académica e as transições de Nathan (8.º ano para High School) e Alex (7.º para 8.º) foram colocadas no EP12, depois do último dia de instrução aplicável. O calendário LAUSD single-track aprovado aponta para 24 de junho de 2010 e 25 de junho como dia sem alunos; um relatório contemporâneo de 12 de abril de 2010 refere revisões para 18 ou 21 de junho em certas escolas. A variante/campus concreto continua por decidir, pelo que o EP12 se estende até 25 de junho e não fixa o dia exato da cerimónia.
+
+Fontes documentais: [calendário LAUSD 2009–10 aprovado em 13/01/2009](https://www.lausd.net/pdf/Single09-10.pdf); [atualização contemporânea AALA, 12/04/2010](https://aala.us/docs/2011/09/20100412-update-3.pdf).
+
 ## 5. Contradições deixadas abertas deliberadamente
 
 Estas questões não foram “resolvidas” inventando cenas ou factos:
@@ -114,6 +120,7 @@ Estas questões não foram “resolvidas” inventando cenas ou factos:
 6. **Universidade/rota académica futura:** permanece aberta.
 7. **Relações românticas após a amizade de Season 1:** permanecem em aberto; o possível arco adulto com Haley não tem data nem causa fixada.
 8. **Personagens originais e plantéis:** Maxwell e várias personagens secundárias continuam propostas de trabalho, salvo decisões posteriores mais específicas.
+9. **Calendário escolar concreto:** a conclusão letiva foi deslocada para EP12, mas o campus e a revisão do calendário LAUSD aplicável ainda não foram fixados; a data exata dos resultados e da cerimónia permanece aberta.
 
 ## 6. Estado real da temporada
 
