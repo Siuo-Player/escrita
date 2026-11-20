@@ -39,20 +39,21 @@ escrita/
 │   │   ├── WORLD_DIFFERENCE_REGISTRY.md # Authoritative real-world vs parallel-world differences
 │   │   ├── SERIES_GLOBAL_ARCHITECTURE.md # Multi-season roadmaps (t=0.0 to t=1.0)
 │   │   ├── SEASON_1_ARC_PLAN.md   # Season 1 episode-by-episode master plan (EP01 to EP12)
+│   │   ├── SEASON_1_DECISION_AND_STATUS_REGISTER.md # Consolidated decisions, status and open conflicts
 │   │   ├── PROP_AND_CLUE_REGISTRY.md # Backpropagated props and clues causal ledger
 │   │   ├── MODERN_PROSE_AND_THEATRICAL_STYLE.md # Staging, pacing, and chameleonic POV rules
 │   │   ├── TECHNICAL_AND_LEGAL_FOUNDATIONS.md  # Source-qualified 2009 Apple terms & iPhone 3GS facts
 │   │   ├── DIALOGUE_NATURALNESS_STANDARD.md
 │   │   └── NARRATIVE_AND_CAUSAL_METHOD.md
-│   └── DECISION_LOG.md            # Authoritative decision ledger (DEC-001 through DEC-010)
+│   └── DECISION_LOG.md            # Authoritative decision ledger (DEC-001 onwards)
 ├── docs/
 │   └── memory/                    # ai-memory system documentation, ADRs, and procedures
 ├── episodes/
 │   └── season-1/                  # Outlines and full prose drafts for Season 1
 │       ├── EP01_BEFORE_AND_AFTER_OUTLINE.md
-│       ├── EP01_DRAFT.md          # Full prose draft (Movements I, II, and III)
+│       ├── EP01_DRAFT.md          # Working prose draft (~7.6k words; below target)
 │       ├── EP02_FINISH_THE_GAME_OUTLINE.md
-│       ├── EP02_DRAFT.md          # Full prose draft (Movements I, II, and III)
+│       ├── EP02_DRAFT.md          # Working prose draft (~4.4k words; below target)
 │       ├── EP03_VECTOR_TRAJECTORIES_OUTLINE.md
 │       ├── EP03_DRAFT.md          # Structural full-prose draft; below the 10k–14k target
 │       ├── EP04_MEMORY_PROFILES_OUTLINE.md
@@ -68,6 +69,7 @@ escrita/
     ├── test_chronology.py         # Validates date parsing, weekdays and nondecreasing order
     ├── test_event_registry_alignment.py # Aligns event IDs, dates, episode windows and document refs
     ├── test_ep03_technical_and_continuity.py # EP03 technical, source-memory and continuity regressions
+    ├── test_season_1_decision_consistency.py # Cross-episode grade, release and status guardrails
     ├── test_parallel_plots.py     # Checks declared thread counts and persistence indicators
     ├── test_prop_clue_date_ordering.py # Validates dated genesis/payoff ordering
     ├── test_world_difference_registry.py # Validates AU differences, cross-references and draft wording
@@ -99,8 +101,9 @@ The suite currently provides **regression guardrails**, not automated literary j
 ## 4. Current State
 
 * **Phase 1 — Season 1 Foundation & Active Drafting:**
-  * **Episode 1 ("Before and After"):** Full prose draft completed in English ([EP01_DRAFT.md](episodes/season-1/EP01_DRAFT.md)).
-  * **Episode 2 ("Finish the Game"):** Full prose draft completed in English ([EP02_DRAFT.md](episodes/season-1/EP02_DRAFT.md)).
-  * **Episode 3 ("Vector Trajectories and Street Physics"):** Structural prose draft completed ([EP03_DRAFT.md](episodes/season-1/EP03_DRAFT.md)); currently about 8,400 words, below the outline's 10,000–14,000-word target. It has had targeted technical/source-continuity corrections and should not yet be described as target-length final prose.
+  * **Episode 1 ("Before and After"):** Working prose draft in English, approximately 7,600 words; below the 10,000–14,000+ target ([EP01_DRAFT.md](episodes/season-1/EP01_DRAFT.md)).
+  * **Episode 2 ("Finish the Game"):** Working prose draft in English, approximately 4,400 words; below the 10,000–14,000+ target ([EP02_DRAFT.md](episodes/season-1/EP02_DRAFT.md)).
+  * **Episode 3 ("Vector Trajectories and Street Physics"):** Structural prose draft ([EP03_DRAFT.md](episodes/season-1/EP03_DRAFT.md)); approximately 8,400 words, below the outline's 10,000–14,000+ target. It has had targeted technical/source-continuity corrections but is not final prose.
   * **Episodes 4 to 6:** Detailed outlines completed with multi-plot concurrency graphs and editorial cutaways.
-  * **Episodes 7 to 12:** Season 1 second semester arc mapped in `canon/narrative/SEASON_1_ARC_PLAN.md`.
+  * **Episodes 7 to 12:** Present only as season-arc summaries; individual outlines, event-registry coverage and drafts remain to be written.
+  * **Season-wide decisions and open issues:** See [SEASON_1_DECISION_AND_STATUS_REGISTER.md](canon/narrative/SEASON_1_DECISION_AND_STATUS_REGISTER.md).
