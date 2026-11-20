@@ -44,7 +44,8 @@ escrita/
 │   │   ├── MODERN_PROSE_AND_THEATRICAL_STYLE.md # Staging, pacing, and chameleonic POV rules
 │   │   ├── TECHNICAL_AND_LEGAL_FOUNDATIONS.md  # Source-qualified 2009 Apple terms & iPhone 3GS facts
 │   │   ├── DIALOGUE_NATURALNESS_STANDARD.md
-│   │   └── NARRATIVE_AND_CAUSAL_METHOD.md
+│   │   ├── NARRATIVE_AND_CAUSAL_METHOD.md
+│   │   └── NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md # Agência, caracterização, estudos comparativos e revisão literária
 │   └── DECISION_LOG.md            # Authoritative decision ledger (DEC-001 onwards)
 ├── docs/
 │   └── memory/                    # ai-memory system documentation, ADRs, and procedures
@@ -73,6 +74,8 @@ escrita/
     ├── test_parallel_plots.py     # Checks declared thread counts and persistence indicators
     ├── test_prop_clue_date_ordering.py # Validates dated genesis/payoff ordering
     ├── test_world_difference_registry.py # Validates AU differences, cross-references and draft wording
+    ├── test_multi_season_chronology.py # Validates dates, ages, t-scale and SSOT domains
+    ├── test_narrative_quality_contracts.py # Protects narrative agency standards and their documentation
     └── test_prose_drafts.py       # Checks draft structure, dialogue markers and banned phrases
 ```
 
