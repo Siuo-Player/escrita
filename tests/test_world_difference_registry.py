@@ -150,6 +150,7 @@ class TestWorldDifferenceRegistry(unittest.TestCase):
             "canon/narrative/SERIES_GLOBAL_ARCHITECTURE.md": {"WD-001", "WD-004"},
             "canon/narrative/STORY_DEVELOPMENT_WORKFLOW.md": {"WD-001", "WD-004"},
             "canon/narrative/PROP_AND_CLUE_REGISTRY.md": {"WD-004"},
+            "canon/timeline/MULTI_SEASON_CHRONOLOGY_MAP.md": {"WD-001", "WD-004"},
             "canon/timeline/SEASON_1_OPENING_PLOT_BANK.md": {"WD-001", "WD-004"},
             "canon/timeline/SEASON_1_RECURRING_SCHEDULES.md": {"WD-001"},
         }
