@@ -83,6 +83,20 @@ class TestSeasonOneDecisionConsistency(unittest.TestCase):
         self.assertIn("ep07", self.ep06_outline.lower())
 
 
+
+    def test_ep04_object_pool_targets_spawn_and_reset_churn_not_per_frame_path_search(self):
+        ep04 = (EPISODES / "EP04_MEMORY_PROFILES_OUTLINE.md").read_text(encoding="utf-8").lower()
+        self.assertIn("reinicia cenários de teste", ep04)
+        self.assertIn("contacto de colisão", ep04)
+        self.assertIn("não executa uma pesquisa global por inimigo em cada frame", ep04)
+        self.assertNotIn("centenas de vezes por frame", ep04)
+
+    def test_ep06_does_not_claim_thirty_boids_saturate_the_iphone_cpu(self):
+        ep06 = self.ep06_outline.lower()
+        self.assertIn("435 verificações por frame", ep06)
+        self.assertIn("19.900 pares por frame", ep06)
+        self.assertIn("não um cenário que por si só demonstre saturação", ep06)
+
     def test_ep10_ipad_funding_does_not_assume_proceeds_are_nathans(self):
         ep10 = self.arc[self.arc.index("### EP10"):self.arc.index("### EP11")]
         self.assertIn("decisão explícita de Clifford e Heather", ep10)
