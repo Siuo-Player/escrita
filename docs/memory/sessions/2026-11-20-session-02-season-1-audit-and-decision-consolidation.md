@@ -139,7 +139,7 @@ Foi acrescentado `tests/test_season_1_decision_consistency.py` para proteger:
 - estado de apresentação de Gloria;
 - financiamento do iPad e nomenclatura de Claire.
 
-No momento desta nota, o último CI totalmente confirmado antes dos dois últimos testes de EP10 é o run **44792827276**, com sucesso em Python 3.10, 3.11 e 3.12. Os commits posteriores acionaram nova validação; atualizar esta nota com o resultado final antes de integrar a PR.
+A validação no commit de código **cd7849a59f862f1d067386d97eac9c7da18af6cb** passou no run **44793314776**: **73 testes passaram em cada versão de Python 3.10, 3.11 e 3.12**. A nota de sessão e o índice de memória foram acrescentados depois desse commit; a CI acionada pelo novo head documental deve igualmente ser confirmada antes de integrar a PR.
 
 ## 9. Ficheiros centrais a consultar
 
