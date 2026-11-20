@@ -28,7 +28,7 @@ class TestSeasonOneDecisionConsistency(unittest.TestCase):
     def test_grade_gap_is_preserved_through_the_end_of_season_one(self):
         self.assertIn("Nathan conclui o 8.º ano", self.arc)
         self.assertIn("Alex conclui o 7.º ano", self.arc)
-        self.assertIn("prepara a entrada no High School", self.arc)
+        self.assertIn("prepara-se para entrar no High School", self.arc)
         self.assertIn("Alex conclui o 7.º ano e transita para o 8.º ano", self.arc)
         self.assertNotIn("Alex e Nathan partilham a distinção de honra com médias máximas", self.arc)
         self.assertNotIn("Nathan e Alex combinam rotinas de estudo conjunto e leitura para as férias antes da entrada no High School", self.arc)
@@ -102,8 +102,8 @@ class TestSeasonOneDecisionConsistency(unittest.TestCase):
         ep12 = self.arc[self.arc.index("### EP12"):]
         self.assertIn("resultados e a transição escolar ficam para o EP12", ep11)
         self.assertNotIn("resultados finais dos respetivos anos", ep11)
-        self.assertIn("Nathan termina a middle school", ep12)
-        self.assertIn("Alex termina o 7.º ano", ep12)
+        self.assertIn("Nathan conclui o 8.º ano e prepara-se para entrar no High School", ep12)
+        self.assertIn("Alex conclui o 7.º ano e transita para o 8.º", ep12)
         self.assertIn("21 Maio – 25 Junho 2010", ep12)
 
     def test_school_calendar_variant_is_not_invented_and_ep12_covers_june(self):
