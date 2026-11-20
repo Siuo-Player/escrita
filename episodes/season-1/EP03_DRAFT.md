@@ -6,7 +6,7 @@
 <!-- WD-004 -->
 
 **Story Window:** October 16–31, 2009  
-**Status:** COMPLETE STRUCTURAL DRAFT — BELOW TARGET LENGTH (7,424 words at initial review)  
+**Status:** COMPLETE STRUCTURAL DRAFT — BELOW THE OUTLINE'S 10,000–14,000 WORD TARGET  
 **World-canon note:** Episode titles are labels from Nathan's previous-life memories. In this timeline, the families are experiencing real events; no current-world broadcast is implied.
 
 **Active Threads:**
@@ -145,6 +145,10 @@ Alex traced an arrow with the back of her fingernail, her brow smoothing out as 
 — So the actors don't think, — she murmured. — They just read the vector of the square they're standing on.
 
 — Exactly. It changes the complexity from polynomial to linear.
+
+Alex studied the diagram for another moment.
+
+— I tried to borrow Feynman's first volume from the municipal library last month, — she said. — Their copy had disappeared. Someone apparently walked off with it; the later volumes are still there.
 
 Alex looked up from the page, her brown eyes inspecting Nathan with an intensity that felt like a full system diagnostic. There was no mockery in her expression, nor the patronizing indulgence adults often used when a child did something clever. There was only that rare, pure, slightly stunned recognition that she was looking at a peer.
 
@@ -392,9 +396,9 @@ He stepped out of the alcove, thanked the clerk at the register, and pushed open
 
 ---
 
-## MOVEMENT III: OCTOBER 28–31 — THE STREET RACE, THE PORCH, AND HALLOWEEN NIGHT
+## MOVEMENT III: OCTOBER 28–31 — THE MORNING RUN, THE PORCH, AND HALLOWEEN NIGHT
 
-### Scene 6 — October 28, 2009 (Wednesday): An Ordinary Neighbourhood Footrace
+### Scene 6 — October 28, 2009 (Wednesday): The Morning Run and Phil Dunphy
 
 Wednesday dawn broke crisp and cool over Cheviot Hills, a bank of coastal fog hovering low over the western horizon toward Santa Monica. There was no matching scene in the television series Nathan remembered from his previous life; Phil and Claire's run this morning was simply an original, everyday event in the parallel world's timeline.
 
@@ -420,7 +424,7 @@ Phil turned his head, his eyes bulging beneath the sweatband, sweat flying from 
 
 Phil blinked through the stinging sweat, immediately attempting to shorten his stride. His sneakers slapped the asphalt with slightly less violence.
 
-— Shorten... midfoot... like a cheetah? — Phil gasped.
+— Shorten... relax... like a cheetah? — Phil gasped.
 
 — Exactly like a cheetah, — Nathan said with a small smile. — Keep your breathing steady. Two steps in, two out, if that rhythm feels comfortable. Don't try to match Claire's pace until you reach the crest.
 
