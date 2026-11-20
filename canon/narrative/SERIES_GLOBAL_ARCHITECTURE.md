@@ -5,38 +5,47 @@
 <!-- WD-003 -->
 <!-- WD-004 -->
 
-Status: AUTHORITATIVE TOP-DOWN ARCHITECTURE (SSOT)  
-Intervalo da Vida do Protagonista: $t \in [0.0, 1.0]$ (13 anos em Setembro de 2009 aos 25 anos em 2021)  
+Status: AUTHORITATIVE DRAMATIC ARCHITECTURE (SSOT para Estrutura Narrativa, Arcos e Causalidade)  
+Intervalo da Vida do Protagonista: $t \in [0.00, 1.00]$ (13 anos a 7 de Setembro de 2009 aos 25 anos a 7 de Setembro de 2021)  
+Duração Total: 12.0 anos civis completos (4383 dias)  
 Updated: 2026-11-20
+
+> [!IMPORTANT]
+> **Autoridade de Continuidade:** Este documento é a Fonte Única de Verdade (SSOT) para o desenvolvimento da estrutura dramática, arcos de personagens, causalidade narrativa e progressão do efeito borboleta. Para correspondências estritas de datas do calendário gregoriano, idades canónicas calculadas por data de nascimento, níveis de escolaridade e marcos cronológicos reais, a autoridade canónica estrita pertence a [MULTI_SEASON_CHRONOLOGY_MAP.md](../timeline/MULTI_SEASON_CHRONOLOGY_MAP.md).
 
 ---
 
 ## 1. Princípio Estrutural Recursivo e Filosofia da Série
 
 A série é estruturada através de uma abordagem híbrida tripla (*Track A: Top-Down Recursivo* + *Track B: Construção Linear Causal* + *Track C: Backpropagation de Pistas*):
-1. **O ponto final $t=1.0$ (2021, ~25 anos) e o ponto inicial $t=0.0$ (2009, 13 anos)** ancoram o sentido emocional, temático e causal de toda a obra. Cada cena, conflito e amizade é uma peça que constrói organicamente essa trajetória.
-2. **Os nós intermédios ($t=0.25$, $t=0.50$, $t=0.75$)** definem transições irreversíveis de maturidade, impedindo que a narrativa estagne em rotinas circulares de comédia de situação.
+1. **O ponto final $t=1.00$ (Setembro de 2021, 25 anos) e o ponto inicial $t=0.00$ (Setembro de 2009, 13 anos)** ancoram o sentido emocional, temático e causal de toda a obra. Cada cena, conflito e amizade é uma peça que constrói organicamente essa trajetória.
+2. **Os nós intermédios ($t=0.25$, $t=0.50$, $t=0.75$)** definem transições irreversíveis de maturidade, impedindo que a narrativa estagne em rotinas circulares de comédia de situação:
+   * **$t = 0.00$ (07/09/2009):** Chegada a Los Angeles, 13.º aniversário de Nathan, motor C++ no iPhone 3GS.
+   * **$t = 0.25$ (07/09/2012):** Início da Temporada 4, Nathan no 11.º ano (Junior) e Alex no 10.º ano, AlexNet, CUDA, início do primeiro romance.
+   * **$t = 0.50$ (07/09/2015):** Início da Temporada 7, Alex ingressa no Caltech ao lado de Nathan; o ponto médio formal onde as previsões da série televisiva se esgotam.
+   * **$t = 0.75$ (07/09/2018):** Início da Temporada 10, Nathan pós-graduado funda *spin-off* de IA, Alex gradua-se, amor reconstruído e convivência adulta estável.
+   * **$t = 1.00$ (07/09/2021):** 25.º aniversário de Nathan, fecho de 12 anos exatos de jornada, Alex revela a gravidez no jardim ao entardecer.
 3. **Cada temporada equivale a aproximadamente um ano letivo e civil**, acompanhando o crescimento real de Nathan Callahan, da família Callahan e dos membros do clã Dunphy/Pritchett/Tucker no mundo paralelo.
-4. **Degradação Epistémica Progressiva:** As memórias que Nathan preserva da série televisiva da sua vida anterior começam como um mapa útil de tendências, mas o efeito borboleta acumula-se. À medida que Nathan intervém e estabelece vínculos genuínos, o futuro diverge. No ponto médio ($t=0.50$), o "guião mental" colapsa quase por completo, forçando-o a viver sem rede de segurança preditiva.
+4. **Degradação Epistémica Progressiva:** As memórias que Nathan preserva da série televisiva da sua vida anterior começam como um mapa útil de tendências, mas o efeito borboleta acumula-se. À medida que Nathan intervém e estabelece vínculos genuínos, o futuro diverge. No ponto médio ($t=0.50$), o "guião mental" colapsa por completo, forçando-o a viver sem rede de segurança preditiva.
 
 ---
 
-## 2. Mapa dos Marcos Globais ($t \in [0.0, 1.0]$)
+## 2. Mapa dos Marcos Globais ($t \in [0.00, 1.00]$)
 
 ```
-t=0.0 (T1: 2009-10)    t=0.25 (T2-T3: 2010-12)    t=0.50 (T4-T5: 2012-14)    t=0.75 (T6-T8: 2014-17)    t=1.0 (T9-T11: 2018-21)
----------------------------------------------------------------------------------------------------------------------------------
-Idade: 13-14 anos      Idade: 14-16 anos          Idade: 16-18 anos          Idade: 18-21 anos          Idade: 22-25 anos
-8.º Ano Middle School  Transição High School      High School Superior       Caltech / Universidade     Pesquisa / Spin-off / Lar
-Chegada a LA (Seattle) Desfasamento de Ano        Romance, AlexNet, GPUs     Crise, Ruptura, Haley      Reconciliação Madura
-Jogo C++ no 3GS        Amizade Cúmplice           Conflito de Candidaturas   Maturação Emocional Brutal Desfecho: Gravidez Alex
+t=0.00 (S01: Set 2009)    t=0.25 (S04: Set 2012)    t=0.50 (S07: Set 2015)    t=0.75 (S10: Set 2018)    t=1.00 (Epílogo: 07/09/2021)
+-----------------------------------------------------------------------------------------------------------------------------------------
+Nathan: 13 anos           Nathan: 16 anos           Nathan: 19 anos           Nathan: 22 anos           Nathan: 25 anos
+8.º Ano Middle School     11.º Ano (Junior) Liceu   College Soph. Caltech     Investigador / Spin-off   Liderança IA / Paternidade
+Chegada a LA (Seattle)    AlexNet, GPUs, CUDA       Reunião Caltech, Crise    Reconciliação, Apartamento Pandemia 2020-21, Novo Ciclo
+Motor C++ no 3GS          Início Namoro com Alex    Ruptura, Haley, Catarse   Vida a Dois Consolidada   Desfecho: Alex Revela Gravidez
 ```
 
 ---
 
 ## 3. Cronologia Detalhada Temporada a Temporada
 
-### Temporada 1: A Chegada e o Primeiro Binário (2009–2010, $t \approx 0.00 \to 0.09$)
+### Temporada 1: A Chegada e o Primeiro Binário (2009–2010, $t \approx 0.00 \to 0.08$)
 * **Idades:** Nathan: 13 anos (completa 13 a 07/09/2009). Alex: 12–13 anos (nascida a 14/01/1997).
 * **Nível Escolar:** Nathan no 8.º ano (concluinte da *middle school*); Alex no 7.º ano (DEC-011).
 * **Eixo Tecnológico:**
@@ -55,7 +64,7 @@ Jogo C++ no 3GS        Amizade Cúmplice           Conflito de Candidaturas   Ma
 
 ---
 
-### Temporada 2: O Desfasamento Escolar e a Era do iPad (2010–2011, $t \approx 0.09 \to 0.18$)
+### Temporada 2: O Desfasamento Escolar e a Era do iPad (2010–2011, $t \approx 0.08 \to 0.17$)
 * **Idades:** Nathan: 14 anos. Alex: 13–14 anos. Haley: 16–17 anos (Junior). Luke/Manny: 11–12 anos (6.º ano).
 * **Nível Escolar:** Nathan entra como caloiro no *High School* (9.º ano); Alex é finalista da *middle school* (8.º ano).
 * **Desafio Narrativo Central:**
@@ -73,7 +82,7 @@ Jogo C++ no 3GS        Amizade Cúmplice           Conflito de Candidaturas   Ma
 
 ---
 
-### Temporada 3: Reunião no Liceu e Despertar de Consciência Afetiva (2011–2012, $t \approx 0.18 \to 0.27$)
+### Temporada 3: Reunião no Liceu e Despertar de Consciência Afetiva (2011–2012, $t \approx 0.17 \to 0.25$)
 * **Idades:** Nathan: 15 anos. Alex: 14–15 anos. Haley: 17–18 anos (Senior de High School).
 * **Nível Escolar:** Nathan no 10.º ano (Sophomore); Alex entra no High School como caloira (9.º ano).
 * **Eixo Tecnológico:**
@@ -88,7 +97,7 @@ Jogo C++ no 3GS        Amizade Cúmplice           Conflito de Candidaturas   Ma
 
 ---
 
-### Temporada 4: A Faísca da Aprendizagem Profunda e o Primeiro Romance (2012–2013, $t \approx 0.27 \to 0.36$)
+### Temporada 4: A Faísca da Aprendizagem Profunda e o Primeiro Romance (2012–2013, $t \approx 0.25 \to 0.33$)
 * **Idades:** Nathan: 16 anos. Alex: 15–16 anos. Luke/Manny: 13–14 anos (8.º ano).
 * **Nível Escolar:** Nathan no 11.º ano (Junior); Alex no 10.º ano (Sophomore).
 * **Marco Histórico / Tecnológico:**
@@ -104,11 +113,11 @@ Jogo C++ no 3GS        Amizade Cúmplice           Conflito de Candidaturas   Ma
 
 ---
 
-### Temporada 5: O Ponto Médio — Candidaturas de Topo e Encruzilhada (2013–2014, $t \approx 0.36 \to 0.45$)
+### Temporada 5: Candidaturas de Topo e Encruzilhada (2013–2014, $t \approx 0.33 \to 0.42$)
 * **Idades:** Nathan: 17 anos (Senior). Alex: 16–17 anos (Junior). Luke/Manny: 14–15 anos (Caloiros no High School).
 * **Nível Escolar:** Nathan no 12.º ano (Senior de High School); Alex no 11.º ano (Junior).
-* **O Ponto Médio ($t = 0.50$):**
-  * O conhecimento futuro de Nathan esgota quase todo o seu valor preditivo prático. As famílias tomaram decisões diferentes, as dinâmicas alteraram-se e o mundo real seguiu em frente. Nathan é obrigado a agir 100% no presente.
+* **Dilema das Candidaturas:**
+  * O conhecimento prévio de Nathan começa a desvanecer-se como guia seguro; as escolhas tornam-se profundamente individuais e imprevisíveis.
 * **Trama Académica & Tecnológica:**
   * Nathan submete uma comunicação científica júnior pioneira sobre kernels eficientes de convolução espacial; recebe atenção de laboratórios em Caltech, Stanford e MIT.
   * O dilema da distância: Nathan recebe ofertas de admissão de topo na Costa Leste (MIT) e na Califórnia (Stanford e Caltech).
@@ -120,7 +129,7 @@ Jogo C++ no 3GS        Amizade Cúmplice           Conflito de Candidaturas   Ma
 
 ---
 
-### Temporada 6: Caltech vs. Último Ano de Liceu (2014–2015, $t \approx 0.45 \to 0.55$)
+### Temporada 6: Caltech vs. Último Ano de Liceu (2014–2015, $t \approx 0.42 \to 0.50$)
 * **Idades:** Nathan: 18 anos. Alex: 17–18 anos.
 * **Nível Escolar:** Nathan como Caloiro Universitário no Caltech (Pasadena); Alex no 12.º ano do High School.
 * **Eixo Universitário & Científico:**
@@ -134,8 +143,10 @@ Jogo C++ no 3GS        Amizade Cúmplice           Conflito de Candidaturas   Ma
 
 ---
 
-### Temporada 7: Dois Prodígios no Mesmo Campus e as Fissuras Estruturais (2015–2016, $t \approx 0.55 \to 0.65$)
+### Temporada 7: O Ponto Médio ($t = 0.50$) — Dois Prodígios no Mesmo Campus e as Fissuras Estruturais (2015–2016, $t \approx 0.50 \to 0.58$)
 * **Idades:** Nathan: 19 anos (Sophomore). Alex: 18–19 anos (Freshman).
+* **Marco do Ponto Médio ($t = 0.50$, Setembro de 2015):**
+  * Alex ingressa no Caltech ao lado de Nathan. O valor preditivo das memórias da vida anterior atinge a sua obsolescência prática; o mundo paralelo é agora inteiramente governado por escolhas em tempo real e dinâmica autêntica.
 * **Contexto:** Ambos partilham o campus do Caltech em Pasadena.
 * **Conflito Dramático Central:**
   * A ilusão de que estar na mesma universidade resolveria os problemas desmorona-se.
@@ -146,14 +157,14 @@ Jogo C++ no 3GS        Amizade Cúmplice           Conflito de Candidaturas   Ma
 
 ---
 
-### Temporada 8: O Grande Ponto de Fricção, Crise Adulta e Amadurecimento ($t \approx 0.65 \to 0.75$, 2016–2017)
-* **Idades:** Nathan: 20–21 anos. Alex: 19–20 anos. Haley: 23 anos.
+### Temporada 8: O Grande Ponto de Fricção, Crise Adulta e Amadurecimento (2016–2017, $t \approx 0.58 \to 0.67$)
+* **Idades:** Nathan: 20 anos. Alex: 19–20 anos. Haley: 22–23 anos. Luke/Manny: 17–18 anos.
 * **A Ruptura Inevitável:**
   * No outono de 2016, a relação entre Nathan e Alex atinge um ponto de rutura doloroso e exaustivo. Nenhum dos dois tem maturidade emocional para ceder; decidem terminar formalmente o namoro.
   * A dor da separação é profunda: perderam não apenas o namorado, mas o melhor amigo que tinham desde os 13 anos.
 * **A Crise e a Intersecção com Haley Dunphy:**
   * Nathan passa por uma fase de desorientação identitária e esgotamento emocional, sentindo que a sua inteligência matemática de nada serviu para evitar o fracasso afetivo.
-  * Durante esta fase de separação real e sem compromisso com Alex, Nathan cruza-se com Haley em Los Angeles. Haley, agora uma mulher de 23 anos a lutar para estabelecer a sua carreira no design e moda comercial, também atravessa uma encruzilhada de desilusões amorosas.
+  * Durante esta fase de separação real e sem compromisso com Alex, Nathan cruza-se com Haley em Los Angeles. Haley, agora uma mulher de 22–23 anos a lutar para estabelecer a sua carreira no design e moda comercial, também atravessa uma encruzilhada de desilusões amorosas.
   * Surge uma aproximação física e emocional transitória entre Nathan e Haley: marcada por maturidade, respeito mútuo, apoio mútuo em momentos de solidão e vulnerabilidade honesta.
   * **Tratamento Canónico Rigoroso (DECISION_LOG):** Este acontecimento é abordado sem sensacionalismo, sem ligeireza e com total peso dramático. Ambos compreendem que a ligação, embora genuína no conforto partilhado, não tem futuro conjunto duradouro e pertence a um momento de transição e cura.
 * **A Catarse Pessoal de Nathan:**
@@ -162,8 +173,8 @@ Jogo C++ no 3GS        Amizade Cúmplice           Conflito de Candidaturas   Ma
 
 ---
 
-### Temporada 9: A Revolução da Atenção, Licenciatura e o Degelo Gradual (2017–2018, $t \approx 0.75 \to 0.85$)
-* **Idades:** Nathan: 21–22 anos. Alex: 20–21 anos.
+### Temporada 9: A Revolução da Atenção, Licenciatura e o Degelo Gradual (2017–2018, $t \approx 0.67 \to 0.75$)
+* **Idades:** Nathan: 21 anos. Alex: 20–21 anos.
 * **Marco Científico:**
   * Junho de 2017: Publicação do artigo seminal *"Attention Is All You Need"* (Arquitetura Transformer).
   * Nathan redireciona o seu trabalho terminal de graduação para mecanismos de atenção aplicados a modelação espacial e biológica, atraindo financiamento de capital de risco e bolsas de doutoramento de elite.
@@ -175,8 +186,10 @@ Jogo C++ no 3GS        Amizade Cúmplice           Conflito de Candidaturas   Ma
 
 ---
 
-### Temporada 10: Independência Científica e Amor Reconstruído (2018–2019, $t \approx 0.85 \to 0.93$)
-* **Idades:** Nathan: 22–23 anos. Alex: 21–22 anos.
+### Temporada 10: Independência Científica e Amor Reconstruído (2018–2019, $t \approx 0.75 \to 0.83$)
+* **Idades:** Nathan: 22 anos. Alex: 21–22 anos.
+* **Marco de $t = 0.75$ (Setembro de 2018):**
+  * Nathan pós-graduado estabelece a sua sede de empresa e equipa de engenharia em Los Angeles.
 * **Eixo Profissional:**
   * Nathan gere a sua equipa de engenharia e investigação, lidando com desafios de liderança, pressão de investidores e recusa ética de modelos predatórios.
   * Alex conclui a sua graduação em Caltech (Junho de 2019) e começa a trabalhar num laboratório de topo de biologia molecular e genética computacional.
@@ -190,16 +203,24 @@ Jogo C++ no 3GS        Amizade Cúmplice           Conflito de Candidaturas   Ma
 
 ---
 
-### Temporada 11 e Epílogo: Plenitude, Raízes e o Novo Ciclo (2019–2021, $t \approx 0.93 \to 1.00$)
-* **Idades:** Nathan: 23–25 anos. Alex: 22–24 anos. Haley: 26–27 anos. Luke/Manny: 21–22 anos.
+### Temporada 11 e Epílogo: Plenitude, Raízes, Pandemia e o Novo Ciclo (2019–2021, $t \approx 0.83 \to 1.00$)
+* **Idades:** Nathan: 23 anos (S11), 23–25 anos no Epílogo (atinge 25 anos a 07/09/2021). Alex: 22–23 anos (S11), 22–24 anos no Epílogo. Haley: 25–26 anos (S11), 25–27 anos no Epílogo. Luke/Manny: 20–21 anos (S11), 20–22 anos no Epílogo.
 * **Contexto de Época:** 2019–2021 (fecho da era clássica de *Modern Family* no mundo paralelo).
+* **Enquadramento Histórico: A Pandemia de COVID-19 (2020–2021):**
+  * No início de 2020, o surgimento da pandemia de COVID-19 desafia a rotina de Los Angeles.
+  * Nathan implementa trabalho remoto distribuído para toda a sua empresa de tecnologia, assegurando a estabilidade dos colaboradores e desenvolvendo ferramentas de simulação epidemiológica e apoio computacional.
+  * Alex atua no laboratório essencial de biologia computacional, dedicando-se a modelações moleculares e genómicas prioritárias.
+  * O confinamento na moradia partilhada fortalece a sua cumplicidade doméstica: cozinham juntos, apoiam-se nas longas jornadas de trabalho e cuidam um do outro nos momentos de incerteza global.
+  * As famílias mantêm-se unidas através de videochamadas frequentes e encontros à distância no jardim, com Phil a tentar dinamizar jogos familiares virtuais e Jay a partilhar conselhos práticos e apoio moral.
 * **Consolidação dos Clãs:**
   * Haley está consolidada na sua vida profissional e familiar com estabilidade e maturidade.
   * Luke empreende com sucesso prático; Manny encontra a sua voz literária madura.
   * Jay Pritchett e Clifford partilham conversas de veteranos no jardim; Claire assume a liderança empresarial com orgulho e vigor.
-* **O Ponto Final ($t = 1.00$):**
+* **O Ponto Final ($t = 1.00$, 7 de Setembro de 2021):**
+  * Com o avanço da vacinação e o regresso gradual da normalidade no verão de 2021, toda a família se reúne presencialmente para celebrar a vida e os reencontros.
+  * A 7 de Setembro de 2021, Nathan completa 25 anos de idade — exatamente 12 anos após o dia da sua chegada a Los Angeles em 2009.
   * Nathan alcançou estabilidade científica e económica independente através da sua empresa de software e investigação em IA.
-  * Nathan e Alex estão no jardim da sua casa ao entardecer, após um almoço de domingo barulhento com toda a família alargada.
+  * Nathan e Alex estão no jardim da sua casa ao entardecer de Setembro de 2021, após um almoço de domingo barulhento com toda a família alargada.
   * **A Cena de Encerramento:** Alex afasta-se da varanda, aproxima-se de Nathan na relva, segura a mão dele e partilha a notícia de que está grávida.
   * Não há música estridente nem piadas de encerramento; apenas o olhar sereno de duas pessoas que cresceram juntas, venceram as suas próprias sombras e construíram um amor merecido.
   * O ciclo fecha-se com absoluta integridade causal, emocional e narrativa.
@@ -210,8 +231,8 @@ Jogo C++ no 3GS        Amizade Cúmplice           Conflito de Candidaturas   Ma
 
 | Eixo / Temporada | T1–T3 (2009–2012) | T4–T5 (2012–2014) | T6–T8 (2014–2017) | T9–T11 (2017–2021) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Tecnologia & IA** | C++, OpenGL ES, 3GS, iPad HD, algoritmos de enxame. | CUDA, CNNs (AlexNet), estações de trabalho de GPU, papers júnior. | Investigação Caltech, RNNs/LSTMs, modelos de agentes distribuídos. | Transformers, atenção espacial, simulação biológica, spin-off ética. |
-| **Nathan & Alex** | Amizade e cumplicidade intelectual (*slow burn*). | Namoro de liceu, primeiro amor, tensão de candidaturas. | Distância, pressão brutal, ruptura dolorosa, interlúdio Haley. | Reencontro honesto, perdão adulto, convivência, gravidez ($t=1.0$). |
+| **Tecnologia & IA** | C++, OpenGL ES, 3GS, iPad HD, algoritmos de enxame. | CUDA, CNNs (AlexNet), estações de trabalho de GPU, papers júnior. | Investigação Caltech, RNNs/LSTMs, modelos de agentes distribuídos. | Transformers, atenção espacial, simulação biológica, COVID-19, spin-off ética. |
+| **Nathan & Alex** | Amizade e cumplicidade intelectual (*slow burn*). | Namoro de liceu, primeiro amor, tensão de candidaturas. | Distância, pressão brutal, ruptura dolorosa, interlúdio Haley. | Reencontro honesto, perdão adulto, convivência, gravidez ($t=1.00$, 07/09/2021). |
 | **Família Callahan** | Adaptação a LA, apoio no arrendamento e compra em Cheviot Hills. | Gestão de autonomia do filho adolescente e transição para o liceu. | Apoio financeiro/moral de retaguarda durante a faculdade. | Relação adulto-a-adulto de pleno respeito mútuo e conselho. |
 | **Luke & Phil** | Luke e a fisga/bússola; Phil e a corrida; admiração pura. | Luke em projetos de robótica guiados por Nathan; Phil co-inventor. | Luke procura conselhos de vida adulta; Phil vê Nathan como filho. | Luke empreendedor prático; Phil orgulhoso do legado familiar. |
 | **Jay & Claire** | Respeito de Jay pelas ferramentas; Claire agradecida pelo socorro. | Jay apoia rigor prático; Claire campeã do vínculo com Alex. | Claire como confidente madura; Jay discute negócios sérios. | Jay e Clifford amigos; Claire celebra a união duradoura. |

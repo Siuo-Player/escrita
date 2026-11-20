@@ -5,9 +5,13 @@
 <!-- WD-003 -->
 <!-- WD-004 -->
 
-Status: AUTHORITATIVE CHRONOLOGICAL INDEX (SSOT)  
-Cobertura: Setembro de 2009 ($t=0.0$) a Junho de 2021 ($t=1.0$)  
+Status: AUTHORITATIVE CHRONOLOGICAL INDEX (SSOT para Datas, Idades, Níveis de Escolaridade e Calendários)  
+Cobertura: 7 de Setembro de 2009 ($t = 0.0$, 2009-09-07) a 7 de Setembro de 2021 ($t = 1.0$, 2021-09-07)  
+Duração Total: Exatamente 12.0 anos civis (4383 dias, incluindo anos bissextos de 2012, 2016 e 2020)  
 Updated: 2026-11-20
+
+> [!IMPORTANT]
+> **Autoridade de Continuidade:** Este documento é a Fonte Única de Verdade (SSOT) para a correspondência determinística de datas do calendário civil gregoriano, idades canónicas calculadas a partir das datas de nascimento, progressão dos anos de escolaridade e marcos cronológicos reais. Para a evolução dos arcos dramáticos, psicologia das personagens, conflitos e causalidade relacional, a autoridade canónica estrita pertence a [SERIES_GLOBAL_ARCHITECTURE.md](../narrative/SERIES_GLOBAL_ARCHITECTURE.md).
 
 ---
 
@@ -22,10 +26,10 @@ Updated: 2026-11-20
 | **S05** | Set 2013 – Jun 2014 | **17 anos** (12.º ano / Senior) | **16–17 anos** (11.º ano / Junior) | 19–20 anos (Carreira Inicial) | 14–15 anos (9.º ano / Fresh.) | 14–15 anos (9.º ano / Fresh.) | **Nathan gradua-se no High School**; Alex no 11.º ano | Transição de regras para CNNs, papel júnior convoluções |
 | **S06** | Set 2014 – Jun 2015 | **18 anos** (College Fresh. Caltech) | **17–18 anos** (12.º ano / Senior) | 20–21 anos (Trabalho Autónomo) | 15–16 anos (10.º ano / Soph.) | 15–16 anos (10.º ano / Soph.) | Nathan no Caltech (Pasadena); **Alex Valedictorian no High School** | Boom de Deep Learning, frameworks abertos (Caffe, Torch) |
 | **S07** | Set 2015 – Jun 2016 | **19 anos** (College Sophomore) | **18–19 anos** (College Fresh. Caltech) | 21–22 anos (Design / Fotografia) | 16–17 anos (11.º ano / Junior) | 16–17 anos (11.º ano / Junior) | **Ambos em Caltech**; choque de exigência e competição | TensorFlow, RNNs, LSTMs, modelos de agentes em grafos |
-| **S08** | Set 2016 – Jun 2017 | **20–21 anos** (College Junior) | **19–20 anos** (College Soph.) | 22–23 anos (Maturidade Criativa) | 17–18 anos (12.º ano / Senior) | 17–18 anos (12.º ano / Senior) | Ambos em Caltech; Luke e Manny graduam-se no High School | Ruptura de Nathan e Alex; interlúdio adulto com Haley |
-| **S09** | Set 2017 – Jun 2018 | **21–22 anos** (College Senior) | **20–21 anos** (College Junior) | 23–24 anos (Carreira Consolidada) | 18–19 anos (College / Projetos) | 18–19 anos (College / Artes) | **Nathan gradua-se em Caltech**; inicia investigação autónoma | "Attention Is All You Need" (Transformers), degelo Nathan/Alex |
-| **S10** | Set 2018 – Jun 2019 | **22–23 anos** (Investigador / Start-up) | **21–22 anos** (College Senior Caltech) | 24–25 anos (Estabilidade) | 19–20 anos (Empresas Práticas) | 19–20 anos (Dramaturgia) | Nathan funda spin-off de IA; **Alex gradua-se em Caltech** | Modelos pré-treinados em escala (BERT, GPT-2), vida a dois |
-| **S11+** | Set 2019 – Jun 2021 | **23–25 anos** (Liderança em IA) | **22–24 anos** (Investigação Biotech) | 25–27 anos (Família / Vida Adulta) | 20–22 anos (Sucesso Comercial) | 20–22 anos (Autor Publicado) | Ambos profissionais com carreiras sólidas e independentes | Interpretabilidade em IA, AlphaFold 1/2; Desfecho: gravidez ($t=1.0$) |
+| **S08** | Set 2016 – Jun 2017 | **20 anos** (College Junior) | **19–20 anos** (College Soph.) | 22–23 anos (Maturidade Criativa) | 17–18 anos (12.º ano / Senior) | 17–18 anos (12.º ano / Senior) | Ambos em Caltech; Luke e Manny graduam-se no High School | Ruptura de Nathan e Alex; interlúdio adulto com Haley |
+| **S09** | Set 2017 – Jun 2018 | **21 anos** (College Senior) | **20–21 anos** (College Junior) | 23–24 anos (Carreira Consolidada) | 18–19 anos (College / Projetos) | 18–19 anos (College / Artes) | **Nathan gradua-se em Caltech**; inicia investigação autónoma | "Attention Is All You Need" (Transformers), degelo Nathan/Alex |
+| **S10** | Set 2018 – Jun 2019 | **22 anos** (Investigador / Start-up) | **21–22 anos** (College Senior Caltech) | 24–25 anos (Estabilidade) | 19–20 anos (Empresas Práticas) | 19–20 anos (Dramaturgia) | Nathan funda spin-off de IA; **Alex gradua-se em Caltech** | Modelos pré-treinados em escala (BERT, GPT-2), vida a dois |
+| **S11+** | Set 2019 – Set 2021 | **23–25 anos** (Liderança em IA) | **22–24 anos** (Investigação Biotech) | 25–27 anos (Família / Vida Adulta) | 20–22 anos (Sucesso Comercial) | 20–22 anos (Autor Publicado) | Ambos profissionais com carreiras sólidas e independentes | Interpretabilidade em IA, AlphaFold 1/2; COVID-19; Desfecho: gravidez ($t=1.0$, 2021-09-07) |
 
 ---
 
@@ -49,4 +53,16 @@ Estado:       [-- ALTA PRECISÃO --] [-- DIVERGÊNCIA ATIVA --] [-- MUNDO AUTÓN
 2. **Junho 2010:** Compra definitiva da moradia de Cheviot Hills por Clifford e Heather. Fixação das raízes californianas.
 3. **Setembro 2014 – Junho 2018:** Quarto nos dormitórios do Caltech (Pasadena / North Campus) e estúdio de laboratório de computação gráfica/IA. Finais de semana regulares em Cheviot Hills.
 4. **Setembro 2018 – Maio 2020:** Apartamento partilhado com Alex em West Los Angeles / Santa Monica (ponto intermédio entre o laboratório de biologia de Alex e a empresa de software de Nathan).
-5. **Junho 2020 em diante ($t=1.0$):** Moradia própria de Nathan e Alex com jardim na área metropolitana de Los Angeles, próxima das famílias Callahan e Dunphy.
+5. **Junho 2020 a Setembro de 2021 ($t=1.00$):** Moradia própria de Nathan e Alex com jardim na área metropolitana de Los Angeles, próxima das famílias Callahan e Dunphy. Vivência do confinamento e teletrabalho/laboratório essencial durante a pandemia de COVID-19 (2020–2021), culminando na celebração do 25.º aniversário de Nathan e revelação da gravidez a 7 de Setembro de 2021 (2021-09-07).
+
+---
+
+## 4. Enquadramento Histórico Real: Pandemia de COVID-19 (2020–2021)
+
+Em conformidade com a regra de invariância histórica do mundo paralelo (WD-001 a WD-004):
+* **Março de 2020:** Emergência da pandemia de COVID-19 no sul da Califórnia e decretação de confinamento.
+* **Teletrabalho em IA e Computação Distribuída:** A *startup* de Nathan transfere todas as operações para trabalho remoto e infraestrutura distribuída na nuvem, com Nathan a supervisionar a equipa a partir de casa.
+* **Investigação Laboratorial Essencial de Alex:** O laboratório de biologia computacional e genética de Alex é classificado como infraestrutura essencial, com Alex a alternar entre modelação computacional em casa e trabalho laboratorial presencial sob protocolos de biossegurança.
+* **Laço Doméstico no Confinamento:** O isolamento partilhado na nova moradia consolida a vida a dois, aprofundando o apoio mútuo e a maturidade da parceria diária.
+* **Apoio Familiar Estendido:** As famílias Callahan, Dunphy e Pritchett mantêm contacto regular através de videochamadas e visitas seguras ao jardim, preservando o calor humano comunitário.
+* **Verão de 2021 e Encerramento do Ciclo ($t=1.00$):** Com o avanço da vacinação e o regresso gradual da normalidade, a grande família reúne-se presencialmente. A 7 de Setembro de 2021 (2021-09-07), Nathan atinge os 25 anos de idade — marcando exatamente 12 anos civis completos desde a sua chegada a Los Angeles em 2009-09-07. No jardim ao crepúsculo, Alex revela a sua gravidez, fechando o arco global com integridade científica, humana e narrativa.
