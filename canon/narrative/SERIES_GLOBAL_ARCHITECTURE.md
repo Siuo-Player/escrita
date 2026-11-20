@@ -16,7 +16,7 @@ Updated: 2026-11-19
 A série segue a metodologia híbrida (*Track A: Top-Down Recursivo* + *Track B: Construção Linear Causal* + *Track C: Backpropagation de Pistas*):
 - O ponto final $t=1.0$ e o ponto inicial $t=0.0$ ancoram o significado global.
 - Os pontos intermédios ($t=0.5$, $t=0.25$, $t=0.75$) estabelecem as grandes transições e evitam desvios descontrolados.
-- Cada temporada representa aproximadamente um ano na vida de Nathan Callahan e no calendário do universo de *Modern Family*.
+- Cada temporada representa aproximadamente um ano na vida de Nathan Callahan e no calendário das famílias Dunphy/Pritchett/Tucker no mundo paralelo.
 
 ---
 
@@ -32,7 +32,7 @@ Jogo C++, contacto Alex      Amizade profunda com Alex       Divergência Borbol
 - **Estado Inicial:** Nathan faz 13 anos no Labor Day (07/09/2009) em Seattle; pai é promovido; mudança abrupta para Los Angeles.
 - **Trama Central:** Construção e lançamento do primeiro jogo mobile 2D em C++ com inteligência espacial (*flow fields*); integração na escola e na equipa de futebol.
 - **Relação com Alex:** Amizade baseada em respeito intelectual mútuo e interesses partilhados, sem confissões prematuras nem namoro na Temporada 1.
-- **Efeito Borboleta:** Pequenos desvios locais decorrentes do conhecimento que Nathan tem da série; primeiras intervenções contidas onde há perigo real.
+- **Efeito Borboleta:** Pequenos desvios locais decorrentes das memórias que Nathan conserva da série televisiva da sua vida anterior; primeiras intervenções contidas onde há perigo real.
 
 ### $t = 0.25$ — Transição para o Liceu (Temporadas 2 e 3: 2010–2012, 14–16 anos)
 - **Transformação:** Transição de Nathan e Alex para o *high school*; aumento da exigência académica e competição intelectual.
@@ -41,7 +41,7 @@ Jogo C++, contacto Alex      Amizade profunda com Alex       Divergência Borbol
 - **Dinâmica Familiar Dunphy/Pritchett:** Nathan é uma presença reconhecida e respeitada pelos pais (Phil e Claire), com interações frequentes com Luke e Manny.
 
 ### $t = 0.50$ — O Ponto Médio da Série (Temporadas 4 e 5: 2012–2014, 16–18 anos)
-- **Transformação Crucial:** A realidade canónica e a realidade modificada afastam-se irreversivelmente. As previsões e memórias de Nathan começam a falhar com frequência, obrigando-o a lidar com as pessoas como indivíduos reais e imprevisíveis.
+- **Transformação Crucial:** A cronologia da série televisiva que Nathan conheceu na vida anterior e a cronologia do mundo paralelo afastam-se irreversivelmente. As previsões de Nathan começam a falhar com frequência, obrigando-o a lidar com estas pessoas reais como indivíduos autónomos e imprevisíveis.
 - **Trama Central:** Candidaturas universitárias de topo (Caltech, Stanford, MIT); investigação pioneira em redes neuronais antes da explosão pública da aprendizagem profunda.
 - **Relação com Alex:** O primeiro relacionamento romântico formal, acompanhado de conflitos de prioridades, pressão académica intensa e escolhas de futuro universitário.
 
@@ -64,5 +64,5 @@ Jogo C++, contacto Alex      Amizade profunda com Alex       Divergência Borbol
 | **Tecnologia & IA** | Jogo C++ mobile, *flow fields*, algoritmos heurísticos. | Primeiros modelos de visão computacional e agentes autónomos. | Teses de investigação, papers de topo, spin-off universitária. | Liderança em IA ética e impacto científico internacional. |
 | **Nathan & Alex** | Amizade intelectual sólida (*slow burn* absoluto). | Romance de liceu, primeiros conflitos de futuro. | Separação dolorosa, maturidade individual, reconciliação lenta. | Compromisso adulto duradouro, final com anúncio de gravidez. |
 | **Família Callahan** | Adaptação à Califórnia; pais presentes mas focados em carreiras. | Negociação de autonomia adolescente; apoio mútuo. | Transição para relação adulto-a-adulto com Clifford e Heather. | Apoio à nova geração; estabilidade familiar plena. |
-| **Universo Modern Family** | Linhas canónicas em paralelo; Nathan é um vizinho/colega pontual. | Interseções crescentes nas rotinas dos Dunphy e Pritchett. | Efeito borboleta profundo nas trajetórias de Luke, Haley e Manny. | Relações familiares adultas consolidadas e integradas. |
+| **Vidas Dunphy/Pritchett/Tucker** | Eventos familiares inicialmente alinhados com as memórias da série anterior; Nathan é vizinho/colega pontual. | Interseções crescentes nas rotinas dos Dunphy e Pritchett. | Efeito borboleta profundo nas trajetórias de Luke, Haley e Manny. | Relações familiares adultas consolidadas e integradas. |
 | **Futebol / Físico** | Capitão de equipa; rivalidade saudável com Maxwell Whitaker. | Titular no liceu; equilíbrio rigoroso entre desporto e estudo. | Prática contínua de artes marciais/condicionamento físico. | Disciplina física como ancoragem mental na vida adulta. |
