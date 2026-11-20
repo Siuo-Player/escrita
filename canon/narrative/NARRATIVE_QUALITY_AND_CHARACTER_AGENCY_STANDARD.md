@@ -10,11 +10,11 @@ Updated: 2026-11-20
 
 ## 1. Objetivo e âmbito
 
-A história deve acompanhar Nathan Callahan sem transformar o mundo à sua volta num sistema criado para o admirar. Alex, Haley, as famílias Dunphy/Pritchett/Tucker, os Callahan e as personagens originais precisam de objetivos e relações que continuem a existir independentemente dele.
+A história deve acompanhar Nathan Callahan sem transformar o mundo à sua volta num sistema criado para o admirar. Alex, Haley, as famílias Dunphy/Pritchett/Tucker, os Callahan e as personagens originais precisam de objetivos independentes e relações que continuem a existir independentemente dele.
 
 Este padrão aplica-se à arquitetura global, mapas de temporada, perfis, arcos relacionais, outlines, matrizes de tramas, cenas e drafts.
 
-**Princípio central:** Nathan pode ser extraordinário em áreas concretas, mas não é o centro moral, emocional, intelectual ou causal de todas as vidas à sua volta. O mundo não existe para o validar.
+**Princípio central:** Nathan pode ser extraordinário em áreas concretas, mas não é o centro moral, emocional, intelectual ou causal de todas as vidas à sua volta. O mundo não existe para validar Nathan.
 
 O padrão preserva o destino autoral pretendido — Nathan e Alex podem reconciliar-se, construir uma vida juntos e terminar com a gravidez de Alex. Exige, porém, que o percurso seja conquistado através de escolhas independentes, compatibilidade, conflitos e consequências, não por destino automático ou eliminação artificial de alternativas.
 
@@ -134,7 +134,7 @@ Nem todas precisam de se cruzar em todos os episódios. A ausência de cruzament
 
 Durante o planeamento:
 - registar objetivo, obstáculo, escolha, consequência e estado persistente de cada linha;
-- identificar cruzamentos causais relevantes por arco ou episódio quando a estrutura o justificar;
+- identificar cruzamentos causais relevantes por arco ou episódio quando a estrutura o justificar; distinguir objetivos externos à interação dos objetivos criados apenas para a cena;
 - verificar que a subtrama familiar não é apenas uma reação ao que Nathan fez;
 - remover ou fundir uma linha que só repete informação, acrescenta elogios ou cumpre artificialmente a quota.
 
