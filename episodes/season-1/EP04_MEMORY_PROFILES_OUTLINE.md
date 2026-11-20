@@ -49,8 +49,8 @@ Os acontecimentos vividos pelas famílias que Nathan recorda sob os títulos *En
 
 ### 02 de Novembro (Segunda-feira) — O Alerta de Memória
 - **Contexto:** Quarto de Nathan, 21:00. O Instruments do Xcode acusa um consumo crescente de RAM no iPhone 3GS [PROP-004] ao fim de 15 minutos de execução.
-- **Ação Técnica:** Nathan percebe que os nós de pesquisa do algoritmo de caminhos estão a ser instanciados com `new` e destruídos com `delete` centenas de vezes por frame, o que aumenta a atividade do alocador e pode contribuir para fragmentação do heap.
-- **Solução:** Desenha uma *object pool* de capacidade fixa para os nós de pesquisa, pré-alocando-os antes do início do gameplay. Dentro dessa capacidade, o motor reutiliza nós sem pedir memória ao alocador a cada frame; a pool tem de detetar e reportar uma eventual falta de capacidade, em vez de corromper memória ou crescer silenciosamente.
+- **Ação Técnica:** O perfil mostra picos de alocação quando Nathan reinicia cenários de teste: a criação/remoção de inimigos e a reconstrução de registos temporários de contacto de colisão geram sucessivos `new`/`delete`. O *flow field* estável não executa uma pesquisa global por inimigo em cada frame; é construído uma vez e só é regenerado quando o mapa ou o destino partilhado o exige. Nathan separa a atividade de preparação/reinício do trabalho do ciclo normal de movimento.
+- **Solução:** Desenha uma *object pool* de capacidade fixa para registos de entidades e contactos temporários de colisão, pré-alocando-os na preparação do nível. Durante o gameplay, as entidades reutilizam os seus registos e os contactos usam um buffer limitado; a pool deteta e reporta falta de capacidade em vez de corromper memória ou crescer silenciosamente. Isto reduz churn do alocador nos ciclos de criação/remoção e reinício, sem fingir que o *flow field* precisa de reconstrução a cada frame.
 
 ### 04 de Novembro (Quarta-feira) — Paralelo com *En Garde*
 - **Evento familiar lembrado da série anterior:** Manny participa na competição de esgrima e a família celebra o seu sucesso desportivo temporário.
