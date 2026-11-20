@@ -29,7 +29,7 @@ Com as férias de Natal a aproximar-se, Nathan trabalha na atualização v1.1 do
 ## Persistent threads
 
 ### A — Nathan / Jogo v1.1 (Trama Principal)
-O jogo atingiu 500 descargas acumuladas até 06 de dezembro e uma média de 4.8 estrelas na App Store. Os jogadores pedem mais variedade no comportamento dos inimigos. Nathan programa um modelo de forças combinadas (separação, alinhamento e coesão) em cima do *flow field*, otimizado para o processador ARM do iPhone 3GS.
+Até 06 de dezembro, o iTunes Connect regista 500 descargas acumuladas; a página da App Store apresenta uma média de 4.8 estrelas, embora a dimensão da amostra de avaliações ainda tenha de ser fixada na versão final. Alguns jogadores pedem mais variedade no comportamento dos inimigos. Nathan começa a desenhar uma atualização com forças combinadas (separação, alinhamento e coesão) sobre o *flow field*, tendo em conta o orçamento do processador ARM do iPhone 3GS.
 
 ### B — Nathan + Alex (Subtrama Relacional)
 O último dia letivo antes da pausa de inverno (18 de dezembro). Alex prepara-se para duas semanas de convivência intensa com a desordem dos Dunphys. Nathan entrega-lhe a edição rara das palestras de Feynman de capa vermelha [PROP-006], comprada na loja de alfarrabista de Westwood, desvalorizando o preço para não a constranger. O impacto emocional em Alex consolida a cumplicidade mútua.
@@ -50,7 +50,7 @@ Primeiro Natal em Los Angeles sem a chuva e o frio constante de Seattle. Cliffor
 ### 08 de Dezembro (Terça-feira) — A Telemetria e o Algoritmo de Steering
 - **Contexto:** Quarto de Nathan, final de tarde. As estatísticas do iTunes Connect mostram 620 descargas acumuladas.
 - **Desenvolvimento:** Nathan estuda os algoritmos de Craig Reynolds de 1987 (*boids*). O desafio: como fazer trinta agentes voarem em esquadrilha sem que o cálculo de distância $O(n^2)$ sature a CPU de 600 MHz.
-- **Implementação:** Integração de uma grelha espacial de particionamento (*spatial hash*) onde cada agente só verifica vizinhos na sua célula imediata de 32x32 píxeis.
+- **Implementação:** Reutiliza a grelha espacial uniforme `SpatialGrid` construída no EP03 para a fase ampla da deteção de colisões. A estrutura atualiza a pertença dos agentes às células antes dos cálculos de steering; para um raio de perceção até 32 píxeis, cada agente consulta a sua célula e as oito adjacentes. Não é criada uma segunda estrutura de `spatial hash`. A grelha reduz os candidatos na distribuição habitual, mas não elimina o pior caso quadrático se quase todos os agentes se acumularem na mesma célula.
 
 ### 09 de Dezembro (Quarta-feira) — Paralelo com *Undeck the Halls*
 - **Evento familiar lembrado da série anterior:** A crise do sofá queimado por uma ponta de cigarro na casa dos Dunphy; Phil e Claire ameaçam cancelar o Natal.
@@ -110,9 +110,9 @@ Primeiro Natal em Los Angeles sem a chuva e o frio constante de Seattle. Cliffor
 ## Alterações de Estado Persistente (Anti-Filler)
 
 1. **Relação Alex & Nathan em Novo Patamar Afetivo:** A oferta do volume de Feynman consolida uma intimidade única: Alex passa a comunicar informalmente por mensagens escritas fora do horário escolar.
-2. **Ciclo Completo dos Personagens Canon Concluído:** Todos os núcleos da família alargada (Dunphys nucleares: Phil, Claire, Alex, Luke, Haley; Pritchetts: Jay, Manny, Mitchell, Cameron) já tiveram pelo menos um encontro direto, individualizado e orgânico com Nathan.
+2. **Introduções dos Núcleos Canon até ao EP06:** Nathan já teve encontros individuais registados com Phil, Claire, Alex, Luke, Haley, Jay, Manny, Mitchell e Cameron. Gloria continua sem primeiro encontro direto até ao EP07, como previsto no mapa de introduções; o ciclo completo de contactos ainda não está concluído.
 3. **Parceria Desportiva Fortalecida com Maxwell:** Maxwell Whitaker deixa de ser um mero concorrente e passa a ser um companheiro de treino leal que partilha as suas vulnerabilidades.
-4. **Motor Gráfico v1.1 Preparado:** O algoritmo de *spatial hash* e inteligência artificial de bando (*boids*) fica pronto para submissão à Apple no início de janeiro.
+4. **Motor Gráfico v1.1 Preparado:** A grelha `SpatialGrid` existente passa também a servir as consultas de vizinhança para os comportamentos de bando (*boids*). A atualização fica preparada para submissão à Apple no início de janeiro; a data de aprovação e publicação terá de ser registada no EP07.
 
 ---
 
