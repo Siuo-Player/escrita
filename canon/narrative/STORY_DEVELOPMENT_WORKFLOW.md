@@ -244,3 +244,26 @@ Before adding an original character, consult [the Character Naming Standard](CHA
 ## Global architecture, linear causality and backpropagation
 
 Follow [Narrative Architecture and Causal Drafting Method](NARRATIVE_AND_CAUSAL_METHOD.md) together with the [Decision Log](../DECISION_LOG.md). Plan the whole series recursively from beginning/end to midpoint and finer anchors; then build the story's lived state forward in chronological order, scene by scene, with causes, choices, outcomes and persistent state changes. After an episode or season, trace promised outcomes backward to identify missing prerequisites, then re-read forward to catch regressions. Randomize only among constrained, reasonable candidates when a choice is underdetermined; record the pool, seed, validation and dependencies. Do not let random draws overrule canon, causal constraints or explicit author choices.
+
+
+## Narrative quality and agency gate
+
+Use the [Narrative Quality and Character Agency Standard](NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md) as a required review gate, alongside chronology, causality, dialogue and foreknowledge checks.
+
+### Antes de redigir
+
+- Complete ou atualize a ficha de agência das personagens diretamente afetadas.
+- Identifique os objetivos independentes de Alex, Haley e das restantes personagens canon envolvidas.
+- Verifique se Nathan está a receber uma sequência artificial de elogios ou a resolver problemas fora da sua competência.
+- Confirme que cada trama tem objetivo, obstáculo, escolha e consequência; a quota mínima de linhas não substitui substância.
+- Especifique como as tramas se cruzam causalmente e quem paga o custo de cada decisão.
+
+### Depois de redigir
+
+- Faça uma passagem dedicada à agência: quem decide, quem recusa, quem discorda e quem tem razão?
+- Procure cenas em que Alex ou Haley existem apenas para apoiar, corrigir ou curar Nathan.
+- Verifique se as famílias mantêm relações e conflitos independentes do protagonista.
+- Verifique se a tecnologia cria compromissos e consequências, não apenas uma sucessão de conquistas.
+- Registe consequências que persistem e atualize as dependências narrativas.
+
+Os testes automatizados protegem a existência deste processo e os seus contratos determinísticos. Não certificam qualidade literária, voz, humor, naturalidade ou credibilidade emocional; isso exige revisão humana.

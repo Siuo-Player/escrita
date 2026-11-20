@@ -7,7 +7,8 @@
 
 Status: AUTHORITATIVE SEASON ARCHITECTURE  
 Regra de Ouro: No Fillers, >= 3 tramas por episódio (1 principal + >= 2 secundárias com outros personagens).  
-Metodologia: Dual-Track (Top-Down estrutural + Linear causal cena-a-cena + Backpropagation de pistas).
+Metodologia: Dual-Track (Top-Down estrutural + Linear causal cena-a-cena + Backpropagation de pistas).  
+Padrão obrigatório de caracterização: [NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md](NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md). Os primeiros contactos não formam uma **escada de elogios**: cada personagem mantém reações próprias, incluindo fricção, indiferença, desconfiança, humor ou desacordo.
 
 **Regra do universo paralelo:** os títulos de episódios da série que Nathan viu na vida anterior são etiquetas de referência para acontecimentos vividos por pessoas reais neste mundo. As datas correspondentes são âncoras iniciais, não datas de transmissão nem um guião fixo. A presença de Nathan pode alterar a ordem, o momento, as decisões e as consequências; as divergências acumulam-se. Consultar `WORLD_DIFFERENCE_REGISTRY.md` antes de alterar qualquer premissa.
 
@@ -27,16 +28,16 @@ Metodologia: Dual-Track (Top-Down estrutural + Linear causal cena-a-cena + Backp
 
 Para respeitar a regra de **não apresentar personagens todos juntos de forma artificial**, os contactos são espaçados, causais e têm impacto permanente:
 
-1. **Alex Dunphy:** **18 de Setembro de 2009 (EP01)** — Na escola, motivado pelo manual de cálculo avançado que Alex repara que Nathan possui. Estabelece a ligação intelectual.
-2. **Phil Dunphy:** **28 de Setembro de 2009 (EP01)** — Na vizinhança durante um jogging de Phil, que repara no alinhamento métrico das passadas de Nathan e tenta conversar com entusiasmo exuberante.
-3. **Maxwell Whitaker (Colega Original):** **03 de Outubro de 2009 (EP02)** — No primeiro treino conjunto de futebol. Estabelece a competição desportiva respeitosa.
-4. **Claire Dunphy:** **10 de Outubro de 2009 (EP02)** — No supermercado local, onde Nathan ajuda polidamente Claire a retirar produtos pesados de uma prateleira alta; Claire comenta em casa a boa educação do rapaz novo.
-5. **Luke Dunphy:** **22 de Outubro de 2009 (EP03)** — No parque desportivo; a bola de treino de Nathan passa a vedação e Luke tenta devolvê-la com uma engenhoca caseira desastrada, originando cumplicidade.
-6. **Haley Dunphy:** **29 de Outubro de 2009 (EP03)** — À porta de casa dos Dunphys, quando Nathan vai devolver um objeto e Haley o atende apressada antes de uma saída com amigos, tratando-o inicialmente como "o miúdo nerd amigo da Alex".
-7. **Jay Pritchett:** **11 de Novembro de 2009 (EP04)** — Numa loja de ferragens e ferramentas em Santa Monica; Nathan escolhe parafusos e perfis metálicos para a sua bancada de trabalho e Jay elogia a seleção prática sem preciosismos modernos.
-8. **Manny Delgado:** **01 de Dezembro de 2009 (EP05)** — Na secção de xadrez da biblioteca municipal; debate breve sobre aberturas táticas que surpreende Manny.
-9. **Cameron Tucker e Mitchell Pritchett:** **19 de Dezembro de 2009 (EP06)** — Na feira de árvores de Natal do bairro; pequeno incidente cómico com a escolha da árvore onde Nathan dá assistência calma.
-10. **Gloria Delgado-Pritchett:** **Janeiro de 2010 (EP07)** — Numa paragem de autocarro escolar com Manny após um jogo de futebol; Gloria elogia o porte atlético e a gentileza de Nathan.
+1. **Alex Dunphy:** **18 de Setembro de 2009 (EP01)** — O manual de cálculo oferece um motivo para conversar, mas Alex questiona a escolha e a abordagem de Nathan; ele não responde a tudo com facilidade. A curiosidade é mútua, mas não existe admiração ou amizade instantânea.
+2. **Phil Dunphy:** **28 de Setembro de 2009 (EP01)** — Na vizinhança durante um jogging de Phil, que comenta o ritmo de Nathan e tenta conversar com entusiasmo. Nathan sente alguma dificuldade em acompanhar a espontaneidade de Phil; a conversa termina num pequeno desencontro, deixando espaço para aproximações posteriores.
+3. **Maxwell Whitaker (Colega Original):** **03 de Outubro de 2009 (EP02)** — No primeiro treino conjunto de futebol. A competição é respeitosa, mas começa com uma disputa real por espaço e tempo de jogo; ambos têm motivos para não confiar imediatamente um no outro.
+4. **Claire Dunphy:** **10 de Outubro de 2009 (EP02)** — No supermercado local, Nathan oferece ajuda com produtos numa prateleira alta. Claire agradece, mas mantém a cautela normal perante um adolescente desconhecido e faz perguntas práticas sobre a família e a escola; não o transforma imediatamente num exemplo de boa influência.
+5. **Luke Dunphy:** **22 de Outubro de 2009 (EP03)** — No parque desportivo; a bola passa a vedação e Luke tenta devolvê-la com uma engenhoca caseira que falha de forma cómica. Nathan considera a solução imprudente; Luke acha-o demasiado sério. A curiosidade surge da tentativa conjunta de perceber o que correu mal, não de uma admiração imediata.
+6. **Haley Dunphy:** **29 de Outubro de 2009 (EP03)** — À porta de casa dos Dunphys, quando Nathan vai devolver um objeto e Haley o atende apressada antes de sair com amigos. Trata-o como "o miúdo nerd amigo da Alex" e continua com os próprios planos; a indiferença inicial é legítima e não precisa de ser convertida em simpatia.
+7. **Jay Pritchett:** **11 de Novembro de 2009 (EP04)** — Numa loja de ferragens e ferramentas em Santa Monica; Nathan escolhe fixações para a bancada, mas identifica mal uma medida ou subestima a carga. Jay corrige-o sem cerimónia e explica a diferença entre uma escolha que parece certa e uma que aguenta peso; o respeito, se surgir, é gradual.
+8. **Manny Delgado:** **01 de Dezembro de 2009 (EP05)** — Na secção de xadrez da biblioteca municipal; discutem uma abertura e chegam a uma divergência tática. Manny identifica uma possibilidade que Nathan não tinha considerado; nenhum dos dois precisa de vencer a conversa para a interação ter valor.
+9. **Cameron Tucker e Mitchell Pritchett:** **19 de Dezembro de 2009 (EP06)** — Na feira de árvores de Natal do bairro, um desacordo prático entre Mitchell e Cam torna a escolha da árvore mais confusa. Nathan tenta ajudar, mas interpreta mal o que cada um pretende e acaba por aumentar a confusão antes de perceber que não lhe cabe resolver a discussão do casal.
+10. **Gloria Delgado-Pritchett:** **Janeiro de 2010 (EP07)** — Numa paragem de autocarro escolar com Manny após um jogo de futebol. Gloria brinca com o estado enlameado do equipamento e quer perceber quem é o rapaz que tem passado tempo com o filho; o primeiro contacto é protetor, vivo e um pouco interrogativo, sem elogios automáticos ao físico ou à personalidade de Nathan.
 
 ---
 
@@ -78,16 +79,16 @@ Para respeitar a regra de **não apresentar personagens todos juntos de forma ar
 - **Trama Principal (A):** Perfilagem agressiva de consumo de memória RAM sob iOS 3.1; eliminação de memory leaks em C++ para aprovação na Apple.
 - **Subtrama 1 (B - Alex em Casa de Nathan):** Primeira vez que Alex estuda na casa dos Callahan; ela vê a disciplina de trabalho de Nathan e os gráficos matemáticos [CLUE-002].
 - **Subtrama 2 (C - Jay Pritchett & Bricolagem):** Encontro na loja de ferramentas (11/11); Jay aconselha Nathan sobre fixações sólidas para a secretária e comenta o valor do trabalho manual.
-- **Subtrama 3 (D - Phil & Tecnologia):** Phil pede ajuda rápida para calibrar um comando universal; Nathan resolve o problema em dois minutos, ganhando admiração de Phil.
+- **Subtrama 3 (D - Phil & Tecnologia):** Phil pede ajuda para calibrar um comando universal. Nathan interpreta mal o modelo e a primeira tentativa falha; a familiaridade de Phil com o aparelho e a persistência dos dois acabam por resolver o problema, sem transformar Phil num espectador da competência de Nathan.
 - **Eventos familiares lembrados da série anterior:** *En Garde* (04/11) e *Great Expectations* (18/11).
-- **Alteração de Estado Persistente:** Candidatura do jogo enviada para a App Store; relação de respeito direto estabelecida com Phil e Jay.
+- **Alteração de Estado Persistente:** Candidatura do jogo enviada para a App Store; Nathan e Jay têm uma primeira conversa prática com desacordo e correção, enquanto Phil e Nathan descobrem que podem colaborar sem que um tenha de admirar ou seguir o outro.
 
 ---
 
 ### EP05 — "Launch Trajectory and Hospital Ice" (19 Novembro – 05 Dezembro 2009)
 - **Trama Principal (A):** Lançamento oficial do jogo na App Store; acompanhamento da curva de descargas e leitura dos primeiros comentários técnicos de utilizadores reais.
 - **Subtrama 1 (B - Fizbo e Consequências de Luke):** O aniversário caótico de Luke com Fizbo; Nathan ajuda discretamente Luke com apoio prático no pós-incidente hospitalar.
-- **Subtrama 2 (C - Alex & Desabafo de Isolamento):** Pela primeira vez, Alex desabafa com Nathan sobre o cansaço de ser a única pessoa que se preocupa com o futuro na casa dela.
+- **Subtrama 2 (C - Alex & Desabafo de Isolamento):** Alex fala com Nathan sobre o cansaço de sentir que é a única pessoa que se preocupa com o futuro em casa. Nathan ouve, mas não resolve o problema; Alex decide também como abordar a situação com a família e que limites quer estabelecer. A confiança entre os dois cresce sem tornar Nathan a sua única fonte de apoio.
 - **Subtrama 3 (D - Ação de Graças Callahan & Manny):** O primeiro feriado com a família estabelecida; Nathan cruza-se com Manny na biblioteca (01/12) e discutem táticas de xadrez.
 - **Eventos familiares lembrados da série anterior:** *Fizbo* (25/11).
 - **Alteração de Estado Persistente:** Nathan obtém os primeiros rendimentos comerciais próprios; Alex confia emocionalmente em Nathan para temas pessoais.
@@ -100,17 +101,17 @@ Para respeitar a regra de **não apresentar personagens todos juntos de forma ar
 - **Subtrama 2 (C - Competição Desportiva de Inverno):** Maxwell e Nathan treinam no intervalo letivo; Maxwell confessa o receio de perder a titularidade no próximo semestre.
 - **Subtrama 3 (D - Consoada dos Callahan):** Adaptação calorosa da família à tradição de Natal sem neve nem chuva de Seattle.
 - **Eventos familiares lembrados da série anterior:** *Undeck the Halls* (09/12).
-- **Alteração de Estado Persistente:** Todos os personagens nucleares da família alargada Dunphy/Pritchett já têm primeiro contacto consolidado com Nathan.
+- **Alteração de Estado Persistente:** Os contactos com Luke, Haley, Jay, Manny, Mitchell e Cam já têm consequências iniciais, mas não existe um ciclo de introduções universalmente concluído. Gloria continua prevista para o primeiro contacto no EP07.
 
 ---
 
 ### EP07 — "January Bootstraps and Bus Stops" (04–28 Janeiro 2010)
 - **Trama Principal (A):** Lançamento da v1.1 do jogo na App Store com *steering behaviors*; Steve Jobs anuncia o iPad original a 27 de janeiro, abrindo um novo horizonte para interfaces táteis de grande formato.
 - **Subtrama 1 (B - Nathan & Alex):** Regresso às aulas após as férias; Alex partilha notas sobre a leitura do livro de Feynman; sintonia intelectual consolidada no início do segundo semestre.
-- **Subtrama 2 (C - Gloria Delgado-Pritchett & Manny):** Primeiro encontro com Gloria numa paragem de autocarro após um jogo de treino de futebol; Gloria elogia a compostura e cavalheirismo de Nathan perante Manny.
+- **Subtrama 2 (C - Gloria Delgado-Pritchett & Manny):** Primeiro encontro com Gloria numa paragem de autocarro após um jogo de treino de futebol. Gloria protege Manny com humor e perguntas diretas; Manny tem de explicar por que razão está a conversar com Nathan. Gloria forma a sua própria primeira impressão, que não tem de ser inteiramente positiva.
 - **Subtrama 3 (D - Maxwell & Futebol):** Torneio de abertura da época de inverno; consolidação da parceria tática com Maxwell na defesa e meio-campo.
 - **Eventos familiares lembrados da série anterior:** *Up All Night* (06/01), *Not in My House* (13/01) e *Fifteen Percent* (20/01).
-- **Alteração de Estado Persistente:** Gloria integrada no círculo de personagens conhecidos; primeiro contacto com o ecossistema do futuro iPad.
+- **Alteração de Estado Persistente:** Gloria passa a conhecer Nathan, mas a relação ainda é superficial e sujeita a novas impressões. O interesse de Manny por Nathan não obriga Gloria a partilhar a mesma opinião; o iPad permanece um horizonte tecnológico separado.
 
 ---
 
@@ -137,10 +138,10 @@ Para respeitar a regra de **não apresentar personagens todos juntos de forma ar
 ### EP10 — "Game Changers and Form Factors" (26 Março – 20 Abril 2010)
 - **Trama Principal (A):** Lançamento comercial do iPad nos EUA (03 de abril); a família avalia a aquisição de uma unidade para Nathan testar o chip Apple A4. A compra depende de uma decisão explícita de Clifford e Heather sobre a utilização dos recebimentos da v1.0, que são geridos através da conta adulta de Clifford; não se presume que a Apple tenha transferido automaticamente receitas para Nathan.
 - **Subtrama 1 (B - Phil Dunphy e a Fila do iPad):** Phil tenta desesperadamente conseguir um iPad para o seu aniversário (*Game Changer*); Nathan cruza-se com Phil e Claire no centro comercial e auxilia discretamente na logística.
-- **Subtrama 2 (C - Alex & Pressão Pré-Exames):** Primeiros simulacros de exames finais; Nathan ajuda Alex a descomprimir através de pausas obrigatórias de corrida e caminhada.
-- **Subtrama 3 (D - Claire Dunphy & Heather Callahan / Reunião Comunitária):** Claire Dunphy e Heather Callahan conversam durante uma assembleia de moradores de Cheviot Hills, comentando a impressionante maturidade e influência positiva de Nathan sobre Alex e Luke.
+- **Subtrama 2 (C - Alex & Pressão Pré-Exames):** Primeiros simulacros de exames finais. Nathan sugere pausas de corrida e caminhada, mas Alex decide se as aceita e define os próprios métodos de estudo; a preocupação dele não lhe dá autoridade para gerir a rotina dela.
+- **Subtrama 3 (D - Claire Dunphy & Heather Callahan / Reunião Comunitária):** Claire Dunphy e Heather Callahan conversam durante uma assembleia de moradores de Cheviot Hills. A conversa começa com preocupações diferentes sobre autonomia adolescente, supervisão e limites; podem reconhecer atos concretos de Nathan sem concluir que a influência dele sobre Alex e Luke é sempre positiva.
 - **Eventos familiares lembrados da série anterior:** *Game Changer* (31/03) e *Benched* (14/04).
-- **Alteração de Estado Persistente:** Reconhecimento explícito por parte de Claire da importância da presença de Nathan na órbita dos filhos.
+- **Alteração de Estado Persistente:** Claire e Heather passam a compreender melhor as posições parentais uma da outra, sem consenso absoluto sobre a proximidade entre Nathan e os filhos. A relação de Claire com Nathan permanece em construção.
 
 ---
 

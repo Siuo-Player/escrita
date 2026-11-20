@@ -58,10 +58,10 @@ When the timeline diverges, previously remembered knowledge should lose certaint
 ## Character integrity
 
 Canon characters may develop differently because circumstances changed, but their choices should
-still emerge from recognizable motives, habits, fears, strengths, contradictions, and relationships.
+still emerge from recognizable motives, habits, fears, strengths, contradictions, personalities, and relationships.
 
 Avoid changing a character's personality just to make the protagonist's preferred pairing or plot
-easier.
+easier. Apply the [Narrative Quality and Character Agency Standard](narrative/NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md): Alex, Haley and the ensemble must retain objectives, choices and relationships independent of Nathan.
 
 ## Episode test
 
@@ -92,3 +92,16 @@ Occasional secondary POVs are allowed when they reveal consequences, misundersta
 the protagonist genuinely cannot observe.
 
 POV changes must earn their place; they are not decoration.
+
+
+## Agency and narrative-quality gate
+
+Before outlining a major arc, use the [Narrative Quality and Character Agency Standard](narrative/NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md) to complete a character-agency check for everyone materially affected.
+
+At minimum, establish:
+- what each person wants independently of Nathan;
+- what the person can decide, refuse, misunderstand or get wrong;
+- which relationships and obligations exist outside the protagonist;
+- what the person loses or has to repair after a consequential choice.
+
+Alex's and Haley's independent trajectories are mandatory design concerns, not optional subplots. The Dunphy/Pritchett/Tucker family must also retain scenes and conflicts that would still matter if Nathan were absent.
