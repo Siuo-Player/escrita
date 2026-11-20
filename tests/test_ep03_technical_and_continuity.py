@@ -99,6 +99,39 @@ class TestEpisode3TechnicalAndSourceContinuity(unittest.TestCase):
         self.assertIn("estante", row.lower())
         self.assertNotIn("montra", row.lower())
 
+    def test_clue_001_background_glint_is_dramatized_before_luke_recovers_it(self):
+        interlude = between(
+            self.draft,
+            "### Director's Cut 1 — October 16, 2009",
+            "### Scene 2 — October 19, 2009",
+        )
+        self.assertIn("Luke", interlude)
+        self.assertRegex(interlude.lower(), r"brass|compass")
+        self.assertRegex(interlude.lower(), r"glint|gleam|metallic")
+        recovery = between(
+            self.draft,
+            "### Scene 4 — October 22, 2009",
+            "### Director's Cut 2 — October 22, 2009",
+        )
+        self.assertIn("last Friday", recovery)
+
+    def test_clue_002_background_presence_matches_the_october_4_planning_beat(self):
+        registry = (
+            ROOT / "canon" / "narrative" / "PROP_AND_CLUE_REGISTRY.md"
+        ).read_text(encoding="utf-8")
+        row = next(
+            line for line in registry.splitlines()
+            if "**CLUE-002**" in line
+        )
+        self.assertIn("EP02 (04/10)", row)
+        self.assertIn("planeamento semanal de Nathan", row)
+        self.assertNotIn("Alex vê", row)
+        outline = (
+            ROOT / "episodes" / "season-1" / "EP02_FINISH_THE_GAME_OUTLINE.md"
+        ).read_text(encoding="utf-8")
+        scene = between(outline, "#### Scene 10 — Nathan", "### 5 October")
+        self.assertIn("grid notebook", scene.lower())
+
     def test_scene_two_seeds_the_feynman_book_discovery(self):
         scene = between(
             self.draft,
