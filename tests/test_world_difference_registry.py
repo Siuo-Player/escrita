@@ -178,12 +178,13 @@ class TestWorldDifferenceRegistry(unittest.TestCase):
         outlines = sorted((REPO_ROOT / "episodes").rglob("*_OUTLINE.md"))
         for path in outlines:
             content = path.read_text(encoding="utf-8")
-            with self.subTest(path=path.relative_to(REPO_ROOT)):
-                self.assertNotIn(
-                    "Modern Family AU",
-                    content,
-                    "Usa-se 'Modern Family AU' sem distinguir série lembrada de pessoas reais no mundo paralelo.",
-                )
+            for forbidden_label in ("Modern Family AU", "Canon AU"):
+                with self.subTest(path=path.relative_to(REPO_ROOT), label=forbidden_label):
+                    self.assertNotIn(
+                        forbidden_label,
+                        content,
+                        f"Usa-se {forbidden_label!r} sem distinguir série lembrada de pessoas reais no mundo paralelo.",
+                    )
 
     def test_readme_identifies_the_parallel_world_registry(self):
         readme = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
