@@ -103,7 +103,7 @@ class TestNarrativeQualityContracts(unittest.TestCase):
         self.assertIn("DEC-016", self.decision_log)
         self.assertIn("NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md", self.decision_log)
         self.assertIn("PROJECT-WIDE NARRATIVE QUALITY STANDARD", self.decision_log)
-        self.assertIn("não acrescenta factos diegéticos", self.decision_log.lower())
+        self.assertIn("not a new diegetic fact", self.decision_log.lower())
 
     def test_automated_tests_do_not_claim_to_measure_subjective_literary_quality(self):
         self.assertIn("não conseguem avaliar", self.standard.lower())
