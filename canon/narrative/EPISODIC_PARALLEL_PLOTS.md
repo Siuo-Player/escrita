@@ -1,5 +1,8 @@
 # Episodic Parallel Plot and World-Liveliness Rules
 
+<!-- WD-001 -->
+<!-- WD-004 -->
+
 Status: ESTABLISHED / reusable narrative rule
 Updated: 2026-10-08
 
@@ -12,22 +15,26 @@ causal thread, but other characters continue pursuing their own goals when he is
 
 The reader should feel that the world would keep moving if Nathan walked out of the scene.
 
-## Canon non-interference rule
+## Remembered-series event non-interference rule
 
-When a *Modern Family* event has no natural reason to involve Nathan, **do not invent a connection just
-to let him participate**.
+When a family event Nathan remembers from the *Modern Family* television series in his previous life has no
+natural reason to involve him, **do not invent a connection just to let him participate**.
+
+The series titles are planning labels for real events involving real people in the parallel world. They are
+not broadcasts or scripted scenes in this timeline. The remembered series chronology is an initial reference,
+not a schedule that the parallel world must obey after Nathan's presence begins changing events.
 
 Use one of two treatments:
 
-**Parallel treatment:** show the canon family thread directly from the relevant character's point of view,
+**Parallel treatment:** show the lived family event directly from the relevant character's point of view,
 while Nathan is living his own day elsewhere.
 
-**Consequence treatment:** do not show the event itself from Nathan's side; show Nathan encountering a
-natural consequence afterward when their lives cross.
+**Consequence treatment:** do not force Nathan into the event; show him encountering a natural consequence
+afterward when their lives cross.
 
-The choice depends on narrative value. If the original event is interesting in its own right, show it in
-parallel. If watching it would merely duplicate the original episode, skip most of it and let a consequence
-reach Nathan later.
+The choice depends on narrative value. If the lived family event is interesting in its own right, show it
+in parallel. If showing it would merely repeat what Nathan remembers from the source series, skip most of it
+and let a consequence reach Nathan later.
 
 Nathan may sometimes know what is happening because of his memory of the series, but knowledge is not the
 same thing as physical presence. His awareness should not be used as an excuse to insert him into scenes
@@ -217,17 +224,18 @@ Possible recurring beats:
 - one parent worries that Nathan is adapting too easily while actually noticing that he is carrying more
   change than he admits.
 
-This gives the family something to do besides reacting to *Modern Family*.
+This gives the Callahan family something to do besides reacting to the neighbours or to Nathan's presence.
 
-### F. Modern Family AU threads
+### F. Family events remembered from the previous-life series
 
-Two real Season 1 episodes fall naturally inside the period:
+Two sets of real family events fall naturally inside this period and correspond to episodes Nathan remembers
+from the source series in his previous life:
 
 - **7 October — "Come Fly with Me"**
 - **14 October — "The Incident"**
 
-The canon stories can run mostly on their own. Nathan may intersect the edges through Alex, Haley, Claire or
-the neighborhood, but he does not need to solve or hijack them.
+These family events can run independently of Nathan. He may intersect their edges through Alex, Haley, Claire
+or the neighbourhood, but he does not need to solve or take over them.
 
 The AU effect should appear in small changes:
 
