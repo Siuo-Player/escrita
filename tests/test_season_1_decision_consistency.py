@@ -112,6 +112,9 @@ class TestSeasonOneDecisionConsistency(unittest.TestCase):
         self.assertIn("STORY_DECISIONS_TO_MAKE.md", self.register)
         self.assertIn("EVENT_REGISTRY.md", self.register)
         self.assertIn("Coverage status: partial", self.register)
+        decisions = (ROOT / "canon/DECISION_LOG.md").read_text(encoding="utf-8")
+        self.assertIn("DEC-013", decisions)
+        self.assertIn("DEC-014", decisions)
 
 
 if __name__ == "__main__":
