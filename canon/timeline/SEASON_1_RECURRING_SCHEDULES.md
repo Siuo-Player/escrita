@@ -1,5 +1,7 @@
 # Season 1 Recurring Schedules — School, Work, Training and Weekly Habits
 
+<!-- WD-001 -->
+
 Status: WORKING / continuity reference
 Updated: 2026-10-08
 
@@ -11,7 +13,10 @@ They are not scene lists. A character can be doing something else when an episod
 should have a reason.
 
 Exact times are mostly **CREATED/WORKING** for this fanfic. They are chosen to be plausible for Southern
-California in 2009. When a detail is directly supported by *Modern Family* canon, it is marked as CANON.
+California in 2009. When a detail is directly supported by the *Modern Family* source series Nathan remembers
+from his previous life, it is marked as CANON. This label describes the remembered source material; it does
+not mean the series is broadcast or produced in the parallel world. The lived people and events remain real
+within this story's timeline.
 
 The purpose is to make encounters happen because people actually share geography and time, rather than because
 the outline needs them to meet.
