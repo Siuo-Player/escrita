@@ -49,7 +49,7 @@ he finishes ordinary work.
 
 Status: CREATED / plausible baseline.
 
-Nathan is in **8th grade**; Alex is in **7th grade**. They attend the same middle-school campus but are not
+Nathan is in **8th grade**; Alex is in **7th grade**. At the end of 2009–10, Nathan moves to High School and Alex to 8th grade; they do not graduate middle school together. They attend the same middle-school campus but are not
 in the same homeroom or most of the same core classes.
 
 Reference point: real LAUSD middle-school schedules commonly occupy approximately the **8:00–3:00** range;
