@@ -142,6 +142,49 @@ class TestWorldDifferenceRegistry(unittest.TestCase):
                         f"{path.relative_to(REPO_ROOT)} não referencia a regra global {entry_id}.",
                     )
 
+    def test_supporting_planning_documents_reference_the_global_world_rules(self):
+        required_markers = {
+            "canon/STORY_DECISIONS_TO_MAKE.md": {"WD-001", "WD-002", "WD-004"},
+            "canon/narrative/EPISODIC_PARALLEL_PLOTS.md": {"WD-001", "WD-004"},
+            "canon/narrative/SEASON_1_ARC_PLAN.md": {"WD-001", "WD-004"},
+            "canon/narrative/SERIES_GLOBAL_ARCHITECTURE.md": {"WD-001", "WD-004"},
+            "canon/narrative/STORY_DEVELOPMENT_WORKFLOW.md": {"WD-001", "WD-004"},
+            "canon/timeline/SEASON_1_OPENING_PLOT_BANK.md": {"WD-001", "WD-004"},
+            "canon/timeline/SEASON_1_RECURRING_SCHEDULES.md": {"WD-001"},
+        }
+        for relative_path, expected_ids in required_markers.items():
+            content = (REPO_ROOT / relative_path).read_text(encoding="utf-8")
+            for entry_id in expected_ids:
+                with self.subTest(path=relative_path, entry=entry_id):
+                    self.assertIn(
+                        f"<!-- {entry_id} -->",
+                        content,
+                        f"{relative_path} não referencia a regra global {entry_id}.",
+                    )
+
+    def test_story_decisions_do_not_treat_the_pilot_broadcast_as_a_parallel_world_event(self):
+        content = (REPO_ROOT / "canon" / "STORY_DECISIONS_TO_MAKE.md").read_text(encoding="utf-8")
+        forbidden_phrases = (
+            "The Modern Family pilot aired on",
+            "The pilot's broadcast date is",
+            "its in-universe events are kept on that date",
+            "the pilot's broadcast date",
+        )
+        for phrase in forbidden_phrases:
+            with self.subTest(phrase=phrase):
+                self.assertNotIn(phrase.lower(), content.lower())
+
+    def test_episode_outlines_do_not_use_the_unqualified_modern_family_au_shortcut(self):
+        outlines = sorted((REPO_ROOT / "episodes").rglob("*_OUTLINE.md"))
+        for path in outlines:
+            content = path.read_text(encoding="utf-8")
+            with self.subTest(path=path.relative_to(REPO_ROOT)):
+                self.assertNotIn(
+                    "Modern Family AU",
+                    content,
+                    "Usa-se 'Modern Family AU' sem distinguir série lembrada de pessoas reais no mundo paralelo.",
+                )
+
     def test_readme_identifies_the_parallel_world_registry(self):
         readme = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
         self.assertIn("WORLD_DIFFERENCE_REGISTRY.md", readme)
