@@ -9,6 +9,8 @@ Status: AUTHORITATIVE SEASON ARCHITECTURE
 Regra de Ouro: No Fillers, >= 3 tramas por episódio (1 principal + >= 2 secundárias com outros personagens).  
 Metodologia: Dual-Track (Top-Down estrutural + Linear causal cena-a-cena + Backpropagation de pistas).
 
+**Regra do universo paralelo:** os títulos de episódios da série que Nathan viu na vida anterior são etiquetas de referência para acontecimentos vividos por pessoas reais neste mundo. As datas correspondentes são âncoras iniciais, não datas de transmissão nem um guião fixo. A presença de Nathan pode alterar a ordem, o momento, as decisões e as consequências; as divergências acumulam-se. Consultar `WORLD_DIFFERENCE_REGISTRY.md` antes de alterar qualquer premissa.
+
 ---
 
 ## 1. Visão Geral da Temporada 1
@@ -17,7 +19,7 @@ Metodologia: Dual-Track (Top-Down estrutural + Linear causal cena-a-cena + Backp
 - **Arco Nathan & Alex:** Evolução estritamente gradual (*slow burn*) de observação tímida a respeito intelectual mútuo, culminando numa amizade íntima e sólida no final do ano letivo.
 - **Arco da Família Callahan:** Consolidação da vida na Califórnia, compra definitiva de casa após o arrendamento inicial, equilíbrio das carreiras dos pais com o crescimento de Nathan.
 - **Arco Desportivo / Social:** Parceria e rivalidade competitiva saudável com Maxwell Whitaker na equipa de futebol.
-- **Universo Canon em Paralelo:** Os acontecimentos da 1ª Temporada de *Modern Family* decorrem cronologicamente, com Nathan a cruzar-se organicamente com cada elemento da família em situações distintas e não forçadas.
+- **Vidas da família Dunphy/Pritchett/Tucker:** Os acontecimentos correspondentes à 1.ª temporada da série que Nathan recorda na vida anterior servem como referências iniciais. As famílias são reais no mundo paralelo e seguem vidas próprias; as interseções com Nathan têm de surgir naturalmente e os acontecimentos podem divergir cumulativamente.
 
 ---
 
@@ -45,7 +47,7 @@ Para respeitar a regra de **não apresentar personagens todos juntos de forma ar
 - **Subtrama 1 (B - Família Callahan):** Clifford anuncia a promoção no jantar do 13º aniversário de Nathan; Heather gere a logística acelerada e arrendamento temporário.
 - **Subtrama 2 (C - Escola & Alex):** Nathan entra na nova escola a 16/09; Alex aborda-o a 18/09 sobre o livro de cálculo.
 - **Subtrama 3 (D - Futebol):** Despedida da equipa de Seattle; primeiro treino de adaptação no relvado californiano.
-- **Canon Paralelo:** *Pilot* (23/09) e *The Bicycle Thief* (30/09).
+- **Eventos familiares lembrados da série anterior:** *Pilot* (23/09) e *The Bicycle Thief* (30/09).
 - **Alteração de Estado Persistente:** Nathan transferido para Los Angeles; Alex reconhecida como primeira ligação escolar; motor de jogo inicial migrado para ambiente portátil.
 - **Adereços/Pistas Semeadas:** MacBook Pro de aniversário [PROP-001]; Manual de Cálculo [PROP-002]; Bola de treino [PROP-003].
 
