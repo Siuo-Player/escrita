@@ -135,10 +135,10 @@ Para respeitar a regra de **não apresentar personagens todos juntos de forma ar
 ---
 
 ### EP10 — "Game Changers and Form Factors" (26 Março – 20 Abril 2010)
-- **Trama Principal (A):** Lançamento comercial do iPad nos EUA (03 de abril); Nathan adquire uma unidade com as receitas das vendas da v1.0 para testes de desempenho do chip Apple A4.
+- **Trama Principal (A):** Lançamento comercial do iPad nos EUA (03 de abril); a família avalia a aquisição de uma unidade para Nathan testar o chip Apple A4. A compra depende de uma decisão explícita de Clifford e Heather sobre a utilização dos recebimentos da v1.0, que são geridos através da conta adulta de Clifford; não se presume que a Apple tenha transferido automaticamente receitas para Nathan.
 - **Subtrama 1 (B - Phil Dunphy e a Fila do iPad):** Phil tenta desesperadamente conseguir um iPad para o seu aniversário (*Game Changer*); Nathan cruza-se com Phil e Claire no centro comercial e auxilia discretamente na logística.
 - **Subtrama 2 (C - Alex & Pressão Pré-Exames):** Primeiros simulacros de exames finais; Nathan ajuda Alex a descomprimir através de pausas obrigatórias de corrida e caminhada.
-- **Subtrama 3 (D - Claire Callahan / Reunião Comunitária):** Claire Dunphy e Heather Callahan conversam durante uma assembleia de moradores de Cheviot Hills, comentando a impressionante maturidade e influência positiva de Nathan sobre Alex e Luke.
+- **Subtrama 3 (D - Claire Dunphy & Heather Callahan / Reunião Comunitária):** Claire Dunphy e Heather Callahan conversam durante uma assembleia de moradores de Cheviot Hills, comentando a impressionante maturidade e influência positiva de Nathan sobre Alex e Luke.
 - **Eventos familiares lembrados da série anterior:** *Game Changer* (31/03) e *Benched* (14/04).
 - **Alteração de Estado Persistente:** Reconhecimento explícito por parte de Claire da importância da presença de Nathan na órbita dos filhos.
 
