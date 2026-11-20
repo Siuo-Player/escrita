@@ -400,7 +400,7 @@ He stepped out of the alcove, thanked the clerk at the register, and pushed open
 
 ### Scene 6 — October 28, 2009 (Wednesday): The Morning Run and Phil Dunphy
 
-Wednesday dawn broke crisp and cool over Cheviot Hills, a bank of coastal fog hovering low over the western horizon toward Santa Monica. There was no matching scene in the television series Nathan remembered from his previous life; Phil and Claire's run this morning was simply an original, everyday event in the parallel world's timeline.
+Wednesday dawn broke crisp and cool over Cheviot Hills, a bank of coastal fog hovering low over the western horizon toward Santa Monica. There was no matching scene in the television series Nathan remembered from his previous life; Phil and Claire's run this morning was an original parallel-world event, not part of the plot Nathan remembers under *Run for Your Wife*. The episode's 28 October broadcast date in his previous life did not make this ordinary run a remembered scene.
 
 At 06:45, Nathan was on the second mile of his morning conditioning circuit, running north along the broad residential avenue shaded by towering sycamores and flowering magnolias. His footfalls were virtually silent on the concrete, his breathing rhythmic: three strides per inhalation, three strides per exhalation.
 
