@@ -84,6 +84,40 @@ Nathan rested his chin on his knuckles, his blue eyes softening as the tension i
 
 Down the hallway, the floorboards creaked as his mother walked past to start the laundry. Outside, the Southern California twilight settled over Cheviot Hills in long streaks of indigo and amber. Nathan closed the laptop lid to sleep mode, set his pen neatly across his notebook, and went downstairs to help set the table for dinner.
 
+
+---
+
+### Director's Cut 1 — October 16, 2009 (Friday Afternoon): The Glint by the Fence
+
+Luke Dunphy rode his bicycle along the pedestrian path at Rancho Park, pedaling with one knee angled outward because the chain still clicked whenever he shifted into the highest gear.
+
+He was supposed to be heading home. His mother had asked him to be back before dinner, and he had already spent twenty minutes trying to convince himself that the storm drain beside the baseball diamond was a secret tunnel entrance.
+
+Then something flashed in the ivy.
+
+Luke squeezed both brake levers. The front tire skidded sideways across a patch of dry leaves, and he put one sneaker down to keep the bicycle upright.
+
+The glint came from the roots beneath the low hedge, a few feet from the weathered bench where people left water bottles and tied their shoes. Luke crouched and pushed two leaves aside with a twig.
+
+A small brass compass lay half-hidden in the dirt.
+
+It had a round glass face, a dark leather cord, and a needle that trembled when he tilted the casing. The thing looked old enough to have belonged to a ship captain or a spy in one of Dad's movies.
+
+Luke glanced up and down the path.
+
+— Hello? — he called, quietly at first, then louder. — Did somebody lose an explorer thing?
+
+Nobody answered. A jogger passed at the far end of the path without looking over.
+
+Luke could have picked it up. The little compass would fit in the metal box beneath his treehouse cushion, right beside the shark tooth and the batteries that still might work. But it looked like something somebody would actually miss, not like a bottle cap or a broken toy.
+
+He pushed the leaves back around its edge, leaving the brass rim visible.
+
+— I'll remember where you are, — he told it. — Unless I forget. Which I won't.
+
+He took a moment to study the bench, the split in the nearby tree trunk, and the crooked section of fence. Then he climbed back onto his bicycle and rode home, looking over his shoulder once before the path curved out of sight.
+
+
 ---
 
 ### Scene 2 — October 19, 2009 (Monday): The Grid Notebook and the Library Table
@@ -272,7 +306,7 @@ Luke considered this for two seconds, deeply impressed by the mechanical diagnos
 
 Luke let the rubber tubing go slack and picked up the soccer ball with both hands.
 
-— Anyway, you got lucky, — Luke said, digging into the deep side pocket of his baggy cargo shorts. — When your ball flew over the fence, it hit that thick ivy bush over there. And when I went in to get it, I found this stuck in the roots right next to the park bench.
+— Anyway, you got lucky, — Luke said, digging into the deep side pocket of his baggy cargo shorts. — I saw this brass thing shining in those roots when I rode past last Friday. I left it where it was because I thought somebody might come back for it. Then your ball hit the same bush, and I remembered.
 
 Luke held out his hand.
 
@@ -306,7 +340,7 @@ Luke grinned, gave an exaggerated, two-fingered military salute, and went boundi
 
 ---
 
-### Director's Cut 1 — October 22, 2009 (Thursday Evening): The Treehouse Bureau of Investigation
+### Director's Cut 2 — October 22, 2009 (Thursday Evening): The Treehouse Bureau of Investigation
 
 Up in the crown of the old camphor tree in the Dunphy backyard, the wooden floorboards of Luke's treehouse creaked under the weight of three milk crates and a vintage Coleman battery lantern.
 
@@ -496,7 +530,7 @@ Haley watched his back for three seconds before putting the pink Razr back to he
 
 ---
 
-### Director's Cut 2 — October 29, 2009 (Thursday Night): Haley's Bedroom
+### Director's Cut 3 — October 29, 2009 (Thursday Night): Haley's Bedroom
 
 Upstairs on the second floor, the smell of strawberry body spray and drying nail polish filled Haley Dunphy’s bedroom.
 
