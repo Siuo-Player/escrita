@@ -189,6 +189,17 @@ Teachers should not repeatedly tell the reader that Nathan is a genius. Their re
 an extra question, a harder problem, a raised eyebrow, an invitation to explain, or a quiet comment after
 class.
 
+## End of the 2009–10 school year
+
+The board-approved LAUSD 2009–10 single-track calendar lists **24 June 2010** as the last day of instruction and **25 June** as a pupil-free day. A contemporaneous administrators' update from April 2010 reports later revisions with **18 June** as the final instructional day for traditional-calendar schools, or **21 June** for schools that had selected 8 February as a pupil-free day. The exact campus/calendar variant attended by Nathan and Alex is not yet fixed. Therefore:
+
+- EP11 (ending 20 May) cannot contain their final year-end results or school transition.
+- EP12 must continue beyond the final instructional day applicable to their school; its current working window is 21 May–25 June 2010.
+- Place Nathan's 8th-grade completion and Alex's 7th-grade completion/advance to 8th grade only after that day. Do not invent an exact ceremony date until the school calendar variant is established.
+- Treat the official board-approved 24 June date as the baseline for a single-track school, while preserving the reported revision discrepancy as an unresolved scheduling detail.
+
+Sources: [LAUSD, Single Track Instructional School Calendar 2009–2010 (Board Approved 13 January 2009)](https://www.lausd.net/pdf/Single09-10.pdf); [Associated Administrators of Los Angeles, revised 2009–10 calendar update, 12 April 2010](https://aala.us/docs/2011/09/20100412-update-3.pdf).
+
 ## Football continuity
 
 Nathan is an experienced youth football player and **captain of his team** before the move.
