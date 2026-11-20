@@ -40,8 +40,8 @@ Primeiro encontro no feriado do Veterans Day (11 de novembro) numa loja tradicio
 ### D — Nathan + Phil Dunphy (Subtrama de Vizinhança)
 Phil passa um fim de tarde frustrado a tentar emparelhar um comando universal infravermelho e calibrar o receptor de som surround da sala dos Dunphys. Nathan, a caminho de casa após um treino, identifica o conflito de frequência em dois minutos e ajuda Phil a manter o orgulho intacto perante Claire.
 
-### E — Modern Family AU em Paralelo
-*En Garde* (04 de novembro - esgrima de Manny) e *Great Expectations* (18 de novembro - o aniversário de casamento de Phil e Claire com a convidada surpresa) decorrem paralelamente, ancorando a cronologia no universo canónico.
+### E — Eventos familiares lembrados por Nathan da série anterior
+Os acontecimentos vividos pelas famílias que Nathan recorda sob os títulos *En Garde* (04 de novembro — esgrima de Manny) e *Great Expectations* (18 de novembro — aniversário de casamento de Phil e Claire com uma convidada surpresa) decorrem no mundo paralelo. Os títulos são etiquetas da memória de Nathan; não designam transmissões, e os acontecimentos podem divergir em função das escolhas já feitas neste mundo.
 
 ---
 
