@@ -6,7 +6,7 @@
 
 Status: WORKING
 Purpose: decisions needed before building the first durable episode/arc.
-Updated: 2026-10-08
+Updated: 2026-11-20
 
 The list is ordered by dependency. We do not need to decide every detail immediately. Resolved items
 are recorded so they are not asked again.
@@ -91,7 +91,7 @@ can diverge cumulatively. See `canon/narrative/WORLD_DIFFERENCE_REGISTRY.md`.
 
 19. **Season 1 continuity spine:** a reusable school/football/programming rhythm is fixed for the first
     season. Nathan is in 8th grade and Alex in 7th, allowing natural school interaction while preserving
-    Alex's later middle-school graduation. The default rhythm is programming on Monday/Wednesday/Friday,
+    their one-grade separation. At the end of the 2009–10 year, Nathan completes 8th grade and enters High School; Alex completes 7th grade and enters 8th grade. They do not graduate from middle school together. The default rhythm is programming on Monday/Wednesday/Friday,
     football training Tuesday/Thursday, a Saturday match, and lighter planning/programming on Sunday.
     Classroom scenes should reveal intelligence and personality through teacher interactions rather than
     repeated praise. The opening period includes Nathan's birthday on 7 September, his distant observations of Alex after the
@@ -162,10 +162,9 @@ establish first impressions of several of them without turning Nathan into a par
 family-reunion sequence.
 
 ### 10. Opening-week canon intersection
-**Working:** use ordinary neighborhood/school/activity encounters to establish first impressions before
-that date anchor. Candidate first contacts are Alex at school, Claire and Phil as nearby adults, and Luke or
-another family member through sport/neighborhood life. At least four family members should know Nathan by
-that initial date anchor without making him artificially central to those family events.
+**Working goal, currently unresolved:** at least four family members of the Dunphy/Pritchett/Tucker households should know Nathan by the 23 September 2009 *Pilot*-memory date anchor, without making him artificially central to the family's own events.
+
+**UNRESOLVED CONFLICT (2026-11-20):** the current first-contact map and `EVENT_REGISTRY.md` only establish Alex's direct school contact on 18 September before the 23 September anchor. Phil's first encounter is dated 28 September, Claire's 10 October, and Luke's 22 October. The current EP01 draft does not stage three additional introductions before 23 September. The target is therefore **not satisfied** by the current draft. Do not claim otherwise or move encounters silently. A later planning pass must either (a) create credible, low-pressure move/neighbourhood encounters before 23 September and register them, or (b) explicitly revise the four-contact target. No choice between those options is recorded yet.
 
 ### 11. Canon changes and intervention priorities
 **Policy established; specific first-year opportunities require a dated canon audit.** Use `canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md` to separate certainty about remembered events from certainty about the altered timeline, rank the potential harm, assess Nathan's access and credibility, and choose the smallest plausible action. Nathan actively tries to prevent serious harm, but Episode 1–2 must not gain a manufactured crisis or place him in canon scenes without a credible reason. Once his action changes a causal condition, follow the consequence honestly. The remaining task is to map first-year canon events and identify only the opportunities that pass the feasibility test.
