@@ -56,7 +56,7 @@ class TestEpisode3TechnicalAndSourceContinuity(unittest.TestCase):
         scene = between(
             self.draft,
             "### Scene 4 — October 22, 2009",
-            "### Director's Cut 1 — October 22, 2009",
+            "### Director's Cut 2 — October 22, 2009",
         )
         self.assertIn("pulls back on the fork", scene)
         self.assertNotIn("ball has more mass than the wooden handle", scene)
