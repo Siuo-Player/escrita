@@ -34,7 +34,7 @@ An assistant suggestion or a detail that appears in a draft does not become auth
 
 Authoritative sources: `WORLD_DIFFERENCE_REGISTRY.md` (WD-001–WD-004), `EVENT_REGISTRY.md`, `CALLAHAN_FAMILY.md`.
 
-## 2. Decisions recorded in DEC-001–DEC-014
+## 2. Decisions recorded in DEC-001–DEC-015
 
 | ID | Decision | Current status |
 |---|---|---|
@@ -52,6 +52,7 @@ Authoritative sources: `WORLD_DIFFERENCE_REGISTRY.md` (WD-001–WD-004), `EVENT_
 | DEC-012 | The game milestones are 15 Oct internal vertical slice, 18 Nov Apple submission by Clifford, 3 Dec App Store public release. | ESTABLISHED CHRONOLOGY RECONCILIATION |
 | DEC-013 | The EP04 pool reduces entity/contact allocation churn; flow-field navigation is not globally recomputed for every enemy every frame. | TECHNICAL/NARRATIVE CONSISTENCY |
 | DEC-014 | Thirty boids are an initial demo (435 pair checks/frame); the 200-agent case is the scale test (19,900 pairs/frame). | TECHNICAL/NARRATIVE CONSISTENCY |
+| DEC-015 | Final grade results and different school transitions occur after the last instructional day, in EP12 rather than EP11. | ESTABLISHED CHRONOLOGY CORRECTION |
 
 The authoritative provenance, alternatives and dependency notes for each item remain in `DECISION_LOG.md`. Do not downgrade or upgrade the statuses shown there.
 
@@ -134,7 +135,7 @@ Sources: DEC-005/006/008/009/010, `EPISODIC_PARALLEL_PLOTS.md`, `MODERN_PROSE_AN
 
 ## 9. Season 1 architecture and current delivery status
 
-Season 1 is planned to cover **7 September 2009–20 June 2010** in twelve episodes.
+Season 1 is planned to cover **7 September 2009–25 June 2010** in twelve episodes, allowing the final episode to cover the end of the 2009–10 school year and the transition into summer.
 
 | Episode | Story window | Current repository state | Prose word count (approx.) |
 |---|---|---|---:|
@@ -144,7 +145,7 @@ Season 1 is planned to cover **7 September 2009–20 June 2010** in twelve episo
 | EP04 — Memory Profiles and Hardware Limits | 1–18 Nov 2009 | Expanded outline; no prose draft | — |
 | EP05 — Launch Trajectory and Hospital Ice | 19 Nov–5 Dec 2009 | Expanded outline; no prose draft | — |
 | EP06 — Winter Constants and Pine Resins | 6–25 Dec 2009 | Expanded outline; no prose draft | — |
-| EP07–EP12 | 4 Jan–20 Jun 2010 | Present as episode summaries in the season arc plan; no individual outlines/drafts on main | — |
+| EP07–EP12 | 4 Jan–25 Jun 2010 | Present as episode summaries in the season arc plan; no individual outlines/drafts on main | — |
 
 **Status semantics:** “draft exists” does not mean “episode complete”. EP01–EP03 are below the target length; EP03 is explicitly structural. EP04–EP06 have outline material only. EP07–EP12 need detailed episode outlines, event registration and later drafts. Do not mark the season complete until each episode has been developed, cross-checked and reviewed.
 
