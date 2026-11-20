@@ -34,7 +34,7 @@ An assistant suggestion or a detail that appears in a draft does not become auth
 
 Authoritative sources: `WORLD_DIFFERENCE_REGISTRY.md` (WD-001–WD-004), `EVENT_REGISTRY.md`, `CALLAHAN_FAMILY.md`.
 
-## 2. Decisions recorded in DEC-001–DEC-010
+## 2. Decisions recorded in DEC-001–DEC-014
 
 | ID | Decision | Current status |
 |---|---|---|
@@ -48,6 +48,10 @@ Authoritative sources: `WORLD_DIFFERENCE_REGISTRY.md` (WD-001–WD-004), `EVENT_
 | DEC-008 | All novel prose and dialogue are written in **American English**, period-appropriate to the 2009 setting. | USER-LOCKED |
 | DEC-009 | Prose style is modern serialized fiction with theatrical physical staging and viewpoint-sensitive free indirect discourse. | USER-LOCKED |
 | DEC-010 | Episodes use concurrent time-barred plot threads and deliberate editorial/POV cuts; target at least three meaningful threads per episode. | USER-LOCKED |
+| DEC-011 | Nathan remains one school year above Alex; in June 2010 he enters High School while Alex enters 8th grade. | ESTABLISHED DERIVED CONTINUITY |
+| DEC-012 | The game milestones are 15 Oct internal vertical slice, 18 Nov Apple submission by Clifford, 3 Dec App Store public release. | ESTABLISHED CHRONOLOGY RECONCILIATION |
+| DEC-013 | The EP04 pool reduces entity/contact allocation churn; flow-field navigation is not globally recomputed for every enemy every frame. | TECHNICAL/NARRATIVE CONSISTENCY |
+| DEC-014 | Thirty boids are an initial demo (435 pair checks/frame); the 200-agent case is the scale test (19,900 pairs/frame). | TECHNICAL/NARRATIVE CONSISTENCY |
 
 The authoritative provenance, alternatives and dependency notes for each item remain in `DECISION_LOG.md`. Do not downgrade or upgrade the statuses shown there.
 
