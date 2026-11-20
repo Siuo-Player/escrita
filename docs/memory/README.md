@@ -9,6 +9,8 @@ A fonte da verdade da memória do projeto **escrita** é **Markdown versionado e
 - `procedures/` — Procedimentos operacionais padrão (SOPs): execução de testes automáticos de história, introdução de novos personagens, e protocolo de *backpropagation* de pistas.
 - `sessions/` — Diário de bordo de sessões de trabalho com marcos alcançados, decisões tomadas e tarefas pendentes.
 
+Sessão mais recente: [Auditoria global da Temporada 1 e consolidação de decisões — 2026-11-20](sessions/2026-11-20-session-02-season-1-audit-and-decision-consolidation.md).
+
 ## Regras Fundamentais
 
 1. **Continuidade Causal Primeiro:** Toda a mudança de estado, relacionamento ou objeto no universo da história deve ter causa rastreável.
