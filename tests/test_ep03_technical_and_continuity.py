@@ -22,9 +22,9 @@ class TestEpisode3TechnicalAndSourceContinuity(unittest.TestCase):
         cls.draft = DRAFT_PATH.read_text(encoding="utf-8")
 
     def test_pairwise_collision_rate_uses_seconds_not_minutes(self):
-        self.assertIn("1.2 million", self.draft)
-        self.assertRegex(self.draft, r"1\.2 million[^.\n]*per second")
-        self.assertNotRegex(self.draft, r"1\.2 million[^.\n]*per minute")
+        self.assertIn("1.194 million", self.draft)
+        self.assertRegex(self.draft, r"1\.194 million[^.\n]*every second")
+        self.assertNotRegex(self.draft, r"1\.194 million[^.\n]*per minute")
 
     def test_cortex_a8_is_not_described_as_lacking_vector_simd_hardware(self):
         self.assertIn("NEON", self.draft)
@@ -49,11 +49,17 @@ class TestEpisode3TechnicalAndSourceContinuity(unittest.TestCase):
             "### Scene 6 — October 28, 2009",
             "### Scene 7 — October 29, 2009",
         )
-        self.assertRegex(
-            scene,
-            r"(?i)(?:not|isn't) (?:a scene|part) from .*Run for Your Wife|"
-            r"original (?:parallel-world|neighbourhood) event",
+        self.assertIn("original parallel-world event", scene)
+        self.assertIn("not part of the plot Nathan remembers under *Run for Your Wife*", scene)
+
+    def test_slingshot_recoil_explanation_uses_the_reaction_force_correctly(self):
+        scene = between(
+            self.draft,
+            "### Scene 4 — October 22, 2009",
+            "### Director's Cut 1 — October 22, 2009",
         )
+        self.assertIn("pulls back on the fork", scene)
+        self.assertNotIn("ball has more mass than the wooden handle", scene)
 
     def test_running_advice_does_not_repeat_the_lactic_acid_pooling_myth(self):
         self.assertNotIn("before the lactic acid pools", self.draft)
