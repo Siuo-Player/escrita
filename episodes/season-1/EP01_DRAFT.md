@@ -195,7 +195,7 @@ Inside the case, nestled in die-cut gray foam, lay a pristine black handheld dev
 
 Nathan picked up the device. The glass was cool against his fingers. It weighed precisely one hundred and thirty-five grams.
 
-— But that isn't two-hundred-and-fifty-six megabytes for the game, — he said, turning the phone once in his hand. — The system and its services need memory too. The amount an app can use depends on what else is running. I'll measure the actual build instead of guessing a fixed heap from the spec sheet.
+— But that isn't two-hundred-and-fifty-six megabytes for the game, — he said, turning the phone once in his hand. — The system and its services need memory too. Available memory for an app depends on what else is running. I'll measure the actual build instead of guessing a fixed heap from the spec sheet.
 
 — That's the engineering mindset, — Clifford agreed, tapping Nathan's shoulder. — School starts tomorrow at eight-fifteen. Bus route is printed on the fridge. Lights out by eleven.
 
