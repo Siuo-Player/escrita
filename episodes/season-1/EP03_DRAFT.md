@@ -120,38 +120,6 @@ He took a moment to study the bench, the split in the nearby tree trunk, and the
 
 ---
 
-### Director's Cut 1 — October 16, 2009 (Friday Afternoon): The Glint by the Fence
-
-Luke Dunphy rode his bicycle along the pedestrian path at Rancho Park, pedaling with one knee angled outward because the chain still clicked whenever he shifted into the highest gear.
-
-He was supposed to be heading home. His mother had asked him to be back before dinner, and he had already spent twenty minutes trying to convince himself that the storm drain beside the baseball diamond was a secret tunnel entrance.
-
-Then something flashed in the ivy.
-
-Luke squeezed both brake levers. The front tire skidded sideways across a patch of dry leaves, and he put one sneaker down to keep the bicycle upright.
-
-The glint came from the roots beneath the low hedge, a few feet from the weathered bench where people left water bottles and tied their shoes. Luke crouched and pushed two leaves aside with a twig.
-
-A small brass compass lay half-hidden in the dirt.
-
-It had a round glass face, a dark leather cord, and a needle that trembled when he tilted the casing. The thing looked old enough to have belonged to a ship captain or a spy in one of Dad's movies.
-
-Luke glanced up and down the path.
-
-— Hello? — he called, quietly at first, then louder. — Did somebody lose an explorer thing?
-
-Nobody answered. A jogger passed at the far end of the path without looking over.
-
-Luke could have picked it up. The little compass would fit in the metal box beneath his treehouse cushion, right beside the shark tooth and the batteries that still might work. But it looked like something somebody would actually miss, not like a bottle cap or a broken toy.
-
-He pushed the leaves back around its edge, leaving the brass rim visible.
-
-— I'll remember where you are, — he told it. — Unless I forget. Which I won't.
-
-He took a moment to study the bench, the split in the nearby tree trunk, and the crooked section of fence. Then he climbed back onto his bicycle and rode home, looking over his shoulder once before the path curved out of sight.
-
----
-
 ### Scene 2 — October 19, 2009 (Monday): The Grid Notebook and the Library Table
 
 By three-twenty on Monday afternoon, the school library was a sanctuary of filtered air and muted fluorescent hum.
