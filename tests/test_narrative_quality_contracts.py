@@ -69,8 +69,8 @@ class TestNarrativeQualityContracts(unittest.TestCase):
 
     def test_existing_story_scope_links_to_the_new_standard(self):
         self.assertIn("NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md", self.scope)
-        self.assertIn("objetivos", self.scope.lower())
-        self.assertIn("personalidade", self.scope.lower())
+        self.assertIn("goals", self.scope.lower())
+        self.assertIn("personality", self.scope.lower())
 
     def test_writing_workflow_makes_agency_review_a_required_gate(self):
         self.assertIn("NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md", self.workflow)
