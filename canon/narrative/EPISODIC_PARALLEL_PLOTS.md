@@ -59,11 +59,11 @@ A typical episode should contain several threads chosen from:
    - teacher/mentor relationships;
    - another recurring relationship.
 
-3. **Family / Modern Family AU thread**
-   - a canon episode or altered version of one;
-   - family members doing something that would matter even if Nathan were absent;
+3. **Family event thread remembered from the previous-life series**
+   - a lived family event corresponding to something Nathan remembers from the source series, including an event already altered in this timeline;
+   - family members pursuing goals that matter even if Nathan is absent;
    - a consequence created by Nathan's existence;
-   - occasionally a full family POV sequence with no Nathan present.
+   - occasionally a full family point-of-view sequence with no Nathan present.
 
 4. **Independent life thread**
    - school;
