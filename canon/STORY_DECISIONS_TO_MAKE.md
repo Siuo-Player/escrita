@@ -96,11 +96,11 @@ can diverge cumulatively. See `canon/narrative/WORLD_DIFFERENCE_REGISTRY.md`.
     Classroom scenes should reveal intelligence and personality through teacher interactions rather than
     repeated praise. The opening period includes Nathan's birthday on 7 September, his distant observations of Alex after the
     16 September school transfer, a practical first interaction initiated by Alex on 18 September, and a
-    pilot-parallel programming scene on 23 September. Full reusable schedule: `canon/timeline/SEASON_1_CONTINUITY.md`.
+    programming scene parallel to the remembered family events on 23 September. Full reusable schedule: `canon/timeline/SEASON_1_CONTINUITY.md`.
 
 20. **Parallel-plot rule:** every episode should contain several simultaneously existing threads rather than
     a single plot plus filler. The normal mix is Nathan's immediate POV/life, family life and/or a *Modern
-    Family* AU canon thread, relationship development, school/football or another recurring life thread, and
+    Family* remembered-family-events thread, relationship development, school/football or another recurring life thread, and
     one or more background threads carried by other characters. Threads may intersect, but they do not have
     to. Some should only appear briefly because the world continues when Nathan is not present.
 21. **Persistent world / prop continuity:** recurring objects, household purchases, school materials, sports
