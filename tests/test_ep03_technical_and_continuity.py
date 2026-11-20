@@ -58,16 +58,27 @@ class TestEpisode3TechnicalAndSourceContinuity(unittest.TestCase):
     def test_running_advice_does_not_repeat_the_lactic_acid_pooling_myth(self):
         self.assertNotIn("before the lactic acid pools", self.draft)
 
-    def test_old_compass_is_not_found_in_the_wrong_family_member_memory(self):
+    def test_library_scene_occurs_after_the_published_school_day(self):
         scene = between(
             self.draft,
+            "### Scene 2 — October 19, 2009",
             "### Scene 3 — October 21, 2009",
-            "## MOVEMENT II:",
         )
-        self.assertNotIn(
-            "Gloria jumping into the swimming pool",
-            scene,
+        self.assertIn("3:24 p.m.", scene)
+        self.assertIn("after-school", scene.lower())
+
+    def test_rental_dialogue_does_not_assign_property_tax_reassessment_to_the_tenant(self):
+        self.assertNotIn("county assessor", self.draft)
+        self.assertNotIn("property tax reassessment on the rental", self.draft)
+
+    def test_scene_two_seeds_the_feynman_book_discovery(self):
+        scene = between(
+            self.draft,
+            "### Scene 2 — October 19, 2009",
+            "### Scene 3 — October 21, 2009",
         )
+        self.assertIn("Feynman", scene)
+        self.assertIn("municipal library", scene)
 
 
 if __name__ == "__main__":
