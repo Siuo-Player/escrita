@@ -146,15 +146,15 @@ Para respeitar a regra de **não apresentar personagens todos juntos de forma ar
 
 ### EP11 — "Final Whistles and Island Departures" (21 Abril – 20 Maio 2010)
 - **Trama Principal (A):** Final da liga distrital de futebol; jogo tenso onde a coordenação entre Maxwell Whitaker e Nathan assegura a vitória da escola.
-- **Subtrama 1 (B - Alex & O Topo da Pauta):** Divulgação dos resultados finais dos respetivos anos: Nathan conclui o 8.º ano com distinção; Alex conclui o 7.º ano e recebe reconhecimento académico no seu próprio ano. A amizade entre ambos é reconhecida sem os colocar na mesma turma ou no mesmo nível escolar.
+- **Subtrama 1 (B - Alex & Pressão dos Exames Finais):** Aproximam-se os exames e os trabalhos finais. Nathan e Alex tentam manter rotinas de estudo sustentáveis sem transformar a amizade numa competição; Alex prepara-se para encerrar o 7.º ano e Nathan para concluir o 8.º. Os resultados e a transição escolar ficam para o EP12, depois do último dia de instrução aplicável.
 - **Subtrama 2 (C - Viagem ao Havai dos Dunphy/Pritchett):** A família parte em bloco para o Havai; Nathan despede-se de Alex antes da partida com tranquilidade.
 - **Subtrama 3 (D - Retrato de Família):** O caos da fotografia familiar pós-regresso (*Family Portrait*); Nathan observa ao longe a resiliência amorosa e barulhenta dos vizinhos.
 - **Eventos familiares lembrados da série anterior:** *Travels with Scout* (28/04), *Airport 2010* (05/05), *Hawaii* (12/05) e *Family Portrait* (19/05).
-- **Alteração de Estado Persistente:** Campeonato de futebol conquistado; Nathan conclui o 8.º ano e prepara a entrada no High School; Alex conclui o 7.º ano e transita para o 8.º ano.
+- **Alteração de Estado Persistente:** Campeonato de futebol conquistado; a viagem ao Havai e os acontecimentos familiares alteram a disponibilidade dos Dunphy/Pritchett; Nathan e Alex mantêm a amizade durante a aproximação dos exames finais. As transições de ano escolar ainda não ocorreram.
 
 ---
 
-### EP12 — "Family Portraits and Summer Horizons" (21 Maio – 20 Junho 2010)
+### EP12 — "Family Portraits and Summer Horizons" (21 Maio – 25 Junho 2010)
 - **Trama Principal (A):** Compilação da edição HD do jogo para iPad; preparação dos estudos autónomos de linguagens de baixo nível e algoritmos para as férias de verão.
 - **Subtrama 1 (B - Nathan & Alex / O Pacto de Verão):** A conclusão do ano letivo marca transições diferentes: Nathan termina a middle school e prepara-se para entrar no High School; Alex termina o 7.º ano e vai frequentar o 8.º. Antes das férias, combinam manter as rotinas de estudo e leitura, ajustadas às novas escolas e horários.
 - **Subtrama 2 (C - Família Callahan / Compra Definitiva):** Clifford e Heather formalizam a compra da moradia em Cheviot Hills; Los Angeles torna-se o lar permanente definitivo da família Callahan.
