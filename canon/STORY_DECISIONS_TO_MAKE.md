@@ -99,8 +99,7 @@ can diverge cumulatively. See `canon/narrative/WORLD_DIFFERENCE_REGISTRY.md`.
     programming scene parallel to the remembered family events on 23 September. Full reusable schedule: `canon/timeline/SEASON_1_CONTINUITY.md`.
 
 20. **Parallel-plot rule:** every episode should contain several simultaneously existing threads rather than
-    a single plot plus filler. The normal mix is Nathan's immediate POV/life, family life and/or a *Modern
-    Family* remembered-family-events thread, relationship development, school/football or another recurring life thread, and
+    a single plot plus filler. The normal mix is Nathan's immediate POV/life, family life and/or a thread based on events Nathan remembers from the *Modern Family* series in his previous life, relationship development, school/football or another recurring life thread, and
     one or more background threads carried by other characters. Threads may intersect, but they do not have
     to. Some should only appear briefly because the world continues when Nathan is not present.
 21. **Persistent world / prop continuity:** recurring objects, household purchases, school materials, sports
@@ -110,9 +109,9 @@ can diverge cumulatively. See `canon/narrative/WORLD_DIFFERENCE_REGISTRY.md`.
     object, but to avoid materializing important recurring things exactly when a scene needs them.
 22. **Episode 2 subplot set:** the game remains the primary technical thread, but Episode 2 also carries a
     meaningful Nathan/Alex relationship progression, Nathan settling into the new school's academic/social
-    environment, football/team integration, and the Callahan family's adjustment to California. On the
-    *Modern Family* side, **Come Fly with Me** (7 October) and **The Incident** (14 October) provide canon
-    AU material; they should intersect Nathan only when his existing life naturally touches them. The episode
+    environment, football/team integration, and the Callahan family's adjustment to California. On the lived family events Nathan remembers under the source-series labels **Come Fly with Me** (7 October) and
+    **The Incident** (14 October) provide parallel material; they should intersect Nathan only when his
+    existing life naturally touches them. The episode
     does not need an invented replacement canon episode.
 
 Detailed protagonist record: canon/characters/NATHAN_CALLAHAN.md.
