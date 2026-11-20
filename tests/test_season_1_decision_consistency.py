@@ -97,6 +97,15 @@ class TestSeasonOneDecisionConsistency(unittest.TestCase):
         self.assertIn("19.900 pares por frame", ep06)
         self.assertIn("não um cenário que por si só demonstre saturação", ep06)
 
+    def test_final_grade_results_are_not_scheduled_before_the_school_year_ends(self):
+        ep11 = self.arc[self.arc.index("### EP11"):self.arc.index("### EP12")]
+        ep12 = self.arc[self.arc.index("### EP12"):]
+        self.assertIn("resultados e a transição escolar ficam para o EP12", ep11)
+        self.assertNotIn("resultados finais dos respetivos anos", ep11)
+        self.assertIn("Nathan termina a middle school", ep12)
+        self.assertIn("Alex termina o 7.º ano", ep12)
+        self.assertIn("21 Maio – 25 Junho 2010", ep12)
+
     def test_ep10_ipad_funding_does_not_assume_proceeds_are_nathans(self):
         ep10 = self.arc[self.arc.index("### EP10"):self.arc.index("### EP11")]
         self.assertIn("decisão explícita de Clifford e Heather", ep10)
@@ -115,6 +124,7 @@ class TestSeasonOneDecisionConsistency(unittest.TestCase):
         decisions = (ROOT / "canon/DECISION_LOG.md").read_text(encoding="utf-8")
         self.assertIn("DEC-013", decisions)
         self.assertIn("DEC-014", decisions)
+        self.assertIn("DEC-015", decisions)
 
 
 if __name__ == "__main__":
