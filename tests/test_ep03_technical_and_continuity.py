@@ -132,6 +132,18 @@ class TestEpisode3TechnicalAndSourceContinuity(unittest.TestCase):
         scene = between(outline, "#### Scene 10 — Nathan", "### 5 October")
         self.assertIn("grid notebook", scene.lower())
 
+    def test_project_readme_lists_the_new_ep03_draft_and_review_test(self):
+        readme = (ROOT / "README.md").read_text(encoding="utf-8")
+        self.assertIn("EP03_DRAFT.md", readme)
+        self.assertIn("test_ep03_technical_and_continuity.py", readme)
+
+    def test_prop_clue_registry_references_parallel_world_date_rules(self):
+        registry = (
+            ROOT / "canon" / "narrative" / "PROP_AND_CLUE_REGISTRY.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("<!-- WD-004 -->", registry)
+        self.assertIn("broadcast dates", registry.lower())
+
     def test_scene_two_seeds_the_feynman_book_discovery(self):
         scene = between(
             self.draft,
