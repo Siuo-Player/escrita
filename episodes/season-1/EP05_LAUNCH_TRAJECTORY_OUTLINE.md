@@ -80,14 +80,14 @@ Os acontecimentos vividos em torno do aniversário de Luke, que Nathan recorda s
 - **Resultado Inicial:** Até ao final do dia 03 de dezembro, 23 descargas orgânicas nos Estados Unidos e Canadá. Até ao final de 04 de dezembro, o total acumulado chega a 140. O produto é real.
 
 ### 04 de Dezembro (Sexta-feira) — O Desabafo de Alex na Bancada do Pátio <!-- EVT-026 | 2009-12-04 | 2009-12-04 -->
-- **Contexto:** Pátio da escola secundária após a última aula de biologia. Chove com pouca intensidade, deixando o cimento húmido.
+- **Contexto:** Pátio da escola secundária após a última aula de ciências. Chove com pouca intensidade, deixando o cimento húmido.
 - **Aproximação:** Alex está sentada debaixo da pala de betão do ginásio, com os joelhos encostados ao peito e as mãos a tremer ligeiramente de frio e cansaço.
 - **Conversa:** Nathan aproxima-se e senta-se na outra ponta do banco, mantendo um espaço respeitoso de um metro.
   - Nathan não faz perguntas intrusivas. Estende-lhe um pacote fechado de lenços de papel e uma garrafa de água mineral selada da mochila.
-  - Alex hesita, aceita o lenço e limpa os óculos embaciados. Pela primeira vez, a sua máscara de arrogância intelectual desfaz-se:
-  - *"Eles nem reparam, Callahan. O Luke parte um braço a fingir que é um duplo de cinema e é o herói da casa. A Haley compra uma saia nova e tem direito a meia hora de conversa ao jantar. Eu passo quatro noites sem dormir para conseguir cem por cento no teste de química orgânica e a minha mãe pergunta se me esqueci de pôr a loiça na máquina."*
+  - Alex hesita, aceita o lenço e limpa os óculos embaciados. Pela primeira vez, a contenção habitual falha e a voz lhe sai menos firme:
+  - *"Eles nem reparam, Callahan. O Luke parte um braço a fingir que é um duplo de cinema e é o herói da casa. A Haley compra uma saia nova e tem direito a meia hora de conversa ao jantar. Passei quase todas as noites esta semana a estudar para o teste de ciências. Tirei cem por cento e a minha mãe perguntou se me tinha esquecido de pôr a loiça na máquina."*
   - Nathan escuta em silêncio absoluto. Não diz *"vai correr tudo bem"* nem tenta relativizar a dor dela.
-  - Quando ela se cala, Nathan olha para o cimento molhado durante alguns segundos antes de responder num tom calmo e direto: *"Custa quando as pessoas só reparam no barulho, Alex. Mas o que tu fizeste naquele teste de química é real. Ninguém na tua casa te pode tirar isso."*
+  - Quando ela se cala, Nathan olha para o cimento molhado durante alguns segundos antes de responder num tom calmo e direto: *"Custa quando as pessoas só reparam no barulho, Alex. Mas o trabalho que fizeste para aquele teste de ciências é real. Ninguém na tua casa te pode tirar isso."*
   - Alex olha para ele através das lentes limpas. Os seus olhos estão vermelhos, mas a postura recompõe-se.
   - *"O teu jogo foi aprovado?"* — pergunta ela, num murmúrio suave.
   - *"Sim. Ontem de manhã."*
@@ -98,7 +98,7 @@ Os acontecimentos vividos em torno do aniversário de Luke, que Nathan recorda s
 ## Alterações de Estado Persistente (Anti-Filler)
 
 1. **Validação Comercial de Nathan:** O jogo está aprovado e disponível na App Store; Nathan passa a ter uma identidade pública de criador de software com utilizadores reais. As vendas são registadas através da conta de developer de Clifford; a forma como os rendimentos chegam a Nathan é uma questão familiar/legal separada, ainda não fixada no cânone.
-2. **Intimidade Emocional Nathan & Alex:** A relação deixa de ser apenas uma camaradagem intelectual nos corredores e passa a ter fundações de apoio emocional e vulnerabilidade mútua. Alex vê Nathan como o único amigo em quem pode confiar sem medo de ser julgada.
+2. **Intimidade Emocional Nathan & Alex:** A relação deixa de ser apenas uma camaradagem intelectual nos corredores e passa a ter fundações de apoio emocional e vulnerabilidade mútua. Alex começa a ver Nathan como um dos poucos colegas com quem pode falar sem que a vulnerabilidade se transforme numa competição ou numa aula.
 3. **Ponte Estabelecida com Manny Delgado:** Primeiro contacto respeitoso e intelectual com Manny na biblioteca pública, sem ligação direta à família Dunphy por enquanto.
 4. **Cumplicidade Protetora com Luke e Phil:** O auxílio no pós-acidente de Fizbo cimenta Nathan perante Phil e Luke como um vizinho de confiança sólida.
 
