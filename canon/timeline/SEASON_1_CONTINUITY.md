@@ -28,7 +28,7 @@ reason.
 - Nathan turns 13 on **Monday, 7 September 2009**.
 - The family events Nathan remembers under the previous-life label *Pilot* are initially anchored to **Wednesday, 23 September 2009**. This is not a broadcast date in the parallel world.
 - Nathan is one school year above Alex.
-- For the opening school year, Nathan is therefore in **8th grade** and Alex in **7th grade**. They share
+- For the opening school year, Nathan is therefore in **8th grade** and Alex in **7th grade**. At the end of the 2009–10 year, Nathan completes 8th grade and enters High School, while Alex completes 7th grade and advances to 8th grade; they do not graduate middle school together. They share
   the same middle-school environment while preserving Alex's later middle-school graduation timing.
 
 The story no longer treats 16–20 September as a separate formal prologue. The actual opening begins on 7
