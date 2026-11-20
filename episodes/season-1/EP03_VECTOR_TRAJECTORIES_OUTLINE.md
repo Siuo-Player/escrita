@@ -40,8 +40,8 @@ Primeiro encontro direto a 22 de outubro no parque desportivo. Luke tenta usar u
 ### D — Callahan Family & Bairro
 Clifford e Heather ajustam-se ao ritmo executivo da Califórnia; preparação do primeiro Halloween numa rua de subúrbio onde a vizinhança leva decorações a sério.
 
-### E — Modern Family AU em Paralelo
-*Coal Digger* (21 de outubro) e *Run for Your Wife* (28 de outubro) decorrem nas suas datas históricas, intersectando Nathan apenas em momentos quotidianos não forçados.
+### E — Eventos familiares lembrados por Nathan da série anterior
+Os acontecimentos vividos pelas famílias que Nathan recorda sob os títulos *Coal Digger* (21 de outubro) e *Run for Your Wife* (28 de outubro) são reais neste mundo. As datas são âncoras iniciais herdadas da sua memória anterior, não datas de transmissão; Nathan só se cruza com esses acontecimentos quando a sua vida lhes dá acesso natural.
 
 ---
 
