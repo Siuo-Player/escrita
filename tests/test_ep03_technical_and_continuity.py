@@ -142,7 +142,7 @@ class TestEpisode3TechnicalAndSourceContinuity(unittest.TestCase):
             ROOT / "canon" / "narrative" / "PROP_AND_CLUE_REGISTRY.md"
         ).read_text(encoding="utf-8")
         self.assertIn("<!-- WD-004 -->", registry)
-        self.assertIn("broadcast dates", registry.lower())
+        self.assertIn("data de transmissão na vida anterior", registry.lower())
 
     def test_scene_two_seeds_the_feynman_book_discovery(self):
         scene = between(
