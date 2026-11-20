@@ -313,6 +313,14 @@ The final result can look fluid without pretending that the phone is solving flu
 
 Aesthetic "current" language can still influence the name and presentation.
 
+## Spatial grid for collision and steering queries
+
+Episode 3 introduces a uniform `SpatialGrid` with 32 × 32 pixel cells as a broad-phase index for collision candidates. Moving agents register their current cell; larger static bounds are registered in every cell they overlap, so a local query cannot miss an obstacle at a cell boundary.
+
+Episode 6 reuses this same grid for steering-neighbour queries. With a perception radius no greater than one cell width (32 pixels), an agent inspects its own cell and the eight adjacent cells, then performs exact distance checks only for those candidates. The grid membership must be updated at a well-defined point in each simulation tick so steering does not rely on stale positions.
+
+This is a reuse and extension of the Episode 3 structure, not a second independent spatial hash. The expected cost is lower when agents are reasonably distributed; a uniform grid does not guarantee linear worst-case behaviour when many agents occupy the same cell. If the steering radius grows beyond 32 pixels, the query must expand to the corresponding ring of cells rather than silently retaining the 3 × 3 search.
+
 ## Approximate size and mobile budget
 
 A conservative working level is a 64 x 64 navigation grid: 4,096 cells.
