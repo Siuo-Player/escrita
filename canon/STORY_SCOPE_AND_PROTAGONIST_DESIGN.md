@@ -58,7 +58,7 @@ When the timeline diverges, previously remembered knowledge should lose certaint
 ## Character integrity
 
 Canon characters may develop differently because circumstances changed, but their choices should
-still emerge from recognizable motives, habits, fears, strengths, contradictions, and relationships.
+still emerge from recognizable motives, habits, fears, strengths, contradictions, personalities, and relationships.
 
 Avoid changing a character's personality just to make the protagonist's preferred pairing or plot
 easier. Apply the [Narrative Quality and Character Agency Standard](narrative/NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md): Alex, Haley and the ensemble must retain objectives, choices and relationships independent of Nathan.
