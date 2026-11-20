@@ -67,8 +67,8 @@ can diverge cumulatively. See `canon/narrative/WORLD_DIFFERENCE_REGISTRY.md`.
 12. **Backpropagation:** later events must leave earlier traces. Pregnancy in particular needs a believable
     chain of prior adult relationship milestones, conception timing, subtle symptoms and earlier details
     that become meaningful in hindsight.
-13. **Canon parallelism:** Nathan does not need to participate in canon episodes merely because they are
-    happening at the same time. Those lived family events can unfold in parallel and be referenced through thoughts,
+13. **Parallel family events:** Nathan does not need to participate in every lived family event merely because
+    it corresponds to something he remembers from the source series. Those events can unfold in parallel and be referenced through thoughts,
     conversations or later consequences; those references should themselves create divergence rather than
     become episode recaps.
 14. **Narration:** primarily Nathan's viewpoint, with occasional fluid access to nearby characters'
@@ -109,7 +109,7 @@ can diverge cumulatively. See `canon/narrative/WORLD_DIFFERENCE_REGISTRY.md`.
     object, but to avoid materializing important recurring things exactly when a scene needs them.
 22. **Episode 2 subplot set:** the game remains the primary technical thread, but Episode 2 also carries a
     meaningful Nathan/Alex relationship progression, Nathan settling into the new school's academic/social
-    environment, football/team integration, and the Callahan family's adjustment to California. On the lived family events Nathan remembers under the source-series labels **Come Fly with Me** (7 October) and
+    environment, football/team integration, and the Callahan family's adjustment to California. The family events Nathan remembers under the source-series labels **Come Fly with Me** (7 October) and
     **The Incident** (14 October) provide parallel material; they should intersect Nathan only when his
     existing life naturally touches them. The episode
     does not need an invented replacement canon episode.
