@@ -77,6 +77,28 @@ class TestEpisode3TechnicalAndSourceContinuity(unittest.TestCase):
         self.assertNotIn("county assessor", self.draft)
         self.assertNotIn("property tax reassessment on the rental", self.draft)
 
+    def test_clue_002_payoff_date_matches_the_ep03_library_scene(self):
+        registry = (
+            ROOT / "canon" / "narrative" / "PROP_AND_CLUE_REGISTRY.md"
+        ).read_text(encoding="utf-8")
+        row = next(
+            line for line in registry.splitlines()
+            if "**CLUE-002**" in line
+        )
+        self.assertIn("EP03 (19/10/2009)", row)
+        self.assertNotIn("EP03 (10/10)", row)
+
+    def test_prop_006_location_matches_the_interior_bookshelf_in_ep03(self):
+        registry = (
+            ROOT / "canon" / "narrative" / "PROP_AND_CLUE_REGISTRY.md"
+        ).read_text(encoding="utf-8")
+        row = next(
+            line for line in registry.splitlines()
+            if "**PROP-006**" in line
+        )
+        self.assertIn("estante", row.lower())
+        self.assertNotIn("montra", row.lower())
+
     def test_scene_two_seeds_the_feynman_book_discovery(self):
         scene = between(
             self.draft,
