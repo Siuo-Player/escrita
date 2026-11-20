@@ -1,5 +1,7 @@
 # Season 1 Recurring Schedules — School, Work, Training and Weekly Habits
 
+<!-- WD-004 -->
+
 <!-- WD-001 -->
 
 Status: WORKING / continuity reference
