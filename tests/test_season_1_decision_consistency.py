@@ -82,6 +82,17 @@ class TestSeasonOneDecisionConsistency(unittest.TestCase):
         self.assertIn("gloria", self.ep06_outline.lower())
         self.assertIn("ep07", self.ep06_outline.lower())
 
+
+    def test_ep10_ipad_funding_does_not_assume_proceeds_are_nathans(self):
+        ep10 = self.arc[self.arc.index("### EP10"):self.arc.index("### EP11")]
+        self.assertIn("decisão explícita de Clifford e Heather", ep10)
+        self.assertNotIn("Nathan adquire uma unidade com as receitas", ep10)
+
+    def test_ep10_callahan_typo_does_not_rename_claire_dunphy(self):
+        ep10 = self.arc[self.arc.index("### EP10"):self.arc.index("### EP11")]
+        self.assertIn("Claire Dunphy & Heather Callahan", ep10)
+        self.assertNotIn("Claire Callahan", ep10)
+
     def test_season_status_register_points_to_the_existing_decision_authority(self):
         self.assertIn("DECISION_LOG.md", self.register)
         self.assertIn("STORY_DECISIONS_TO_MAKE.md", self.register)
