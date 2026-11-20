@@ -315,10 +315,12 @@ day-by-day diary.
 
 ## Nathan's first game — compressed development calendar
 
-The complete development now runs from **7 September to approximately 15 October 2009**: about **39 days
-(5½ weeks)**. It is deliberately faster than the earlier 7–8 week plan because Nathan already knows what he
-wants to build, has strong C++ skills, uses an existing 2D framework and has no major failure besides the
-A* → flow-field redesign.
+The first playable vertical slice reaches an internal milestone by **15 October 2009**, after about **39 days
+(5½ weeks)** of focused development. This is a playable vertical slice, not a public release. Nathan continues to add
+physics, collision handling, memory profiling and polish; Clifford submits v1.0 to Apple on 18 November,
+and the App Store makes it publicly available on 3 December. The short initial schedule is credible only
+because Nathan already knows the intended design, has strong C++ skills, uses an existing 2D framework and
+keeps the first playable scope deliberately small.
 
 | Period | Game milestone | Narrative integration |
 | --- | --- | --- |
@@ -329,7 +331,7 @@ A* → flow-field redesign.
 | **24–30 Sep** | Flow field stabilizes; local steering and shared navigation are integrated; first prediction experiments. | Week-after-Pilot school and football material alternates with increasingly focused programming. |
 | **1–7 Oct** | Player prediction/influence field becomes reliable; goal selection and navigation connect cleanly. | Episode 2 opens with the project already technically mature. |
 | **8–12 Oct** | Profiling, caching, update-frequency reduction, device tests and balancing. | Nathan's perfectionism becomes the main technical pressure. |
-| **13–15 Oct** | Final playtest, cleanup, packaging and release. | Game finishes around the middle/later part of Episode 2. |
+| **13–15 Oct** | Final playtest and packaging of an internal playable vertical slice / private test build. No public App Store release occurs here. | The core loop and first feature set become testable end to end; further physics, memory work, release preparation and Apple review remain. |
 
 ### Why this faster duration works
 
