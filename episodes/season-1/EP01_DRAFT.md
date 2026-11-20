@@ -6,7 +6,7 @@
 <!-- WD-004 -->
 
 **Story Window:** September 7–30, 2009  
-**Status:** FULL PROSE DRAFT (Movements I, II, and III)  
+**Status:** WORKING PROSE DRAFT — approximately 7,600 words; below the 10,000–14,000+ word target.  
 **Active Threads:** Thread A (C++ Engine / Flow Field), Thread B (Callahan Family / Relocation), Thread C (Soccer / Athletic Adaptation), Thread D (Arrival in California & Alex Dunphy), Thread E (Phil Dunphy / Neighborhood).
 
 ---
@@ -191,11 +191,11 @@ Inside the case, nestled in die-cut gray foam, lay a pristine black handheld dev
 
 — The 3GS, — Nathan said, his voice dropping into quiet reverence. — The ARM Cortex model with the autofocus lens.
 
-— Thirty-two gigabytes, developer-unlocked for corporate hardware validation, — Clifford confirmed, watching his son's reaction with quiet satisfaction. — Internal developer provisioning profile is pre-installed. The GPU is a PowerVR SGX535; it supports OpenGL ES 2.0 shaders, but engineering tells me shader compilation latency can still hitch the render loop. If you want sixty frames, write clean code. Total system RAM is two-hundred-and-fifty-six megabytes, and the OS eats almost half before user space initializes [PROP-004].
+— Thirty-two gigabytes, provisioned for corporate hardware validation, — Clifford confirmed, watching his son's reaction with quiet satisfaction. — The developer profile is already installed. The GPU is a PowerVR SGX535; it supports OpenGL ES 2.0, but shader compilation can still hitch the render loop if you are careless. If you want sixty frames, write clean code. The device has two-hundred-and-fifty-six megabytes of physical RAM [PROP-004].
 
 Nathan picked up the device. The glass was cool against his fingers. It weighed precisely one hundred and thirty-five grams.
 
-— One-hundred-and-twenty-eight megabytes of usable heap for textures, audio buffers, and navigation structures, — he murmured, instantly translating megabytes into contiguous blocks of thirty-two-bit integers. — If I eliminate dynamic allocations inside the main loop, the garbage collector never has to step in.
+— But that isn't two-hundred-and-fifty-six megabytes for the game, — he said, turning the phone once in his hand. — The system and its services need memory too. The amount an app can use depends on what else is running. I'll measure the actual build instead of guessing a fixed heap from the spec sheet.
 
 — That's the engineering mindset, — Clifford agreed, tapping Nathan's shoulder. — School starts tomorrow at eight-fifteen. Bus route is printed on the fridge. Lights out by eleven.
 
@@ -607,7 +607,7 @@ Instantly, two hundred red agents scattered across the four quadrants moved in u
 
 In the top-left corner of the display, the frame counter held steady:
 
-`FPS: 60.0 | Memory: 4.2 MB | Draw Calls: 1`
+`FPS: 60.0 | ENGINE DATA: 4.2 MB | Draw Calls: 1`
 
 Nathan leaned back in his mahogany chair.
 
