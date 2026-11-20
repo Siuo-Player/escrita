@@ -28,7 +28,7 @@ class TestSeasonOneDecisionConsistency(unittest.TestCase):
         self.assertIn("Nathan conclui o 8.º ano", self.arc)
         self.assertIn("Alex conclui o 7.º ano", self.arc)
         self.assertIn("prepara a entrada no High School", self.arc)
-        self.assertIn("Alex entra no 8.º ano", self.arc)
+        self.assertIn("Alex conclui o 7.º ano e transita para o 8.º ano", self.arc)
         self.assertNotIn("Alex e Nathan partilham a distinção de honra com médias máximas", self.arc)
         self.assertNotIn("Nathan e Alex combinam rotinas de estudo conjunto e leitura para as férias antes da entrada no High School", self.arc)
 
