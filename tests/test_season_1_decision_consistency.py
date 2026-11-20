@@ -106,6 +106,13 @@ class TestSeasonOneDecisionConsistency(unittest.TestCase):
         self.assertIn("Alex termina o 7.º ano", ep12)
         self.assertIn("21 Maio – 25 Junho 2010", ep12)
 
+    def test_school_calendar_variant_is_not_invented_and_ep12_covers_june(self):
+        self.assertIn("24 June 2010", self.continuity)
+        self.assertIn("18 June", self.continuity)
+        self.assertIn("21 June", self.continuity)
+        self.assertIn("Exact school calendar variant", self.register)
+        self.assertIn("21 Maio – 25 Junho 2010", self.arc)
+
     def test_ep10_ipad_funding_does_not_assume_proceeds_are_nathans(self):
         ep10 = self.arc[self.arc.index("### EP10"):self.arc.index("### EP11")]
         self.assertIn("decisão explícita de Clifford e Heather", ep10)
