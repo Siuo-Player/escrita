@@ -23,7 +23,7 @@ but the episode must contain multiple independent plots.
 
 **Nathan is no longer trying to become settled; he is settled enough to start building something.**
 
-The game reaches completion around the middle/later part of the episode.
+The core game reaches an internal playable vertical-slice milestone around the middle/later part of the episode. This is an end-to-end private test build, not yet a public App Store release: collision/physics, memory profiling, final packaging, adult-account submission and Apple's review remain later milestones.
 
 The emotional plot is quieter:
 Nathan and Alex become comfortable enough that their conversations no longer require an excuse.
@@ -555,7 +555,7 @@ It holds.
 
 ---
 
-## 15 October — release <!-- EVT-013 | 2009-10-15 | 2009-10-15 -->
+## 15 October — internal playable vertical slice <!-- EVT-013 | 2009-10-15 | 2009-10-15 -->
 
 ### Scene 43 — morning
 Nathan is tired but functioning.
