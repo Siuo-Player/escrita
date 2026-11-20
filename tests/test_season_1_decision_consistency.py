@@ -27,17 +27,18 @@ class TestSeasonOneDecisionConsistency(unittest.TestCase):
     def test_grade_gap_is_preserved_through_the_end_of_season_one(self):
         self.assertIn("Nathan conclui o 8.º ano", self.arc)
         self.assertIn("Alex conclui o 7.º ano", self.arc)
-        self.assertIn("Nathan entra no High School", self.arc)
+        self.assertIn("prepara a entrada no High School", self.arc)
         self.assertIn("Alex entra no 8.º ano", self.arc)
         self.assertNotIn("Alex e Nathan partilham a distinção de honra com médias máximas", self.arc)
         self.assertNotIn("Nathan e Alex combinam rotinas de estudo conjunto e leitura para as férias antes da entrada no High School", self.arc)
 
     def test_october_15_is_an_internal_playable_milestone_not_publication(self):
-        self.assertIn("vertical slice jogável", self.continuity.lower())
-        self.assertIn("não é uma publicação pública", self.continuity.lower())
-        self.assertIn("private playable vertical slice", self.ep02_outline.lower())
-        self.assertIn("submitted to apple", self.ep04_outline.lower())
-        self.assertIn("03 december", self.ep05_outline.lower())
+        self.assertIn("first playable vertical slice", self.continuity.lower())
+        self.assertIn("not a public release", self.continuity.lower())
+        self.assertIn("vertical-slice milestone", self.ep02_outline.lower())
+        self.assertIn("not yet a public app store release", self.ep02_outline.lower())
+        self.assertIn("submissão do binário final", self.ep04_outline.lower())
+        self.assertIn("03 de dezembro", self.ep05_outline.lower())
         self.assertNotIn("real playable release around 15 October", self.continuity)
 
     def test_opening_four_family_member_goal_is_not_silently_marked_complete(self):
