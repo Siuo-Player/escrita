@@ -162,6 +162,16 @@ This file stores **what was decided, how the current answer was validated, and w
 - **Dependencies:** `EP06_WINTER_CONSTANTS_OUTLINE.md`, `NATHAN_FIRST_MOBILE_GAME.md`, `EP03_DRAFT.md`.
 - **Revisit trigger:** a changed agent count, update rate, perception radius or measured device profile; update the arithmetic and test together.
 
+## DEC-015 — Place final grade results after the 2009–10 instructional year
+
+- **Date:** 2026-11-20.
+- **Question:** when can Nathan and Alex receive final grade results and move to the next school year?
+- **Current result:** the EP11 window ending 20 May is too early for final year-end results. The results and different grade transitions belong in EP12, after the last instructional day of the school calendar they attend. EP12's working window is extended to 25 June 2010 to cover the approved LAUSD single-track baseline.
+- **Status:** ESTABLISHED CHRONOLOGY CORRECTION; the exact school calendar variant and ceremony date remain unresolved.
+- **Reason:** the LAUSD board-approved 2009–10 single-track calendar lists 24 June as the last day of instruction and 25 June as a pupil-free day. A contemporaneous administrators' report dated 12 April 2010 describes subsequent revisions, with 18 June as the final day for traditional-calendar schools and 21 June for schools using 8 February as a pupil-free day. Neither source supports final results by 20 May.
+- **Dependencies:** `SEASON_1_ARC_PLAN.md`, `SEASON_1_CONTINUITY.md`, `SEASON_1_DECISION_AND_STATUS_REGISTER.md`, EP11/EP12 outlines and any Season 2 opening.
+- **Revisit trigger:** once Nathan and Alex's actual campus/calendar track is fixed; record the exact last instructional day before assigning the ceremony/results date.
+
 ## Change protocol
 
 When a decision is changed:
