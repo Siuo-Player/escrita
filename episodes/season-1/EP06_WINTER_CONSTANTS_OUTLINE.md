@@ -90,7 +90,7 @@ Primeiro Natal em Los Angeles sem a chuva e o frio constante de Seattle. Cliffor
   - Clifford junta-se ao grupo, cumprimentando os dois homens com cordialidade profissional: *"Boa tarde. O meu filho tem o hábito de antecipar centros de gravidade."*
   - Mitchell ri-se com alívio: *"Mitchell Pritchett. E este é o Cameron. Somos vizinhos de código postal."*
   - Cameron elogia a presteza de Nathan com simpatia radiante: *"Se todos os rapazes da cidade fossem tão coordenados, o mundo precisava de menos fisioterapeutas!"*
-- **Consequência:** Primeiro contacto divertido e afetuoso com a família Mitchell & Cameron, completando todo o leque de adultos de Modern Family.
+- **Consequência:** Primeiro contacto divertido e afetuoso com a família Mitchell & Cameron, completando o círculo de adultos das famílias Dunphy/Pritchett/Tucker.
 
 ### 24 de Dezembro (Quinta-feira, Consoada) — A Véspera de Natal em Cheviot Hills
 - **Contexto:** Casa dos Callahan iluminada por velas e luzes quentes. A lareira da sala crepita suavemente.
