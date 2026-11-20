@@ -111,8 +111,7 @@ can diverge cumulatively. See `canon/narrative/WORLD_DIFFERENCE_REGISTRY.md`.
     meaningful Nathan/Alex relationship progression, Nathan settling into the new school's academic/social
     environment, football/team integration, and the Callahan family's adjustment to California. The family events Nathan remembers under the source-series labels **Come Fly with Me** (7 October) and
     **The Incident** (14 October) provide parallel material; they should intersect Nathan only when his
-    existing life naturally touches them. The episode
-    does not need an invented replacement canon episode.
+    existing life naturally touches them. The story does not need an invented replacement family-event sequence just to fill the slot.
 
 Detailed protagonist record: canon/characters/NATHAN_CALLAHAN.md.
 
