@@ -13,6 +13,7 @@ SCOPE = ROOT / "canon" / "STORY_SCOPE_AND_PROTAGONIST_DESIGN.md"
 WORKFLOW = ROOT / "canon" / "narrative" / "STORY_DEVELOPMENT_WORKFLOW.md"
 ARCHITECTURE = ROOT / "canon" / "narrative" / "SERIES_GLOBAL_ARCHITECTURE.md"
 SEASON_ONE = ROOT / "canon" / "narrative" / "SEASON_1_ARC_PLAN.md"
+DECISION_LOG = ROOT / "canon" / "DECISION_LOG.md"
 
 
 class TestNarrativeQualityContracts(unittest.TestCase):
@@ -23,6 +24,7 @@ class TestNarrativeQualityContracts(unittest.TestCase):
         cls.workflow = WORKFLOW.read_text(encoding="utf-8") if WORKFLOW.exists() else ""
         cls.architecture = ARCHITECTURE.read_text(encoding="utf-8") if ARCHITECTURE.exists() else ""
         cls.season_one = SEASON_ONE.read_text(encoding="utf-8") if SEASON_ONE.exists() else ""
+        cls.decision_log = DECISION_LOG.read_text(encoding="utf-8") if DECISION_LOG.exists() else ""
 
     def test_narrative_quality_standard_exists_and_has_required_sections(self):
         self.assertTrue(
@@ -95,6 +97,13 @@ class TestNarrativeQualityContracts(unittest.TestCase):
         self.assertIn("causal", self.standard.lower())
         self.assertIn("não basta coexistirem", self.standard.lower())
         self.assertIn("objetivos externos", self.standard.lower())
+
+    def test_narrative_agency_standard_is_recorded_as_a_project_decision(self):
+        self.assertTrue(DECISION_LOG.is_file())
+        self.assertIn("DEC-016", self.decision_log)
+        self.assertIn("NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md", self.decision_log)
+        self.assertIn("PROJECT-WIDE NARRATIVE QUALITY STANDARD", self.decision_log)
+        self.assertIn("não acrescenta factos diegéticos", self.decision_log.lower())
 
     def test_automated_tests_do_not_claim_to_measure_subjective_literary_quality(self):
         self.assertIn("não conseguem avaliar", self.standard.lower())
