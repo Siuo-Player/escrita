@@ -164,6 +164,7 @@ Coverage status: partial. The Event Registry is the date authority for registere
 7. **App Store revenue/tax transfer and EP10 iPad:** Clifford's adult publisher role is established; the exact legal/accounting arrangement that transfers proceeds to Nathan remains unspecified. EP10 must not say Nathan buys an iPad directly with personal App Store earnings unless a family/legal allocation is first established. The current outline now treats the purchase as conditional on an explicit decision by Clifford and Heather; that decision is not yet canon.
 8. **December launch traction:** exact fictional download/rating figures need a believable discovery mechanism and should not be presented as historical norms.
 9. **Later v1.1 release date:** the first-season arc anticipates a January release, but the exact submission/approval/publication events still require a matching event-registry entry and chronology check.
+10. **Exact school calendar variant:** the board-approved LAUSD 2009–10 single-track calendar gives 24 June as the last instructional day, while an April 2010 administrators' update reports revisions to 18 June (traditional schools) or 21 June (schools with 8 February as pupil-free day). The actual campus/variant for Nathan and Alex is not fixed; do not assign their final ceremony an exact date until that is decided.
 
 ## 11. Source-of-truth documents
 
