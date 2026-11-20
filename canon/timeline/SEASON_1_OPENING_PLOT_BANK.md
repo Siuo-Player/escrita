@@ -1,5 +1,8 @@
 # Season 1 Opening Plot Bank — September/October 2009
 
+<!-- WD-001 -->
+<!-- WD-004 -->
+
 Status: WORKING / rich underlying timeline
 Updated: 2026-10-08
 
@@ -74,15 +77,15 @@ These should not all appear in every episode.
 - Mitchell and Cameron continue building routines around Lily.
 - A family member can acquire an object in an ordinary scene before it becomes important much later.
 
-## Canon anchors
+## Family-event anchors from Nathan's previous-life series
 
-- **23 Sep — Pilot:** Nathan does not enter the central family reunion unless a genuine intersection exists.
-- **30 Sep — The Bicycle Thief:** suitable Episode 1 closing canon anchor; Nathan can encounter a consequence
-  later rather than participate directly.
-- **7 Oct — Come Fly with Me:** Episode 2 canon anchor; Jay/Phil material can run entirely in parallel when
-  Nathan is elsewhere.
-- **14 Oct — The Incident:** Episode 2 canon anchor; Dede's arrival and family fallout can be shown in
-  parallel, with consequences reaching Nathan only where natural.
+The following episode titles are remembered labels from Nathan's previous life. They identify source
+material for initial date anchors only; the corresponding family events are lived events in this world.
+
+- **23 Sep — family events remembered as *Pilot*:** Nathan does not enter the central family gathering unless a genuine intersection exists.
+- **30 Sep — family events remembered as *The Bicycle Thief*:** suitable Episode 1 closing family-event anchor; Nathan can encounter a consequence later rather than participate directly.
+- **7 Oct — family events remembered as *Come Fly with Me*:** Episode 2 anchor; Jay/Phil material can run entirely in parallel when Nathan is elsewhere.
+- **14 Oct — family events remembered as *The Incident*:** Episode 2 anchor; Dede's arrival and family fallout can be shown in parallel, with consequences reaching Nathan only where natural.
 
 ## World-liveliness seeds
 
