@@ -1,5 +1,8 @@
 # Story Development Workflow
 
+<!-- WD-001 -->
+<!-- WD-004 -->
+
 Status: ESTABLISHED / reusable project method
 Updated: 2026-10-08
 
@@ -63,7 +66,7 @@ Record:
 - technology milestones;
 - relationship changes;
 - family events;
-- *Modern Family* canon events;
+- lived family events corresponding to *Modern Family* episodes Nathan remembers from his previous life;
 - purchases and prop provenance;
 - background character goals;
 - consequences that may occur later;
@@ -156,15 +159,15 @@ The prose answers **is it interesting enough to show?**
 
 ## Parallel-world principle
 
-For every important canon event, first ask:
+For every important family event Nathan remembers from the *Modern Family* series in his previous life, first ask:
 
-**Would Nathan realistically be there?**
+**Would Nathan realistically be there in this world and at this point in the changed timeline?**
 
 If yes, allow a natural intersection.
 
-If no, show the family/canon thread in parallel or show its consequences later.
+If no, show the lived family event in parallel or show its consequences later. The episode title is a memory label, not a current-world broadcast or a script that people must repeat.
 
-Never alter geography, timing or character behavior solely to place Nathan inside a canon scene.
+Never alter geography, timing or character behaviour solely to place Nathan inside a scene he remembers.
 
 ## Backpropagation passes
 

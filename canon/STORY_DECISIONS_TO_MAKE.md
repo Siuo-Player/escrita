@@ -1,11 +1,20 @@
 # Story decisions to make
 
+<!-- WD-001 -->
+<!-- WD-002 -->
+<!-- WD-004 -->
+
 Status: WORKING
 Purpose: decisions needed before building the first durable episode/arc.
 Updated: 2026-10-08
 
 The list is ordered by dependency. We do not need to decide every detail immediately. Resolved items
 are recorded so they are not asked again.
+
+**Parallel-world terminology:** episode titles below are labels from the television series Nathan watched
+in his previous life. They identify remembered patterns and initial date anchors, not broadcasts or filmed
+scenes in this world. The people and corresponding events are real in the parallel world; their chronology
+can diverge cumulatively. See `canon/narrative/WORLD_DIFFERENCE_REGISTRY.md`.
 
 ## A. Resolved foundation
 
@@ -18,11 +27,11 @@ are recorded so they are not asked again.
    with previous-life memories.
 3. **Starting point and calendar:** Season 1 begins on **Monday, 7 September 2009**, which is also Nathan's
    thirteenth birthday. LAUSD's 2009–10 school year begins on **Wednesday, 9 September 2009**. Nathan
-   transfers one week later on **Wednesday, 16 September 2009**. The *Modern Family* pilot aired on
-   **Wednesday, 23 September 2009**, and its in-universe events are kept on that date unless continuity
-   requires otherwise. Nathan has already
-   met at least four members of the family before/during the pilot through natural neighborhood,
-   school and activity encounters, but should not be inserted into the family's main reunion scene
+   transfers one week later on **Wednesday, 16 September 2009**. In Nathan's previous life, the *Modern Family* Pilot was broadcast on
+   **Wednesday, 23 September 2009**. That date is only the initial temporal anchor for corresponding lived
+   family events in the parallel world; the broadcast itself did not happen here, and later divergence may
+   move or replace those events. Nathan has already
+   met at least four members of the family before or around that initial date through natural neighbourhood, school and activity encounters, but should not be inserted into the family's main reunion scene
    unless the episode's existing action genuinely creates a place for him. He is one school year above
    Alex.
 4. **Modern Family memory:** eidetic memory of everything actually shown in the series, including tiny
@@ -33,23 +42,23 @@ are recorded so they are not asked again.
    They are useful as directional hints rather than perfect prediction.
 6. **First family connection:** Nathan recognizes Alex at school and wants to speak to her but initially
    avoids it because of shyness and attraction. Alex initiates the first interaction after noticing that
-   he has the right book/resource for an advanced class. Because Nathan arrives in the neighborhood before
-   the pilot, he can also meet several family members through ordinary local life. The working goal is
-   that at least four family members already know him by the pilot, while Nathan still does not enter the
-   family's main reunion scene unless the episode gives him a natural reason.
+   he has the right book/resource for an advanced class. Because Nathan arrives in the neighbourhood before the remembered Pilot date anchor, he can meet several
+   family members through ordinary local life. The working goal is that at least four family members
+   already know him by then, while Nathan still does not enter the central family events unless the story
+   gives him a natural reason.
 7. **Independent life engine:** technology/computing, pursued through early programming, study, projects
    and eventual AI research.
 8. **Long-term academic objective:** become an AI researcher and ultimately complete a credible AI-focused
    doctorate or equivalent research path. Dedicated AI doctoral programmes already existed by 2009, so
    the field itself does not need to be invented.
-9. **Narrative proportion:** the original *Modern Family* plot normally occupies about 10–40% of an
+9. **Narrative proportion:** the remembered source-series plot normally occupies about 10–40% of an
    episode's plot focus, while characters from the show may occupy much more of the episode. Original
    material can center on Nathan/Alex, Nathan/Haley, school, football, technology, friends, parents or
    other themes.
 10. **Season structure:** each story season represents roughly one year of Nathan's life. Season 1 begins
     on **7 September 2009**, while Nathan is still in his old city. Episode 1 covers **7–30 September**,
     compressing the old school, the father's sudden promotion, the family move, Nathan's first week in the
-    new school, first interactions with Alex, the Pilot in parallel, and the following week. Episode 2
+    new school, first interactions with Alex, the family events Nathan remembers under the *Pilot* label in parallel, and the following week. Episode 2
     covers **1–15 October** and completes the first mobile game around the middle or later part of the
     episode. The long story runs through adolescence, university and early professional life, ending in
     Nathan's early-to-mid twenties.
@@ -58,8 +67,8 @@ are recorded so they are not asked again.
 12. **Backpropagation:** later events must leave earlier traces. Pregnancy in particular needs a believable
     chain of prior adult relationship milestones, conception timing, subtle symptoms and earlier details
     that become meaningful in hindsight.
-13. **Canon parallelism:** Nathan does not need to participate in canon episodes merely because they are
-    happening at the same time. Canon can unfold in parallel and be referenced through thoughts,
+13. **Parallel family events:** Nathan does not need to participate in every lived family event merely because
+    it corresponds to something he remembers from the source series. Those events can unfold in parallel and be referenced through thoughts,
     conversations or later consequences; those references should themselves create divergence rather than
     become episode recaps.
 14. **Narration:** primarily Nathan's viewpoint, with occasional fluid access to nearby characters'
@@ -87,11 +96,10 @@ are recorded so they are not asked again.
     Classroom scenes should reveal intelligence and personality through teacher interactions rather than
     repeated praise. The opening period includes Nathan's birthday on 7 September, his distant observations of Alex after the
     16 September school transfer, a practical first interaction initiated by Alex on 18 September, and a
-    pilot-parallel programming scene on 23 September. Full reusable schedule: `canon/timeline/SEASON_1_CONTINUITY.md`.
+    programming scene parallel to the remembered family events on 23 September. Full reusable schedule: `canon/timeline/SEASON_1_CONTINUITY.md`.
 
 20. **Parallel-plot rule:** every episode should contain several simultaneously existing threads rather than
-    a single plot plus filler. The normal mix is Nathan's immediate POV/life, family life and/or a *Modern
-    Family* AU canon thread, relationship development, school/football or another recurring life thread, and
+    a single plot plus filler. The normal mix is Nathan's immediate POV/life, family life and/or a thread based on events Nathan remembers from the *Modern Family* series in his previous life, relationship development, school/football or another recurring life thread, and
     one or more background threads carried by other characters. Threads may intersect, but they do not have
     to. Some should only appear briefly because the world continues when Nathan is not present.
 21. **Persistent world / prop continuity:** recurring objects, household purchases, school materials, sports
@@ -101,10 +109,9 @@ are recorded so they are not asked again.
     object, but to avoid materializing important recurring things exactly when a scene needs them.
 22. **Episode 2 subplot set:** the game remains the primary technical thread, but Episode 2 also carries a
     meaningful Nathan/Alex relationship progression, Nathan settling into the new school's academic/social
-    environment, football/team integration, and the Callahan family's adjustment to California. On the
-    *Modern Family* side, **Come Fly with Me** (7 October) and **The Incident** (14 October) provide canon
-    AU material; they should intersect Nathan only when his existing life naturally touches them. The episode
-    does not need an invented replacement canon episode.
+    environment, football/team integration, and the Callahan family's adjustment to California. The family events Nathan remembers under the source-series labels **Come Fly with Me** (7 October) and
+    **The Incident** (14 October) provide parallel material; they should intersect Nathan only when his
+    existing life naturally touches them. The story does not need an invented replacement family-event sequence just to fill the slot.
 
 Detailed protagonist record: canon/characters/NATHAN_CALLAHAN.md.
 
@@ -112,8 +119,8 @@ Detailed protagonist record: canon/characters/NATHAN_CALLAHAN.md.
 
 ### 1. Nathan's exact birth date and starting calendar date
 **Resolved:** birthday is **7 September 1996 (Saturday; he turns 13 on Monday, 7 September 2009)**. Nathan transfers to school on **16 September
-2009 (Wednesday)**, one week after the LAUSD year opening on 9 September. The pilot's broadcast date is
-23 September 2009 and can also serve as its in-universe date.
+2009 (Wednesday)**, one week after the LAUSD year opening on 9 September. The 23 September date comes from the broadcast in Nathan's previous life and acts only as an initial date
+anchor for the corresponding lived family events in the parallel world.
 
 ### 2. Nathan's personality weaknesses
 **Resolved:** the selected weaknesses are fear of seeming arrogant, strong fear of rejection, strong
@@ -150,15 +157,15 @@ planned. It must not function as consequence-free wish fulfillment.
 
 ### 9. Canon-character priority
 **Working early hierarchy:** Alex first, then the immediate Dunphy household (Claire, Phil, Haley, Luke),
-with one or two additional family members entering through naturally occurring activities. The pilot can
+with one or two additional family members entering through naturally occurring activities. The remembered Pilot date can
 establish first impressions of several of them without turning Nathan into a participant in the central
 family-reunion sequence.
 
 ### 10. Opening-week canon intersection
 **Working:** use ordinary neighborhood/school/activity encounters to establish first impressions before
-the pilot. Candidate first contacts are Alex at school, Claire and Phil as nearby adults, and Luke or
+that date anchor. Candidate first contacts are Alex at school, Claire and Phil as nearby adults, and Luke or
 another family member through sport/neighborhood life. At least four family members should know Nathan by
-the pilot without making him artificially central to the episode.
+that initial date anchor without making him artificially central to those family events.
 
 ### 11. Canon changes and intervention priorities
 **Policy established; specific first-year opportunities require a dated canon audit.** Use `canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md` to separate certainty about remembered events from certainty about the altered timeline, rank the potential harm, assess Nathan's access and credibility, and choose the smallest plausible action. Nathan actively tries to prevent serious harm, but Episode 1–2 must not gain a manufactured crisis or place him in canon scenes without a credible reason. Once his action changes a causal condition, follow the consequence honestly. The remaining task is to map first-year canon events and identify only the opportunities that pass the feasibility test.
@@ -192,7 +199,7 @@ Now sufficiently bounded for Episode 1–2 drafting:
 
 **Still required before committing a full Episode 1 prose draft:** complete a source-backed calendar/scene-purpose audit and use the intervention policy to decide whether a first-year event offers a credible opportunity. A decision not to intervene is valid when access or a plausible action is missing; ignoring an actionable risk is not.
 
-The opening calendar, personality profile, pilot-intersection rule, first mobile game, relationship direction and dialogue discipline are recorded. Remaining details can stay provisional where they do not block a scene.
+The opening calendar, personality profile, remembered-series-event intersection rule, first mobile game, relationship direction and dialogue discipline are recorded. Remaining details can stay provisional where they do not block a scene.
 
 
 ## Durable decision provenance

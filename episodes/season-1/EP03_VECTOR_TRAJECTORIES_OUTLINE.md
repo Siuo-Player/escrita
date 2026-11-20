@@ -40,8 +40,8 @@ Primeiro encontro direto a 22 de outubro no parque desportivo. Luke tenta usar u
 ### D — Callahan Family & Bairro
 Clifford e Heather ajustam-se ao ritmo executivo da Califórnia; preparação do primeiro Halloween numa rua de subúrbio onde a vizinhança leva decorações a sério.
 
-### E — Modern Family AU em Paralelo
-*Coal Digger* (21 de outubro) e *Run for Your Wife* (28 de outubro) decorrem nas suas datas históricas, intersectando Nathan apenas em momentos quotidianos não forçados.
+### E — Eventos familiares lembrados por Nathan da série anterior
+Os acontecimentos vividos pelas famílias que Nathan recorda sob os títulos *Coal Digger* (21 de outubro) e *Run for Your Wife* (28 de outubro) são reais neste mundo. As datas são âncoras iniciais herdadas da sua memória anterior, não datas de transmissão; Nathan só se cruza com esses acontecimentos quando a sua vida lhes dá acesso natural.
 
 ---
 
@@ -62,7 +62,7 @@ Clifford e Heather ajustam-se ao ritmo executivo da Califórnia; preparação do
   - Alex analisa o esboço em silêncio durante três segundos antes de admitir que a lógica é elegante. É o primeiro momento em que Alex reconhece nele um intelecto que não tenta competir com o dela para se exibir.
 
 ### 21 de Outubro (Quarta-feira) — Paralelo com *Coal Digger*
-- **Canon AU:** Conflito familiar na casa dos Pritchett sobre o comentário de Luke a respeito de Gloria ser "coal digger".
+- **Evento familiar lembrado da série anterior:** Conflito familiar na casa dos Pritchett sobre o comentário de Luke a respeito de Gloria ser "coal digger".
 - **Nathan:** Totalmente alheio ao drama doméstico dos Pritchett/Dunphy. Janta com Heather e Clifford na cozinha; conversa familiar sobre as diferenças de trânsito e vizinhança entre Seattle e Los Angeles. Nathan preserva o espaço mental da família sem forçar qualquer intervenção desnecessária.
 
 ### 22 de Outubro (Quinta-feira) — A Bola, a Fisga e a Bússola Perdida [Luke Dunphy] <!-- EVT-014 | 2009-10-22 | 2009-10-22 -->
@@ -82,7 +82,7 @@ Clifford e Heather ajustam-se ao ritmo executivo da Califórnia; preparação do
 - **Observação / Génese:** Enquanto Heather compra material de escritório, Nathan espreita uma livraria tradicional de alfarrabistas (*Second Chance Books*). Na montra de livros científicos antigos em segunda mão, avista uma edição de 1964 com capa de tecido vermelho: *The Feynman Lectures on Physics, Volume 1* [PROP-006]. Nathan repara no livro e lembra-se de uma conversa informal na biblioteca onde Alex mencionou querer consultar as notas de Feynman sobre mecânica. Nathan não compra o livro de imediato porque ainda quer verificar as suas poupanças, mas memoriza a localização na prateleira.
 
 ### 28 de Outubro (Quarta-feira) — A Corrida Matinal e Phil Dunphy
-- **Canon AU:** *Run for Your Wife*. Phil e Claire disputam uma corrida a pé pelo bairro para provar quem está em melhor forma física.
+- **Evento familiar lembrado da série anterior:** *Run for Your Wife*. Phil e Claire disputam uma corrida a pé pelo bairro para provar quem está em melhor forma física.
 - **Interseção:** Nathan faz a sua corrida matinal de condicionamento (6:45 da manhã).
 - Phil surge a ofegar com fita na cabeça e passada desajeitada. Nathan abranda ligeiramente, acena com respeito e diz: *"Bom ritmo, Sr. Dunphy."*
 - Phil sente-se validado no seu espírito competitivo e tenta um *high-five* em movimento, quase tropeçando no passeio. A interação é breve, limpa e natural.

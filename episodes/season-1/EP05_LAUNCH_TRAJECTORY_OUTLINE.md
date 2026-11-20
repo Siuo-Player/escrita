@@ -40,8 +40,8 @@ O desastre do aniversário de Luke com o palhaço Fizbo a 25 de novembro termina
 ### D — Família Callahan & Manny Delgado (Subtrama Doméstica e Intelectual)
 O primeiro feriado de Ação de Graças (Thanksgiving) da família Callahan em Cheviot Hills consolida a estabilidade profissional de Clifford e Heather na Califórnia. No dia 01 de dezembro, na biblioteca pública de Westwood, Nathan encontra Manny Delgado concentrado num tabuleiro público de xadrez [CLUE-003], iniciando um diálogo sobre cálculo tático e estratégias de contenção.
 
-### E — Modern Family AU em Paralelo
-*Fizbo* (25 de novembro de 2009): o aniversário desastroso de Luke, a fobia de Phil a palhaços, o confronto no posto de combustível e o braço partido. Nathan não intervém no incidente em si, mantendo estrita a barreira de não-intromissão epistémica.
+### E — Eventos familiares lembrados por Nathan da série anterior
+Os acontecimentos vividos em torno do aniversário de Luke, que Nathan recorda sob o título *Fizbo* (25 de novembro de 2009), pertencem à vida real da família no mundo paralelo. A fobia de Phil, o incidente no posto de combustível e a lesão de Luke são referências da memória anterior, não um episódio a ser transmitido. A decisão de Nathan de não intervir deve ser reavaliada à luz do acesso, do risco e das divergências já ocorridas; não é uma regra automática de não-intromissão.
 
 ---
 
@@ -53,7 +53,7 @@ O primeiro feriado de Ação de Graças (Thanksgiving) da família Callahan em C
 - **Estado Interno:** A ansiedade silenciosa de Nathan: medo de rejeição técnica nos certificados de código ou de incompatibilidade não detetada com o sistema operativo iPhone OS 3.1.
 
 ### 25 de Novembro (Quarta-feira) — O Aniversário de Luke e o Incidente de Fizbo <!-- EVT-022 | 2009-11-25 | 2009-11-25 -->
-- **Canon AU:** Acontece a festa caótica de aniversário de Luke: Cameron veste-se de Fizbo, a confusão instala-se com o escorregador e o castelo insuflável, e Luke acaba no hospital com o braço fraturado.
+- **Evento familiar lembrado da série anterior:** Acontece a festa caótica de aniversário de Luke: Cameron veste-se de Fizbo, a confusão instala-se com o escorregador e o castelo insuflável, e Luke acaba no hospital com o braço fraturado.
 - **Interseção Causal:** Ao final da tarde, Phil chega a casa com Luke com a tala de gesso e os olhos avermelhados de exaustão. Nathan, que regressava da mercearia local com pão e leite para Heather, vê Phil a lutar para abrir a porta do carro segurando a medicação e a pasta de raio-X.
 - **Gesto de Nathan:** Nathan segura a porta, leva o saco das compras e auxilia Luke com calma prática, sem rir do gesso nem fazer perguntas embaraçosas. Luke murmura: *"O meu aniversário foi fixe até o castelo tentar engolir-me."* Nathan responde com seriedade: *"Tens uma boa história para contar quando as aulas recomeçarem."* Phil olha para Nathan com olhos brilhantes de agradecimento paternal.
 
