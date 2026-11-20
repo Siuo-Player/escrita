@@ -56,6 +56,14 @@ Os três marcos deixam de ser confundidos:
 
 A distinção está propagada para a continuidade, design técnico do jogo e outline do EP02. Preserva a regra legal já registada: Nathan desenvolve sob supervisão; Clifford é o titular adulto/publicador. A titularidade dos rendimentos e a sua transferência para Nathan continuam por resolver.
 
+### DEC-013 — Pool de entidades e buffers
+
+A pool do EP04 reutiliza registos de entidades e buffers de contactos temporários durante criação/remoção de agentes e reinício de cenários. Não deve ser justificada por alocar/libertar nós de pesquisa global centenas de vezes por frame. O flow field partilhado é construído uma vez e só é regenerado perante alterações relevantes no mapa/destino.
+
+### DEC-014 — Escala de boids
+
+No EP06, 30 agentes representam 435 pares por frame (26.100/s a 60 FPS), não uma saturação demonstrada do CPU. A grelha espacial serve a demonstração e a escalabilidade para o caso de stress de 200 agentes: 19.900 pares por frame (1.194 milhões/s a 60 FPS) na abordagem ingénua. A grelha reduz candidatos em distribuição normal, mas não elimina o pior caso quadrático de concentração numa célula.
+
 ## 4. Correções de continuidade e plausibilidade
 
 ### EP01
@@ -79,6 +87,9 @@ A distinção está propagada para a continuidade, design técnico do jogo e out
 - O teste de química orgânica passou a teste de ciências, e a exaustão deixou de depender de quatro noites sem dormir.
 - A linguagem sobre a vulnerabilidade de Alex foi suavizada: a personagem não é reduzida a uma “máscara de arrogância”.
 - Nathan deixa de ser declarado, sem evidência suficiente, “o único amigo” em quem ela confia.
+
+### EP04
+- A *object pool* trata criação/remoção de entidades e buffers temporários de colisão em reinícios de cenários; deixa de atribuir ao flow field pesquisas globais por inimigo a cada frame.
 
 ### EP06 e design técnico
 - A atualização v1.1 reutiliza a grelha espacial `SpatialGrid` criada no EP03 para deteção de colisões.
