@@ -109,7 +109,7 @@ class TestNarrativeQualityContracts(unittest.TestCase):
         for title in ("Modern Family: Green Sun", "Re:Life With Karmic Gacha"):
             with self.subTest(title=title):
                 self.assertIn(title, self.standard)
-        self.assertIn("Apollo", self.standard)
+        self.assertIn("Apolo", self.standard)
         self.assertIn("Karmic Gacha", self.standard)
         self.assertIn("não importamos", self.standard.lower())
         self.assertIn("poderes", self.standard.lower())
