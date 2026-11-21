@@ -1,7 +1,7 @@
 # Decision Log — Story, Naming and Causal Method
 
 Status: AUTHORITATIVE PROVENANCE LOG
-Updated: 2026-11-20
+Updated: 2026-11-21
 
 This file stores **what was decided, how the current answer was validated, and what remains revisable**. Consult it with the Character Name Registry, the story-decision file, the relevant character profile, timeline and any open PR before asking the author a question. Do not treat an assistant-generated suggestion as author approval.
 
@@ -66,6 +66,7 @@ This file stores **what was decided, how the current answer was validated, and w
 - **Validation method:** candidate pool must first be evidence-based or constrained by canon, chronology, character and culture; draw seed and exact candidate order are then recorded; final choice is tested against causal consequences. Author preference overrides the draw. Do not randomize facts, canon, or major causally loaded events.
 - **Alternatives:** model-default selection alone is rejected as insufficiently diverse; unconstrained randomness is rejected because it can produce implausible or causally damaging answers.
 - **Dependencies:** all future original naming, optional scene details and other underdetermined choices should follow `canon/narrative/NARRATIVE_AND_CAUSAL_METHOD.md`.
+- **Reassessment (2026-11-21): RETAINED, NARROWED IN PRACTICE.** Randomization is useful for ordinary, low-stakes, underdetermined choices after plausibility and continuity filters. It is not a general story generator and must not decide emotionally or causally consequential choices. The author remains the final authority.
 - **Revisit trigger:** if the process creates arbitrary, implausible or repetitive story outcomes, revise the candidate filters and validation—not hide the failure or reroll until a preferred answer appears.
 
 ## DEC-006 — Narrative planning and causal construction
@@ -78,6 +79,7 @@ This file stores **what was decided, how the current answer was validated, and w
   - episode/season backpropagation: trace later states backwards to find missing setup and then re-read forward to catch regressions.
 - **Status:** USER-REQUESTED PROJECT RULE; empirical effectiveness remains to be tested on drafts.
 - **Validation:** internally consistent with existing continuity, persistent-state, parallel-plot and backpropagation principles. It avoids forcing every small detail into the top-down outline while preserving cause/effect at scene level.
+- **Reassessment (2026-11-21): RETAINED.** The method is stronger than choosing only top-down or only linearly: the directions solve different problems. Its recursive anchors are planning aids, not a mathematical schedule; forward construction and regression remain the test of whether a transition is earned.
 - **Alternatives:** write the whole story only top-down (risks schematic scenes); write only linearly without an end architecture (risks drift); backpropagation without forward regression (risks pasted hints and new contradictions). The hybrid explicitly mitigates all three.
 - **Dependencies:** story development workflow, scene/episode audits, timeline, decision/state ledger and all episode drafting.
 - **Revisit trigger:** use actual drafts and post-episode/season continuity findings to improve the process.
@@ -89,6 +91,7 @@ This file stores **what was decided, how the current answer was validated, and w
 - **Current result:** recommend making `Siuo-Player/escrita` public if the author is comfortable sharing all current and future outlines, research notes, branches, issues and Actions logs. A disclaimer is appropriate for clarity but does not grant rights or guarantee legal clearance.
 - **Validation:** GitHub documents that a public repository is visible to everyone and can be forked, and that Actions history/logs become public. The U.S. Copyright Office describes preparing derivative works as an exclusive right subject to statutory limitations and says fair use is a case-specific analysis.
 - **Sources:** [GitHub — setting repository visibility](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility); [U.S. Copyright Office — derivative-work rights](https://www.copyright.gov/eco/help-limitation.html); [U.S. Copyright Office — Fair Use Index](https://copyright.gov/fair-use/).
+- **Reassessment (2026-11-21): RECLASSIFIED AS ADMINISTRATIVE GUIDANCE, NOT STORY CANON.** The privacy/security and copyright caveats remain useful if repository visibility is reconsidered; this entry does not decide any fictional event, character or story premise.
 - **Revisit trigger:** before making the repository public, check it for credentials, private information, material not intended to be shared, and Actions logs/artifacts. Do not describe the disclaimer as permission or legal immunity.
 
 ## DEC-008 — Prose drafting language: English (American standard)
@@ -109,7 +112,8 @@ This file stores **what was decided, how the current answer was validated, and w
 - **Current result:** **Modern contemporary serialized fiction with theatrical staging and chameleonic free indirect discourse**.
 - **Status:** USER-LOCKED.
 - **Method:** explicit user instruction («usa uma escrita á la fanfics e models modernas, acho um pouco mais baseado em teatro... podes variar um pouco a escrita quando temos povs de personagens»).
-- **Validation:** combines visual/physical blocking (movement, prop interaction, active pauses, comedic/dramatic timing) with a narrative voice that adapts its lexical and emotional register to the viewpoint character (Nathan: analytical/understated; Alex: acerbic/intellectually defensive; Phil: bouncy/enthusiastic; Manny: romantic/operatic/baroque; Claire: rapid/pragmatic; Luke: whimsical/kinetic; Jay: gruff/practical).
+- **Validation:** combines visual/physical blocking (movement, prop interaction, active pauses, comedic/dramatic timing) with viewpoint-sensitive narration. Focalisation changes what the viewpoint character notices, interprets, fears, values and chooses to say; no fixed caricature, catchphrase or stylistic gimmick is imposed on a character.
+- **Reassessment (2026-11-21): RETAINED WITH A CLARIFICATION.** Theatrical staging and viewpoint-sensitive prose remain, but character voices must emerge from context, intention and current relationships rather than a rigid archetype. POV changes remain selective and must earn their place.
 - **Dependencies:** `canon/narrative/MODERN_PROSE_AND_THEATRICAL_STYLE.md`, `episodes/season-1/EP*_DRAFT.md`, ai-memory (`decisions/theatrical-chameleonic-prose-style.md`).
 
 ## DEC-010 — Multi-plot concurrency and director's cutting table
@@ -119,7 +123,8 @@ This file stores **what was decided, how the current answer was validated, and w
 - **Current result:** **Time-bar concurrency mapping ($x \to y$) + Director's editorial cutting table**.
 - **Status:** USER-LOCKED.
 - **Method:** explicit user instruction («usar gráficos de tempo com barras de x a y para plotar os plots num gráfico e ver se eles ficam em paralelo... servimos como editores/diretores do que aparece, quando, do fluxo da cena»).
-- **Validation:** maintains $\ge 3$ simultaneous threads per episode, visualizes them via timeline bars, and makes deliberate directorial decisions on scene duration, pacing, POV allocation, and information disclosure (what is shown vs. what is left in the background).
+- **Validation:** maintains at least three meaningful concurrent threads per episode, visualizes their date ranges with timeline bars, and makes deliberate editorial decisions about scene duration, pacing, selective POV allocation and information disclosure. “Concurrent” means the threads continue to exist during overlapping story time; it does not mean every scene must show them all.
+- **Reassessment (2026-11-21): RETAINED WITH A QUALITY GATE.** A thread counts only when it has an objective, obstacle, choice and consequence. Never invent a weak subplot or cutaway merely to reach a number; no equal page-time or per-scene quota applies.
 - **Dependencies:** `canon/narrative/SEASON_1_ARC_PLAN.md`, `brain/.../director_concurrency_matrix_season_1.md`, ai-memory (`concepts/multi-plot-concurrency-and-directors-cut.md`).
 
 ## DEC-011 — Preserve the one-grade gap through the end of Season 1
@@ -156,10 +161,11 @@ This file stores **what was decided, how the current answer was validated, and w
 
 - **Date:** 2026-11-20.
 - **Question:** how should the EP06 flocking scene describe pairwise cost on the iPhone 3GS?
-- **Current result:** thirty agents require 435 pair checks per frame (26,100 per second at 60 FPS), a reasonable initial demonstration rather than evidence that the 600 MHz CPU is saturated. The spatial grid is reused to support the broader architecture and the already established 200-agent stress case, which would require 19,900 naïve pairs per frame (1.194 million per second at 60 FPS). A uniform grid reduces typical candidate counts but does not eliminate quadratic worst-case clustering.
+- **Current result:** thirty agents require 435 unique **unordered** pair checks per frame (26,100 per second at 60 FPS), a reasonable initial demonstration rather than evidence that the 600 MHz CPU is saturated. The spatial grid is reused to support the broader architecture and the already established 200-agent stress case, which would require 19,900 unique unordered pairs per frame (1.194 million per second at 60 FPS). A directed per-agent neighbour loop that processes each relationship twice would perform 870 and 39,800 comparisons respectively. A uniform grid reduces typical candidate counts but does not eliminate quadratic worst-case clustering.
 - **Status:** TECHNICAL/NARRATIVE CONSISTENCY RULE; arithmetic is deterministic.
 - **Reason:** the previous outline overstated the cost of thirty agents and made the spatial grid appear necessary for an implausibly small demonstration.
 - **Dependencies:** `EP06_WINTER_CONSTANTS_OUTLINE.md`, `NATHAN_FIRST_MOBILE_GAME.md`, `EP03_DRAFT.md`.
+- **Reassessment (2026-11-21): RETAINED; COUNTING CONVENTION MADE EXPLICIT.** The arithmetic is for unique unordered pairs counted once; do not compare it with a directed loop's twice-counted neighbour visits as though the units were identical.
 - **Revisit trigger:** a changed agent count, update rate, perception radius or measured device profile; update the arithmetic and test together.
 
 ## DEC-015 — Place final grade results after the 2009–10 instructional year
@@ -170,6 +176,7 @@ This file stores **what was decided, how the current answer was validated, and w
 - **Status:** ESTABLISHED CHRONOLOGY CORRECTION; the exact school calendar variant and ceremony date remain unresolved.
 - **Reason:** the LAUSD board-approved 2009–10 single-track calendar lists 24 June as the last day of instruction and 25 June as a pupil-free day. A contemporaneous administrators' report dated 12 April 2010 describes subsequent revisions, with 18 June as the final day for traditional-calendar schools and 21 June for schools using 8 February as a pupil-free day. Neither source supports final results by 20 May.
 - **Dependencies:** `SEASON_1_ARC_PLAN.md`, `SEASON_1_CONTINUITY.md`, `SEASON_1_DECISION_AND_STATUS_REGISTER.md`, EP11/EP12 outlines and any Season 2 opening.
+- **Reassessment (2026-11-21): RETAINED AS A PLANNING WINDOW, NOT A CONFIRMED CEREMONY DATE.** The 25 June EP12 boundary allows the story to cover the end-of-year transition, but the exact school, calendar variant, last instructional day and ceremony remain unconfirmed. Do not stage a school event on a pupil-free day by inference.
 - **Revisit trigger:** once Nathan and Alex's actual campus/calendar track is fixed; record the exact last instructional day before assigning the ceremony/results date.
 
 
@@ -182,6 +189,7 @@ This file stores **what was decided, how the current answer was validated, and w
 - **Reason:** comparative examples highlighted recurring risks: an overpowered or universally praised OC, a canon character reduced to a romantic reward or therapist, author preference flattening canon characterization, decorative parallel plots, and technical milestones presented without human cost. The existing project scope already required independent lives and recognizable motives; this decision makes those requirements operational across planning and drafting.
 - **Dependencies:** `canon/narrative/NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md`, `canon/narrative/SERIES_GLOBAL_ARCHITECTURE.md`, `canon/STORY_SCOPE_AND_PROTAGONIST_DESIGN.md`, `canon/narrative/STORY_DEVELOPMENT_WORKFLOW.md`, `canon/narrative/SEASON_1_ARC_PLAN.md`, `tests/test_narrative_quality_contracts.py`, and all future outlines/drafts materially affected by the standard.
 - **Validation:** deterministic tests verify the presence of the standard, its cross-document links and selected planning contracts. **Human review remains mandatory** for voice, humour, characterization, emotional credibility, scene quality and whether the prose actually respects agency.
+- **Reassessment (2026-11-21): RETAINED.** The standard protects the ensemble without cancelling the author's intended long-term destinations. A planned reconciliation or pregnancy ending is a direction to develop, not permission to force Alex's consent, growth, career, intimacy or decision.
 - **Revisit trigger:** review after each season audit, or whenever the author deliberately changes the central relationship, a major character trajectory, the multi-plot rule or the narrative point of view.
 
 
@@ -201,6 +209,59 @@ This file stores **what was decided, how the current answer was validated, and w
 - **Reason:** the author explicitly clarified that these works are inspirations, not permission to import their systems or powers. The story should remain about the ordinary life Nathan builds after rebirth, including school, family, friendship, romance, work, money, health, interests, technology and consequences.
 - **Dependencies:** `canon/narrative/NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md`, `canon/STORY_SCOPE_AND_PROTAGONIST_DESIGN.md`, `canon/narrative/SERIES_GLOBAL_ARCHITECTURE.md`, `canon/narrative/STORY_DEVELOPMENT_WORKFLOW.md`, `tests/test_narrative_quality_contracts.py`, and all future outlines/drafts.
 - **Revisit trigger:** only an explicit author decision to change the genre or introduce another supernatural mechanism. Do not infer permission from an inspiration, tag, review or reader suggestion.
+
+
+## Historical decision review — 2026-11-21
+
+The older decisions were reviewed against the latest story premise, dated event records and the quality/agency standard.
+
+| Decision | Review result |
+|---|---|
+| DEC-001–002 | **Keep.** Nathan Callahan remains author-locked; no reason to reopen either name. |
+| DEC-003–004 | **Keep as WORKING only.** Maxwell, Clifford and Heather remain useful names, but the random method does not make them author-locked. |
+| DEC-005 | **Keep, narrow.** Constrained randomness is for low-stakes options, not major plot or character decisions. |
+| DEC-006 | **Keep.** Top-down architecture, forward causality and backward setup review complement each other; do not impose rigid mathematical spacing. |
+| DEC-007 | **Reclassify.** Repository visibility/copyright notes are administrative guidance, not story canon. |
+| DEC-008 | **Keep.** Draft prose and dialogue remain American English appropriate to the 2009 setting. |
+| DEC-009 | **Keep, refine.** Theatrical staging and viewpoint-sensitive narration remain; fixed character caricatures do not. |
+| DEC-010 | **Keep, refine.** At least three meaningful concurrent threads; no forced cutaways, equal allocation or per-scene quota. |
+| DEC-011–013 | **Keep.** The grade separation, public-release ladder and allocation/navigation design correction remain the more coherent solutions. |
+| DEC-014 | **Keep, clarify units.** Pair counts refer to unique unordered pairs, counted once. |
+| DEC-015 | **Keep as a time envelope.** The actual school-calendar variant and ceremony date remain open. |
+| DEC-016–017 | **Keep.** Character agency and grounded slice-of-life boundaries remain project-wide constraints. |
+| DEC-018–020 | **New clarifications.** Organic introductions, fallible memory and document authority are now explicit. |
+
+A decision's presence in this log records provenance and status; it does not turn a working proposal into immutable canon.
+
+## DEC-018 — Organic family introductions; retire the pre-Pilot contact quota
+
+- **Date:** 2026-11-21.
+- **Question:** must at least four members of the Dunphy/Pritchett/Tucker family know Nathan by the 23 September 2009 Pilot-memory anchor?
+- **Current result:** **No.** The former four-contact target is retired. Alex is Nathan's first meaningful school connection, with their first conversation on 18 September; Phil's first meeting is 28 September; Claire's is 10 October; Luke's is 22 October. Other introductions follow the event and season plans.
+- **Status:** EDITORIAL CONTINUITY RESOLUTION; replaces an earlier WORKING GOAL, not an author-locked premise.
+- **Reason:** the quota was not supported by the dated event registry and encouraged artificial introductions in the opening. The current slower sequence gives each encounter a distinct cause and lets relationships develop at a believable pace.
+- **Dependencies:** canon/characters/NATHAN_CALLAHAN.md; canon/STORY_DECISIONS_TO_MAKE.md; canon/narrative/EVENT_REGISTRY.md; canon/narrative/SEASON_1_ARC_PLAN.md; EP01–EP03 outlines and drafts.
+- **Revisit trigger:** only if a future scene earns an earlier meeting for a character-specific reason. There is no replacement numerical target.
+
+## DEC-019 — Previous-life memories are human, selective and fallible
+
+- **Date:** 2026-11-21.
+- **Question:** does Nathan possess eidetic or effectively perfect memory of the programme and future events?
+- **Current result:** **No.** Nathan has ordinary human recollections from his previous life. Repeated viewing and emotional significance can make some scenes familiar or vivid, but he can forget, conflate or misremember details, dates, order, wording and causes. He does not have eidetic storage, a searchable memory interface, guaranteed exact recall, or knowledge of private/off-screen events. Memory accuracy and the reliability of predicting the altered world are separate uncertainties.
+- **Status:** USER-LOCKED PREMISE CLARIFICATION, consistent with DEC-017.
+- **Reason:** an eidetic-memory premise would create a de facto additional power and contradict the grounded slice-of-life constraint. Fallible recollection also gives the butterfly effect a human, believable epistemic limit.
+- **Dependencies:** canon/characters/NATHAN_CALLAHAN.md; canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md; canon/STORY_DECISIONS_TO_MAKE.md; canon/STORY_SCOPE_AND_PROTAGONIST_DESIGN.md; canon/timeline/MULTI_SEASON_CHRONOLOGY_MAP.md; canon/narrative/OPENWRITE_CODEX_SEED.md; all outlines and drafts that use foreknowledge.
+- **Revisit trigger:** only if the author explicitly changes the reincarnation/memory premise. Do not infer such a change from a fanfic inspiration.
+
+## DEC-020 — Canonical document ownership and precedence
+
+- **Date:** 2026-11-21.
+- **Question:** how do we keep the repository's documents on the same story version without maintaining competing copies of every fact?
+- **Current result:** the Story Bible is the concise, current snapshot and navigation map; specialist sources remain authoritative in their own domains. The Decision Log records provenance, status, alternatives and revisions. The World Difference Registry defines world-level differences; the Event Registry defines dated events and persistent changes; the Multi-Season Chronology Map defines ages, dates, school years and calendar dependencies; Series Global Architecture defines long-form dramatic arcs; character profiles define character-specific details; season/episode plans define scoped story structure; prose drafts remain WORKING until reviewed against those sources.
+- **Status:** PROJECT-WIDE DOCUMENTATION RULE adopted during the 2026-11-21 audit.
+- **Reason:** several files used the term “SSOT” for different kinds of truth, creating accidental precedence conflicts. Authority must be domain-specific and explicit; README and Story Bible summaries do not silently override specialist records.
+- **Dependencies:** README.md; canon/STORY_BIBLE.md; canon/narrative/SEASON_1_DECISION_AND_STATUS_REGISTER.md; and all canon sources listed above.
+- **Revisit trigger:** when the repository structure changes enough that an authority domain or owner needs reassignment.
 
 ## Change protocol
 

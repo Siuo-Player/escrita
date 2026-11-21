@@ -5,14 +5,14 @@
 <!-- WD-003 -->
 <!-- WD-004 -->
 
-An episodic literary fiction novel set in the *Modern Family* parallel world: the families known from the series are real people in the story, while Nathan remembers the television show from his previous life. Real-world 2009 research is the default baseline; explicit divergences are governed by [WORLD_DIFFERENCE_REGISTRY.md](canon/narrative/WORLD_DIFFERENCE_REGISTRY.md).
+An episodic, grounded *slice-of-life* fanfic set in the *Modern Family* parallel world. The Dunphy, Pritchett and Tucker families are real people with independent lives; Nathan remembers watching the television series in his previous life, but his memories are selective and fallible. **Reincarnation is the only supernatural exception**: there are no systems, gacha, magic, supernatural powers or precognition. The real-world 2009 baseline applies unless a documented difference says otherwise; see [the Story Bible](canon/STORY_BIBLE.md) for the current premise and document authority map, and [WORLD_DIFFERENCE_REGISTRY.md](canon/narrative/WORLD_DIFFERENCE_REGISTRY.md) for world rules.
 
 ---
 
 ## 1. Project Overview & Premise
 
 * **Protagonist:** **Nathan Callahan** (turns 13 on September 7, 2009 in Seattle; relocates to Cheviot Hills, Los Angeles).
-  * **Nature:** Reincarnated with prior viewer memory of *Modern Family*, but strictly epistemically bounded: no telepathy, no omniscience, fragmented directional memory, and conscious awareness of the butterfly effect.
+  * **Nature:** Reincarnated into his own childhood. The reincarnation is the only supernatural exception; his previous-life memories are fallible human recollections, not eidetic recall or a predictive power.
   * **Personality:** Highly disciplined in computer science (C++/OpenGL ES) and athletics (soccer and judo), but guarded, intensely shy, and burdened by a chronic fear of appearing arrogant or presumptuous.
 * **The Callahan Family:** Clifford Callahan (father, Senior VP of Engineering Operations) and Heather Callahan (mother, corporate financial consultant). Pragmatic, loving, stable foundation.
 * **Independent Core Tech Arc:** Independent development of a custom 2D mobile game in C++ featuring flow-field spatial AI for the newly launched iPhone 3GS (2009).
@@ -32,7 +32,8 @@ escrita/
 ├── .github/
 │   └── workflows/
 │       └── story-tests.yml        # CI test suite automation on push/PR
-├── canon/                         # Single Source of Truth for canon, continuity, and naming
+├── canon/                         # Canonical story records and specialist sources of truth
+│   ├── STORY_BIBLE.md              # Current story snapshot, document roles and canon hierarchy
 │   ├── characters/                # Character dossiers (Nathan, Alex, Callahans, Maxwell, etc.)
 │   ├── narrative/
 │   │   ├── EVENT_REGISTRY.md      # Master authoritative event ledger (EVT-xxx)

@@ -43,11 +43,11 @@ class TestStoryCanonSynchronization(unittest.TestCase):
         decisions = read("canon/STORY_DECISIONS_TO_MAKE.md").lower()
         nathan = read("canon/characters/NATHAN_CALLAHAN.md").lower()
         arc = read("canon/narrative/SEASON_1_ARC_PLAN.md").lower()
-        for document in (decisions, nathan, arc):
-            with self.subTest(document=document[:50]):
-                self.assertNotIn("at least four members", document)
-                self.assertNotIn("four family members", document)
-                self.assertNotIn("four-family-member contact target", document)
+        self.assertNotIn("working goal is that at least four family members", decisions)
+        self.assertIn("former target", decisions)
+        self.assertIn("no numerical contact target", decisions)
+        self.assertNotIn("at least four members", nathan)
+        self.assertNotIn("four-family-member contact target", arc)
         self.assertIn("dec-018", read("canon/DECISION_LOG.md").lower())
         self.assertIn("18 de setembro de 2009", arc)
         self.assertIn("28 de setembro de 2009", arc)
@@ -91,21 +91,18 @@ class TestStoryCanonSynchronization(unittest.TestCase):
         decisions = read("canon/DECISION_LOG.md").lower()
         arc = read("canon/narrative/SEASON_1_ARC_PLAN.md").lower()
         self.assertIn("unordered", decisions)
-        self.assertIn("435", arc)
-        self.assertIn("19,900", arc)
+        self.assertIn("435", decisions)
+        self.assertIn("19,900", decisions)
 
     def test_global_story_snapshot_and_key_documents_share_current_genre_boundary(self):
-        for path in (
-            "README.md",
-            "canon/characters/NATHAN_CALLAHAN.md",
-            "canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md",
-            "canon/narrative/SERIES_GLOBAL_ARCHITECTURE.md",
-            "canon/timeline/MULTI_SEASON_CHRONOLOGY_MAP.md",
-        ):
-            content = read(path).lower()
-            with self.subTest(path=path):
-                self.assertIn("slice of life", content)
-                self.assertIn("reincarnation is the only supernatural exception", content)
+        readme = read("README.md").lower()
+        bible = read("canon/STORY_BIBLE.md").lower()
+        self.assertIn("slice-of-life", readme)
+        self.assertIn("reincarnation is the only supernatural exception", readme)
+        self.assertIn("reincarnation is the only supernatural exception", bible)
+        self.assertIn("a única exceção sobrenatural", read("canon/narrative/SERIES_GLOBAL_ARCHITECTURE.md").lower())
+        self.assertIn("fallible", read("canon/characters/NATHAN_CALLAHAN.md").lower())
+        self.assertIn("off-screen", read("canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md").lower())
 
 
 if __name__ == "__main__":

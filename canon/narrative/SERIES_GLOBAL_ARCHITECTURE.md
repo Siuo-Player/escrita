@@ -8,10 +8,10 @@
 Status: AUTHORITATIVE DRAMATIC ARCHITECTURE (SSOT para Estrutura Narrativa, Arcos e Causalidade)  
 Intervalo da Vida do Protagonista: $t \in [0.00, 1.00]$ (13 anos a 7 de Setembro de 2009 aos 25 anos a 7 de Setembro de 2021)  
 Duração Total: 12.0 anos civis completos (4383 dias)  
-Updated: 2026-11-20
+Updated: 2026-11-21
 
 > [!IMPORTANT]
-> **Autoridade de Continuidade:** Este documento é a Fonte Única de Verdade (SSOT) para o desenvolvimento da estrutura dramática, arcos de personagens, causalidade narrativa e progressão do efeito borboleta. Para correspondências estritas de datas do calendário gregoriano, idades canónicas calculadas por data de nascimento, níveis de escolaridade e marcos cronológicos reais, a autoridade canónica estrita pertence a [MULTI_SEASON_CHRONOLOGY_MAP.md](../timeline/MULTI_SEASON_CHRONOLOGY_MAP.md). Os critérios de agência, caracterização e revisão literária são definidos em [NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md](NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md).
+> **Âmbito de autoridade:** Este documento é a referência principal para o desenho dramático global, os arcos e a causalidade da série, não para todas as datas e factos. O [Story Bible](../STORY_BIBLE.md) dá o retrato resumido e indica a função de cada documento. Para datas, idades, escolaridade e calendários, prevalece [MULTI_SEASON_CHRONOLOGY_MAP.md](../timeline/MULTI_SEASON_CHRONOLOGY_MAP.md); para diferenças entre mundos, [WORLD_DIFFERENCE_REGISTRY.md](WORLD_DIFFERENCE_REGISTRY.md); para eventos e estados persistentes datados, [EVENT_REGISTRY.md](EVENT_REGISTRY.md). Os critérios de agência e revisão literária estão em [NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md](NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md).
 
 ---
 
@@ -20,7 +20,7 @@ Updated: 2026-11-20
 A série é estruturada através de uma abordagem híbrida tripla (*Track A: Top-Down Recursivo* + *Track B: Construção Linear Causal* + *Track C: Backpropagation de Pistas*):
 1. **O ponto final $t=1.00$ (Setembro de 2021, 25 anos) e o ponto inicial $t=0.00$ (Setembro de 2009, 13 anos)** ancoram o sentido emocional, temático e causal de toda a obra. Cada cena, conflito e amizade é uma peça que constrói organicamente essa trajetória.
 2. **Os nós intermédios ($t=0.25$, $t=0.50$, $t=0.75$)** definem transições irreversíveis de maturidade, impedindo que a narrativa estagne em rotinas circulares de comédia de situação:
-   * **$t = 0.00$ (07/09/2009):** Chegada a Los Angeles, 13.º aniversário de Nathan, motor C++ no iPhone 3GS.
+   * **$t = 0.00$ (07/09/2009):** Abertura em Seattle no 13.º aniversário de Nathan; a família muda-se para a região de Los Angeles a 14–15/09 e Nathan começa na nova escola a 16/09. O jogo em C++ já está em desenvolvimento.
    * **$t = 0.25$ (07/09/2012):** Início da Temporada 4, Nathan no 11.º ano (Junior) e Alex no 10.º ano, AlexNet, CUDA, início do primeiro romance.
    * **$t = 0.50$ (07/09/2015):** Início da Temporada 7, Alex ingressa no Caltech ao lado de Nathan; o ponto médio formal onde as previsões da série televisiva se esgotam.
    * **$t = 0.75$ (07/09/2018):** Início da Temporada 10, Nathan pós-graduado funda *spin-off* de IA, Alex gradua-se, amor reconstruído e convivência adulta estável.
@@ -37,7 +37,7 @@ t=0.00 (S01: Set 2009)    t=0.25 (S04: Set 2012)    t=0.50 (S07: Set 2015)    t=
 -----------------------------------------------------------------------------------------------------------------------------------------
 Nathan: 13 anos           Nathan: 16 anos           Nathan: 19 anos           Nathan: 22 anos           Nathan: 25 anos
 8.º Ano Middle School     11.º Ano (Junior) Liceu   College Soph. Caltech     Investigador / Spin-off   Liderança IA / Paternidade
-Chegada a LA (Seattle)    AlexNet, GPUs, CUDA       Reunião Caltech, Crise    Reconciliação, Apartamento Pandemia 2020-21, Novo Ciclo
+Abertura em Seattle → mudança para LA em meados de setembro    AlexNet, GPUs, CUDA       Reunião Caltech, Crise    Reconciliação, Apartamento Pandemia 2020-21, Novo Ciclo
 Motor C++ no 3GS          Início Namoro com Alex    Ruptura, Haley, Catarse   Vida a Dois Consolidada   Desfecho: Alex Revela Gravidez
 ```
 

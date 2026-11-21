@@ -6,7 +6,7 @@
 
 Status: WORKING
 Purpose: decisions needed before building the first durable episode/arc.
-Updated: 2026-11-20
+Updated: 2026-11-21
 
 The list is ordered by dependency. We do not need to decide every detail immediately. Resolved items
 are recorded so they are not asked again.
@@ -30,22 +30,22 @@ can diverge cumulatively. See `canon/narrative/WORLD_DIFFERENCE_REGISTRY.md`.
    transfers one week later on **Wednesday, 16 September 2009**. In Nathan's previous life, the *Modern Family* Pilot was broadcast on
    **Wednesday, 23 September 2009**. That date is only the initial temporal anchor for corresponding lived
    family events in the parallel world; the broadcast itself did not happen here, and later divergence may
-   move or replace those events. Nathan has already
-   met at least four members of the family before or around that initial date through natural neighbourhood, school and activity encounters, but should not be inserted into the family's main reunion scene
-   unless the episode's existing action genuinely creates a place for him. He is one school year above
-   Alex.
-4. **Modern Family memory:** eidetic memory of everything actually shown in the series, including tiny
-   details and dialogue, but memories must be actively retrieved. He has rewatched the series many times,
-   so he has unusually deep familiarity with character behavior and can initially predict reactions with
-   considerable accuracy.
-5. **Future knowledge:** additional future-world memories are fragmented, non-personal and secondary.
-   They are useful as directional hints rather than perfect prediction.
+   move or replace those events. Nathan's first meaningful school connection is Alex; the first conversation is on 18 September. Other
+   family members enter his life later through the encounters registered in the season chronology. There is
+   no fixed number of family contacts required before the Pilot-memory date. He is one school year above Alex.
+4. **Modern Family memory:** human, selective and fallible recollection of a programme he watched repeatedly.
+   Major outcomes and memorable scenes may remain vivid, but details, dates, order and wording can be
+   forgotten or misremembered. He has no eidetic memory, no access to off-screen events and no reliable
+   ability to predict how real people will act. Familiarity gives him initial expectations, not certainty.
+5. **Other previous-life knowledge:** memories of future-world facts beyond the television series are
+   fragmented, uneven and secondary. They can suggest broad directions, not provide a perfect encyclopedia,
+   exact future dates or guaranteed predictions.
 6. **First family connection:** Nathan recognizes Alex at school and wants to speak to her but initially
    avoids it because of shyness and attraction. Alex initiates the first interaction after noticing that
-   he has the right book/resource for an advanced class. Because Nathan arrives in the neighbourhood before the remembered Pilot date anchor, he can meet several
-   family members through ordinary local life. The working goal is that at least four family members
-   already know him by then, while Nathan still does not enter the central family events unless the story
-   gives him a natural reason.
+   he has the right book/resource for an advanced class. Because Nathan arrives in the neighbourhood before the remembered Pilot date anchor, he can begin meeting
+   family members through ordinary local life. The actual first-contact sequence is recorded in the Event
+   Registry and Season 1 arc plan. There is no numerical contact target; Nathan still does not enter central
+   family events unless the story gives him a natural reason.
 7. **Independent life engine:** technology/computing, pursued through early programming, study, projects
    and eventual AI research.
 8. **Long-term academic objective:** become an AI researcher and ultimately complete a credible AI-focused
@@ -162,9 +162,13 @@ establish first impressions of several of them without turning Nathan into a par
 family-reunion sequence.
 
 ### 10. Opening-week canon intersection
-**Working goal, currently unresolved:** at least four family members of the Dunphy/Pritchett/Tucker households should know Nathan by the 23 September 2009 *Pilot*-memory date anchor, without making him artificially central to the family's own events.
 
-**UNRESOLVED CONFLICT (2026-11-20):** the current first-contact map and `EVENT_REGISTRY.md` only establish Alex's direct school contact on 18 September before the 23 September anchor. Phil's first encounter is dated 28 September, Claire's 10 October, and Luke's 22 October. The current EP01 draft does not stage three additional introductions before 23 September. The target is therefore **not satisfied** by the current draft. Do not claim otherwise or move encounters silently. A later planning pass must either (a) create credible, low-pressure move/neighbourhood encounters before 23 September and register them, or (b) explicitly revise the four-contact target. No choice between those options is recorded yet.
+**Reviewed and resolved on 21 November 2026 (DEC-018):** the former target of having at least four family
+members know Nathan by 23 September is retired. It was not an author-locked premise and conflicts with the
+more natural contact sequence already established in the Event Registry: Alex's first conversation is
+18 September, Phil's first meeting is 28 September, Claire's is 10 October, and Luke's is 22 October.
+Do not move or invent introductions to satisfy a quota. Let each relationship begin when a credible
+opportunity exists.
 
 ### 11. Canon changes and intervention priorities
 **Policy established; specific first-year opportunities require a dated canon audit.** Use `canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md` to separate certainty about remembered events from certainty about the altered timeline, rank the potential harm, assess Nathan's access and credibility, and choose the smallest plausible action. Nathan actively tries to prevent serious harm, but Episode 1–2 must not gain a manufactured crisis or place him in canon scenes without a credible reason. Once his action changes a causal condition, follow the consequence honestly. The remaining task is to map first-year canon events and identify only the opportunities that pass the feasibility test.

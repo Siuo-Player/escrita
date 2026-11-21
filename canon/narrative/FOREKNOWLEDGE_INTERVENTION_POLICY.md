@@ -5,23 +5,25 @@
 <!-- WD-004 -->
 
 Status: ESTABLISHED STORY LOGIC / episode opportunities remain WORKING
-Updated: 2026-10-12
+Updated: 2026-11-21
 
 ## Purpose
 
-Nathan remembers everything that was actually shown in the *Modern Family* television series in his previous life, and he wants to prevent tragedies and serious mistakes whenever he has a credible opportunity. This is an active motive, not a promise that he can perfectly repair the future.
+Nathan remembers watching *Modern Family* in his previous life and wants to prevent tragedies and serious mistakes whenever he believes he has a credible opportunity. His recollection is human, selective and fallible; it is not an archive or a source of certainty. This is an active motive, not a promise that he can perfectly repair the future.
 
-The challenge is to make each attempt believable for a thirteen-year-old who has a remarkable memory but limited authority, incomplete knowledge of off-screen events, ordinary social access and no guarantee that the remembered timeline will remain stable.
+The challenge is to make each attempt believable for a thirteen-year-old with imperfect recollection, limited authority, incomplete knowledge of off-screen events, ordinary social access and no guarantee that the remembered timeline will remain stable.
 
-## Keep two kinds of certainty separate
+## Separate recollection, accuracy and prediction
 
-**Memory certainty:** how clearly Nathan remembers the original on-screen event. A scene he has rewatched many times can be recalled in extraordinary detail once he retrieves it.
+Keep three uncertainties separate.
 
-**Prediction certainty:** how likely the remembered event is to happen in this timeline, at the remembered time, after Nathan's presence has changed relationships and information flow.
+**Recollection:** what does Nathan think he remembers? The series is familiar to him, but his memory is not eidetic. Some events are vivid; others survive only as a broad impression, a remembered outcome or a fragment. Details can be forgotten, conflated between episodes or reconstructed incorrectly.
 
-High memory certainty does not guarantee high prediction certainty. An exact line or sequence from the series is evidence about the original story, not proof that the altered scene will unfold identically. When a meaningful divergence occurs, all later predictions that depend on the altered relationship, timing or decision must be downgraded.
+**Accuracy:** how closely does that recollection match what was actually shown? Repeated viewing and emotional importance can improve confidence, but do not guarantee correctness. Nathan may misremember wording, order, dates or small details even before the parallel timeline has diverged.
 
-Nathan's knowledge also has a boundary: he remembers what was shown, not every private conversation, medical fact, motive, or event that happened off-screen. He must not turn a remembered outcome into invented knowledge of its cause.
+**Prediction:** how likely is the remembered event to happen in this world, at the remembered time, after Nathan's presence has changed relationships and information flow? An accurate recollection of the old programme does not prove that the lived event will recur.
+
+Nathan remembers what the programme showed, not every private conversation, medical fact, motive or event that happened off-screen. He must not turn a remembered outcome into invented knowledge of its cause. Memory confidence and prediction confidence should be recorded separately in planning.
 
 ## Priority order
 
