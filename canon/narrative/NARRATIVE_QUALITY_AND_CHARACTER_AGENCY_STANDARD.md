@@ -72,7 +72,7 @@ A história parte de uma gravidez inesperada de Haley e acompanha uma premissa f
 
 O único resíduo extraordinário permitido é a continuidade da identidade e das memórias que Nathan traz da vida anterior. Essas memórias são humanas, parciais e falíveis: incluem a sua experiência de vida e a recordação limitada de ter visto *Modern Family*. Não constituem previsão do futuro, acesso a informação privada, memória perfeita ou conhecimento omnisciente.
 
-**Não fazem parte deste projeto:**
+**Não fazem parte deste projeto:** Em termos práticos: sem sistemas e sem poderes sobrenaturais adicionais, para além do acontecimento único do renascimento.
 - sistemas, interfaces ou janelas de estado; gacha, roletas, sorteios sobrenaturais, missões, quests, níveis, atributos ou pontos de habilidade;
 - poderes, superpoderes, talentos concedidos magicamente, capacidades sobre-humanas, habilidades desbloqueadas ou progressão por recompensas;
 - deuses, entidades cósmicas, bênçãos, contratos, intervenções divinas, magia, objetos encantados ou milagres;
@@ -91,7 +91,7 @@ As duas obras seguintes foram indicadas expressamente pelo autor como inspiraç�
 
 [WebNovel — Modern Family: Green Sun](https://en.webnovel.com/book/37449471600342405)
 
-A sinopse apresenta Darren Green, renascido em 2009 como novo vizinho dos Dunphy, e descreve a obra como um *slow burn* com foco musical. A mesma sinopse explicita, porém, um sistema concedido por Apolo, voz divina, domínio de todos os instrumentos e memória perfeita de canções inexistentes naquele mundo.
+A sinopse apresenta Darren Green, renascido em 2009 como novo vizinho dos Dunphy, e descreve a obra como um *slow burn* com foco musical. A mesma sinopse explicita, porém, um sistema concedido por Apolo (Apollo), voz divina, domínio de todos os instrumentos e memória perfeita de canções inexistentes naquele mundo.
 
 **O que podemos estudar:** a colocação de um protagonista renascido na vizinhança em 2009, o ponto de partida social, o ritmo lento anunciado e a possibilidade de interesses artísticos/musicais fazerem parte da vida comum de uma personagem.
 
@@ -326,7 +326,7 @@ Um teste que procura a palavra «autonomia» não prova que a personagem tenha a
 
 ## 10. Fontes e limitações da comparação
 
-Fontes consultadas em 20/11/2026:
+Fontes consultadas em 21/11/2026:
 
 - [The Eldest Delgado — FanFiction.net](https://www.fanfiction.net/s/14563350/1/The-Eldest-Delgado)
 - [The Eldest Delgado — reviews no FanFiction.net](https://www.fanfiction.net/r/14563350/)
@@ -335,6 +335,12 @@ Fontes consultadas em 20/11/2026:
 - [Well I Said Maybe — FanFiction.net](https://www.fanfiction.net/s/10831488/1/Well-I-Said-Maybe)
 - [Alex & Brendan — FanFiction.net](https://www.fanfiction.net/s/11598563/1/Alex-Brendan)
 - [Well, There's No Going Back Now — FanFiction.net](https://www.fanfiction.net/s/8473468/1/Well-There-s-No-Going-Back-Now)
+- [Modern Family: Green Sun — WebNovel](https://en.webnovel.com/book/37449471600342405)
+- [Re:Life With Karmic Gacha (Modern Family) — WebNovel](https://www.webnovel.com/book/re-life-with-karmic-gacha-%28modern-family%29_25055831305719205)
+- [Reincarnated into Modern Family — WebNovel](https://www.webnovel.com/book/reincarnated-into-modern-family_27042325205165905)
+- [Modern Family: Adrian Delgado — WebNovel](https://www.webnovel.com/book/modern-family-adrian-delgado_30678867000115105)
+- [Modern Family: The Singer — WebNovel](https://www.webnovel.com/book/modern-family-the-singer_34808294208714005)
+- [Modern Family: New Life — WebNovel](https://www.webnovel.com/book/modern-family-new-life_31396005008055105)
 
 As páginas, sinopses e avaliações são mutáveis. O número de reviews, favoritos, seguidores ou palavras não é uma medida de qualidade. As avaliações mais específicas são sinais de risco a prevenir, não verdades universais. As críticas de estilo e caracterização deste documento são uma síntese editorial aplicada ao projeto.
 
