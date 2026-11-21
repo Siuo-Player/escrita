@@ -184,6 +184,24 @@ This file stores **what was decided, how the current answer was validated, and w
 - **Validation:** deterministic tests verify the presence of the standard, its cross-document links and selected planning contracts. **Human review remains mandatory** for voice, humour, characterization, emotional credibility, scene quality and whether the prose actually respects agency.
 - **Revisit trigger:** review after each season audit, or whenever the author deliberately changes the central relationship, a major character trajectory, the multi-plot rule or the narrative point of view.
 
+
+## DEC-017 — Grounded slice of life; reincarnation is the only supernatural exception
+
+- **Date:** 2026-11-21.
+- **Question:** which elements from Modern Family reincarnation fanfics may inspire this project, and what is the genre boundary?
+- **Current result:** This project is a grounded **slice-of-life** fanfic. **Reincarnation is the only supernatural exception.** Nathan retains continuity of identity and imperfect memories from his previous life; these are the premise's residue, not an extra ability. After rebirth, the world follows ordinary human causality. There are no gacha mechanics, systems, status screens, quests, levels, stat points, skill unlocks, magical gifts, divine interventions, gods, powers, supernatural abilities, precognition or other supernatural mechanisms. All skills and achievements must arise from plausible human aptitude, study, practice, experience, resources and opportunity.
+- **Status:** USER-LOCKED GENRE AND WORLD RULE.
+- **Inspiration boundaries:**
+  - **Modern Family: Green Sun:** may be studied for its 2009 neighbour premise, slow-burn intention and music as an ordinary interest. Apollo, the divine system, godlike voice, mastery of every instrument, perfect musical recall and all supernatural gifts are explicitly excluded.
+  - **Re:Life With Karmic Gacha (Modern Family):** may be studied for family bonding, everyday scenes and gradual relationship development. Karmic Gacha, system mechanics, rewards and shounen escalation are explicitly excluded.
+  - **Reincarnated into Modern Family:** comparator for slow pacing, natural relationship-building and close protagonist viewpoint.
+  - **Modern Family: Adrian Delgado:** comparator for limited show memories, slice-of-life framing and the no-cheats intention.
+  - **Modern Family: The Singer:** comparator for a rebirth premise that explicitly excludes additional superpowers; its celebrity/music trajectory, accelerated romance and crossover are not project canon.
+  - **Modern Family: New Life:** comparator for family integration and everyday interaction; its celebrity trajectory, adoption changes and planned crossovers are not project canon.
+- **Reason:** the author explicitly clarified that these works are inspirations, not permission to import their systems or powers. The story should remain about the ordinary life Nathan builds after rebirth, including school, family, friendship, romance, work, money, health, interests, technology and consequences.
+- **Dependencies:** `canon/narrative/NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md`, `canon/STORY_SCOPE_AND_PROTAGONIST_DESIGN.md`, `canon/narrative/SERIES_GLOBAL_ARCHITECTURE.md`, `canon/narrative/STORY_DEVELOPMENT_WORKFLOW.md`, `tests/test_narrative_quality_contracts.py`, and all future outlines/drafts.
+- **Revisit trigger:** only an explicit author decision to change the genre or introduce another supernatural mechanism. Do not infer permission from an inspiration, tag, review or reader suggestion.
+
 ## Change protocol
 
 When a decision is changed:
