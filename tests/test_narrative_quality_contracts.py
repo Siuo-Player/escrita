@@ -105,6 +105,40 @@ class TestNarrativeQualityContracts(unittest.TestCase):
         self.assertIn("PROJECT-WIDE NARRATIVE QUALITY STANDARD", self.decision_log)
         self.assertIn("not a new diegetic fact", self.decision_log.lower())
 
+    def test_author_selected_inspirations_are_documented_with_power_systems_excluded(self):
+        for title in ("Modern Family: Green Sun", "Re:Life With Karmic Gacha"):
+            with self.subTest(title=title):
+                self.assertIn(title, self.standard)
+        self.assertIn("Apolo", self.standard)
+        self.assertIn("Karmic Gacha", self.standard)
+        self.assertIn("não importamos", self.standard.lower())
+        self.assertIn("poderes", self.standard.lower())
+
+    def test_similar_grounded_modern_family_fanfics_are_documented_as_comparators(self):
+        for title in (
+            "Reincarnated into Modern Family",
+            "Modern Family: Adrian Delgado",
+            "Modern Family: The Singer",
+            "Modern Family: New Life",
+        ):
+            with self.subTest(title=title):
+                self.assertIn(title, self.standard)
+
+    def test_reincarnation_is_the_only_supernatural_exception_in_project_decisions(self):
+        self.assertIn("DEC-017", self.decision_log)
+        self.assertIn("the only supernatural exception", self.decision_log.lower())
+        self.assertIn("NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md", self.decision_log)
+        self.assertIn("reincarnation", self.scope.lower())
+        self.assertIn("the only supernatural exception", self.scope.lower())
+        self.assertIn("única exceção sobrenatural", self.architecture.lower())
+        self.assertIn("única exceção sobrenatural", self.workflow.lower())
+
+    def test_slice_of_life_contract_excludes_systems_magic_and_supernatural_powers(self):
+        for phrase in ("slice of life", "sem sistemas", "sem poderes sobrenaturais", "vida quotidiana"):
+            with self.subTest(phrase=phrase):
+                self.assertIn(phrase, self.standard.lower())
+        self.assertIn("único elemento sobrenatural", self.standard.lower())
+
     def test_automated_tests_do_not_claim_to_measure_subjective_literary_quality(self):
         self.assertIn("não conseguem avaliar", self.standard.lower())
         self.assertIn("revisão humana", self.standard.lower())

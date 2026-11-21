@@ -4,7 +4,7 @@
 
 Status: ACTIVE PROJECT STANDARD — revisão de qualidade e caracterização (não acrescenta factos diegéticos)  
 Authority: contrato de planeamento, revisão e aceitação literária  
-Updated: 2026-11-20
+Updated: 2026-11-21
 
 > Este padrão converte em regras de trabalho os riscos encontrados na comparação com outras fanfics de *Modern Family* e na auditoria à arquitetura da série. Não altera o cânone, os perfis ou as decisões aprovadas. Quando um exemplo externo contradiz o cânone do projeto, prevalece sempre o cânone aprovado.
 
@@ -65,6 +65,93 @@ Este one-shot apresenta Brendan através de sinais concentrados de atratividade,
 A história parte de uma gravidez inesperada de Haley e acompanha uma premissa familiar em 37 capítulos, com muitas respostas de leitores registadas.
 
 **Aplicação:** uma grande mudança familiar ganha força quando obriga várias pessoas a tomar decisões, negociar limites e alterar rotinas. O número de avaliações ou de palavras não prova qualidade. A gravidez de Alex no final não deve ser apenas uma recompensa para Nathan: deve ser uma escolha de Alex, uma conversa entre ambos e o início de responsabilidades concretas.
+
+### Fronteira sobrenatural: renascimento como única exceção
+
+**Regra canónica do género:** esta é uma fanfic *slice of life* realista passada no universo de *Modern Family*. O renascimento de Nathan é o único elemento sobrenatural da premissa. Depois do renascimento, a história obedece a causalidade humana e às regras normais do mundo.
+
+O único resíduo extraordinário permitido é a continuidade da identidade e das memórias que Nathan traz da vida anterior. Essas memórias são humanas, parciais e falíveis: incluem a sua experiência de vida e a recordação limitada de ter visto *Modern Family*. Não constituem previsão do futuro, acesso a informação privada, memória perfeita ou conhecimento omnisciente.
+
+**Não fazem parte deste projeto:** Em termos práticos: sem sistemas e sem poderes sobrenaturais adicionais, para além do acontecimento único do renascimento.
+- sistemas, interfaces ou janelas de estado; gacha, roletas, sorteios sobrenaturais, missões, quests, níveis, atributos ou pontos de habilidade;
+- poderes, superpoderes, talentos concedidos magicamente, capacidades sobre-humanas, habilidades desbloqueadas ou progressão por recompensas;
+- deuses, entidades cósmicas, bênçãos, contratos, intervenções divinas, magia, objetos encantados ou milagres;
+- telepatia, clarividência, premonição, viagem no tempo, manipulação causal sobrenatural ou outras mecânicas semelhantes;
+- crossover com mundos sobrenaturais, personagens com poderes ou sistemas externos que alterem as regras de realidade quotidiana.
+
+Competências de Nathan — programação, matemática, música, desporto ou outras — têm de resultar de experiência, estudo, treino, oportunidade e aptidão humana plausível. Não são desbloqueadas nem garantidas pelo renascimento.
+
+*Slice of life* não significa ausência de conflito ou de progressão. Significa que o drama nasce de escola, família, amizades, romance, trabalho, dinheiro, saúde, interesses, responsabilidades, projetos e acontecimentos quotidianos. O crescimento é gradual e tem custos reconhecíveis.
+
+### Inspirações do autor e limites de empréstimo
+
+As duas obras seguintes foram indicadas expressamente pelo autor como inspirações. A inspiração é seletiva: podemos estudar ritmo, enquadramento, dinâmica familiar, slow burn ou apresentação do quotidiano, mas não importar automaticamente premissas, mecânicas ou acontecimentos.
+
+#### Modern Family: Green Sun — enquadramento e slow burn, não poderes
+
+[WebNovel — Modern Family: Green Sun](https://en.webnovel.com/book/37449471600342405)
+
+A sinopse apresenta Darren Green, renascido em 2009 como novo vizinho dos Dunphy, e descreve a obra como um *slow burn* com foco musical. A mesma sinopse explicita, porém, um sistema concedido por Apolo (Apollo), voz divina, domínio de todos os instrumentos e memória perfeita de canções inexistentes naquele mundo.
+
+**O que podemos estudar:** a colocação de um protagonista renascido na vizinhança em 2009, o ponto de partida social, o ritmo lento anunciado e a possibilidade de interesses artísticos/musicais fazerem parte da vida comum de uma personagem.
+
+**O que não importamos:** Apolo, sistema, voz sobrenatural, mestria instantânea de instrumentos, memória musical perfeita, bênçãos ou qualquer capacidade concedida. Nathan não recebe compensações cósmicas pela sua segunda vida.
+
+A página tinha poucos capítulos e avaliações insuficientes para sustentar conclusões fortes sobre execução ou receção. O rótulo *slow burn* é uma intenção declarada pelo autor da obra, não uma garantia de qualidade.
+
+#### Re:Life With Karmic Gacha (Modern Family) — vínculos familiares, não gacha
+
+[WebNovel — Re:Life With Karmic Gacha (Modern Family)](https://www.webnovel.com/book/re-life-with-karmic-gacha-%28modern-family%29_25055831305719205)
+
+A página classifica a obra como *slice of life* e descreve uma segunda oportunidade de vida no universo da série, com relações familiares e desenvolvimento da geração mais nova. Uma avaliação individual destaca a progressão natural das relações e os laços familiares; trata-se da opinião de um leitor, não de consenso.
+
+**O que podemos estudar:** tempo dedicado à convivência, cenas familiares, relações que se desenvolvem ao longo de muitos capítulos e a mistura de comédia, romance e quotidiano.
+
+**O que não importamos:** Karmic Gacha, sistema, recompensas, mecânicas de sorte, vantagens obtidas por sorteio ou escalada de situações *shounen*. A progressão de Nathan é narrativa e humana, não mecânica.
+
+### Outros comparadores próximos de um slice of life realista
+
+Estas obras não substituem as inspirações escolhidas pelo autor. São pontos adicionais de comparação, sobretudo para ritmo, naturalidade, ausência de cheats ou delimitação de elementos extraordinários.
+
+#### Reincarnated into Modern Family — relações construídas devagar
+
+[WebNovel — Reincarnated into Modern Family](https://www.webnovel.com/book/reincarnated-into-modern-family_27042325205165905)
+
+A apresentação do autor promete um *slice of life* mais lento, com relações construídas naturalmente, memória de uma vida anterior e POV predominantemente próximo do protagonista. Uma avaliação pública elogia a contenção e a simplicidade; é uma opinião individual, não uma medida objetiva.
+
+**Aplicação:** é um comparador particularmente próximo para ritmo, convivência e construção gradual de relações. Não copiar a sequência de acontecimentos nem assumir que a etiqueta *slice of life* garante boa execução.
+
+#### Modern Family: Adrian Delgado — reincarnation e no cheats
+
+[WebNovel — Modern Family: Adrian Delgado](https://www.webnovel.com/book/modern-family-adrian-delgado_30678867000115105)
+
+A sinopse menciona memórias vagas da série, e a página usa as etiquetas *Reincarnation*, *Slice of Life*, *Comedy* e *No Cheats*.
+
+**Aplicação:** comparar a forma como o conhecimento prévio pode permanecer limitado e como a vida quotidiana pode ser construída sem recompensas ou cheats. A etiqueta é informação de catálogo, não prova independente de que todos os capítulos cumpram a promessa.
+
+#### Modern Family: The Singer — renascimento sem superpoderes
+
+[WebNovel — Modern Family: The Singer](https://www.webnovel.com/book/modern-family-the-singer_34808294208714005)
+
+A sinopse descreve uma personagem renascida e declara expressamente que a história não pretende ter superpoderes ou elementos sobrenaturais adicionais. A obra segue, contudo, uma protagonista musical e uma trajetória de celebridade, com romance mais rápido e fusão de universos televisivos.
+
+**Aplicação:** é uma referência útil para a possibilidade de manter o renascimento sem acrescentar poderes. Não importar a trajetória de celebridade, o ritmo romântico acelerado, a fusão de universos ou a premissa da protagonista.
+
+#### Modern Family: New Life — convivência familiar e segunda vida
+
+[WebNovel — Modern Family: New Life](https://www.webnovel.com/book/modern-family-new-life_31396005008055105)
+
+A premissa acompanha uma criança adotada por Mitchell e Cameron depois da transmigração do protagonista, combinando relações familiares com futebol, cultura pop e uma presença crescente na Internet. A página inclui a etiqueta *Slice of Life*, mas também anuncia crossover com outras séries e uma trajetória de celebridade digital.
+
+**Aplicação:** observar a integração de um protagonista numa estrutura familiar e a utilização de rotinas partilhadas. Não importar a alteração da adoção, a trajetória de fama, o crossover ou qualquer detalhe que contrarie o nosso cânone.
+
+### Hierarquia das referências
+
+1. **Cânone e decisões bloqueadas do nosso projeto** prevalecem sobre qualquer fanfic de referência.
+2. **As restrições expressas pelo autor** — *slice of life* realista e renascimento como única exceção sobrenatural — prevalecem sobre elementos populares das obras inspiradoras.
+3. As obras externas são material comparativo para estudar técnicas, não fontes de factos para o nosso universo.
+4. Nenhum poder, sistema, personagem, evento ou relação é importado apenas porque existe numa inspiração.
+5. Quando uma referência é avaliada através de reviews, distinguir sempre sinopse, intenção declarada do autor, observação textual e opinião individual de leitores.
 
 ## 3. Contrato de agência das personagens
 
@@ -239,7 +326,7 @@ Um teste que procura a palavra «autonomia» não prova que a personagem tenha a
 
 ## 10. Fontes e limitações da comparação
 
-Fontes consultadas em 20/11/2026:
+Fontes consultadas em 21/11/2026:
 
 - [The Eldest Delgado — FanFiction.net](https://www.fanfiction.net/s/14563350/1/The-Eldest-Delgado)
 - [The Eldest Delgado — reviews no FanFiction.net](https://www.fanfiction.net/r/14563350/)
@@ -248,6 +335,12 @@ Fontes consultadas em 20/11/2026:
 - [Well I Said Maybe — FanFiction.net](https://www.fanfiction.net/s/10831488/1/Well-I-Said-Maybe)
 - [Alex & Brendan — FanFiction.net](https://www.fanfiction.net/s/11598563/1/Alex-Brendan)
 - [Well, There's No Going Back Now — FanFiction.net](https://www.fanfiction.net/s/8473468/1/Well-There-s-No-Going-Back-Now)
+- [Modern Family: Green Sun — WebNovel](https://en.webnovel.com/book/37449471600342405)
+- [Re:Life With Karmic Gacha (Modern Family) — WebNovel](https://www.webnovel.com/book/re-life-with-karmic-gacha-%28modern-family%29_25055831305719205)
+- [Reincarnated into Modern Family — WebNovel](https://www.webnovel.com/book/reincarnated-into-modern-family_27042325205165905)
+- [Modern Family: Adrian Delgado — WebNovel](https://www.webnovel.com/book/modern-family-adrian-delgado_30678867000115105)
+- [Modern Family: The Singer — WebNovel](https://www.webnovel.com/book/modern-family-the-singer_34808294208714005)
+- [Modern Family: New Life — WebNovel](https://www.webnovel.com/book/modern-family-new-life_31396005008055105)
 
 As páginas, sinopses e avaliações são mutáveis. O número de reviews, favoritos, seguidores ou palavras não é uma medida de qualidade. As avaliações mais específicas são sinais de risco a prevenir, não verdades universais. As críticas de estilo e caracterização deste documento são uma síntese editorial aplicada ao projeto.
 
