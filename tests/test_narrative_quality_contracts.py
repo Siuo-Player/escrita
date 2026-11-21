@@ -126,7 +126,7 @@ class TestNarrativeQualityContracts(unittest.TestCase):
 
     def test_reincarnation_is_the_only_supernatural_exception_in_project_decisions(self):
         self.assertIn("DEC-017", self.decision_log)
-        self.assertIn("única exceção sobrenatural", self.decision_log.lower())
+        self.assertIn("the only supernatural exception", self.decision_log.lower())
         self.assertIn("NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md", self.decision_log)
         self.assertIn("reincarnation", self.scope.lower())
         self.assertIn("the only supernatural exception", self.scope.lower())
