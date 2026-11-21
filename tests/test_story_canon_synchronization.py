@@ -33,7 +33,7 @@ class TestStoryCanonSynchronization(unittest.TestCase):
                 self.assertNotIn("eidetic memory of everything", document)
                 self.assertNotIn("perfect verbatim memory", document)
                 self.assertNotIn("a searchable archive that supplies", document)
-        self.assertIn("fallible human memory", nathan)
+        self.assertIn("fallible human recollections", nathan)
         self.assertIn("attention", nathan)
         self.assertIn("off-screen", policy)
         self.assertIn("dec-019", read("canon/DECISION_LOG.md").lower())

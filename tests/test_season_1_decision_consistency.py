@@ -42,12 +42,14 @@ class TestSeasonOneDecisionConsistency(unittest.TestCase):
         self.assertIn("03 de dezembro", self.ep05_outline.lower())
         self.assertNotIn("real playable release around 15 October", self.continuity)
 
-    def test_opening_four_family_member_goal_is_not_silently_marked_complete(self):
-        self.assertIn("UNRESOLVED CONFLICT", self.decisions)
-        self.assertIn("four family members", self.decisions.lower())
+    def test_opening_family_contact_quota_was_retired_in_dec018(self):
+        self.assertIn("DEC-018", self.decisions)
+        self.assertIn("former target", self.decisions.lower())
+        self.assertIn("no numerical contact target", self.decisions.lower())
+        self.assertNotIn("UNRESOLVED CONFLICT", self.decisions)
         self.assertIn("18 September", self.decisions)
         self.assertIn("28 September", self.decisions)
-        self.assertIn("four-family-member contact target", self.register.lower())
+        self.assertIn("DEC-018", self.register)
 
     def test_iphone_3gs_memory_is_not_described_as_a_fixed_128_mb_app_heap(self):
         self.assertNotIn("the OS eats almost half", self.ep01)
