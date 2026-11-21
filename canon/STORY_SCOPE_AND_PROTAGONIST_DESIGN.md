@@ -35,6 +35,20 @@ There is no hard percentage requirement. The test is whether removing Modern Fam
 characters from a scene would make at least some scenes stop working, while other scenes would still
 have a genuine purpose because they belong to the protagonist.
 
+## Genre and supernatural boundary
+
+This project is a **grounded slice-of-life Modern Family fanfic**. Reincarnation is the only supernatural exception. Nathan's continuity of identity and imperfect memories from his previous life are the narrative residue of that event; they are not an extra power.
+
+After reincarnation, the world follows ordinary human causality. There are no gacha mechanics, status screens, quests, levels, stat points, skill unlocks, magical gifts, divine interventions, supernatural abilities, precognition, or other power systems. Nathan's knowledge of the television show is a fallible memory of a show he watched, not a prediction engine or access to private facts.
+
+Every skill must come from plausible human aptitude, study, practice, experience, resources and opportunity. Programming, mathematics, sport, music and professional success must retain ordinary constraints, costs and the possibility of failure.
+
+Slice of life does not mean plotless. The story advances through school, family, friendship, romance, work, money, health, hobbies, projects, responsibilities and everyday events. Drama and comedy emerge from those situations and from character choices, not from supernatural escalation.
+
+The [Narrative Quality and Character Agency Standard](narrative/NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md) records how selected fanfiction inspirations may be studied without importing their systems or powers.
+
+---
+
 ## Future knowledge
 
 Use future knowledge as a character resource, not as the story's main engine.
