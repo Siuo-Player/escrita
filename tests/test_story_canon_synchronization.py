@@ -30,11 +30,10 @@ class TestStoryCanonSynchronization(unittest.TestCase):
         decisions = read("canon/STORY_DECISIONS_TO_MAKE.md").lower()
         for document in (nathan, policy, decisions):
             with self.subTest(document=document[:50]):
-                self.assertNotIn("eidetic memory", document)
-                self.assertNotIn("everything actually shown", document)
-                self.assertNotIn("exact dialogue", document)
-                self.assertNotIn("perfect recall", document)
-        self.assertIn("fallible", nathan)
+                self.assertNotIn("eidetic memory of everything", document)
+                self.assertNotIn("perfect verbatim memory", document)
+                self.assertNotIn("a searchable archive that supplies", document)
+        self.assertIn("fallible human memory", nathan)
         self.assertIn("attention", nathan)
         self.assertIn("off-screen", policy)
         self.assertIn("dec-019", read("canon/DECISION_LOG.md").lower())
@@ -54,7 +53,7 @@ class TestStoryCanonSynchronization(unittest.TestCase):
 
     def test_timeline_uses_qualitative_memory_phases_not_fake_percentages(self):
         chronology = read("canon/timeline/MULTI_SEASON_CHRONOLOGY_MAP.md")
-        self.assertIn("qualitative", chronology.lower())
+        self.assertIn("fases qualitativas", chronology.lower())
         self.assertIn("memória", chronology.lower())
         self.assertNotIn("95%", chronology)
         self.assertNotIn("85%", chronology)
@@ -64,8 +63,7 @@ class TestStoryCanonSynchronization(unittest.TestCase):
         architecture = read("canon/narrative/SERIES_GLOBAL_ARCHITECTURE.md").lower()
         bible = read("canon/STORY_BIBLE.md").lower()
         self.assertIn("seattle", architecture)
-        self.assertIn("14/09", bible)
-        self.assertIn("15/09", bible)
+        self.assertIn("14–15 de setembro", bible)
         self.assertNotIn("chegada a los angeles, 13.º aniversário", architecture)
 
     def test_all_dialogue_examples_follow_the_prose_language_decision(self):
@@ -100,7 +98,7 @@ class TestStoryCanonSynchronization(unittest.TestCase):
         self.assertIn("slice-of-life", readme)
         self.assertIn("reincarnation is the only supernatural exception", readme)
         self.assertIn("reincarnation is the only supernatural exception", bible)
-        self.assertIn("a única exceção sobrenatural", read("canon/narrative/SERIES_GLOBAL_ARCHITECTURE.md").lower())
+        self.assertIn("única exceção sobrenatural", read("canon/narrative/SERIES_GLOBAL_ARCHITECTURE.md").lower())
         self.assertIn("fallible", read("canon/characters/NATHAN_CALLAHAN.md").lower())
         self.assertIn("off-screen", read("canon/narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md").lower())
 

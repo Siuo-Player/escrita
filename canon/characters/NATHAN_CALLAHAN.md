@@ -41,7 +41,7 @@ Nathan's previous life ends and he is reincarnated directly into his twelve-year
 
 He is not replacing a canon child. He is the biological son of his own parents in this world and has
 a normal childhood history, relationships and memories from that life. His previous-life memories
-coexist with his current-life memories. These memories are ordinary human recollections, not eidetic
+coexist with his current-life memories. These memories are ordinary, selective and fallible human recollections, not eidetic
 storage or an added supernatural ability. They vary in clarity and can be incomplete, distorted,
 misremembered or forgotten. The programme he remembers was watched in a previous life; it did not give
 him access to private conversations or events that were never shown.

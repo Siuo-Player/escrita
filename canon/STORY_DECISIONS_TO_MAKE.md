@@ -19,11 +19,11 @@ can diverge cumulatively. See `canon/narrative/WORLD_DIFFERENCE_REGISTRY.md`.
 ## A. Resolved foundation
 
 1. **Protagonist:** Nathan Callahan (given name and family surname locked by the author on 2026-10-12), male, 13 at the story opening (having turned 13 that day); American;
-   affluent technology-oriented family; A-level student; football/soccer captain; long-term physical
+   affluent technology-oriented family; high-performing student, especially in mathematics and computing; football/soccer captain; long-term physical
    training in strength, speed, flexibility, football and martial arts; shy, embarrassed by initiating
    interactions, perfectionist and emotionally sensitive; afraid of seeming arrogant; strongly afraid of
    rejection; strongly self-undervaluing; and reluctant to seek new friendships.
-2. **Entry:** direct reincarnation into a new life at age 12, only days before his thirteenth birthday,
+2. **Entry:** direct reincarnation into a new life at age 12, roughly two weeks before his thirteenth birthday,
    with previous-life memories.
 3. **Starting point and calendar:** Season 1 begins on **Monday, 7 September 2009**, which is also Nathan's
    thirteenth birthday. LAUSD's 2009–10 school year begins on **Wednesday, 9 September 2009**. Nathan
@@ -156,10 +156,11 @@ from Alex. The timing, cause and consequences should be decided only when the re
 planned. It must not function as consequence-free wish fulfillment.
 
 ### 9. Canon-character priority
-**Working early hierarchy:** Alex first, then the immediate Dunphy household (Claire, Phil, Haley, Luke),
-with one or two additional family members entering through naturally occurring activities. The remembered Pilot date can
-establish first impressions of several of them without turning Nathan into a participant in the central
-family-reunion sequence.
+**Working order of narrative focus:** Alex first, then the immediate Dunphy household (Claire, Phil, Haley,
+Luke), followed by the Pritchett/Tucker side as credible shared situations arise. This is an attention
+priority for the opening arc, not a numerical contact target, a fixed order for every person or a page-time
+quota. The Event Registry controls dated first contacts. The remembered Pilot date can remain a parallel
+family event without turning Nathan into a participant in the central family-reunion sequence.
 
 ### 10. Opening-week canon intersection
 
