@@ -267,3 +267,26 @@ Use the [Narrative Quality and Character Agency Standard](NARRATIVE_QUALITY_AND_
 - Registe consequências que persistem e atualize as dependências narrativas.
 
 Os testes automatizados protegem a existência deste processo e os seus contratos determinísticos. Não certificam qualidade literária, voz, humor, naturalidade ou credibilidade emocional; isso exige revisão humana.
+
+
+## Grounded slice-of-life and supernatural-boundary gate
+
+Apply DEC-017 and the genre boundary in the [Story Scope and Protagonist Design](../STORY_SCOPE_AND_PROTAGONIST_DESIGN.md) and the [Narrative Quality and Character Agency Standard](NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md).
+
+### Antes de redigir
+
+- Confirmar que o conflito nasce de relações, escola, família, trabalho, dinheiro, saúde, interesses, projetos ou responsabilidades quotidianas.
+- Confirmar que o renascimento é a única exceção sobrenatural e que a memória da vida anterior não está a ser tratada como poder de previsão.
+- Verificar que nenhuma solução depende de gacha, sistemas, missões, níveis, atributos, recompensas, magia, bênçãos, poderes ou intervenção divina.
+- Verificar que cada competência resulta de aptidão, estudo, prática, experiência e recursos humanos plausíveis.
+- Quando se usar uma inspiração externa, registar o aspeto narrativo específico que está a ser estudado e confirmar que nenhum sistema ou poder dessa obra foi importado.
+
+### Depois de redigir
+
+- Procurar qualquer capacidade que Nathan não pudesse obter através de meios humanos plausíveis.
+- Procurar coincidências ou recompensas que funcionem como intervenção sobrenatural disfarçada.
+- Confirmar que conhecimento da série televisiva é memória parcial e falível, não omnisciente.
+- Confirmar que os obstáculos e soluções mantêm custos, limites e consequências quotidianas.
+- Se uma cena só funciona por causa de uma mecânica sobrenatural que não seja o renascimento, reestruturar a cena em vez de acrescentar uma exceção ao cânone.
+
+Esta verificação é obrigatória em outlines, cenas e drafts. Qualquer alteração à fronteira exige uma decisão explícita do autor e atualização de DEC-017 antes de alterar o cânone.
