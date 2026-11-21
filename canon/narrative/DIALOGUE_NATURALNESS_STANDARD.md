@@ -1,7 +1,7 @@
 # Natural Dialogue Standard
 
 Status: ESTABLISHED WRITING STANDARD
-Updated: 2026-10-12
+Updated: 2026-11-21
 
 ## Purpose
 
@@ -108,46 +108,45 @@ Naturalness is not a quota of filler words or broken sentences. If removing a qu
 
 ## Short example: a first practical conversation
 
-The following is a voice test, not immutable canon or finished chapter prose.
+The following is a voice test in American English, not immutable canon or finished chapter prose.
 
 **Too explicit:**
 
-— Olá, Alex. Sei que és inteligente e quero ser teu amigo, mas sou tímido e tenho medo de dizer alguma coisa errada.
+— Hi, Alex. I know you're smart and I want to be your friend, but I'm shy and I'm afraid I'll say something stupid.
 
-— Não precisas de ter medo, Nathan. Podemos ser amigos.
+— You don't have to be afraid, Nathan. We can be friends.
 
 The lines announce the emotional outline rather than letting two early acquaintances behave like themselves.
 
 **More grounded:**
 
-— Esse é o *How to Solve It*?
+— Is that *How to Solve It*?
 
-— É.
+— Yeah.
 
-— A Harris disse para lermos isto tudo?
+— Did Harris say we had to read the whole thing?
 
-— Acho que só os capítulos dois e três.
+— I think just chapters two and three.
 
-— "Acho" não me tranquiliza muito.
+— "Think" doesn't exactly reassure me.
 
-— Não. Pois. Foi o que anotei.
+— No. Yeah. That's what I wrote down.
 
-Alex olhou para as páginas marcadas.
+Alex glanced at the pages marked with sticky tabs.
 
-— Isso foi tudo no capítulo dois?
+— Was all of that in chapter two?
 
-— Parte. Não consegui perceber o exercício quatro.
+— Some of it. I couldn't figure out problem four.
 
-— A sério? Eu ainda nem comecei.
+— Really? I haven't even started.
 
-Nathan olhou para ela, sem saber se aquilo era uma piada.
+Nathan looked at her, unsure whether that was a joke.
 
-— Queres ver onde fiquei?
+— Want to see where I got stuck?
 
-— Pode ser.
+— Sure.
 
-Ela tirou o caderno da mochila e aproximou-o do livro. Nathan teve de voltar à primeira página para se lembrar de onde tinha começado.
-
+She pulled a notebook from her backpack and opened it beside the book. Nathan had to turn back to the first page to remember where he'd started.
 
 The exchange works only if the scene earns those beats. Do not copy its rhythm mechanically into every interaction. In a later conversation, the same characters should already know each other a little more and should not repeat this exact awkwardness.
 

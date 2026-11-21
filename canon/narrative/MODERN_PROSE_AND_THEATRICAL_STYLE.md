@@ -1,7 +1,7 @@
 # Padrão de Estilo de Prosa Moderna e Encenação Teatral Narrada
 
 Status: AUTHORITATIVE PROSE & VOICE STANDARD  
-Updated: 2026-11-19
+Updated: 2026-11-21
 
 ---
 
@@ -15,49 +15,46 @@ A história adota uma escrita **moderna, ágil, rítmica e sensorial** (à la fi
 
 ---
 
-## 2. A Voz Camaleónica (Discurso Indireto Livre por Ponto de Vista)
+## 2. Focalização: uma voz narrativa sensível à personagem
 
-Quando a narrativa assume o foco ou faz um corte editorial (*POV Cut*) para determinado personagem, a cor, o ritmo e o léxico do narrador **adaptam-se organicamente** à mente de quem estamos a acompanhar:
+A focalização adapta a informação e a linguagem ao ponto de vista em uso. Não transforma as personagens em
+arquétipos fixos nem exige que todas tenham uma voz estilizada, uma coleção de metáforas ou um conjunto de
+tiques reconhecíveis.
 
-### A. Perspetiva de Nathan Callahan (O Eixo Central)
-* **Voz:** Analítica, precisa, física, autodepreciativa sem vitimização.
-* **Vocabulário:** Noções espaciais, vetores, forças mecânicas, ciclos de relógio, respiração diafragmática, cadência métrica de corrida.
-* **Subtexto:** O terror constante de soar presunçoso ou parecer que sabe demasiado; a necessidade de se manter discreto enquanto constrói sistemas perfeitos.
+Ao entrar na perspetiva de uma personagem, ajusta sobretudo:
+- **Atenção:** o que a personagem repara primeiro — um objeto fora do lugar, um prazo, uma expressão, um
+  detalhe físico, o ambiente social ou uma consequência prática.
+- **Interpretação:** que significado atribui ao que vê, incluindo preconceitos, receios, expectativas e
+  possíveis enganos.
+- **Léxico e ritmo:** as palavras que lhe são naturais, a extensão dos pensamentos e a rapidez com que
+  conclui — sem imitar um sotaque por grafia nem forçar gíria.
+- **Filtro emocional:** aquilo a que resiste, o que exagera, o que evita pensar e o que ainda não consegue
+  admitir.
+- **Limites de conhecimento:** o ponto de vista só pode interpretar informação a que a personagem tenha
+  acesso. A focalização não dá omniscência nem corrige uma memória falível.
 
-### B. Perspetiva de Alex Dunphy
-* **Voz:** Ácida, afiada, impaciente, intelectualmente hipervigilante.
-* **Vocabulário:** Conexões com literatura clássica, biologia, matrizes, ironia cáustica sobre a mediocridade do subúrbio.
-* **Subtexto:** A solidão brutal de ser a única pessoa racional numa casa caótica; o choque desconcertante de encontrar alguém da sua idade que não se intimida nem tenta competir por vaidade.
+### Pistas de focalização — não são arquétipos fixos
 
-### C. Perspetiva de Phil Dunphy
-* **Voz:** Bouncy, exuberante, hiperativa, cheia de metáforas motivacionais de corretor imobiliário e entusiasmo juvenil.
-* **Vocabulário:** Termos desportivos empolados, conceitos de "homem renascentista", exclamações internas, otimismo incurável.
-* **Subtexto:** A necessidade quase comovente de ser validado como o "pai fixe" e atleta, transformando tropeções em manobras acrobáticas.
+| Personagem | O que pode notar ou privilegiar | Cegueira ou variação possível |
+|---|---|---|
+| **Nathan** | Padrões, relações espaciais, detalhes técnicos, cadência física, inconsistências e risco social. | Pode analisar em excesso, interpretar mal uma intenção ou usar precisão técnica para evitar uma conversa emocional. |
+| **Alex** | Exatidão, contradições, desempenho, tempo, provas e pequenas falhas de raciocínio. | O orgulho, a pressão académica ou a insegurança podem levá-la a conclusões precipitadas; não é sempre a pessoa mais racional da sala. |
+| **Haley** | Dinâmica social, reputação, estilo, interesses do grupo e sinais de exclusão ou atração. | Pode ignorar informação que não lhe interessa naquele momento ou perceber mal o que outra pessoa valoriza. |
+| **Luke** | Objetos, movimento, possibilidades concretas, humor físico e soluções improvisadas. | A impulsividade pode fazer-lhe perder etapas ou subestimar riscos; também pode observar algo que os outros não veem. |
+| **Phil** | Oportunidades de ligação, humor, entusiasmo, jogo e pequenas vitórias quotidianas. | Pode exagerar, falhar o timing ou interpretar uma reação neutra como encorajamento. |
+| **Claire** | Logística, segurança, responsabilidades concorrentes e consequências domésticas. | A necessidade de manter o controlo pode fazê-la reagir demasiado cedo ou não ouvir uma explicação inteira. |
+| **Manny** | Linguagem, estética, referências culturais, dignidade e reconhecimento social. | A autoimagem romântica pode ser uma pose; continua a ter curiosidade, insegurança e interesses de um rapaz da sua idade. |
+| **Jay** | Materiais, custos, durabilidade, experiência prática e soluções que funcionam. | Pode desvalorizar métodos novos ou esconder preocupação atrás de uma resposta seca. |
+| **Mitchell** | Regras, precisão, reputação, implicações sociais e risco jurídico. | A ansiedade e o desejo de ter razão podem dificultar a flexibilidade. |
+| **Cameron** | Atmosfera, apresentação, emoções do grupo e expressão pessoal. | Pode dramatizar uma situação ou colocar a sua intenção estética à frente da praticidade. |
+| **Personagens originais** | Cada uma recebe prioridades próprias, relações e hábitos de observação a partir da sua biografia. | Não são acessórios de Nathan nem veículos para lhe oferecer elogios. |
 
-### D. Perspetiva de Claire Dunphy
-* **Voz:** Vertiginosa, multitarefa, com um radar em permanente rotação de 360 graus para desastres iminentes.
-* **Vocabulário:** Listas mentais de supermercado, logística doméstica, exasperação carinhosa, pragmatismo impiedoso.
-* **Subtexto:** A gestão exaustiva do equilíbrio familiar; a admiração relutante por miúdos que sabem comportar-se sem destruir a mobília.
+Estas pistas são pontos de partida condicionais. O que a personagem repara, pensa ou diz depende da situação, da idade, da relação presente e do que aconteceu antes. Não se deve inserir um POV secundário só para variar o estilo: cada mudança tem de acrescentar informação, tensão ou consequência que a perspetiva principal não consiga fornecer com a mesma eficácia.
 
-### E. Perspetiva de Manny Delgado
-* **Voz:** Romântica, barroca, operática, cheia de nostalgia por épocas e amores que nunca viveu aos onze anos.
-* **Vocabulário:** Poesia, veludo, tragédia clássica, o aroma do café expresso, sacrifício estético no xadrez, destino.
-* **Subtexto:** A recusa solene em agir como uma criança vulgar; a busca desesperada por uma alma gémea culta num mundo de desporto e hambúrgueres.
-
-### F. Perspetiva de Luke Dunphy
-* **Voz:** Caótica, associativa, cinestésica, desprovida de filtros sociais ou vergonha.
-* **Vocabulário:** Invenções malucas, engenhocas de elásticos e ramos, conspirações cósmicas, sons de impacto.
-* **Subtexto:** Curiosidade pura pelo funcionamento mecânico das coisas sem medo do ridículo.
-
-### G. Perspetiva de Maxwell Whitaker
-* **Voz:** Tensa, muscular, competitiva, marcada pelo peso do cronómetro.
-* **Vocabulário:** Arrancadas, ângulo de remate, grama molhada, a voz rouca do pai na bancada.
-* **Subtexto:** O pavor de ser relegado para o banco de suplentes; o respeito não assumido pela visão de jogo de Nathan.
-
-### H. Perspetiva de Jay Pritchett
-* **Voz:** Seca, pragmática, anti-frescuras, com cheiro a oficina e charuto.
-* **Vocabulário:** Aço laminado, parafusos sólidos, bom senso, nostalgia dos tempos em que as coisas duravam trinta anos.
-* **Subtexto:** Respeito imediato por miúdos que sabem calar a boca e trabalhar com as mãos.
+O estilo de diálogo e a construção de turnos têm uma especificação própria em
+[DIALOGUE_NATURALNESS_STANDARD.md](DIALOGUE_NATURALNESS_STANDARD.md). Em caso de tensão entre uma descrição estilística
+e a agência ou o conhecimento real de uma personagem, prevalecem a agência, o contexto e os limites de
+conhecimento.
 
 ---
 

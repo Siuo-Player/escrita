@@ -5,7 +5,7 @@
 <!-- WD-003 -->
 <!-- WD-004 -->
 
-Status: CONSOLIDATED PROJECT INDEX — reviewed 2026-11-20  
+Status: CONSOLIDATED PROJECT INDEX — reviewed 2026-11-21  
 Authority: this file summarizes established decisions and current project state; it does not supersede the decision log, event registry, character records or world-difference registry.
 
 ## Purpose and authority
@@ -14,12 +14,15 @@ This document is the fast reference for the decisions that govern Season 1, the 
 
 When documents disagree, use this authority order:
 
-1. Explicit author decisions recorded in `canon/DECISION_LOG.md`.
-2. Foundational world rules in `canon/narrative/WORLD_DIFFERENCE_REGISTRY.md`.
-3. Dated events and persistent changes in `canon/narrative/EVENT_REGISTRY.md`.
-4. Character profiles, school/timeline schedules, and the relevant project design documents.
-5. Episode outlines, then prose drafts.
-6. Working ideas, session notes and unmerged pull requests.
+1. Explicit author decisions and their status in `canon/DECISION_LOG.md` (the provenance authority).
+2. World-level differences in `canon/narrative/WORLD_DIFFERENCE_REGISTRY.md`.
+3. Registered event dates and persistent state changes in `canon/narrative/EVENT_REGISTRY.md`.
+4. Exact ages, dates, school-year progression and calendar dependencies in `canon/timeline/MULTI_SEASON_CHRONOLOGY_MAP.md`.
+5. Global story arcs in `canon/narrative/SERIES_GLOBAL_ARCHITECTURE.md`; season/episode structure in the relevant arc and outline files.
+6. Character-specific details in character profiles; technical design in its specialist project documents.
+7. Prose drafts are working material until checked against the sources above. Session notes and open PRs are not canon by themselves.
+
+`canon/STORY_BIBLE.md` is the concise current snapshot and navigation map; it does not overrule these domain-specific sources. See DEC-020.
 
 An assistant suggestion or a detail that appears in a draft does not become author-approved canon merely because it has been written down. Status labels matter.
 
@@ -34,27 +37,32 @@ An assistant suggestion or a detail that appears in a draft does not become auth
 
 Authoritative sources: `WORLD_DIFFERENCE_REGISTRY.md` (WD-001–WD-004), `EVENT_REGISTRY.md`, `CALLAHAN_FAMILY.md`.
 
-## 2. Decisions recorded in DEC-001–DEC-015
+## 2. Decisions recorded in DEC-001–DEC-020
 
 | ID | Decision | Current status |
 |---|---|---|
 | DEC-001 | Protagonist's given name is **Nathan**. | USER-LOCKED |
-| DEC-002 | Protagonist's family name is **Callahan**; Nathan Callahan is the chosen name. | USER-LOCKED |
-| DEC-003 | **Maxwell Whitaker** is the recurring football peer. | WORKING; may be revised |
-| DEC-004 | Parents' working given names are **Clifford** and **Heather**. | WORKING; may be revised |
-| DEC-005 | Use constrained, reproducible randomness for ordinary underdetermined creative choices; never randomize facts or major causal decisions. Author preference overrides the draw. | USER-REQUESTED PROJECT RULE |
-| DEC-006 | Use a dual-track method: top-down series/season architecture, forward chronological scene construction, and backward tracing of setups followed by forward regression review. | USER-REQUESTED PROJECT RULE |
-| DEC-007 | Public-repository transparency and a disclaimer were considered; a disclaimer is not permission or legal immunity. | RECORDED GUIDANCE |
-| DEC-008 | All novel prose and dialogue are written in **American English**, period-appropriate to the 2009 setting. | USER-LOCKED |
-| DEC-009 | Prose style is modern serialized fiction with theatrical physical staging and viewpoint-sensitive free indirect discourse. | USER-LOCKED |
-| DEC-010 | Episodes use concurrent time-barred plot threads and deliberate editorial/POV cuts; target at least three meaningful threads per episode. | USER-LOCKED |
-| DEC-011 | Nathan remains one school year above Alex; in June 2010 he enters High School while Alex enters 8th grade. | ESTABLISHED DERIVED CONTINUITY |
-| DEC-012 | The game milestones are 15 Oct internal vertical slice, 18 Nov Apple submission by Clifford, 3 Dec App Store public release. | ESTABLISHED CHRONOLOGY RECONCILIATION |
-| DEC-013 | The EP04 pool reduces entity/contact allocation churn; flow-field navigation is not globally recomputed for every enemy every frame. | TECHNICAL/NARRATIVE CONSISTENCY |
-| DEC-014 | Thirty boids are an initial demo (435 pair checks/frame); the 200-agent case is the scale test (19,900 pairs/frame). | TECHNICAL/NARRATIVE CONSISTENCY |
-| DEC-015 | Final grade results and different school transitions occur after the last instructional day, in EP12 rather than EP11. | ESTABLISHED CHRONOLOGY CORRECTION |
+| DEC-002 | Protagonist's family name is **Callahan**. | USER-LOCKED |
+| DEC-003 | **Maxwell Whitaker** is the recurring football peer. | WORKING |
+| DEC-004 | Parents' working given names are **Clifford** and **Heather**. | WORKING |
+| DEC-005 | Constrained, reproducible randomization for ordinary low-stakes choices only; author choice overrides. | USER-REQUESTED PROJECT RULE — narrowed |
+| DEC-006 | Hybrid top-down architecture, forward causal construction and backpropagation with forward regression. | USER-REQUESTED PROJECT RULE |
+| DEC-007 | Repository visibility/disclaimer advice. | ADMINISTRATIVE GUIDANCE, NOT STORY CANON |
+| DEC-008 | Prose and dialogue in **American English**, period-appropriate to 2009. | USER-LOCKED |
+| DEC-009 | Modern serialized prose, theatrical staging and viewpoint-sensitive narration. | USER-LOCKED — style guard refined |
+| DEC-010 | At least three meaningful concurrent plot threads per episode, planned with timeline bars and editorial cuts. | USER-LOCKED — quality gate clarified |
+| DEC-011 | Nathan remains one school year above Alex through Season 1. | ESTABLISHED CONTINUITY |
+| DEC-012 | Internal playable slice 15 Oct; Apple submission 18 Nov; public App Store release 3 Dec 2009. | ESTABLISHED CHRONOLOGY |
+| DEC-013 | Object pool reduces spawn/reset allocation churn; flow field is not recalculated globally each frame. | TECHNICAL/NARRATIVE CONSISTENCY |
+| DEC-014 | 30-agent and 200-agent boids counts refer to unique unordered pairs. | TECHNICAL/NARRATIVE CONSISTENCY |
+| DEC-015 | Final grade results belong after the last instructional day; EP12 covers the school transition. | CHRONOLOGY CORRECTION — exact date open |
+| DEC-016 | Project-wide character agency and narrative-quality standard. | PROJECT-WIDE STANDARD |
+| DEC-017 | Grounded slice of life; reincarnation is the only supernatural exception. | USER-LOCKED GENRE/WORLD RULE |
+| DEC-018 | Retire the artificial four-family-member contact quota before the Pilot-memory date. | EDITORIAL CONTINUITY RESOLUTION |
+| DEC-019 | Nathan's previous-life memories are human, selective and fallible. | USER-LOCKED PREMISE CLARIFICATION |
+| DEC-020 | Story documents have explicit domain ownership and precedence. | PROJECT DOCUMENTATION RULE |
 
-The authoritative provenance, alternatives and dependency notes for each item remain in `DECISION_LOG.md`. Do not downgrade or upgrade the statuses shown there.
+The authoritative provenance, alternatives, review notes and dependencies for each item remain in DECISION_LOG.md.
 
 ## 3. Nathan: identity, age, skills and limitations
 
@@ -63,7 +71,7 @@ The authoritative provenance, alternatives and dependency notes for each item re
 - He is academically strong, especially in mathematics and computing, and already has substantial C++ experience. His technical advantage comes from study, practice, memory and recognizing useful ideas—not unexplained future technology or magical competence.
 - He is an experienced youth soccer player and was captain of his Seattle team. In the California team he starts as a new player; leadership and playing time must be earned in that environment.
 - His central weaknesses are fear of seeming arrogant, fear of rejection, self-undervaluation and reluctance to initiate unfamiliar friendships. He is not socially incapable: he is more at ease when another person begins the interaction or when the shared activity provides a clear purpose.
-- His previous-life memory is unusually detailed for events actually shown in the series, but it does not reveal every off-screen conversation, private motive or medical fact. Memory certainty and prediction certainty are separate.
+- His previous-life recollection is selective and fallible, not eidetic. Repeated viewing may preserve some major scenes and patterns, but dates, wording, sequence and details can be forgotten or misremembered. He cannot know off-screen conversations, private motives or medical facts. Recollection accuracy and prediction reliability are separate.
 
 Sources: `NATHAN_CALLAHAN.md`, `STORY_DECISIONS_TO_MAKE.md`, `FOREKNOWLEDGE_INTERVENTION_POLICY.md`, `NATHAN_FIRST_MOBILE_GAME.md`.
 
@@ -155,8 +163,7 @@ Coverage status: partial. The Event Registry is the date authority for registere
 
 ### UNRESOLVED — do not treat as decided
 
-1. **Four-family-member contact target before 23 September.** The working goal says at least four members of the Dunphy/Pritchett/Tucker family should know Nathan by the *Pilot*-memory date anchor. The current dated introductions support only Alex by 18 September; Phil is first met 28 September, Claire 10 October and Luke 22 October. This discrepancy is explicit in `STORY_DECISIONS_TO_MAKE.md`. Decide later whether to add credible early neighbour encounters or revise the target; do not silently assume it has been met.
-2. **University/research destination:** no university or exact academic route is locked.
+1. **University/research destination:** no university or exact academic route is locked.
 3. **Later romantic milestones:** Season 1 friendship direction is established; dating and adult relationship timing remain open.
 4. **Haley possibility:** adult separation, timing, motivations and consequences remain undecided.
 5. **First-year foreknowledge opportunities:** the intervention policy is established, but a dated audit of opportunities must identify only events where Nathan has credible knowledge, access and a useful action.
@@ -168,6 +175,7 @@ Coverage status: partial. The Event Registry is the date authority for registere
 
 ## 11. Source-of-truth documents
 
+- `STORY_BIBLE.md` — concise current story snapshot, canon boundaries and document-ownership map.
 - `DECISION_LOG.md` — decision provenance, status, alternatives and change protocol.
 - `STORY_DECISIONS_TO_MAKE.md` — open decisions and working questions.
 - `WORLD_DIFFERENCE_REGISTRY.md` — parallel-world rules WD-001–WD-004.

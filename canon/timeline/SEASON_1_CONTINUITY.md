@@ -6,7 +6,7 @@
 <!-- WD-004 -->
 
 Status: ESTABLISHED / reusable continuity baseline
-Updated: 2026-10-08
+Updated: 2026-11-21
 
 This document defines the recurring weekly rhythm and the opening two-episode timeline. It is meant to let
 the story skip ordinary days without making Nathan's life feel paused between scenes.
@@ -28,6 +28,7 @@ reason.
 - Nathan turns 13 on **Monday, 7 September 2009**.
 - The family events Nathan remembers under the previous-life label *Pilot* are initially anchored to **Wednesday, 23 September 2009**. This is not a broadcast date in the parallel world.
 - Nathan is one school year above Alex.
+- No fixed number of Dunphy/Pritchett/Tucker introductions is required before the 23 September Pilot-memory anchor; actual contacts follow the dated Event Registry and must arise naturally (DEC-018).
 - For the opening school year, Nathan is therefore in **8th grade** and Alex in **7th grade**. At the end of the 2009–10 year, Nathan completes 8th grade and enters High School, while Alex completes 7th grade and advances to 8th grade; they do not graduate middle school together. They share
   the same middle-school environment while preserving Alex's later middle-school graduation timing.
 

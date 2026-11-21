@@ -6,7 +6,7 @@
 <!-- WD-004 -->
 
 Status: WORKING / established from project decisions
-Updated: 2026-10-12
+Updated: 2026-11-21
 
 **Naming status:** Nathan Callahan is author-locked as of 2026-10-12. See `canon/DECISION_LOG.md` and `canon/characters/CHARACTER_NAME_REGISTRY.md` for the shortlist, selection method and validation.
 
@@ -22,10 +22,11 @@ birthday is **Monday, 7 September 2009**. In Nathan's previous life, the Pilot w
 
 The opening deliberately begins before the move. The reader first sees Nathan as an advanced young
 programmer, a capable football captain and a student with an established life of his own. The family then
-receives the unexpected news about his father's promotion, relocates to Southern California, and Nathan
-enters his new school. By the Pilot, at least four members of the Dunphy/Pritchett/Tucker orbit can know
-him through ordinary local encounters, school or activities, even though Nathan is not inserted into the
-family's central reunion scene unless the plot naturally calls for him.
+receives confirmation of Clifford's California role and relocates to Southern California around 14–15
+September. Nathan starts at his new school on 16 September. Alex is his first meaningful connection; their
+first conversation takes place on 18 September. Phil's first meeting follows on 28 September, with other
+family introductions spaced across the season. There is no quota requiring a fixed number of introductions
+before the Pilot-memory date anchor; each contact must have a natural cause.
 **School position:** one school year above Alex Dunphy.
 **Sex/gender:** male.
 
@@ -40,7 +41,10 @@ Nathan's previous life ends and he is reincarnated directly into his twelve-year
 
 He is not replacing a canon child. He is the biological son of his own parents in this world and has
 a normal childhood history, relationships and memories from that life. His previous-life memories
-coexist with his current-life memories.
+coexist with his current-life memories. These memories are ordinary, selective and fallible human recollections, not eidetic
+storage or an added supernatural ability. They vary in clarity and can be incomplete, distorted,
+misremembered or forgotten. The programme he remembers was watched in a previous life; it did not give
+him access to private conversations or events that were never shown.
 
 The reincarnation itself is private. To everyone else he is simply Nathan Callahan.
 
@@ -137,13 +141,12 @@ not an adult consciousness pretending to be a child.
 
 ## Academic ability
 
-Nathan is an A-level student even without extensive studying.
+Nathan is a high-performing student, particularly in mathematics and computing, but strong results still
+depend on effort, teaching, prior preparation and the demands of each course. His previous-life experience
+may give him uneven exposure to concepts, methods and later developments; it does not equal four complete
+years of systematic academic study, nor does it remove the need to learn the material again in this life.
 
-Because he actively studies, wants to study, has access to many books/resources and already possesses
-previous-life knowledge, his knowledge in deliberately pursued subjects can eventually resemble roughly
-four additional years of structured study.
-
-This is domain-specific rather than universal genius.
+His advantage is domain-specific and cumulative rather than universal genius.
 
 ### Strong areas
 
@@ -216,55 +219,49 @@ without requiring him to magically understand research he never learned.
 
 ## Knowledge of Modern Family
 
-Nathan has an eidetic memory of everything actually shown in *Modern Family* in his previous life.
+Nathan remembers watching *Modern Family* in his previous life. The memory is unusually familiar because
+the series mattered to him and he watched it repeatedly, but it is still human memory.
 
-This includes:
-- major events;
-- trivial details;
-- recurring jokes;
-- habits;
-- locations;
-- sequences of events;
-- exact dialogue when relevant to the remembered scene.
+He does **not** possess eidetic memory, perfect recall, a searchable archive or a power that supplies
+the correct detail on demand. His recollection varies according to:
+- how often he saw an episode or scene;
+- how much attention he paid to it at the time;
+- whether the detail was emotionally or narratively memorable;
+- how long ago he last thought about it;
+- how much of the scene he can reconstruct from context rather than remember directly.
 
-The memories must be actively recalled. Eidetic storage does not mean the correct memory appears
-automatically whenever needed.
+He is more likely to remember major outcomes, recurring habits, distinctive jokes and emotionally
+important scenes than exact wording, minor props or every step between two events. He may remember the
+gist correctly while getting the date, order, wording or reason wrong. A confident memory is still a
+memory, not external verification.
 
-Nathan has watched/re-watched the series many times for reasons he himself does not fully understand.
-As a result, he has exceptionally detailed familiarity with the characters' behavioral patterns.
+### Memory is not prediction
 
-### Initial predictive advantage
+Three separate questions must remain distinct:
 
-At the beginning, Nathan can often predict how a canon character will behave or react with striking
-accuracy.
+1. **Recall:** what does Nathan believe he remembers from the programme?
+2. **Accuracy:** how complete and correct is that recollection?
+3. **Prediction:** even if the recollection is accurate, how likely is the corresponding event to happen
+   in this world after Nathan's presence and choices have changed the circumstances?
 
-He recognizes:
-- personality patterns;
-- likely emotional triggers;
-- habitual defenses;
-- recurring insecurities;
-- typical reactions under pressure;
-- interpersonal dynamics.
+The third can fall even when the first two remain high. Conversely, Nathan can misremember the original
+event before the butterfly effect has changed anything.
 
-This is an important part of the story, not merely a convenience.
+He remembers what the television programme showed, not the private lives behind it. He does not know
+unshown conversations, unreported motives, private medical facts or the full causal history of an event.
+He must not infer those details simply because he remembers its eventual outcome.
 
-### The butterfly-effect problem
+### Character-pattern familiarity
 
-As Nathan interacts with the family, his predictions begin to fail.
+Nathan begins with a broad sense of the family's on-screen personalities and relationships. This can
+help him form an initial expectation, but those impressions are selective, edited for comedy and shaped
+by what the audience was allowed to see. They are not complete psychological profiles.
 
-He initially treats people partly as familiar behavioral patterns because he has effectively "studied"
-them for years through the show. The real people are not a fixed script.
+As he meets the actual people, he has to distinguish familiar television behaviour from the individual
+standing in front of him. A remembered pattern can help him notice something; it cannot tell him what
+that person thinks now. Listening, asking and accepting correction must increasingly replace assumption.
 
-The growing divergence forces him to relearn how to deal with them as individuals:
-- a familiar reaction does not always occur;
-- a person may make a choice because Nathan changed the context;
-- Nathan's knowledge can become outdated;
-- he may mistake remembered characterization for certainty;
-- he must listen instead of assuming he already knows what someone will say.
-
-This becomes one of the central character arcs of the project:
-
-**from knowing the characters extremely well → to actually knowing the people.**
+The arc is the gradual recognition that knowing a programme is not the same as knowing people.
 
 ## Other future knowledge
 
@@ -299,17 +296,10 @@ This is the first important break between what Nathan planned and what actually 
 
 The family's move makes Nathan a neighbor in the same broad area as the Dunphys.
 
-His first encounters with the wider family happen unusually early because he has arrived in the same
-broad neighborhood before school. Claire, Phil, Alex, Haley and at least one additional family member
-already have a first impression of him by the pilot, while later encounters with Luke, the Pritchett/
-Tucker side and others continue through ordinary life:
-- school;
-- neighborhood;
-- football;
-- activities;
-- shops and public places;
-- mutual acquaintances;
-- ordinary social events.
+His first encounters with the wider family happen gradually, through ordinary life. Alex knows him first
+through school; Phil meets him in the neighborhood on 28 September; Claire, Luke, Haley and the others
+enter his life later through the dated encounters in the Event Registry. The order is not a quota to be
+completed: it reflects the practical opportunities and interests of each character.
 
 He does not begin as an instant member of the family.
 

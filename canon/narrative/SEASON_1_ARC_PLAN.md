@@ -6,6 +6,7 @@
 <!-- WD-004 -->
 
 Status: AUTHORITATIVE SEASON ARCHITECTURE  
+Updated: 2026-11-21  
 Regra de Ouro: No Fillers, >= 3 tramas por episódio (1 principal + >= 2 secundárias com outros personagens).  
 Metodologia: Dual-Track (Top-Down estrutural + Linear causal cena-a-cena + Backpropagation de pistas).  
 Padrão obrigatório de caracterização: [NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md](NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md). Os primeiros contactos não formam uma **escada de elogios**: cada personagem mantém reações próprias, incluindo fricção, indiferença, desconfiança, humor ou desacordo.
@@ -26,7 +27,7 @@ Padrão obrigatório de caracterização: [NARRATIVE_QUALITY_AND_CHARACTER_AGENC
 
 ## 2. Mapa de Introdução Orgânica dos Personagens Canon
 
-Para respeitar a regra de **não apresentar personagens todos juntos de forma artificial**, os contactos são espaçados, causais e têm impacto permanente:
+Para respeitar a regra de **não apresentar personagens todos juntos de forma artificial**, os contactos são espaçados, causais e têm impacto permanente. Não existe uma quota de pessoas que tenham de conhecer Nathan até ao marco do *Pilot*: a sequência datada abaixo é a referência de continuidade (DEC-018).
 
 1. **Alex Dunphy:** **18 de Setembro de 2009 (EP01)** — O manual de cálculo oferece um motivo para conversar, mas Alex questiona a escolha e a abordagem de Nathan; ele não responde a tudo com facilidade. A curiosidade é mútua, mas não existe admiração ou amizade instantânea.
 2. **Phil Dunphy:** **28 de Setembro de 2009 (EP01)** — Na vizinhança durante um jogging de Phil, que comenta o ritmo de Nathan e tenta conversar com entusiasmo. Nathan sente alguma dificuldade em acompanhar a espontaneidade de Phil; a conversa termina num pequeno desencontro, deixando espaço para aproximações posteriores.

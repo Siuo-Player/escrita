@@ -8,7 +8,7 @@
 Status: AUTHORITATIVE CHRONOLOGICAL INDEX (SSOT para Datas, Idades, Níveis de Escolaridade e Calendários)  
 Cobertura: 7 de Setembro de 2009 ($t = 0.0$, 2009-09-07) a 7 de Setembro de 2021 ($t = 1.0$, 2021-09-07)  
 Duração Total: Exatamente 12.0 anos civis (4383 dias, incluindo anos bissextos de 2012, 2016 e 2020)  
-Updated: 2026-11-20
+Updated: 2026-11-21
 
 > [!IMPORTANT]
 > **Autoridade de Continuidade:** Este documento é a Fonte Única de Verdade (SSOT) para a correspondência determinística de datas do calendário civil gregoriano, idades canónicas calculadas a partir das datas de nascimento, progressão dos anos de escolaridade e marcos cronológicos reais. Para a evolução dos arcos dramáticos, psicologia das personagens, conflitos e causalidade relacional, a autoridade canónica estrita pertence a [SERIES_GLOBAL_ARCHITECTURE.md](../narrative/SERIES_GLOBAL_ARCHITECTURE.md).
@@ -33,17 +33,23 @@ Updated: 2026-11-20
 
 ---
 
-## 2. Níveis de Degradação Epistémica (Efeito Borboleta)
+## 2. Fases qualitativas da memória e da previsibilidade
 
-```
-Temporada:     S01   S02   S03   S04   S05   S06   S07   S08   S09   S10   S11
-Certeza (%):   95%   85%   75%   55%   40%   25%   15%   08%   04%   01%   00%
-Estado:       [-- ALTA PRECISÃO --] [-- DIVERGÊNCIA ATIVA --] [-- MUNDO AUTÓNOMO --]
-```
+A memória de Nathan não é uma variável mensurável em percentagem. A tabela seguinte descreve apenas a
+função narrativa provável das recordações ao longo do tempo; não atribui uma taxa matemática de precisão
+nem garante que toda a memória se degrada ao mesmo ritmo.
 
-* **Fase 1: Alta Fidelidade de Tendências (S01–S03):** Nathan reconhece tendências de personalidade, hábitos cómicos e pontos fracos das famílias. As intervenções de Nathan são cirúrgicas e contidas (evitando acidentes graves, mas preservando o curso natural).
-* **Fase 2: Divergência Acelerada (S04–S06):** O apoio contínuo de Nathan altera a autoestima de Luke (mais focado em física e mecânica prática), o percurso de Haley (menos impulsiva, apoio no design visual) e a estabilidade emocional de Alex. Os namorados canónicos de Alex não entram em cena ou são desinteressantes face ao vínculo estabelecido com Nathan.
-* **Fase 3: Autonomia Absoluta do Mundo Paralelo (S07–S11):** As memórias televisivas deixam de ter utilidade preditiva. O mundo é 100% vivo e emergente. As decisões são tomadas com base em amor, responsabilidade, ciência e história acumulada em conjunto.
+| Fase | Temporadas | O que Nathan pode razoavelmente usar | Limite dominante |
+| :--- | :--- | :--- | :--- |
+| Familiaridade inicial | S01–S02 | Recordações de acontecimentos marcantes, relações e padrões recorrentes que viu muitas vezes. | Memória humana falível: detalhes, ordem e datas podem já estar errados; a vida privada continua desconhecida. |
+| Divergência ativa | S03–S05 | Algumas referências ainda podem orientar perguntas ou preparar possibilidades. | As próprias escolhas de Nathan mudam relações, acesso e circunstâncias; cada previsão exige nova avaliação. |
+| Baixa fiabilidade prática | S06–S07 | Lembranças pontuais podem surgir, mas não devem sustentar decisões importantes sem confirmação presente. | A cronologia anterior deixou de ser um guia seguro. |
+| Mundo autónomo | S08–S11 | Memórias antigas funcionam sobretudo como associações e ecos pessoais. | As pessoas e os acontecimentos devem ser tratados a partir do que fazem e sabem agora. |
+
+Estas fases não são percentagens, escalões de poder nem fronteiras rígidas. Uma memória concreta pode manter-se
+clara durante anos, enquanto outra se perde cedo. A fiabilidade de uma previsão depende também da mudança
+específica que já ocorreu, não apenas da temporada em que Nathan se encontra. A regra operacional está em
+[FOREKNOWLEDGE_INTERVENTION_POLICY.md](../narrative/FOREKNOWLEDGE_INTERVENTION_POLICY.md).
 
 ---
 

@@ -5,7 +5,7 @@
 
 Status: WORKING
 Trust: WORKING
-Updated: 2026-10-07
+Updated: 2026-11-21
 
 ## Core direction
 
@@ -20,6 +20,7 @@ The protagonist should:
 - sometimes enjoy ordinary life that has nothing to do with canon;
 - occasionally pursue themes or subjects that open different kinds of stories;
 - use future/show knowledge selectively and plausibly rather than as an omniscient cheat;
+- rely on fallible human recollection, not eidetic memory or exact recall;
 - sometimes get things wrong because memory is incomplete and the future can diverge;
 - affect canon through choices and relationships, rather than by mechanically "fixing episodes".
 
@@ -45,6 +46,7 @@ Every skill must come from plausible human aptitude, study, practice, experience
 
 Slice of life does not mean plotless. The story advances through school, family, friendship, romance, work, money, health, hobbies, projects, responsibilities and everyday events. Drama and comedy emerge from those situations and from character choices, not from supernatural escalation.
 
+The canonical [Story Bible](STORY_BIBLE.md) provides the current project snapshot and document-ownership map.
 The [Narrative Quality and Character Agency Standard](narrative/NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md) records how selected fanfiction inspirations may be studied without importing their systems or powers.
 
 ---
@@ -67,7 +69,9 @@ Avoid:
 - changing canon simply because the protagonist "knows the script";
 - making the protagonist morally detached because he thinks outcomes are predetermined.
 
-When the timeline diverges, previously remembered knowledge should lose certainty.
+When the timeline diverges, predictions based on remembered events should lose reliability. Nathan's
+memory of the programme can also be wrong independently of the butterfly effect; those are separate
+sources of uncertainty.
 
 ## Character integrity
 

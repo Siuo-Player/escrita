@@ -4,7 +4,7 @@
 <!-- WD-004 -->
 
 Status: ESTABLISHED / reusable narrative rule
-Updated: 2026-10-08
+Updated: 2026-11-21
 
 ## Core principle
 
@@ -13,7 +13,8 @@ An episode is not one plot with scenes attached to it.
 It is a period in the lives of several people. Nathan is the primary viewpoint and usually the strongest
 causal thread, but other characters continue pursuing their own goals when he is not present.
 
-The reader should feel that the world would keep moving if Nathan walked out of the scene.
+The reader should feel that the world would keep moving if Nathan walked out of the scene. This follows the
+character-agency standard (DEC-016) and the grounded slice-of-life boundary (DEC-017).
 
 ## Remembered-series event non-interference rule
 
@@ -302,3 +303,16 @@ The strongest test is:
 > If the camera followed another character out of Nathan's scene, would their life continue?
 
 The answer should usually be **yes**.
+
+
+## Canon alignment: agency, genre and thread count
+
+A normal episode should carry at least three meaningful concurrent threads, in line with DEC-010, but
+this is a planning threshold, not a demand that every thread appear in every scene or receive equal page
+time. A thread counts when it has its own objective, obstacle, meaningful choice and consequence; decorative
+cutaways do not satisfy the rule. Do not add a weak subplot merely to reach a number.
+
+The world remains a grounded slice of life. Reincarnation is the only supernatural exception. Previous-life
+memory is selective and fallible; remembered episode labels are not a script, and Nathan cannot know
+off-screen information by implication. The independent goals and choices of the ensemble remain protected
+by DEC-016 and the Narrative Quality and Character Agency Standard.
