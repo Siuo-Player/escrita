@@ -262,3 +262,16 @@ Aplicar em todas as temporadas o [Padrão de Qualidade Narrativa e Agência das 
 - **A gravidez final pertence também a Alex.** Deve ser precedida de desejo, conversa, decisão e preparação, não tratada como recompensa pelo percurso de Nathan.
 
 A ficha mínima de agência e o protocolo antes/depois da redação estão definidos no padrão ligado acima. Os testes podem verificar a presença dessas salvaguardas, mas a qualidade efetiva de uma cena exige revisão humana.
+
+
+## 7. Género, realismo e fronteira sobrenatural
+
+**O renascimento é a única exceção sobrenatural.** Esta série é uma fanfic *slice of life* realista no universo de *Modern Family*. A continuidade da identidade e as memórias imperfeitas da vida anterior de Nathan são o único resíduo narrativo do renascimento; não constituem poderes adicionais.
+
+Depois desse acontecimento, a realidade funciona segundo causalidade humana normal. Não existem sistemas, gacha, interfaces de estado, missões, níveis, pontos de atributo, habilidades desbloqueadas, recompensas cósmicas, bênçãos, deuses ativos, magia, poderes, capacidades sobre-humanas, premonições ou intervenções sobrenaturais. O conhecimento de Nathan sobre a série televisiva é memória limitada, não previsão infalível nem acesso à vida privada das pessoas.
+
+Todas as competências resultam de aptidão humana plausível, estudo, prática, experiência, recursos e oportunidades. A tecnologia tem de respeitar as limitações reais da época; sucesso, dinheiro, saúde, educação e relações continuam sujeitos a risco, custos e falha.
+
+O *slice of life* não elimina trama. O avanço dramático vem da escola, família, amizades, romance, trabalho, dinheiro, saúde, interesses, projetos e responsabilidades quotidianas. A comédia e o drama resultam das escolhas e relações, não de escalada sobrenatural.
+
+As fronteiras para estudar [Modern Family: Green Sun](NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md), [Re:Life With Karmic Gacha](NARRATIVE_QUALITY_AND_CHARACTER_AGENCY_STANDARD.md) e outras obras comparáveis estão registadas no padrão de qualidade. Essas obras são referências seletivas, nunca fontes de poderes ou de factos do nosso cânone.
